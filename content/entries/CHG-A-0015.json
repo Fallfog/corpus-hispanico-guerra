@@ -367,7 +367,7 @@
     "CHG-P-0004"
   ],
   "editorial_note": "Monografía original de Trafalgar con contraste de fuentes españolas y británicas. Distingue pérdida/rendición de barcos el 21 octubre y destinos por temporal posterior (22–27), cifra de 22 capturados/destruidos según síntesis de Greenwich no idéntica a número de presas retenidas, y divergencias sobre muertos en combate y en naufragios. Se verifica 27 navíos británicos frente a 33 aliados (18 franceses/15 españoles). Se separa muerte inmediata de Nelson, Churruca y Alcalá Galiano y muerte posterior de Gravina por heridas en marzo de 1806. Fuentes académicas 2024/2026 examinadas por ficha y resumen, no textos íntegros. Parte oficial británico en transcripción; medicina de The National Archives por extractos indexados, apertura 403. Sin dictamen académico externo ni reproducción de imágenes con derechos no comprobados.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-trafalgar-1805",
   "topics": [
@@ -388,5 +388,8 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "652884c59919479e762ee00b6ee2fe3046522f5127a7a64bce719ab6da4357cb"
-  }
+  },
+  "publication_date": "2026-10-27",
+  "publication_time": "2026-10-27T16:53:28.530Z",
+  "publication_slot": "2026-10-27/extra-A-0015"
 }
