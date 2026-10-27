@@ -337,12 +337,26 @@
     "CHG-A-0002"
   ],
   "editorial_note": "Revisión documental asistida sobre Alarcos 1195. Reconstrucción principalmente a partir del análisis arqueológico de Antonio de Juan García y material del Museo Arqueológico Nacional, complementado por Carlos de Ayala, Judith Bronstein, Marisa Bueno Sánchez y materiales oficiales de Cultura regional. Fecha 19 julio 1195; causas y falta de refuerzos leoneses debatidas; cifras de crónicas medievales no se tratan como censos. Mínimo de 34 individuos de fosa de despojos documentado por arqueología no equiparado al total de bajas; 44 sepulturas de maqbara de ocupación 1195–1212 corresponden a otro contexto. Recuperación 1212 e inicio de Villa Real 1255 se explican sin teleología. El análisis es asistido por IA, sin dictamen externo. No se han reutilizado fotografías de derechos no comprobados.",
-  "status": "borrador",
+  "status": "revisado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-alarcos-1195",
   "topics": [
     "batallas-combates-y-asedios",
     "arqueologia-militar",
     "edad-media"
-  ]
+  ],
+  "last_reviewed": "2026-10-27",
+  "approval": {
+    "reviewer": "Revisión histórico-documental asistida por IA; publicación extraordinaria solicitada por el titular",
+    "date": "2026-10-27",
+    "notes": "Estudio original Alarcos 1195 de 6.145 palabras, 20 secciones, 60 párrafos, 13 fuentes y 150 marcadores de referencias. Contraste principalmente con el informe de excavación de Antonio de Juan García (Cultura de Castilla-La Mancha, 2021), estudio de necrópolis de 2024, conferencia/capítulo Juan García–Lucendo Díaz (MAN, 2022), ficha de patrimonio, entrevista a investigador y estudios académicos de Bronstein (CSIC 2019, abstract), Carlos de Ayala (UNED 2016, extractos indexados), Marisa Bueno Sánchez (2006, ficha y extractos), sin fingir lectura completa de PDFs con acceso limitado. Se diferencia victoria almohade y derrota castellana, discusión sobre llegada de refuerzos leoneses, fosa de despojos con mínimo antropológico publicado de 34 individuos no equiparado al total de bajas, cementerio de población almohade con 44 sepulturas documentadas en estudio 2024, ocupación hasta 1212, Navas de Tolosa y origen de Villa Real en 1255. No se adoptan cifras hiperbólicas medievales como estadísticas ni se reproducen imágenes de licencia no verificada. Sin arbitraje académico externo.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "feaab9a760b51608dd0bca13553efc38d58a407d982439457441df9a4a9f8891"
+  }
 }
