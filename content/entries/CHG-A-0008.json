@@ -229,10 +229,27 @@
     "CHG-D-0002"
   ],
   "editorial_note": "Monografía reescrita: reemplazados 32 párrafos de relleno por 16 análisis documentados, se eliminaron enlaces genéricos y se incorporaron ocho fuentes identificadas con notas honestas de acceso. No existe revisión académica externa; las cifras y los detalles de capitulación siguen sujetos a debate.",
-  "status": "borrador",
-  "not_before": "2026-10-28",
+  "status": "publicado",
+  "not_before": "2026-10-27",
   "topic_key": "batalla-rocroi-1643",
   "topics": [
     "batallas-combates-y-asedios"
-  ]
+  ],
+  "publication_date": "2026-10-27",
+  "publication_time": "2026-10-27T14:13:27.617Z",
+  "last_reviewed": "2026-10-27",
+  "publication_slot": "2026-10-27/extra-A-0008",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; publicación extraordinaria solicitada por el titular",
+    "date": "2026-10-27",
+    "notes": "Monografía Rocroi 1643 revisada sustancialmente el 27/10/2026: se detectaron y sustituyeron los 32 párrafos genéricos repetitivos del primer borrador, con 16 párrafos específicos basados en documentación historiográfica. Se consultó íntegro el estudio de Gracia Guinovart en Historia Digital (2024) y el capítulo accesible de Peter H. Wilson; las demás fuentes (Academia de Artillería, Fundación March, Dialnet, mapa docente estadounidense, Rilova Jericó y catálogo editorial de Palau y de Mirecki) distinguen consulta por ficha, resumen y obra no íntegramente leída. Se registra victoria francesa y continuidad de los tercios; cifras, órdenes de batalla y detalles de capitulación no se presentan como universalmente acordados. Monografía original sin reproducción de imágenes protegidas. No constituye revisión académica externa. Publicación extraordinaria expresamente solicitada por el titular, sin cambiar la franja automática de mañana.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "cdd9e1a11d0bb74b5de6d951f7c73d30c7ce500735b933f76a8c0254c6f1f091"
+  }
 }
