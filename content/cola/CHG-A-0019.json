@@ -377,12 +377,26 @@
     "CHG-A-0018"
   ],
   "editorial_note": "Monografía crítica y documentada sobre Ayacucho 1824. Distingue resultado militar, capitulación y continuidad de resistencias Callao/Chiloé 1826. Las cifras de tropa y bajas son divergentes y los criterios de origen individual vs adscripción orgánica diferentes; se atribuyen fuentes. Se examina interpretación realista del diario de operaciones, sin declarar lectura completa ni atribuirle hechos específicos no vistos. Las tesis de pacto conspirativo se identifican sin respaldo de prueba concluyente. Se consulta texto jurídico transcrito de capitulación y registro BNP, no imágenes originales de reproducción restringida. Vínculo con Vitoria 1813 como antecedente en contexto napoleónico hispánico; no hay otro artículo americano cercano en inventario.",
-  "status": "borrador",
+  "status": "revisado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-ayacucho-1824",
   "topics": [
     "batallas-combates-y-asedios",
     "historia-hispanoamericana",
     "edad-contemporanea"
-  ]
+  ],
+  "last_reviewed": "2026-10-27",
+  "approval": {
+    "reviewer": "Revisión documental e historiográfica asistida por IA; publicación extraordinaria solicitada por el titular",
+    "date": "2026-10-27",
+    "notes": "Monografía original Ayacucho 1824 de 6.492 palabras, 21 secciones, 63 párrafos, 17 referencias y 150 marcadores documentales. Se consultaron textos completos HTML de Bencomo Barrios (Fundación Empresas Polar), Centro de Estudios Histórico-Militares Perú, capítulo jurídico sobre capitulación de Castaño Zuluaga (SciELO); fichas, resúmenes y extractos de Pereyra Chávez (AGN), Martínez-Flener (Documenta 2024, diario realista John Carter Brown Library, sin lectura integral), Gonzales Pastrana (AGN 2025, testimonios de comunidades indígenas), Mendoza y Morales Gorleri (Documenta 2024). La capitulación del 9 de diciembre está identificada en Colección Documental BNP y contrastada con transcripción de historia jurídica; no se afirma lectura directa de imágenes. Se conservan discrepancias entre efectivos 9320/5780 y 6906/5780, así como diferencias en el origen social/nacional de soldados según adscripción de unidades o lugar de reclutamiento. Se distinguen las batallas Junín 6 agosto y Ayacucho 9 diciembre, mando de Sucre vs Bolívar, ataque de Valdés, respuesta de La Mar, ofensiva de Córdova, captura de La Serna y firma de Canterac. Se examinan problemas del diario realista y se rechaza dar por probado pacto secreto anterior sin documento. Se distinguen continuidad de Olañeta en 1825 y Callao y Chiloé hasta enero 1826. Sin imágenes reutilizadas de derechos no verificados. No ha habido revisión externa por historiador.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "a1662288379d3e2bf1db205281b40df5f4e5afdd24769a3986ac0e5627c17a95"
+  }
 }
