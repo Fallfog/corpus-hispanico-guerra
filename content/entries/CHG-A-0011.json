@@ -307,11 +307,28 @@
     "CHG-D-0002"
   ],
   "editorial_note": "Se distingue batalla 1547 de la pintura de Tiziano 1548; ejército imperial multiconfesional, especialmente apoyo luterano de Mauricio; los detalles narrativos del campesino y de las frases imperiales son tradiciones historiográficas, no citas primarias comprobadas; retirada y cautiverio de elector, acuerdo Wittenberg, límites 1552/1555. No reproducir imágenes sin licencias determinadas; no revisión experta externa.",
-  "status": "borrador",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-muhlberg-1547",
   "topics": [
     "batallas-combates-y-asedios",
     "campanas-y-operaciones"
-  ]
+  ],
+  "publication_date": "2026-10-27",
+  "publication_time": "2026-10-27T15:00:55.243Z",
+  "last_reviewed": "2026-10-27",
+  "publication_slot": "2026-10-27/extra-A-0011",
+  "approval": {
+    "reviewer": "Revisión historiográfica y documental asistida por IA; publicación extraordinaria solicitada por el titular",
+    "date": "2026-10-27",
+    "notes": "Monografía original de 5.309 palabras, 18 secciones, 54 párrafos y 12 fuentes verificadas en distinto grado. Se contrastaron el catálogo del Museo Nacional del Prado, la interpretación de Tiziano y el trabajo de la Real Armería sobre la armadura de Mühlberg; el grabado histórico de Enea Vico catalogado por Royal Collection Trust; autoridades de Deutsche Biographie para Carlos V, Juan Federico y Mauricio; la historia institucional del territorio de Elbe-Elster, la síntesis de la guerra de Esmalcalda en Encyclopedia.com, el documento de Paz de Augsburgo de German History in Documents and Images y la ficha de conferencia de Álvaro Soler del Campo de enero de 2026 (no visionada íntegra). Se distinguen aliado protestante Mauricio y confesión católica del emperador, acciones en el cruce del Elba y persecución, captura del elector, capitulación del 19 de mayo de 1547 y consecuencias de 1552 y 1555. Los efectivos y bajas no se presentan con falsa precisión; citas tradicionalmente atribuidas a Carlos V y el campesino del vado no se hacen pasar por actas primarias. Sin imágenes reproducidas de derechos no verificados, ni dictamen externo especializado. Publicación extraordinaria solicitada en continuidad editorial sin alterar Pavía 28 octubre.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "5aa00547523a424a26234314eb95ef11d01482fd9321b9bd3da2026d46454c03"
+  }
 }
