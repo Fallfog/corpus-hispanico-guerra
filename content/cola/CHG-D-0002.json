@@ -95,11 +95,19 @@
     },
     {
       "n": 3,
-      "name": "Universidad de Valladolid, «El ejército permanente de la Monarquía: los tercios» (trabajo académico, 2020)",
-      "url": "https://uvadoc.uva.es/bitstream/handle/10324/45988/TFG_F_2020_17.pdf?isAllowed=y&sequence=1",
-      "kind": "Trabajo universitario; fuente secundaria complementaria",
+      "name": "Museo del Ejército, «Reproducción de indumentaria de piquero de Infantería del siglo XVI» (2021)",
+      "url": "https://ejercito.defensa.gob.es/museo/en/comun/EL_MUSEO_DEL_EJERCITO_ES_NOTICIA/piezas/2021.05.18_MANIQUI.html",
+      "kind": "Museo del Ejército / historia material",
       "verified_at": "2026-10-27",
-      "verification_note": "Consultado extracto indexado del trabajo universitario: discusión de las ordenanzas de 1495, 1496 y 1536, compañía y maestre de campo; se usa como apoyo no como autoridad única."
+      "verification_note": "Consultada ficha institucional: antecedentes bajo los Reyes Católicos, reformas de 1534, ordenanzas de Génova de 1536 y piqueros. No sirve por sí sola para verificar detalles administrativos posteriores."
+    },
+    {
+      "n": 4,
+      "name": "PARES, término de autoridad «Tercios»",
+      "url": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/102506",
+      "kind": "Archivo / registro de autoridad",
+      "verified_at": "2026-10-27",
+      "verification_note": "Consultada ficha de PARES: término controlado, adscripción a siglos XVI y XVII, referencias a maestres de campo y presencia de documentación en archivos históricos."
     }
   ],
   "related": [],
