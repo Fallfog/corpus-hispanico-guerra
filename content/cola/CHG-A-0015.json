@@ -367,12 +367,26 @@
     "CHG-P-0004"
   ],
   "editorial_note": "Monografía original de Trafalgar con contraste de fuentes españolas y británicas. Distingue pérdida/rendición de barcos el 21 octubre y destinos por temporal posterior (22–27), cifra de 22 capturados/destruidos según síntesis de Greenwich no idéntica a número de presas retenidas, y divergencias sobre muertos en combate y en naufragios. Se verifica 27 navíos británicos frente a 33 aliados (18 franceses/15 españoles). Se separa muerte inmediata de Nelson, Churruca y Alcalá Galiano y muerte posterior de Gravina por heridas en marzo de 1806. Fuentes académicas 2024/2026 examinadas por ficha y resumen, no textos íntegros. Parte oficial británico en transcripción; medicina de The National Archives por extractos indexados, apertura 403. Sin dictamen académico externo ni reproducción de imágenes con derechos no comprobados.",
-  "status": "borrador",
+  "status": "revisado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-trafalgar-1805",
   "topics": [
     "batallas-combates-y-asedios",
     "historia-naval",
     "edad-contemporanea"
-  ]
+  ],
+  "last_reviewed": "2026-10-27",
+  "approval": {
+    "reviewer": "Revisión historiográfica y documental asistida por IA; publicación extraordinaria solicitada por el titular",
+    "date": "2026-10-27",
+    "notes": "Monografía original Trafalgar 1805 con 6.185 palabras, 20 apartados, 60 párrafos con referencias y 16 fuentes comprobadas en diferente grado. Consultados Royal Museums Greenwich, Royal Navy Museums, parte primario de Collingwood de 22 oct 1805 transcrito de London Gazette, fichas y extractos documentales de Armada Española, historia de campaña por Eduardo Lon Romeo (ficha oficial y extractos), estudio IAPH de Lourdes Márquez Carmona (resumen), fuente archivística National Archives Reino Unido (extractos indexados; apertura 403), estudio táctico Enrique García-Torralba Pérez 2024 y revisión historiográfica José Gregorio Cayuela 2026 (fichas editoriales y resúmenes; sin fingir PDFs íntegros). Se distinguen 27 británicos, 33 aliados (18 franceses/15 españoles), rendiciones del día 21, naufragios del temporal 22–27 y cambios de posesión de premios. Las cifras de víctimas no se fusionan porque usan criterios diferentes; Gravina murió en marzo 1806 por heridas, frente a Churruca y Alcalá Galiano fallecidos en batalla. Historia naval crítica, no relato nacional de decaimiento inevitable ni de predeterminación estratégica de 1808. No hay dictamen académico externo ni imágenes reproducidas de licencia no verificada.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "652884c59919479e762ee00b6ee2fe3046522f5127a7a64bce719ab6da4357cb"
+  }
 }
