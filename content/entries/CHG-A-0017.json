@@ -368,7 +368,7 @@
     "CHG-A-0014"
   ],
   "editorial_note": "Monografía extensa de historia colonial y militar. No presenta Annual como batalla aislada. Fechas Abarrán 1/6, Igueriben 21/7, retirada de Annual 22/7, Sidi Dris y Dar Quebdani 25/7, cerco Monte Arruit fines julio-9/8 (fichas de autoridad prolongan intervalo), recuperación octubre y cautivos liberados enero 1923. Distingue matanzas después de rendiciones y guerra colonial; analiza dirigente Abd el-Krim sin reducir a caricatura. La RAH advierte que total de muertos desconocido: 13.000 en estadillos de Picasso vs máximo 7.915 en análisis Caballero Poveda 1983; otras síntesis ~10.000. Expediente completo no leído directamente; libro BOE 2021 reproduce resumen editado 1931; referencias de AHN por catálogo. No presenta como acreditado telegrama de Alfonso XIII no conservado. Investigación asistida sin revisión académica externa, fotografías de fallecidos no reproducidas.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "desastre-annual-1921",
   "topics": [
@@ -389,5 +389,8 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "e4e3eb6322b238e468d4f1fb3749a920a2e3d4eb6835c6b0b0f1629aa7f81223"
-  }
+  },
+  "publication_date": "2026-10-27",
+  "publication_time": "2026-10-27T17:50:05.972Z",
+  "publication_slot": "2026-10-27/extra-A-0017"
 }
