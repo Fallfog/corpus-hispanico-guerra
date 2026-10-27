@@ -338,7 +338,7 @@
     "CHG-A-0002"
   ],
   "editorial_note": "Monografía histórica independiente. Fecha 14 de agosto 1385. Fuentes portuguesas, académicas y castellanas: carta de Juan I a Murcia (29-8-1385) consultada en traducción publicada por la Fundação, NO documento original. Fosos y 830 covas publicados según excavaciones Afonso do Paço, sin confundir figura de fosa con censo de pérdidas. Debate Monteiro 2006 sobre número relativo y supuesto cuadrado; las cifras 40.000/7.000 de CIBA no se establecen como balance consensuado. Crónicas de López de Ayala, Froissart y Lopes identificadas por edición/investigación, no leídas como manuscritos originales. Victoria portuguesa y derrota castellana explicadas sin patriotismos actuales ni determinismo de posteriores Descubrimientos. Se distingue combate, salida del rey, Windsor 1386 y monasterio iniciado años después. Sin revisión académica externa ni reproducción de imágenes de terceros sin verificar licencias.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-aljubarrota-1385",
   "topics": [
@@ -359,5 +359,8 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "a5e03cedb93e5ea3f5128256a9986fbdeb32e6d71e5d9ad26adbfe8a8427f15c"
-  }
+  },
+  "publication_date": "2026-10-27",
+  "publication_time": "2026-10-27T21:41:07.796Z",
+  "publication_slot": "2026-10-27/extra-A-0020"
 }
