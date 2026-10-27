@@ -323,7 +323,7 @@
   ],
   "related": [],
   "editorial_note": "Revisión documental de Almansa 1707 con 16 fuentes en distinto grado de acceso: tesis Díaz-Paredes 2022 (abstract), artículo de Gracia Guinovart 2025 (primeras páginas, PDF no inspeccionable), artículos Segura García 2007/2020 (ficha y resumen), historia local de Almansa (página entera), Museu d'Història de València (páginas completas), RAE y transcripción jurídica de Alicante (extractos), catálogo del Prado y fuentes institucionales de Xàtiva. Diferenciar combate 25 abril, represión de Xàtiva en junio con fuentes que sitúan incendio el 17 o 19, decreto Nueva Planta 29 junio. Estimaciones de ejércitos y bajas no exactas. No confundir conquista con final de guerra europea. Revisión asistida por IA sin dictamen académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-almansa-1707",
   "topics": [
@@ -344,5 +344,8 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "4a21465709e484a88bf0d3100876f807d9d72373122e82c83d26fdfa29ccf2a2"
-  }
+  },
+  "publication_date": "2026-10-27",
+  "publication_time": "2026-10-27T18:01:53.680Z",
+  "publication_slot": "2026-10-27/extra-A-0018"
 }
