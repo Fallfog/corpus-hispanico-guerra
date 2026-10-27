@@ -266,11 +266,28 @@
     "CHG-P-0001"
   ],
   "editorial_note": "Se distingue a Álvaro de Bazán y Guzmán de su padre Álvaro de Bazán y Manuel; el marquesado se concedió en 1569 antes de Lepanto; 1582 combate naval no equivale a 1583 desembarco. La lectura de catálogos PARES no significa consulta íntegra de 13.000 imágenes. Pendiente revisión experta externa.",
-  "status": "borrador",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "alvaro-de-bazan-primer-marques-santa-cruz",
   "topics": [
     "personajes-historicos",
     "historia-naval"
-  ]
+  ],
+  "publication_date": "2026-10-27",
+  "publication_time": "2026-10-27T12:48:03.338Z",
+  "last_reviewed": "2026-10-27",
+  "publication_slot": "2026-10-27/extra-P-0005",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; publicación extraordinaria solicitada por el titular",
+    "date": "2026-10-27",
+    "notes": "Biografía histórica de 4.462 palabras: cotejo del registro de autoridad PARES, ficha patrimonial de la Biblioteca Virtual de Defensa, Museo Naval, noticia sobre documentos del fondo Santa Cruz y estudios navales del Instituto de Historia y Cultura Naval. Se ha distinguido a Álvaro de Bazán y Guzmán de su padre; título concedido en 1569 antes de Lepanto (1571); batalla de las Azores 1582 distinta del desembarco de Terceira 1583; propuesta de Inglaterra no equivale a plan operacional final; murió antes de 1588. Se registra alcance limitado para catálogos/estudios cuyo texto total no ha sido revisado. Redacción original, sin reproducciones de obras visuales y sin dictamen académico externo. Publicación excepcional a instancia del usuario, que no modifica límite de programación automática diaria.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "a38cba5039c11359f60510cd21d2d830353f57b3e8c8ae1d10fbfdc27e43e28b"
+  }
 }

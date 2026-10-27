@@ -38,5 +38,10 @@
     "id": "CHG-P-0004",
     "at": "2026-10-27T11:51:17.026Z",
     "mode": "publicación extraordinaria de Personajes, sin modificar calendario ordinario"
+  },
+  "2026-10-27/extra-P-0005": {
+    "id": "CHG-P-0005",
+    "at": "2026-10-27T12:48:03.338Z",
+    "mode": "publicación extraordinaria solicitada por el titular; calendario automático sin cambios"
   }
 }
