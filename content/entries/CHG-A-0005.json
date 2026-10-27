@@ -284,11 +284,28 @@
   ],
   "related": [],
   "editorial_note": "Distingue combate y capitulaciones, cifras de tropas en batalla versus contingentes comprendidos en acuerdo, y reconstrucción historiográfica frente a pintura de 1864. Fuentes secundarias contrastadas con fichas institucionales y testimonios indexados; no se afirma lectura íntegra de los PDFs o de originales de archivo no abiertos. Pendiente revisión historiográfica externa.",
-  "status": "borrador",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-de-bailen-1808",
   "topics": [
     "batallas-combates-y-asedios",
     "campanas-y-operaciones"
-  ]
+  ],
+  "publication_date": "2026-10-27",
+  "last_reviewed": "2026-10-27",
+  "publication_time": "2026-10-27T11:22:01.716Z",
+  "publication_slot": "2026-10-27/extra-A-0005",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; publicación extraordinaria solicitada por el titular",
+    "date": "2026-10-27",
+    "notes": "Monografía de síntesis original de 5.116 palabras sobre Bailén, contextualizada con guías institucionales del Ministerio de Cultura, estudios historiográficos especializados identificados en la Revista de Historia Militar y la Universidad de Jaén, noticia y testimonios en Biblioteca Virtual de Defensa, documentación catalogada en PARES, memoria local del Ayuntamiento y Museo de Bailén y estudio iconográfico del Prado. Distingue batalla del 19 y capitulación del 22 julio, mando estratégico de Castaños y dirección táctica de Reding/Coupigny, contingentes del combate y tropas incluidas en capitulaciones. No se afirman lecturas completas de PDFs con fallo de captura ni de originales no abiertos; se identifican tales límites en cada fuente. Originalidad de redacción y ausencia de reproducciones de obras protegidas; verificación historiográfica externa pendiente. Registro como excepción solicitada al margen del calendario ordinario, que sigue limitado a una publicación diaria.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "b977cbc55751d71e501bc58ebf63dc953d73dd80045682a760b5eb9b5e62f06c"
+  }
 }
