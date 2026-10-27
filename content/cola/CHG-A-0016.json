@@ -352,12 +352,26 @@
     "CHG-A-0002"
   ],
   "editorial_note": "Revisión documental preliminar: monografía de Antigüedad sobre Ilipa 206 a. C. con fuentes primarias Polibio XI 20–24 (leído), Livio XXVIII 12–16 (leído) y Apiano Ibéricas 24–27 (leído en traducción), bibliografía Millán León 1986, Scullard 1936 y Hoyos 2002 en ficha y extractos, trabajos de Quesada, Padilla, García Fernández y Rodríguez y fuentes institucionales. Identifica las variantes Silpia/Elinga/Ilipa y no da por probada posición en Alcalá del Río. Reconoce propuesta cronológica 207 vs mayoría 206 y errata 209 del Tesauro. No confunde Asdrúbal Giscón con Asdrúbal Barca. No trata efectivos antiguos como censos reales ni narra formación de cohortes como innovación institucional fechada. Presenta fundación de Itálica en contexto indígena y evita anacronismo español. Sin reproducción de imágenes ajenas ni dictamen externo.",
-  "status": "borrador",
+  "status": "revisado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-ilipa-206-ac",
   "topics": [
     "batallas-combates-y-asedios",
     "antiguedad",
     "guerras-punicas"
-  ]
+  ],
+  "last_reviewed": "2026-10-27",
+  "approval": {
+    "reviewer": "Revisión histórica y documental asistida por IA; publicación extraordinaria solicitada por el titular",
+    "date": "2026-10-27",
+    "notes": "Ilipa 206 a. C., 6.380 palabras, 21 apartados, 63 párrafos con citas y 13 fuentes. Se contrastaron directamente narraciones de Polibio XI 20–24, Livio XXVIII 12–16 y Apiano Ibéricas 24–27, considerando su género literario y cronología de escritura. El artículo de José Millán León (Habis 1986), el de Scullard (1936), el de Dexter Hoyos (2002) se consultaron mediante fichas y extractos, sin fingir lectura completa de documentos no accesibles. Investigación arqueológico-histórica de Quesada, Padilla, García Fernández y Rodríguez sobre táctica, localización e Itálica contrastada por pasajes e información editorial. Se distinguen Silpia/Elinga/Ilipa, emplazamiento tradicional de Alcalá del Río frente a crítica de Hoyos, fecha predominante 206 frente a propuesta 207 y error 209 en ficha del Tesauro de Ilipa Magna. Las cifras literarias de infantería, caballería, bajas y elefantes son atribuciones antiguas, no censos verificados. La victoria no se presenta como española ni como desaparición inmediata de toda conflictividad peninsular. Sin arbitraje académico externo ni reproducción de imágenes de derechos sin confirmar.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "52cc8ac601dab3c096eda79c3dd3d8a555ded1a8b11443d4118086df72845767"
+  }
 }
