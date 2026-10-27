@@ -288,7 +288,7 @@
     "CHG-A-0005"
   ],
   "editorial_note": "Revisión histórica con fuentes institucionales y estudios universitarios; fuentes académicas recientes (2025) solo estudiadas por ficha y resumen, sin falsa atribución de hallazgos materiales concretos; fragmentos de PDF institucional 2013 indexados y captura fallida, no lectura total. Se reconoce protagonismo español en flancos, contribución portuguesa, dimensiones de la guerra social y límites del triunfo; cifras aproximadas sin inventar censo. No hay dictamen académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-vitoria-1813",
   "topics": [
@@ -309,5 +309,8 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "c59c6ca84191ad54c48268e02317945ede1929a3e747d1cbf383594520af8fbd"
-  }
+  },
+  "publication_date": "2026-10-27",
+  "publication_time": "2026-10-27T18:09:19.935Z",
+  "publication_slot": "2026-10-27/extra-A-0018"
 }
