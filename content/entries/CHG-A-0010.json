@@ -357,11 +357,28 @@
     "CHG-A-0008"
   ],
   "editorial_note": "Contraste de catálogos neerlandeses y españoles: diferencias documentales sobre 31 mayo/2 junio y salida 5 junio; no presentar la pintura de Velázquez como registro ocular; cifras de personal del cerco separan directos, apoyo y reservas; arqueología con límites; la crónica latina de 1626 se ha identificado bibliográficamente, no transcrito íntegramente. Revisar antes de publicar.",
-  "status": "borrador",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "sitio-de-breda-1624-1625",
   "topics": [
     "batallas-combates-y-asedios",
     "campanas-y-operaciones"
-  ]
+  ],
+  "publication_date": "2026-10-27",
+  "publication_time": "2026-10-27T14:47:06.540Z",
+  "last_reviewed": "2026-10-27",
+  "publication_slot": "2026-10-27/extra-A-0010",
+  "approval": {
+    "reviewer": "Revisión historiográfica y documental asistida por IA; publicación extraordinaria solicitada por el titular",
+    "date": "2026-10-27",
+    "notes": "Monografía original sobre Breda 1624–1625: 5.405 palabras, 19 apartados y 17 referencias. Contraste de catálogos Prado y Rijksmuseum, fuentes municipales neerlandesas (Erfgoedweb, Stedelijk Museum Breda), texto arqueológico de Hoegen y de Kievith en el patrimonio municipal (extracción textual consultada; captura visual falló), crónica de Hermann Hugo (comprobada bibliográficamente sin lectura íntegra del latín), estudio de Alexandra Libby en Journal of Historians of Netherlandish Art (consultado en HTML), biografía del museo Het Bolwerk y obra de Bartolomé Barba Hernández de 1959 (solo ficha digital). Diferencias de fechas 31 mayo/2 junio capitulación y salida 5 junio conservadas expresamente; se distingue evidencia de arqueología y tradición visual; el cuadro de Velázquez no se trata como registro ocular; se reconoce el sufrimiento civil, el papel político de Isabel Clara Eugenia y el carácter provisional de la victoria por la reconquista de 1637. No se han reproducido imágenes ajenas de régimen incierto. No ha habido revisión académica externa. Publicación extraordinaria solicitada sin alterar programación de Pavía.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "ea84b9fe1f1548e769b40c41fc97da81d9f5c38e0891fb5fd663ff5bfafb4b42"
+  }
 }
