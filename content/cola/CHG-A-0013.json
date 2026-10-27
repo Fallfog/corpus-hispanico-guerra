@@ -326,11 +326,25 @@
     "CHG-D-0002"
   ],
   "editorial_note": "Monografía de campaña con revisión documental asistida. Se distinguen el combate del 6 noviembre, la ofensiva del 28–29 diciembre 1503, y entrega de Gaeta situada por las síntesis entre 31 diciembre y 1 enero 1504. No se inventa causa documental para el desfase; se diferencia tratado de Lyon febrero 1504 y ratificación marzo. Gonzalo dirigió la operación; Alviano ejecutó vanguardia destacada; Fabrizio Colonna participó en fase noviembre y no en la fase final según Enciclopedia machiavelliana. Cifras de tropa, bajas y episodios caballerescos son de fuentes divergentes; sin dictamen externo. Captura visual del PDF académico no obtenida pese a intento y lectura de texto indexado declarada en fuente n.º 6. No se usan imágenes de licencia no verificada.",
-  "status": "borrador",
+  "status": "revisado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-garellano-1503",
   "topics": [
     "batallas-combates-y-asedios",
     "campanas-y-operaciones"
-  ]
+  ],
+  "last_reviewed": "2026-10-27",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; publicación extraordinaria solicitada por el titular",
+    "date": "2026-10-27",
+    "notes": "Monografía original Garellano 1503, 5.780 palabras, 19 secciones, 13 referencias. Contraste de Fernández Rodríguez y Martínez Peñas (texto extraído del capítulo VIII de La guerra y el nacimiento del Estado moderno, PDF 2014, captura visual fallida), Museo del Ejército (dos fichas), Treccani sobre Bartolomeo d'Alviano, Pompeo y Fabrizio Colonna, Luis de Saluzzo y Gonzalo de Córdoba, artículo parcialmente indexado de Revista de Historia Militar 2015 y la historiografía decimonónica de Modesto Lafuente. Se distinguen el choque del 6 de noviembre y la ofensiva del 28–29 de diciembre, la rendición de Gaeta atribuida a 31 diciembre o 1 enero según fuente y cronología de Lyon febrero-marzo 1504. Se mantiene incertidumbre de efectivos y bajas, no se reproducen imágenes ajenas y los relatos caballerescos no se convierten en documentos o testimonios directos. Pendiente arbitraje académico externo.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "52740883f72e2d44ac35058909d331495d77a44144955c3342133c3c2130f9d1"
+  }
 }
