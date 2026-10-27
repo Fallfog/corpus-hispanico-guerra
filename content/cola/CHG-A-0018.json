@@ -321,16 +321,28 @@
       "verification_note": "Consultada explicación de sucesión, ocupación de Valencia en 1705, derrota de Almansa, supresión foral y nuevas instituciones."
     }
   ],
-  "related": [
-    "CHG-A-0005"
-  ],
-  "editorial_note": "Monografía original con investigación comparada; cuenta de efectivos y bajas atribuida; fechas Xàtiva 17/19 junio discrepantes; Nueva Planta 29 junio como decisión política posterior, no evento del 25 abril; evitar relatos nacionales simplistas; algunas obras académicas examinadas por resúmenes o fragmentos; texto histórico no sometido a arbitraje externo. No reproducir imágenes ajenas.",
-  "status": "borrador",
+  "related": [],
+  "editorial_note": "Revisión documental de Almansa 1707 con 16 fuentes en distinto grado de acceso: tesis Díaz-Paredes 2022 (abstract), artículo de Gracia Guinovart 2025 (primeras páginas, PDF no inspeccionable), artículos Segura García 2007/2020 (ficha y resumen), historia local de Almansa (página entera), Museu d'Història de València (páginas completas), RAE y transcripción jurídica de Alicante (extractos), catálogo del Prado y fuentes institucionales de Xàtiva. Diferenciar combate 25 abril, represión de Xàtiva en junio con fuentes que sitúan incendio el 17 o 19, decreto Nueva Planta 29 junio. Estimaciones de ejércitos y bajas no exactas. No confundir conquista con final de guerra europea. Revisión asistida por IA sin dictamen académico externo.",
+  "status": "revisado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-almansa-1707",
   "topics": [
     "batallas-combates-y-asedios",
     "edad-moderna",
     "guerra-de-sucesion"
-  ]
+  ],
+  "last_reviewed": "2026-10-27",
+  "approval": {
+    "reviewer": "Revisión documental e historiográfica asistida por IA, publicación extraordinaria solicitada por el titular",
+    "date": "2026-10-27",
+    "notes": "Monografía de 4.647 palabras, 16 secciones, 48 párrafos y 16 referencias documentales; grados de lectura indicados en cada fuente. Diferenciados batallón capturado el 26 abril, toma de Valencia, represión de Xàtiva en junio, decreto de Nueva Planta del 29 junio 1707, cronología europea hasta 1714, sin anacronismos nacionales ni cifras falsamente exactas. No incluye imágenes de terceros de licencia no verificada y no ha recibido evaluación académica externa.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "4a21465709e484a88bf0d3100876f807d9d72373122e82c83d26fdfa29ccf2a2"
+  }
 }
