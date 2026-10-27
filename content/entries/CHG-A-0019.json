@@ -377,7 +377,7 @@
     "CHG-A-0018"
   ],
   "editorial_note": "Monografía crítica y documentada sobre Ayacucho 1824. Distingue resultado militar, capitulación y continuidad de resistencias Callao/Chiloé 1826. Las cifras de tropa y bajas son divergentes y los criterios de origen individual vs adscripción orgánica diferentes; se atribuyen fuentes. Se examina interpretación realista del diario de operaciones, sin declarar lectura completa ni atribuirle hechos específicos no vistos. Las tesis de pacto conspirativo se identifican sin respaldo de prueba concluyente. Se consulta texto jurídico transcrito de capitulación y registro BNP, no imágenes originales de reproducción restringida. Vínculo con Vitoria 1813 como antecedente en contexto napoleónico hispánico; no hay otro artículo americano cercano en inventario.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-ayacucho-1824",
   "topics": [
@@ -398,5 +398,8 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "a1662288379d3e2bf1db205281b40df5f4e5afdd24769a3986ac0e5627c17a95"
-  }
+  },
+  "publication_date": "2026-10-27",
+  "publication_time": "2026-10-27T21:05:47.663Z",
+  "publication_slot": "2026-10-27/extra-A-0019"
 }

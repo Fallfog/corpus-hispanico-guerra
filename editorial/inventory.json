@@ -166,5 +166,12 @@
     "topic_key": "batalla-vitoria-1813",
     "title": "Vitoria, 1813: Wellington, Morillo y Longa en la derrota de José Bonaparte",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0019",
+    "slug": "batalla-de-ayacucho-1824-sucre-la-serna-capitulacion",
+    "topic_key": "batalla-ayacucho-1824",
+    "title": "Ayacucho, 1824: la derrota del ejército realista y un nuevo orden americano",
+    "category": "Acciones militares"
   }
 ]
