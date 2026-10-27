@@ -1,0 +1,23 @@
+[
+  {
+    "id": "CHG-P-0001",
+    "slug": "juan-de-austria-mando-y-coaliciones",
+    "topic_key": "juan-de-austria-mando-y-coaliciones",
+    "title": "Juan de Austria: el mando de una coalición en el siglo XVI",
+    "category": "Protagonistas"
+  },
+  {
+    "id": "CHG-A-0001",
+    "slug": "batalla-de-lepanto-1571",
+    "topic_key": "batalla-de-lepanto-1571",
+    "title": "Lepanto, 1571: la batalla naval y los límites de la victoria",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-D-0001",
+    "slug": "numancia-el-cerco-como-sistema-militar",
+    "topic_key": "numancia-el-cerco-como-sistema-militar",
+    "title": "Numancia: el cerco como sistema militar",
+    "category": "Historia de la guerra"
+  }
+]

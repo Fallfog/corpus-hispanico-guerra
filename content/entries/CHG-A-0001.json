@@ -1,0 +1,111 @@
+{
+  "id": "CHG-A-0001",
+  "slug": "batalla-de-lepanto-1571",
+  "title": "Lepanto, 1571: la batalla naval y los límites de la victoria",
+  "eyebrow": "Acciones militares · Edad Moderna",
+  "category": "Acciones militares",
+  "period": "Edad Moderna",
+  "era": "1571",
+  "chronology": 1571,
+  "date": "7 de octubre de 1571",
+  "location": "Mar Jónico, entrada del golfo de Patras (actual Grecia)",
+  "summary": "La coalición de la Liga Santa derrotó a una gran escuadra otomana. Una victoria táctica de enorme resonancia cuya traducción política fue más compleja.",
+  "featured": true,
+  "keywords": [
+    "Lepanto",
+    "Liga Santa",
+    "Imperio otomano",
+    "combate naval",
+    "Juan de Austria"
+  ],
+  "facts": [
+    [
+      "Fecha",
+      "7 de octubre de 1571"
+    ],
+    [
+      "Teatro",
+      "Mediterráneo oriental"
+    ],
+    [
+      "Beligerantes",
+      "Liga Santa e Imperio otomano"
+    ],
+    [
+      "Mando destacado",
+      "Juan de Austria y Alí Bajá"
+    ],
+    [
+      "Resultado",
+      "Victoria de la Liga Santa"
+    ]
+  ],
+  "sections": [
+    {
+      "heading": "La guerra que precedió al encuentro",
+      "paragraphs": [
+        "La batalla de Lepanto se inscribe en una larga disputa por las rutas, las plazas y la influencia en el Mediterráneo. A finales de la década de 1560, la expansión otomana y las rivalidades con Venecia hicieron cada vez más difícil mantener la paz. El ataque otomano contra Chipre, posesión veneciana, precipitó una respuesta diplomática que buscó reunir recursos navales de varios poderes cristianos. La Liga Santa agrupó principalmente a la Monarquía Hispánica, la República de Venecia y los Estados Pontificios, junto a otros aliados. No fue, por tanto, una empresa exclusivamente española, aunque los dominios de Felipe II aportaron una parte sustancial de su fuerza. [1][2]",
+        "La concentración de barcos, soldados y mandos obligó a resolver un problema propio de las coaliciones: cómo coordinar intereses diferentes en una operación común. Juan de Austria asumió el mando de la flota aliada. Su cometido inmediato fue localizar y combatir la escuadra otomana, dirigida por Alí Bajá. [2][3]"
+      ]
+    },
+    {
+      "heading": "El combate del 7 de octubre",
+      "paragraphs": [
+        "La mañana del 7 de octubre de 1571 las flotas se enfrentaron en aguas próximas a Lepanto. La acción reunió centenares de embarcaciones movidas principalmente a remo, artilladas y cargadas con tropas para el abordaje. Las galeazas venecianas, concebidas como plataformas de artillería de mayor porte, contribuyeron a la potencia de fuego aliada. El enfrentamiento fue una sucesión de choques entre escuadras en los que la organización inicial y la capacidad de recuperar el control resultaron decisivas. [2][3]",
+        "El combate central enfrentó a las fuerzas principales, mientras las alas intentaron envolver o desbordar al contrario. Más que una simple colisión de barcos, Lepanto fue una batalla de artillería, infantería embarcada y maniobra táctica. La muerte de Alí Bajá y la pérdida de numerosas galeras favorecieron la victoria de la Liga Santa. Las cifras exactas de buques y bajas varían según los relatos y los criterios de cómputo; por eso el Corpus evita presentar un número aislado como definitivo. [2][3]"
+      ]
+    },
+    {
+      "heading": "Victoria militar y consecuencias",
+      "paragraphs": [
+        "La derrota otomana tuvo gran impacto simbólico y militar. Mostró que una escuadra del sultán podía ser vencida en una batalla abierta y proporcionó a los aliados un triunfo que pronto ocupó un lugar central en su memoria política y religiosa. Sin embargo, la Liga Santa no mantuvo intacta su cohesión. Las diferencias entre sus miembros limitaron la explotación del éxito y el equilibrio mediterráneo continuó siendo objeto de disputa. [1][2]",
+        "Una lectura historiográfica prudente distingue, por tanto, tres planos: el resultado táctico, claramente favorable a la Liga; la importancia moral y propagandística del acontecimiento; y sus consecuencias estratégicas, menos lineales. Lepanto no supuso el final del poder otomano ni resolvió por sí sola la rivalidad mediterránea. [1][2]"
+      ]
+    },
+    {
+      "heading": "Una huella documental persistente",
+      "paragraphs": [
+        "El episodio se conserva en crónicas, relaciones navales y documentación archivística. Entre los testimonios y fondos relevantes figuran los conservados por el Archivo Histórico de la Nobleza y los registros de autoridad de PARES. La memoria literaria de Miguel de Cervantes, que participó en la batalla, convirtió también Lepanto en un referente cultural de larga duración. Es esencial diferenciar las fuentes contemporáneas, la elaboración posterior del relato y las interpretaciones historiográficas modernas. [1][4]"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "n": 1,
+      "name": "Archivo Histórico de la Nobleza (Ministerio de Cultura), «La batalla de Lepanto»",
+      "url": "https://www.cultura.gob.es/en/cultura/areas/archivos/mc/archivos/nhn/destacados/documentos-destacados/lepanto.html",
+      "kind": "Archivo / documentación"
+    },
+    {
+      "n": 2,
+      "name": "Fundación Museo Naval, «La batalla de Lepanto»",
+      "url": "https://www.fundacionmuseonaval.com/SEC/lepanto-batalla.html",
+      "kind": "Museo / historia naval"
+    },
+    {
+      "n": 3,
+      "name": "Museo del Ejército, «La batalla de Lepanto»",
+      "url": "https://ejercito.defensa.gob.es/museo/HECHOS_HISTORICOS/HECHOS_HISTORICOS/10.07_octubre._LA_BATALLA_DE_LEPANTO.html?__locale=es",
+      "kind": "Museo"
+    },
+    {
+      "n": 4,
+      "name": "PARES, autoridad «Batalla de Lepanto, 1571»",
+      "url": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/101379",
+      "kind": "Archivo / autoridad"
+    }
+  ],
+  "related": [
+    "CHG-P-0001"
+  ],
+  "editorial_note": "No se fija una cifra única de efectivos o bajas: las estimaciones difieren entre fuentes.",
+  "status": "publicado",
+  "publication_date": "2026-10-27",
+  "last_reviewed": "2026-10-27",
+  "topic_key": "batalla-de-lepanto-1571",
+  "review_notice": "Texto piloto del archivo original. Pendiente de verificación documental completa y revisión especializada; no aprobado para la cola automática.",
+  "topics": [
+    "batallas-combates-y-asedios",
+    "historia-naval"
+  ]
+}

@@ -1,0 +1,42 @@
+name: Aprobar ficha revisada
+on:
+  workflow_dispatch:
+    inputs:
+      id:
+        description: Identificador de la ficha en cola (CHG-A-0002)
+        required: true
+        type: string
+      notes:
+        description: Fuentes contrastadas, discrepancias resueltas y comprobación de derechos
+        required: true
+        type: string
+      confirmed:
+        description: He contrastado hechos, bibliografía, contradicciones, profundidad y derechos
+        required: true
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: publicacion-corpus
+  cancel-in-progress: false
+jobs:
+  aprobar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/approve.py
+        env:
+          ENTRY_ID: ${{ inputs.id }}
+          REVIEW_NOTES: ${{ inputs.notes }}
+          REVIEW_CONFIRMED: ${{ inputs.confirmed }}
+      - run: |
+          git config user.name "corpus-editorial-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/cola
+          git diff --cached --quiet || git commit -m "Registrar acta de revisión editorial"
+          git push
