@@ -338,12 +338,26 @@
     "CHG-A-0002"
   ],
   "editorial_note": "Monografía histórica independiente. Fecha 14 de agosto 1385. Fuentes portuguesas, académicas y castellanas: carta de Juan I a Murcia (29-8-1385) consultada en traducción publicada por la Fundação, NO documento original. Fosos y 830 covas publicados según excavaciones Afonso do Paço, sin confundir figura de fosa con censo de pérdidas. Debate Monteiro 2006 sobre número relativo y supuesto cuadrado; las cifras 40.000/7.000 de CIBA no se establecen como balance consensuado. Crónicas de López de Ayala, Froissart y Lopes identificadas por edición/investigación, no leídas como manuscritos originales. Victoria portuguesa y derrota castellana explicadas sin patriotismos actuales ni determinismo de posteriores Descubrimientos. Se distingue combate, salida del rey, Windsor 1386 y monasterio iniciado años después. Sin revisión académica externa ni reproducción de imágenes de terceros sin verificar licencias.",
-  "status": "borrador",
+  "status": "revisado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-aljubarrota-1385",
   "topics": [
     "batallas-combates-y-asedios",
     "edad-media",
     "arqueologia-militar"
-  ]
+  ],
+  "last_reviewed": "2026-10-27",
+  "approval": {
+    "reviewer": "Revisión histórico-documental asistida por IA; edición extraordinaria solicitada por el titular",
+    "date": "2026-10-27",
+    "notes": "Monografía original Aljubarrota 1385 de 6.349 palabras, 20 apartados, 60 párrafos y 13 fuentes con 151 marcadores. Referencias contrastadas: estudio de João Gouveia Monteiro en Revista de História da Sociedade e da Cultura 2006 (resumen y texto indexado; PDF íntegro no accesible); capítulos 2009 y 2020 de Cambridge (fichas y resúmenes); Fundación Batalha de Aljubarrota páginas Arqueologia y Batalha 1385 (lectura HTML completa); investigación de Afonso do Paço en Antiquity (resumen), tesis de Nuno Pires (ficha, acceso bloqueado), CIBA, UNESCO y Património Cultural sobre el monasterio y Academia de Marinha historia de la crisis marítima (texto PDF y captura visual intentada sin éxito). La carta de Juan I a Murcia 29 agosto 1385 se emplea solo mediante traducción portuguesa institucional, sin afirmar inspección del original castellano. Se diferencian guerra de 1383–1385, Cortes de Coímbra, ataque del 14 de agosto, fosos y covas arqueológicas, debate historiográfico del cuadro y superioridad numérica, huida castellana y Tratado de Windsor en 1386. Las cifras 40.000 y 7.000 de CIBA se presentan atribuidas y discutidas, sin contarlas como consenso. No se inventan bajas ni se identifica el recuento institucional de restos humanos con el total de muertos. Sin arbitraje académico externo ni fotografías sin licencia verificada.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "a5e03cedb93e5ea3f5128256a9986fbdeb32e6d71e5d9ad26adbfe8a8427f15c"
+  }
 }
