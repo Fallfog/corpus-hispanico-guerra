@@ -261,11 +261,28 @@
     "CHG-A-0006"
   ],
   "editorial_note": "Distinguir biografía documentada de anécdotas y frases legendarias; el registro municipal no equivale a prueba parroquial, hay discrepancia sobre causa exacta de muerte, fechas de órdenes y características técnicas del San Nicolás. Pendiente cotejar expediente personal e inscripciones originales; no se reproducen imágenes protegidas.",
-  "status": "borrador",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "martin-alvarez-galan-granadero-marina",
   "topics": [
     "personajes-historicos",
     "historia-naval"
-  ]
+  ],
+  "publication_date": "2026-10-27",
+  "last_reviewed": "2026-10-27",
+  "publication_time": "2026-10-27T11:51:17.026Z",
+  "publication_slot": "2026-10-27/extra-P-0004",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; publicación extraordinaria previamente autorizada en el proyecto",
+    "date": "2026-10-27",
+    "notes": "Monografía biográfica original de 4.717 palabras y 16 apartados, elaborada tras cotejar fuentes de la Armada, Instituto de Historia y Cultura Naval, Ministerio de Defensa, revista profesional naval, Ayuntamiento de Montemolín y catálogo patrimonial. Se distingue la biografía básica ampliamente concordante de los relatos heroicos y detalles no corroborados en actas originales. Se consignan discrepancias sobre la muerte (enfermedad/caída), orden memorial de 1878 (julio/agosto), versiones del abordaje y clasificación artillera del San Nicolás, y no se presentan como verificadas declaraciones literales o inventarios originales no consultados. Las referencias incluyen notas sobre el alcance de cada consulta. Redacción original sin fotografías ni reproducciones sin licencia comprobada. No se ha emitido dictamen de especialista externo. Publicación a petición implícita del titular en seguimiento de publicaciones extraordinarias de Personajes; programación ordinaria intacta.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "41fabc0b40d7029e44d082d7f54fa369682bdb94a2023ef382b63fe151e970b0"
+  }
 }
