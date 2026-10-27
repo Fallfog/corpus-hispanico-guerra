@@ -117,12 +117,31 @@
       "verification_note": "Consultada ficha institucional: fecha de 28 abril 1503, mandos y preparación defensiva del terreno."
     }
   ],
-  "related": [],
+  "related": [
+    "CHG-D-0002"
+  ],
   "editorial_note": "Diferencia de fechas de nacimiento entre registros oficiales. La tradición de las «cuentas del Gran Capitán» no se utiliza como documento literal.",
-  "status": "borrador",
-  "not_before": "2026-10-28",
+  "status": "publicado",
+  "not_before": "2026-10-27",
   "topic_key": "gonzalo-fernandez-de-cordoba-gran-capitan",
   "topics": [
     "personajes-historicos"
-  ]
+  ],
+  "publication_date": "2026-10-27",
+  "last_reviewed": "2026-10-27",
+  "publication_time": "2026-10-27T10:01:00.797Z",
+  "publication_slot": "2026-10-27/15:17",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; publicación autorizada por el titular",
+    "date": "2026-10-27",
+    "notes": "Revisión documental asistida con PARES, catálogo de Archivos Estatales, estudio de Jiménez Estrella y Museo del Ejército. Se conserva discrepancia sobre el año de nacimiento y se presenta la reforma como proceso, no invención súbita. Redacción propia, sin imágenes ni extractos extensos. Revisión externa especializada pendiente. Publicación autorizada por el titular.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "04d82fea86eeff3da49ae397f699969495611b6902700ce2313676e3d6f2befa"
+  }
 }

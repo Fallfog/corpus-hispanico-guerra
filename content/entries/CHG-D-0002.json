@@ -110,13 +110,32 @@
       "verification_note": "Consultada ficha de PARES: término controlado, adscripción a siglos XVI y XVII, referencias a maestres de campo y presencia de documentación en archivos históricos."
     }
   ],
-  "related": [],
+  "related": [
+    "CHG-P-0002"
+  ],
   "editorial_note": "Distinguir plantillas teóricas de efectivos reales; no atribuir a Gonzalo Fernández de Córdoba la creación aislada y definitiva de los tercios.",
-  "status": "borrador",
-  "not_before": "2026-10-28",
+  "status": "publicado",
+  "not_before": "2026-10-27",
   "topic_key": "origen-y-organizacion-de-los-tercios-hispanicos",
   "topics": [
     "ejercitos-e-instituciones-militares",
     "campanas-y-operaciones"
-  ]
+  ],
+  "publication_date": "2026-10-27",
+  "last_reviewed": "2026-10-27",
+  "publication_time": "2026-10-27T10:01:00.797Z",
+  "publication_slot": "2026-10-27/21:17",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; publicación autorizada por el titular",
+    "date": "2026-10-27",
+    "notes": "Revisión documental asistida con la Revista de Historia Militar y Ministerio de Defensa, reseña CESEDEN y ficha museística. Distinción entre orígenes, institucionalización y evolución; no se presenta el tercio como unidad inmutable. Redacción propia sin reproducciones de obras ajenas. Revisión externa especializada pendiente. Publicación autorizada por el titular.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "347e3c23e859044279572ff266515ab9045b64ebcdccd9fd6fb618151d46e24c"
+  }
 }

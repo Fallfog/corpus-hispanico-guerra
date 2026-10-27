@@ -1,1 +1,17 @@
-{}
+{
+  "2026-10-27/09:17": {
+    "id": "CHG-A-0002",
+    "at": "2026-10-27T10:01:00.797Z",
+    "mode": "publicación extraordinaria autorizada"
+  },
+  "2026-10-27/15:17": {
+    "id": "CHG-P-0002",
+    "at": "2026-10-27T10:01:00.797Z",
+    "mode": "publicación extraordinaria autorizada"
+  },
+  "2026-10-27/21:17": {
+    "id": "CHG-D-0002",
+    "at": "2026-10-27T10:01:00.797Z",
+    "mode": "publicación extraordinaria autorizada"
+  }
+}

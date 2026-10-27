@@ -96,11 +96,28 @@
   ],
   "related": [],
   "editorial_note": "Separar la narración de la batalla de los relatos legendarios sobre cadenas, itinerarios y cifras. Pendiente de cotejo experto con testimonios medievales.",
-  "status": "borrador",
-  "not_before": "2026-10-28",
+  "status": "publicado",
+  "not_before": "2026-10-27",
   "topic_key": "batalla-de-las-navas-de-tolosa-1212",
   "topics": [
     "batallas-combates-y-asedios",
     "campanas-y-operaciones"
-  ]
+  ],
+  "publication_date": "2026-10-27",
+  "last_reviewed": "2026-10-27",
+  "publication_time": "2026-10-27T10:01:00.797Z",
+  "publication_slot": "2026-10-27/09:17",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; publicación autorizada por el titular",
+    "date": "2026-10-27",
+    "notes": "Revisión asistida de cronología, contendientes, preparación, consecuencias y tradición legendaria; cotejo con Ladero Quesada, ficha universitaria de García Fitz y resumen académico de Gómez. Fuentes secundarias y la bibliografía acreditan el marco general; no se inventan cifras. Revisión externa especializada pendiente. Publicación autorizada por el titular.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "357222cf11b2b76380fd31f8aad24cba80ffe3eebad05df48ed21ad4e6ea5963"
+  }
 }

@@ -19,5 +19,26 @@
     "topic_key": "numancia-el-cerco-como-sistema-militar",
     "title": "Numancia: el cerco como sistema militar",
     "category": "Historia de la guerra"
+  },
+  {
+    "id": "CHG-A-0002",
+    "slug": "las-navas-de-tolosa-1212-campana-y-batalla",
+    "topic_key": "batalla-de-las-navas-de-tolosa-1212",
+    "title": "Las Navas de Tolosa, 1212: campaña, batalla y construcción de la memoria",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-P-0002",
+    "slug": "gonzalo-fernandez-de-cordoba-el-gran-capitan",
+    "topic_key": "gonzalo-fernandez-de-cordoba-gran-capitan",
+    "title": "Gonzalo Fernández de Córdoba: campañas y reformas del Gran Capitán",
+    "category": "Protagonistas"
+  },
+  {
+    "id": "CHG-D-0002",
+    "slug": "origen-y-organizacion-de-los-tercios-hispanicos",
+    "topic_key": "origen-y-organizacion-de-los-tercios-hispanicos",
+    "title": "Los tercios de la Monarquía Hispánica: origen, organización y evolución",
+    "category": "Historia de la guerra"
   }
 ]
