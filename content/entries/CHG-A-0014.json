@@ -337,7 +337,7 @@
     "CHG-A-0002"
   ],
   "editorial_note": "Revisión documental asistida sobre Alarcos 1195. Reconstrucción principalmente a partir del análisis arqueológico de Antonio de Juan García y material del Museo Arqueológico Nacional, complementado por Carlos de Ayala, Judith Bronstein, Marisa Bueno Sánchez y materiales oficiales de Cultura regional. Fecha 19 julio 1195; causas y falta de refuerzos leoneses debatidas; cifras de crónicas medievales no se tratan como censos. Mínimo de 34 individuos de fosa de despojos documentado por arqueología no equiparado al total de bajas; 44 sepulturas de maqbara de ocupación 1195–1212 corresponden a otro contexto. Recuperación 1212 e inicio de Villa Real 1255 se explican sin teleología. El análisis es asistido por IA, sin dictamen externo. No se han reutilizado fotografías de derechos no comprobados.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-alarcos-1195",
   "topics": [
@@ -358,5 +358,8 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "feaab9a760b51608dd0bca13553efc38d58a407d982439457441df9a4a9f8891"
-  }
+  },
+  "publication_date": "2026-10-27",
+  "publication_time": "2026-10-27T16:40:35.044Z",
+  "publication_slot": "2026-10-27/extra-A-0014"
 }
