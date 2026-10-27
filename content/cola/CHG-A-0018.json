@@ -282,26 +282,32 @@
       "kind": "Fuente historiográfica militar retrospectiva digitalizada",
       "verified_at": "2026-10-27",
       "verification_note": "Consultados fragmentos indexados de análisis del Zadorra y del momento de retirada de Jourdan; no se identifica como diario contemporáneo ni se declara lectura íntegra."
-    },
-    {
-      "n": 12,
-      "name": "Historia del Museo del Ejército y del patrimonio español en Apsley House, síntesis institucional sobre botín de Vitoria",
-      "url": "https://ejercito.defensa.gob.es/museo/HECHOS_HISTORICOS/HECHOS_HISTORICOS/06.21_junio_LA_BATALLA_DE_VITORIA_-CONTRA_LAS_TROPAS_DE_NAPOLEON-.html",
-      "kind": "Referencia complementaria a una sección del Museo del Ejército",
-      "verified_at": "2026-10-27",
-      "verification_note": "Misma página que referencia n.º 1, usada únicamente para explicitar memorias de objetos de arte en el convoy; no constituye fuente independiente."
     }
   ],
   "related": [
     "CHG-A-0005"
   ],
   "editorial_note": "Revisión histórica con fuentes institucionales y estudios universitarios; fuentes académicas recientes (2025) solo estudiadas por ficha y resumen, sin falsa atribución de hallazgos materiales concretos; fragmentos de PDF institucional 2013 indexados y captura fallida, no lectura total. Se reconoce protagonismo español en flancos, contribución portuguesa, dimensiones de la guerra social y límites del triunfo; cifras aproximadas sin inventar censo. No hay dictamen académico externo.",
-  "status": "borrador",
+  "status": "revisado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-vitoria-1813",
   "topics": [
     "batallas-combates-y-asedios",
     "edad-contemporanea",
     "arqueologia-militar"
-  ]
+  ],
+  "last_reviewed": "2026-10-27",
+  "approval": {
+    "reviewer": "Revisión historiográfica y documental asistida por IA",
+    "date": "2026-10-27",
+    "notes": "Monografía original de 4.681 palabras, 16 apartados, 48 párrafos y 11 referencias distintas. Contraste del Museo del Ejército, guía archivística del CIDA, National Army Museum, estudio arqueológico UPV/EHU–CuPAUAM de 2025 (solo ficha y resumen), investigación militar de Revista de Historia Militar 2013 (extractos, PDF y captura no accesibles), Turismo Euskadi (extractos), estudio colectivo de la Real Sociedad Bascongada (índice), patrimonio y redes de archivos alaveses y estudios sobre historia social. Se identifica el papel de Morillo y Longa, estrategia logística de Wellington, fuerzas españolas-portuguesas-británicas, batalla del 21 junio 1813, saqueo de bagajes, prisioneros y continuación de la guerra. No se publican cifras falsamente precisas ni imágenes de derechos no comprobados; no hay arbitraje académico externo.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "c59c6ca84191ad54c48268e02317945ede1929a3e747d1cbf383594520af8fbd"
+  }
 }
