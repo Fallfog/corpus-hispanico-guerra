@@ -18,5 +18,10 @@
     "id": "CHG-A-0003",
     "at": "2026-10-27T10:15:04.871Z",
     "mode": "publicación editorial extraordinaria"
+  },
+  "2026-10-27/extra-P-0003": {
+    "id": "CHG-P-0003",
+    "at": "2026-10-27T10:51:09.164Z",
+    "mode": "excepción editorial extraordinaria solicitada; calendario automático sin cambios"
   }
 }

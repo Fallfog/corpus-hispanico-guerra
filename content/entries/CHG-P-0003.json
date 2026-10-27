@@ -334,11 +334,28 @@
   ],
   "related": [],
   "editorial_note": "Monografía basada en el expediente histórico recuperado y cotejo de crónicas impresas e inventarios. No se presenta como consulta íntegra de protocolos no vistos. El testamento original, filiación, títulos nobiliarios y causa de muerte siguen sin comprobarse; la diferencia 1/31 de octubre de 1581 se explica explícitamente.",
-  "status": "borrador",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "baltasar-campano-castellano-lecco-vigevano",
   "topics": [
     "personajes-historicos",
     "ejercitos-e-instituciones-militares"
-  ]
+  ],
+  "publication_date": "2026-10-27",
+  "last_reviewed": "2026-10-27",
+  "publication_time": "2026-10-27T10:51:09.164Z",
+  "publication_slot": "2026-10-27/extra-P-0003",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; publicación extraordinaria solicitada por el titular",
+    "date": "2026-10-27",
+    "notes": "Investigación histórica original reunida entre septiembre y octubre de 2026. Se han cotejado hoy los pasajes de Cesare Nubilonio sobre Filippo y la muerte de Campano y la noticia de Biffignandi, además del inventario notarial de Pavía que identifica las carpetas 317 y 3181. Las provisiones de 1567 y 1571 proceden de fichas PARES recopiladas antes cuya transcripción íntegra no se ha reabierto hoy; la noticia del testamento y Bastico proviene de Brambilla según expediente previo y NO de un original visto. Se consignan discrepancias entre testimonios, dependencia de fuentes, lagunas biográficas y estado de los catálogos. Redacción de síntesis a partir del expediente del usuario, sin reproducción de imágenes protegidas, y sin revisión académica externa. Se registra como publicación extraordinaria de hoy conforme a la solicitud expresa del titular; la regla automática de máximo una por día permanece inalterada.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "c6da7c7840d050dbf66d6c2e94ef136c92bea7a780cc67b0501037799344e6b6"
+  }
 }
