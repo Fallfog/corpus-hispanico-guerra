@@ -268,11 +268,28 @@
   ],
   "related": [],
   "editorial_note": "Investigación de síntesis con historia táctica y jurídica. Las cifras varían por fuentes y momentos. El decreto de 29/06/1707 fue decisión política posterior, no parte de la batalla. Se distinguen registro bibliográfico, resumen de tesis, estudio completo, museo, archivo y propaganda. Revisión académica externa pendiente.",
-  "status": "borrador",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-de-almansa-1707",
   "topics": [
     "batallas-combates-y-asedios",
     "campanas-y-operaciones"
-  ]
+  ],
+  "publication_date": "2026-10-27",
+  "publication_time": "2026-10-27T13:55:24.252Z",
+  "last_reviewed": "2026-10-27",
+  "publication_slot": "2026-10-27/extra-A-0007",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; publicación extraordinaria solicitada por el titular",
+    "date": "2026-10-27",
+    "notes": "Monografía original de 4.584 palabras sobre Almansa en 1707. Se consultaron el estudio completo de Guillermo Gracia Guinovart (Gracián 2025), su análisis de órdenes de batalla y una captura de la imagen, síntesis histórica municipal del Ayuntamiento de Almansa, catálogo PARES, descripción museística valenciana del ordenamiento foral, explicación jurídica institucional del Decreto de Nueva Planta, ficha del Prado y perspectiva del Mercian Regiment Museum; además de registro y resumen de tesis doctoral de Díaz-Paredes y ficha del artículo de Rosa María Alabrús. Las fuentes no examinadas íntegramente se etiquetan como tales. Se explican las variaciones de fuerzas y bajas y se separan batalla, conquista militar y Decreto de Nueva Planta de 29/06/1707. Redacción original, sin copias ni reproducción de fotografías protegidas. Revisión historiográfica externa no realizada. Publicación extraordinaria autorizada en continuidad con el encargo del usuario, sin modificar la regla automática de una monografía al día.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "73a701c4a741b49befb92476f33bfbc85977710146eda11ea7bf38bb7e2c33cb"
+  }
 }
