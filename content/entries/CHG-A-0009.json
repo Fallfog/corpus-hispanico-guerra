@@ -347,11 +347,28 @@
     "CHG-D-0002"
   ],
   "editorial_note": "Distingue el combate del 10 y el asalto del 27; Felipe II no dirigió tácticamente las cargas de Egmont; el contingente inglés adquiere relevancia en el sitio y asalto, no debe contarse íntegramente en la batalla del 10; fuentes de bajas no homogéneas; saqueo y víctimas civiles descritos sin falsa precisión; El Escorial tuvo función dinástica anterior a la victoria. Consulta de fuentes diferenciada y sin dictamen externo.",
-  "status": "borrador",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-san-quintin-1557",
   "topics": [
     "batallas-combates-y-asedios",
     "campanas-y-operaciones"
-  ]
+  ],
+  "publication_date": "2026-10-27",
+  "publication_time": "2026-10-27T14:23:30.133Z",
+  "last_reviewed": "2026-10-27",
+  "publication_slot": "2026-10-27/extra-A-0009",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; publicación extraordinaria solicitada por el titular",
+    "date": "2026-10-27",
+    "notes": "Monografía original de 5.446 palabras y 19 apartados con 16 referencias catalogadas. Se consultó texto accesible de Guillermo Calleja Leal (La Coronelía del Ejército 2004, pp. 45–74) y la síntesis completa de EBSCO y la Société Académique de Saint-Quentin, con contraste de Museo del Ejército, investigación reciente de Eduardo de Mesa (pasajes indexados), Valenzuela Cordero (ficha y resumen), Redworth (ficha académica), fuentes patrimoniales y registrales PARES y estudios de El Escorial. Cada fuente indica alcance de consulta; los PDFs no accesibles completos y fondos archivísticos no transcritos se identifican sin fingir lectura. Se distingue 10 de agosto de 27 de agosto; no se atribuye al monarca mando táctico en el combate; se diferencian participación inglesa en asalto y ejército inicial; cifras divergentes de pérdidas se conservan atribuidas; se examinan violencia del saqueo y finalidades plurales de El Escorial. Redacción original sin reutilización de imágenes protegidas y sin revisión académica externa. Publicación extraordinaria solicitada en secuencia editorial, sin modificar programación diaria prevista de Pavía.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "a6de947896ee7b9a04a9d88ddf2758d0e68bc05c3c78fdcdad28109a0d6c8acc"
+  }
 }
