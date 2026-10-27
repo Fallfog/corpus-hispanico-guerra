@@ -368,12 +368,26 @@
     "CHG-A-0014"
   ],
   "editorial_note": "Monografía extensa de historia colonial y militar. No presenta Annual como batalla aislada. Fechas Abarrán 1/6, Igueriben 21/7, retirada de Annual 22/7, Sidi Dris y Dar Quebdani 25/7, cerco Monte Arruit fines julio-9/8 (fichas de autoridad prolongan intervalo), recuperación octubre y cautivos liberados enero 1923. Distingue matanzas después de rendiciones y guerra colonial; analiza dirigente Abd el-Krim sin reducir a caricatura. La RAH advierte que total de muertos desconocido: 13.000 en estadillos de Picasso vs máximo 7.915 en análisis Caballero Poveda 1983; otras síntesis ~10.000. Expediente completo no leído directamente; libro BOE 2021 reproduce resumen editado 1931; referencias de AHN por catálogo. No presenta como acreditado telegrama de Alfonso XIII no conservado. Investigación asistida sin revisión académica externa, fotografías de fallecidos no reproducidas.",
-  "status": "borrador",
+  "status": "revisado",
   "not_before": "2026-10-27",
   "topic_key": "desastre-annual-1921",
   "topics": [
     "batallas-combates-y-asedios",
     "historia-colonial",
     "edad-contemporanea"
-  ]
+  ],
+  "last_reviewed": "2026-10-27",
+  "approval": {
+    "reviewer": "Revisión documental e historiográfica asistida por IA, publicación extraordinaria solicitada por titular",
+    "date": "2026-10-27",
+    "notes": "Monografía de Annual (1921) original, 6.359 palabras, 20 apartados, 60 párrafos y 17 referencias con alcance de consulta explicitado. Se consultó cronología extensa RAH y sus fuentes; AHN exposición y PARES por registro, BOE edición 2021 del resumen publicado en 1931 por ficha/fragmentos indexados (PDF completo no accesible, 628 páginas; no afirmar lectura íntegra de originales). Bibliografía especializada Madariaga, Velasco de Castro, Alía Miranda, Iglesias-Amorín/Velasco, Pack, Caballero Echevarría, Díez Rioja (2026), Guerrero, y Treviño Ruiz con notas de alcance parcial cuando procede. Se distinguen Abarrán (1/6), Igueriben (21/7), retirada (22/7), pérdida de posiciones y Monte Arruit (9/8), cautiverio hasta enero 1923. Documenta matanzas de rendidos y contexto colonial sin minimizar víctimas ni adoptar interpretaciones nacionales monolíticas. La cifra total de muertos queda indeterminada; divergencia 13.000 en expedientes vs máximo 7.915 estimado RAH/Caballero Poveda se atribuye. No se considera acreditado rumor telegráfico sobre Alfonso XIII. No hay arbitraje de especialista externo. Se prescinde de imágenes violentas o con licencia no verificada. No se modifica Pavía CHG-A-0004 prevista 28/10.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "e4e3eb6322b238e468d4f1fb3749a920a2e3d4eb6835c6b0b0f1629aa7f81223"
+  }
 }
