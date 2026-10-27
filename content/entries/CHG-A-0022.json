@@ -123,7 +123,7 @@
     {
       "heading": "Mandos españoles: De las Morenas, Zayas y Martín Cerezo",
       "paragraphs": [
-        "Enrique de las Morenas fue el capitán responsable de la posición durante una parte esencial del encierro. El Museo del Ejército conserva referencias materiales a su servicio, incluido un bastón de mando relacionado con Baler, e identifica su fallecimiento el 22 de noviembre de 1898 después de una enfermedad prolongada. Los objetos de museo permiten reconocer a un protagonista y la cultura institucional de su recuerdo, pero no sustituyen por sí mismos un diario de operaciones. Su muerte supuso una pérdida directa de autoridad y experiencia en circunstancias de extrema fatiga. [2][12]",
+        "Enrique de las Morenas fue el capitán responsable de la posición durante una parte esencial del encierro. El Ejército de Tierra español recoge su fallecimiento el 22 de noviembre de 1898, después de meses en que las enfermedades habían reducido la capacidad del destacamento. Los homenajes contemporáneos recuerdan su servicio, pero no sustituyen por sí mismos un diario de operaciones ni explican de manera exhaustiva cada decisión que tomó. Su muerte supuso una pérdida directa de autoridad y experiencia en circunstancias de extrema fatiga, en las que la continuidad del mando era un problema operativo y humano de primera importancia. [18]",
         "Juan Alonso Zayas, que aparece entre los oficiales de la expedición, murió también durante el sitio. Saturnino Martín Cerezo asumió finalmente el mando y quedó asociado al relato que se impondría con mayor fuerza en España. Su libro de 1904, El sitio de Baler: notas y recuerdos, es una fuente de primera importancia porque procede de alguien que participó en la defensa. Precisamente por esa proximidad necesita crítica: un jefe que narra sus decisiones conoce muchos hechos de primera mano, pero escribe después de enfrentarse al juicio público y a las consecuencias de su actuación. [2][4][13]",
         "El médico Rogelio Vigil de Quiñones desempeñaba un cometido diferente: atender enfermos y heridos en un lugar donde los recursos sanitarios eran limitados. La asistencia médica no podía compensar de forma indefinida las carencias nutritivas ni asegurar condiciones higiénicas adecuadas. La relevancia de los oficios de sanidad, mantenimiento y vigilancia aparece con claridad cuando se deja de contar el asedio como una sucesión de disparos. El mando sobrevivía gracias a una pequeña comunidad de trabajo cuyos integrantes no compartían la misma responsabilidad en las decisiones políticas o disciplinarias. [2][4][11]"
       ]
@@ -189,7 +189,7 @@
       "paragraphs": [
         "Salir de la iglesia no significaba encontrarse de inmediato a salvo en Manila. El destacamento debía desplazarse por una región donde la autoridad y la seguridad de los caminos habían cambiado, acompañado por fuerzas vinculadas al bando que lo había sitiado. La protección pactada era por ello una obligación material de los vencedores, además de una cláusula escrita. Para los soldados físicamente debilitados, realizar la marcha exigía alimentación y capacidad de desplazamiento después de meses de encierro. Las ceremonias posteriores han tendido a destacar el momento de la salida más que las dificultades del regreso. [1][11][13]",
         "La situación de los religiosos complicó el cierre de la historia. Investigaciones recientes sobre los franciscanos señalan que dos de ellos no obtuvieron la libertad automáticamente con la capitulación militar. La diferencia muestra que una victoria o un acuerdo local no clausuran todos los cautiverios ni resuelven las disputas sobre personal religioso. Además, los revolucionarios filipinos seguían combatiendo contra Estados Unidos, por lo que el desplazamiento de prisioneros y las negociaciones no se desarrollaban en un territorio pacificado. [6][15]",
-        "El regreso posterior de supervivientes a España estuvo rodeado de reconocimiento público, pero la recepción no debe proyectarse hacia atrás como prueba de unanimidad durante el sitio. El texto contemporáneo y las imágenes recogidas por el Museo Oriental de Valladolid documentan la llegada y la interpretación de la prensa española de 1899. Leer esas piezas como testimonios de recepción social es legítimo; emplearlas como parte de guerra sin crítica sería incorrecto. La construcción de una memoria heroica empezó casi al mismo tiempo que el retorno de los protagonistas. [2][12]"
+        "El regreso posterior de supervivientes a España estuvo rodeado de reconocimiento público, pero la recepción no debe proyectarse hacia atrás como prueba de unanimidad durante el sitio. La prensa de septiembre de 1899, reproducida parcialmente en la exposición didáctica del Museo Oriental de Valladolid, documenta la llegada de los supervivientes al puerto de Barcelona y el modo en que se presentó su resistencia ante los lectores de la época. Las conmemoraciones posteriores del Ejército español también forman parte de esa memoria. Son testimonios valiosos sobre la recepción social, pero no partes de guerra que deban aceptarse sin crítica. [12][19]"
       ]
     },
     {
@@ -361,6 +361,22 @@
       "kind": "Declaración oficial primaria sobre ratificaciones del Tratado de París, publicada por el Departamento de Estado",
       "verified_at": "2026-10-28",
       "verification_note": "Consultada transcripción HTML que fecha ratificación del Senado estadounidense 06-02-1899, española 19-03-1899 e intercambio 11-04-1899; se usa como constancia documental estadounidense, no como versión imparcial de legitimidad filipina."
+    },
+    {
+      "n": 18,
+      "name": "Ejército de Tierra de España, «El coronel José Fernando Navas Ramírez-Cuzado imparte la conferencia 'Los últimos de Filipinas'» (2019)",
+      "url": "https://ejercito.defensa.gob.es/unidades/Coruna/mando_apoyo_maniobra/Noticias/2019/011.html",
+      "kind": "Noticia institucional sobre memoria militar, mandos y muerte del capitán De las Morenas",
+      "verified_at": "2026-10-28",
+      "verification_note": "Leído texto HTML que recuerda el fallecimiento de Enrique de las Morenas el 22 de noviembre de 1898, la asunción del mando por Martín Cerezo y salida de 33 militares el 2-06-1899. Se trata de conmemoración, no documento contemporáneo."
+    },
+    {
+      "n": 19,
+      "name": "Museo Oriental de Valladolid, «El destacamento de Baler, los últimos de Filipinas», exposición didáctica",
+      "url": "https://www.museo-oriental.es/ver_didactica.asp?clave=140&loc=0",
+      "kind": "Material museográfico y transcripción parcial de crónica periodística de 1899",
+      "verified_at": "2026-10-28",
+      "verification_note": "Consultado extracto indexado de la muestra: fotografía y noticia de La Ilustración Española y Americana del 8-09-1899 sobre llegada a Barcelona. La página devolvió error de codificación al abrirse completamente, por lo que no se afirma haber examinado imágenes o toda la transcripción."
     }
   ],
   "related": [
@@ -383,7 +399,7 @@
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; publicación extraordinaria solicitada por el titular",
     "date": "2026-10-28",
-    "notes": "Monografía Baler de 5503 palabras, 20 apartados, 60 párrafos referenciados y 17 fuentes. Se leyeron registro íntegro de placas NHCP, texto legal filipino RA9187, guías Library of Congress, transcripción HTML de Revista Filipina y descripciones institucionales. La memoria de Martín Cerezo, el manuscrito de Buades y estudios PDF citados no han sido leídos íntegramente: sólo fichas/resúmenes y extractos indexados, declarado en cada fuente. Perspectivas española y filipina, marco colonial, supervivientes militares/religiosos, fechas divergentes y ejecución de desertores. Sin arbitraje académico externo, imágenes propias ausentes y sin reproducción no autorizada.",
+    "notes": "Monografía original Baler 1898–1899: 5522 palabras, 20 secciones, 60 párrafos y 19 fuentes, con revisión documental asistida. Contraste registros NHCP, legislación de Filipinas, Library of Congress, Biblioteca Virtual de Defensa, revista académica RUHM y estudios sobre religiosos/desertores; se accedió a textos HTML y a fichas/resúmenes identificados expresamente. No se han leído completos libros originales ni PDF; datos no verificados no se inventan. Se distinguen 27/30 junio 1898, 33 militares y 2 religiosos, conflicto colonial y guerra con Estados Unidos; se mencionan ejecuciones y controversias de fecha Aguinaldo. Sin revisión académica externa.",
     "checks": {
       "hechos_contrastados": true,
       "bibliografia_verificada": true,
@@ -391,6 +407,6 @@
       "originalidad_y_derechos": true,
       "profundidad_suficiente": true
     },
-    "content_sha256": "0491e82f25088a07af3f913d166ef0af1597338c4eaefc8cd95ffb18bb71791b"
+    "content_sha256": "4a424b0c7de87e0c8ed0d280a12d502d192c8dbee564c5f741102c08ba70b05d"
   }
 }
