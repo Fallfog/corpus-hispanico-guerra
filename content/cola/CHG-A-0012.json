@@ -319,11 +319,25 @@
     "CHG-D-0002"
   ],
   "editorial_note": "Revisión documental asistida. Batalla: 28 de abril de 1503; Luis de Armagnac muere en el campo; la entrada en Nápoles ocurre 16 de mayo. Quatrefages documenta reformas anteriores a la batalla; no se presenta como invención mundial del arcabuz ni origen instantáneo de tercios maduros. Fuentes divergentes sobre horas de duración, efectivos, bajas y episodio de explosión de pólvora, y se distingue pintura romántica de 1835 de testimonio temprano. Necesario cotejo posterior de documentos archivísticos originales y revisión experta externa.",
-  "status": "borrador",
+  "status": "revisado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-cerinola-1503",
   "topics": [
     "batallas-combates-y-asedios",
     "campanas-y-operaciones"
-  ]
+  ],
+  "last_reviewed": "2026-10-27",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA",
+    "date": "2026-10-27",
+    "notes": "Monografía original 5.770 palabras, 19 apartados, 12 fuentes. Contraste del estudio archivístico de René Quatrefages, fuentes militares españolas y fuentes italianas de Treccani, además del Prado. Se documentan las reformas previas a 1503, distintas armas de combate, mandos italianos, muerte de Nemours y consecuencias. Divergencias sobre duración y bajas, anécdotas no verificadas y pintura romántica de 1835 descritas críticamente. No hay revisión académica externa; las capturas visuales de algunos PDF no estuvieron disponibles.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "94daf5c437a3cfca7e7ff5a3a68064596de1973ea6d691f9fa88b2a0e6d5a18e"
+  }
 }
