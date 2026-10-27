@@ -214,12 +214,29 @@
   ],
   "related": [],
   "editorial_note": "Monografía de investigación y síntesis documental asistida. Evita cifras únicas controvertidas y atribuciones personales no demostradas. No equivale a revisión académica externa; la cartografía histórica se describe sin republicar imágenes con derechos no aclarados.",
-  "status": "borrador",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "sitio-de-cartagena-de-indias-1741",
   "topics": [
     "batallas-combates-y-asedios",
     "historia-naval",
     "campanas-y-operaciones"
-  ]
+  ],
+  "publication_date": "2026-10-27",
+  "publication_time": "2026-10-27T10:15:04.871Z",
+  "last_reviewed": "2026-10-27",
+  "publication_slot": "2026-10-27/extra-A-0003",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; autorización editorial previa del titular",
+    "date": "2026-10-27",
+    "notes": "Síntesis historiográfica original. Se comprobaron el estudio de Serrano Álvarez (Vegueta), el análisis de Lorén Garay (Revista de Historia Naval), las fichas del Museo Naval y cartografía británica del XVIII. El catálogo AGI SANTA_FE,1021 se usa solo como referencia de localización, sin afirmar haber leído el fondo primario entero. Se distinguen contradicciones de mandos, cifras de buques, efectos sanitarios e hipótesis sobre las intenciones de los atacantes. No se reproducen imágenes ni fragmentos protegidos. Revisión académica externa aún no realizada. Publicación en continuidad con autorización previa del titular.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "d0c8f6195f1ad8040b49c6d5fd83340e54827c6dd3b4f3d4683d2777be6dc9fe"
+  }
 }
