@@ -238,11 +238,24 @@
     "CHG-D-0002"
   ],
   "editorial_note": "La batalla no representa el fin instantáneo de la caballería ni el nacimiento acabado de los tercios. Se distinguen cartas de archivo, relación de participante, fichas bibliográficas y conferencia divulgativa. No se fijan bajas/effectivos como cifras indiscutibles. Revisión histórica externa pendiente.",
-  "status": "borrador",
+  "status": "revisado",
   "not_before": "2026-10-28",
   "topic_key": "batalla-de-pavia-1525",
   "topics": [
     "batallas-combates-y-asedios",
     "campanas-y-operaciones"
-  ]
+  ],
+  "approval": {
+    "reviewer": "Revisión documental asistida; publicación autorizada por el titular del Corpus",
+    "date": "2026-10-27",
+    "notes": "Se han contrastado fecha, campaña, guarnición y cautiverio con Archivo General de Simancas y Archivo Histórico de la Nobleza; se han revisado registros y resúmenes académicos de Segura García, Dueñas Beraiz, Alonso Baquer y Conti, además de ficha museística y conferencia de Maffi. Las fichas bibliográficas se distinguen de la consulta de estudios completos; no se presume haber leído los PDFs no consultados ni visionado toda la conferencia. El manuscrito incorpora dudas sobre efectivos, fases del combate y mérito de la captura. Redacción original y sin ilustraciones ni citas extensas protegidas. No existe revisión académica externa; la publicación queda registrada como revisión documental asistida. Publicación expresamente solicitada por el titular, sujeto al máximo de una monografía diaria.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "c9d7d75e1867c9f200e4c2020269fa5bad5f13c2ca0633f21776f0fb0d740a27"
+  }
 }
