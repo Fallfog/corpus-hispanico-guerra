@@ -39,3 +39,21 @@ def validate(d):
         if a.get('content_sha256') != digest(d): return False,'El texto cambió después de la revisión'
         return True,''
     except (KeyError,TypeError,ValueError): return False,'Estructura editorial inválida'
+
+# Estándar prospectivo: se aplica a la cola editorial, no revalida retroactivamente
+# las fichas antiguas ya publicadas. Cantidad no sustituye al juicio documental.
+MIN_MONOGRAPH_WORDS = 3000
+MIN_MONOGRAPH_SOURCES = 5
+MIN_MONOGRAPH_SECTIONS = 8
+
+def validate_monograph(d):
+    sections = d.get('sections') or []
+    sources = d.get('sources') or []
+    words = sum(len(p.split()) for s in sections for p in s.get('paragraphs', []))
+    if len(sections) < MIN_MONOGRAPH_SECTIONS:
+        return False, f'Monografía insuficiente: menos de {MIN_MONOGRAPH_SECTIONS} apartados'
+    if words < MIN_MONOGRAPH_WORDS:
+        return False, f'Monografía insuficiente: menos de {MIN_MONOGRAPH_WORDS} palabras'
+    if len(sources) < MIN_MONOGRAPH_SOURCES:
+        return False, f'Bibliografía insuficiente: menos de {MIN_MONOGRAPH_SOURCES} fuentes'
+    return True, ''

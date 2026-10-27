@@ -8,7 +8,7 @@ class Editorial(unittest.TestCase):
   self.tmp=tempfile.TemporaryDirectory();self.addCleanup(self.tmp.cleanup);self.r=pathlib.Path(self.tmp.name)
   (self.r/'content/cola').mkdir(parents=True);(self.r/'content/entries').mkdir()
   save(self.r/'editorial/config.json',{'paused':False});save(self.r/'editorial/publications.json',{})
-  self.d={'id':'CHG-A-9999','slug':'prueba-controlada','topic_key':'prueba-controlada','title':'PRUEBA SINTÉTICA NO HISTÓRICA','category':'Acciones militares','period':'Antigüedad','era':'prueba','date':'prueba','location':'prueba','summary':'prueba','facts':[['Tipo','Prueba']], 'sections':[{'heading':str(i),'paragraphs':[('prueba '*210)+' [1][2]']} for i in range(3)],'sources':[{'n':i,'name':'Fuente sintética de prueba','kind':'Prueba','url':'https://example.org/'+str(i),'verified_at':'2026-10-27','verification_note':'Dato sintético, nunca publicar en producción'} for i in (1,2)],'editorial_note':'Prueba local','keywords':[],'eyebrow':'Prueba','related':[],'chronology':0,'status':'revisado'}
+  self.d={'id':'CHG-A-9999','slug':'prueba-controlada','topic_key':'prueba-controlada','title':'PRUEBA SINTÉTICA NO HISTÓRICA','category':'Acciones militares','period':'Antigüedad','era':'prueba','date':'prueba','location':'prueba','summary':'prueba','facts':[['Tipo','Prueba']], 'sections':[{'heading':str(i),'paragraphs':[('prueba '*380)+' [1][2]']} for i in range(8)],'sources':[{'n':i,'name':'Fuente sintética de prueba','kind':'Prueba','url':'https://example.org/'+str(i),'verified_at':'2026-10-27','verification_note':'Dato sintético, nunca publicar en producción'} for i in range(1,6)],'editorial_note':'Prueba local','keywords':[],'eyebrow':'Prueba','related':[],'chronology':0,'status':'revisado'}
   self.approve(self.d);self.now=dt.datetime(2026,10,27,9,tzinfo=dt.timezone.utc)
  def approve(self,d):
   d['approval']={'reviewer':'REVISOR SINTÉTICO DE TEST','date':'2026-10-27','notes':'Solo simulación','checks':dict.fromkeys(CHECKS,True),'content_sha256':digest(d)}
@@ -28,6 +28,25 @@ class Editorial(unittest.TestCase):
   save(self.r/'editorial/config.json',{'paused':True});self.queue();self.assertEqual(run(self.r,'09:17',self.now)['result'],'paused')
  def test_invalid_json(self):
   (self.r/'content/cola/test.json').write_text('{');self.assertEqual(run(self.r,'09:17',self.now)['result'],'empty_or_held')
+ def test_one_per_day_even_across_slots(self):
+  self.queue()
+  self.assertEqual(run(self.r,'09:17',self.now)['result'],'published')
+  later=dt.datetime(2026,10,27,21,0,tzinfo=dt.timezone.utc)
+  self.assertEqual(run(self.r,'21:17',later)['result'],'already_published')
+ def test_evening_accepts_any_category(self):
+  self.queue()
+  now=dt.datetime(2026,10,27,21,0,tzinfo=dt.timezone.utc)
+  self.assertEqual(run(self.r,'21:17',now,True)['result'],'would_publish')
+ def test_minimum_length(self):
+  self.d['sections']=self.d['sections'][:3]
+  self.approve(self.d);self.queue()
+  result=run(self.r,'09:17',self.now)
+  self.assertEqual(result['result'],'empty_or_held')
+  self.assertTrue(result['held'])
+ def test_minimum_sources(self):
+  self.d['sources']=self.d['sources'][:2]
+  self.approve(self.d);self.queue()
+  self.assertEqual(run(self.r,'09:17',self.now)['result'],'empty_or_held')
  def test_missing_verification(self):
   del self.d['sources'][0]['verification_note'];self.approve(self.d);self.assertFalse(validate(self.d)[0])
  def test_summer_winter(self):

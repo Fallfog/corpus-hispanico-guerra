@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Una ficha aprobada por franja y día; cola vacía no publica ni inventa."""
+"""Máximo una monografía aprobada al día; sin reserva no se inventa contenido."""
 import argparse
 import datetime as dt
 import json
 import os
 from pathlib import Path
 from zoneinfo import ZoneInfo
-from editorial import CATEGORIES, validate
+from editorial import CATEGORIES, validate, validate_monograph
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -23,7 +23,9 @@ def run(root,slot,now=None,dry_run=False):
     date=now.date().isoformat(); key=date+'/'+slot
     ledger_path=root/'editorial/publications.json'
     ledger=json.loads(ledger_path.read_text())
-    if key in ledger: return {'result':'already_published','slot':key}
+    # Incluye las ediciones extraordinarias y cualquier franja antigua del mismo día.
+    if any(str(k).startswith(date+'/') for k in ledger):
+        return {'result':'already_published','slot':key}
     records=[json.loads(p.read_text()) for p in (root/'content/entries').glob('*.json')]
     keys={k:{d.get(k) for d in records} for k in ('id','slug','topic_key')}
     history=root/'editorial/inventory.json'
@@ -34,8 +36,11 @@ def run(root,slot,now=None,dry_run=False):
     for path in sorted((root/'content/cola').glob('*.json')):
         try: d=json.loads(path.read_text())
         except (ValueError,UnicodeError): held.append({'file':path.name,'reason':'JSON inválido'}); continue
-        if d.get('category')!=CATEGORIES[slot]: continue
+        # La única ejecución programada (21:17) admite todas las secciones.
+        # Se conservan las franjas antiguas para pruebas y compatibilidad manual.
+        if slot!='21:17' and d.get('category')!=CATEGORIES[slot]: continue
         valid,reason=validate(d)
+        if valid: valid,reason=validate_monograph(d)
         if not valid: held.append({'file':path.name,'reason':reason}); continue
         if d.get('not_before','')>date: continue
         if any(d[k] in keys[k] for k in keys): held.append({'file':path.name,'reason':'Identidad o tema duplicado'}); continue
@@ -53,7 +58,7 @@ def run(root,slot,now=None,dry_run=False):
 
 def main():
     p=argparse.ArgumentParser();p.add_argument('--slot',choices=list(CATEGORIES));p.add_argument('--dry-run',action='store_true');a=p.parse_args()
-    slot=a.slot or {'17 9 * * *':'09:17','17 15 * * *':'15:17','17 21 * * *':'21:17'}.get(os.getenv('SCHEDULE'))
+    slot=a.slot or {'17 21 * * *':'21:17'}.get(os.getenv('SCHEDULE'))
     if not slot: p.error('Indica --slot; la ejecución manual no elige franja implícitamente')
     result=run(ROOT,slot,dry_run=a.dry_run);print(json.dumps(result,ensure_ascii=False))
     if os.getenv('GITHUB_STEP_SUMMARY'):
