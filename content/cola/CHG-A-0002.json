@@ -79,11 +79,11 @@
     },
     {
       "n": 2,
-      "name": "Biblioteca Virtual de Defensa, autoridad «Batalla de las Navas de Tolosa, 1212»",
-      "url": "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/consulta_aut/registro.do?control=BMDA20150060839",
-      "kind": "Repertorio bibliográfico institucional",
+      "name": "Francisco García Fitz, «Las Navas de Tolosa. La batalla del castigo» (2024), noticia bibliográfica de Universidad de Extremadura",
+      "url": "https://comunicacion.unex.es/2024/04/05/el-historiador-francisco-garcia-fitz-publica-una-nueva-edicion-actualizada-de-su-obra-201clas-navas-de-tolosa-la-batalla-del-castigo201d/",
+      "kind": "Referencia académica institucional",
       "verified_at": "2026-10-27",
-      "verification_note": "La ficha fue localizada mediante índice público; se verificó la identificación normalizada del acontecimiento y el contexto general, sin atribuirle una reconstrucción pormenorizada."
+      "verification_note": "Consultada noticia institucional de la Universidad de Extremadura acerca de la edición de 2024; se comprueban fecha, participantes y marco de investigación, no el contenido completo del libro."
     },
     {
       "n": 3,
@@ -91,7 +91,7 @@
       "url": "https://www.tandfonline.com/doi/abs/10.1080/17546559.2012.677174",
       "kind": "Artículo académico revisado por pares",
       "verified_at": "2026-10-27",
-      "verification_note": "Se consultó la ficha bibliográfica y el resumen accesible; confirma el objeto de estudio de las reacciones y celebraciones diplomáticas e historiográficas. No se accedió al texto íntegro."
+      "verification_note": "Consultada ficha de la revista Journal of Medieval Iberian Studies, con DOI y resumen accesibles; verifica enfoque sobre reacciones y celebraciones en documentos castellanos. No se ha accedido al texto completo."
     }
   ],
   "related": [],
