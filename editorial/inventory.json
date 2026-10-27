@@ -124,5 +124,12 @@
     "topic_key": "batalla-cerinola-1503",
     "title": "Ceriñola, 1503: el Gran Capitán, las armas de fuego y la transformación del combate",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0013",
+    "slug": "batalla-del-garellano-1503-gran-capitan-cruce-del-rio",
+    "topic_key": "batalla-garellano-1503",
+    "title": "Garellano, 1503: el invierno, el cruce del río y la victoria en Nápoles",
+    "category": "Acciones militares"
   }
 ]
