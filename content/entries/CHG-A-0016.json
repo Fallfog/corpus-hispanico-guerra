@@ -352,7 +352,7 @@
     "CHG-A-0002"
   ],
   "editorial_note": "Revisión documental preliminar: monografía de Antigüedad sobre Ilipa 206 a. C. con fuentes primarias Polibio XI 20–24 (leído), Livio XXVIII 12–16 (leído) y Apiano Ibéricas 24–27 (leído en traducción), bibliografía Millán León 1986, Scullard 1936 y Hoyos 2002 en ficha y extractos, trabajos de Quesada, Padilla, García Fernández y Rodríguez y fuentes institucionales. Identifica las variantes Silpia/Elinga/Ilipa y no da por probada posición en Alcalá del Río. Reconoce propuesta cronológica 207 vs mayoría 206 y errata 209 del Tesauro. No confunde Asdrúbal Giscón con Asdrúbal Barca. No trata efectivos antiguos como censos reales ni narra formación de cohortes como innovación institucional fechada. Presenta fundación de Itálica en contexto indígena y evita anacronismo español. Sin reproducción de imágenes ajenas ni dictamen externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "batalla-ilipa-206-ac",
   "topics": [
@@ -373,5 +373,8 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "52cc8ac601dab3c096eda79c3dd3d8a555ded1a8b11443d4118086df72845767"
-  }
+  },
+  "publication_date": "2026-10-27",
+  "publication_time": "2026-10-27T17:36:11.024Z",
+  "publication_slot": "2026-10-27/extra-A-0016"
 }
