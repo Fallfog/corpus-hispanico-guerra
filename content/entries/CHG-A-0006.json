@@ -237,11 +237,28 @@
   ],
   "related": [],
   "editorial_note": "Distinguir la batalla de 1797 de la del mismo cabo en 1780; diferenciar número inicial de navíos y fuerza efectiva, así como fuentes impresas y museos. Revisión externa pendiente.",
-  "status": "borrador",
+  "status": "publicado",
   "not_before": "2026-10-27",
   "topic_key": "combate-cabo-san-vicente-1797",
   "topics": [
     "batallas-combates-y-asedios",
     "historia-naval"
-  ]
+  ],
+  "publication_date": "2026-10-27",
+  "publication_time": "2026-10-27T11:36:17.498Z",
+  "last_reviewed": "2026-10-27",
+  "publication_slot": "2026-10-27/extra-A-0006",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; publicación extraordinaria solicitada por el titular",
+    "date": "2026-10-27",
+    "notes": "Monografía de 3.617 palabras basada en investigación de José Ignacio González-Aller Hierro del Instituto de Historia y Cultura Naval, contextualización de Julio Albert, estudio identificado de O'Donnell, Museo Naval de Madrid y ficha histórica completa de Royal Museums Greenwich, Revista de Historia Naval y tradición conmemorativa de Martín Álvarez. Se examinaron reconstrucciones de la maniobra y consejo de guerra. Las fuentes no íntegramente consultadas quedan identificadas en sus notas individuales. Se diferencia victoria británica, resistencia de buques españoles y circunstancias de las sanciones; se citan divergencias de bajas y número inicial de buques. Redacción original; sin imágenes reproducidas ni dictamen académico externo. Publicación excepcional fuera del calendario diario a solicitud expresa del titular; no altera el límite automático de una monografía diaria.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "530e5d00aac5059a24f58df0d2819f17d9686aa8b490f9971b9ad2dc8ec6e914"
+  }
 }
