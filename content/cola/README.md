@@ -1,3 +1,3 @@
 # Cola editorial
 
-Archivos JSON en estado borrador o revisado. La web no publica esta carpeta. Consulte la administración en el README de la raíz. Actualmente no hay fichas nuevas aprobadas. Los textos generados por cualquier integración futura deben entrar como borradores, sin acta de aprobación.
+Archivos JSON en estado borrador o revisado. La web no publica esta carpeta. Consulte la administración en el README de la raíz. La disponibilidad cambia en cada ciclo de quince minutos. Las fichas marcadas como revisado y con aprobación íntegra podrán ser publicadas por el calendario; el repositorio no genera automáticamente artículos dentro de GitHub. Para comprobar el estado real, consultar los archivos JSON presentes en esta carpeta, editorial/publications.json y las ejecuciones de GitHub Actions. Los textos generados por cualquier integración futura deben entrar como borradores, sin acta de aprobación.
