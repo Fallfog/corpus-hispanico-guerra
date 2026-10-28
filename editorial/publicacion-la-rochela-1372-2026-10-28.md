@@ -40,4 +40,14 @@
 
 ## Verificación del despliegue
 
-Pendiente de anotar el resultado comprobado de las GitHub Actions y Cloudflare Workers Builds posteriores a este commit. La existencia del archivo en GitHub no prueba por sí sola que el Worker público se haya actualizado.
+**Validación completa y despliegue de producción confirmado.**
+
+- GitHub Actions, «Verificar Corpus»: `success`, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40727447077
+- GitHub Actions, «Compilar web estática»: `success`, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40727447114
+- Commit editorial original: `d344e5e8fa20c4142cb486bac4460d1466deb981`.
+- Corrección de colisión editorial: `8eb7e9407ed557c1e697384fef0975996510539f`; se conservó la distinta monografía Kinsale como `content/cola/CHG-A-0042.json` con su hash recalculado.
+- Commit que generó el HTML: `4c747f8954ad4079aa889d5ca7d3b10d6ee845ea`.
+- Cloudflare Workers Builds, producción: **`success`**, https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/9942e3d7-2990-4112-8d7f-1b1cad072b7d
+- Versión de producción comunicada: `7f853755-89e4-4ea0-b90f-84dd888acbeb`.
+- Comprobados `dist/articulos/batalla-naval-la-rochela-1372-ambrosio-bocanegra-castilla-inglaterra/index.html`, el enlace desde `dist/archivo/index.html` y la cronología.
+- Límite de verificación: se confirmó el despliegue en Cloudflare, pero el hostname público concreto del Worker no figura documentado en el repositorio; no se atribuye comprobación independiente de apertura en una URL pública.
