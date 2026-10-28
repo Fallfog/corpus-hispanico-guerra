@@ -264,5 +264,12 @@
     "topic_key": "batalla-maipu-1818",
     "title": "Maipú, 1818: San Martín, Osorio y la batalla que aseguró la independencia de Chile",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0033",
+    "slug": "combate-cavite-bahia-manila-1898-montojo-dewey-filipinas",
+    "topic_key": "combate-cavite-1898",
+    "title": "Cavite, 1898: Montojo, Dewey y la batalla que cambió el destino de Filipinas",
+    "category": "Acciones militares"
   }
 ]
