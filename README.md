@@ -4,8 +4,8 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 
 ## Estado real
 
-- **53 monografías publicadas al 28-10-2026**. La última es La Rochela 1372 (CHG-A-0041), con 4.933 palabras, 16 apartados y 9 fuentes. Se mantienen al menos 3.000 palabras, ocho apartados y cinco fuentes por ficha. Ver actas en `editorial/`. Las revisiones documentales son asistidas por IA, sin arbitraje académico externo.
-- **Cola editorial:** sin monografías revisadas pendientes tras publicar Curalaba CHG-A-0036, Alhucemas CHG-A-0037 y Flotas y galeones CHG-D-0004. No se generan investigaciones automáticamente.
+- **54 monografías publicadas al 28-10-2026**. La última es Kinsale 1601–1602 (CHG-A-0042), con 4.226 palabras, 16 apartados y 9 fuentes. Se mantienen al menos 3.000 palabras, ocho apartados y cinco fuentes por ficha. Ver actas en `editorial/`. Las revisiones documentales son asistidas por IA, sin arbitraje académico externo.
+- **Cola editorial:** sin monografías revisadas pendientes tras la publicación manual de Kinsale CHG-A-0042; las fichas revisadas se publican únicamente bajo solicitud expresa. No se generan investigaciones automáticamente.
 - **Publicación solo manual cuando el titular la solicite**: flujo investigación → contraste de fuentes → monografía → revisión → GitHub → validación y compilación → comprobación de Cloudflare Workers. El cron automático de 15 minutos se ha retirado de `.github/workflows/publicar.yml` y la configuración queda pausada (`editorial/config.json`). La comprobación de GitHub y Cloudflare se hace en cada entrega.
 - Generación autónoma: desactivada. No se ha contratado ninguna API.
 - El hecho de tener estos archivos no acredita que Cloudflare esté conectado o desplegado. Consultar el panel del alojamiento y el historial de Actions.

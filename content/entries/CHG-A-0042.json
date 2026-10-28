@@ -272,7 +272,7 @@
     "CHG-D-0003"
   ],
   "editorial_note": "Monografía original elaborada mediante comparación de estudios, fuentes patrimoniales y testimonios históricos. Se leyó el estudio y traducción documental de O'Scea disponibles en HTML, el artículo histórico de 1909 completo en PDF, la ficha patrimonial de Heritage Ireland y la ficha del museo; otras fuentes se consultaron solo como extractos o registros, como se declara individualmente. El manuscrito original de Bustamante, la copia de capitulación y el folleto completo del AHN no se examinaron. No se reproducen imágenes ni citas textuales extensas. Se señalan explícitamente contradicciones sobre fecha de llegada, plan aliado, capitulación y cifras de bajas. Revisión asistida por IA, sin arbitraje académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-28",
   "topic_key": "kinsale-1601-1602-expedicion-espanola-alianza-irlandesa",
   "topics": [
@@ -294,5 +294,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "791aa69b48e539ca1db2a887d8fe2919aebc2d03e29a80c727afb07977d29d92"
-  }
+  },
+  "publication_date": "2026-10-28",
+  "publication_time": "2026-10-28T16:45:42.526Z",
+  "publication_slot": "2026-10-28/extra-A-0042",
+  "last_reviewed": "2026-10-28"
 }
