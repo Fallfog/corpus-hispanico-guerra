@@ -38,4 +38,14 @@
 
 ## GitHub Actions, compilación y Cloudflare Workers
 
-Pendiente de verificar y registrar los resultados efectivos de pruebas, regeneración HTML y despliegue de producción. La existencia del commit no basta por sí sola para acreditar el despliegue.
+**Validación de GitHub y despliegue de Cloudflare en producción confirmados.**
+
+- GitHub Actions «Verificar Corpus»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40768419242
+- GitHub Actions «Compilar web estática»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40768419241
+- Commit de publicación de la monografía e inventario (con retirada de la cola): `65044143e5eef39467d52232594e0bf5c29a3fed`.
+- Commit con HTML de publicación regenerado: `d8962c9b6974322d0abe72af633a4b6b9391deeb`.
+- Cloudflare Workers Builds: **production success** en el commit que contiene el HTML. https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/22ab1edd-002b-4ee4-8fd6-1b15432f757a
+- Version ID de Cloudflare: `0e993de1-7be3-422e-a25a-8443dcefebd7`.
+- Comprobado `dist/articulos/sitio-melilla-1774-1775-sherlock-guerra-minas-diplomacia/index.html`, con 46.388 caracteres y código `CHG-A-0050`.
+- Archivo `dist/archivo/index.html` y cronología `dist/cronologia/index.html`: enlaces a la monografía comprobados.
+- **Límite:** Cloudflare confirma despliegue satisfactorio del Worker, pero no se ha verificado mediante visita independiente el dominio público del sitio.
