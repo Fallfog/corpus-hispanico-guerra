@@ -208,5 +208,12 @@
     "topic_key": "sitio-la-habana-1762",
     "title": "La Habana, 1762: el asedio británico, la defensa del Morro y la crisis de un imperio",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0025",
+    "slug": "sitio-tenochtitlan-1521-alianzas-indigenas-lago-cuauhtemoc",
+    "topic_key": "sitio-tenochtitlan-1521",
+    "title": "Tenochtitlan, 1521: la guerra de las alianzas, el sitio del lago y la caída de la capital mexica",
+    "category": "Acciones militares"
   }
 ]
