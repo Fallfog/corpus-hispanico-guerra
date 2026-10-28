@@ -40,4 +40,14 @@
 
 ## Validación de GitHub y Cloudflare
 
-Pendiente de completar con resultados efectivos de los flujos de validación, generación HTML y Cloudflare Workers en producción. No se confunde la creación de un commit con la publicación accesible por la web.
+**GitHub validado y Cloudflare Workers desplegado en producción correctamente.**
+
+- GitHub Actions «Verificar Corpus»: **success**; https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40773280135
+- GitHub Actions «Compilar web estática»: **success**; https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40773280190
+- Commit editorial: `354c0fc801894f05a65b18e9c8e580e5c8d9942f`; inventario en 63 monografías y retirada de la cola completados.
+- Commit de HTML estático generado: `4c3b93d508b50281e4388743fb631a49522c45c9`.
+- Cloudflare Workers Builds: **production success** específicamente para el commit de HTML; https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/a0b6bc27-f9e7-43a8-baf3-c9327f69a023
+- Version ID confirmado por Cloudflare: `31f0d0dd-951a-447a-bbf4-e98a83f7efcc`.
+- `dist/articulos/sitio-manila-1762-conquista-britanica-resistencia-filipinas/index.html`: comprobado (48.654 caracteres, título y `CHG-A-0051` presentes).
+- `dist/archivo/index.html` y `dist/cronologia/index.html`: enlaces a la monografía comprobados.
+- **Límite:** Cloudflare confirma el despliegue del Worker, aunque no se ha realizado una comprobación independiente mediante la URL pública del sitio, todavía no verificada.
