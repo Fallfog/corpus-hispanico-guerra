@@ -40,4 +40,9 @@
 - Libro de publicaciones: `editorial/publications.json`, asiento `2026-10-28/extra-A-0039`.
 - Página esperada: `dist/articulos/villalar-1521-comuneros-padilla-bravo-maldonado-guerra-castilla/index.html`.
 - La generación automática permanece pausada y esta publicación no procede de la cola.
-- **Validación, compilación y Cloudflare:** documentar después de comprobar los resultados reales de cada servicio.
+- GitHub Actions «Verificar Corpus»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40724972529
+- GitHub Actions «Compilar web estática»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40724972516
+- Commit de publicación: `1e7bf6043f4d72e0a1b8a684540a5a9a6f7f07ad`.
+- Commit de HTML validado: `65865ebb33e0efa69a33d2aaee2ab9c6c7e32ca9`.
+- HTML generado y comprobado en `dist/articulos/villalar-1521-comuneros-padilla-bravo-maldonado-guerra-castilla/index.html`; la página figura en archivo y cronología.
+- Cloudflare Workers: a fecha de esta revisión **todavía no consta un resultado de despliegue asociado al commit HTML**. No atribuir éxito hasta disponer de una comprobación `Workers Builds` en estado `success`.
