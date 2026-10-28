@@ -35,9 +35,13 @@ La revisión de contenido y el compilador HTML terminaron en `success` después 
 
 ## Cloudflare
 
-La integración **Cloudflare Workers Builds** está conectada con el repositorio y ha comunicado comprobaciones de producción por medio de GitHub Check Runs. Hay al menos una comprobación `success` para una revisión anterior (SHA `f3a67263ea2de98ced2fe72579bbe1a868f73b09`), enlace: https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/da2e0213-d449-4014-acb3-297823f39148.
+**Despliegue de producción confirmado por Cloudflare Workers Builds: `success`.** En GitHub Check Runs de la revisión `2dd9e0a584a1e32b4367f996459ed3efef2cf1f6`, posterior a la creación de Curalaba y a su generación HTML, aparece la comprobación externa `Workers Builds: corpus-hispanico-guerra` con resultado satisfactorio.
 
-**Pendiente de confirmación para la revisión actual:** no se ha recibido en la comprobación de GitHub correspondiente al `HEAD` de esta acta un resultado Cloudflare independiente que confirme esta nueva versión. No se debe afirmar desplegada la nueva página hasta recibir dicho resultado. El enlace público directo de Worker tampoco está verificado por apertura externa.
+- [Despliegue de producción de Cloudflare confirmado](https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/06502685-9dd1-4f3e-81bb-439060b6f843).
+- La compilación HTML del artículo está confirmada en `dist/articulos/curalaba-1598-pelantaro-muerte-onez-loyola-rebelion-mapuche/index.html` y forma parte del repositorio antes de esa revisión.
+- La comprobación de Cloudflare certifica la ejecución del despliegue de producción. **No se ha verificado independientemente la apertura de la URL pública del artículo** porque el dominio público de Worker no está documentado en los archivos accesibles. No se inventa una dirección `workers.dev`.
+
+Estas evidencias permiten distinguir las tres garantías: validación documental interna, compilación GitHub y confirmación Cloudflare de producción.
 
 ## Publicación manual como norma
 
