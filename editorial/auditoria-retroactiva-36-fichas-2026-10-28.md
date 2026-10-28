@@ -44,3 +44,14 @@ Se han añadido **18.360 palabras de desarrollo** distribuidas entre seis fichas
 ## Resultado
 
 **36 de 36** entradas publicadas alcanzan ahora el mínimo de extensión, apartados y fuentes documentadas. Se debe comprobar de forma separada el estado final de `Verificar Corpus`, `Compilar web estática` y la URL pública de Cloudflare. La accesibilidad web pública desde el Worker no se declara confirmada por el mero éxito de GitHub Actions.
+
+## Adenda de cierre — 38 fichas en el repositorio
+
+Tras comenzar la auditoría de **36** entradas, otras dos monografías se incorporaron al repositorio durante la misma jornada, sin ser parte de las seis ampliaciones:
+
+- **CHG-A-0031, El Salado (1340):** 6.506 palabras, 22 apartados y 11 fuentes.
+- **CHG-A-0032, Maipú (1818):** 7.489 palabras, 26 apartados y 18 fuentes.
+
+Ambas tienen referencias en todos sus párrafos y cumplen el umbral de monografía. Por tanto, al cierre de esta adenda, **38 de 38 fichas publicadas cumplen el requisito cuantitativo**. Las 18.360 palabras añadidas corresponden exclusivamente a las seis entradas antiguas corregidas. Las fichas nuevas no se contabilizan como ampliaciones ni se han alterado en esta auditoría.
+
+La presencia de referencias identificadas no garantiza la veracidad de cada afirmación; sigue siendo necesaria revisión historiográfica especializada antes de declarar una evaluación académica externa.
