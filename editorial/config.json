@@ -2,10 +2,14 @@
   "paused": false,
   "timezone": "Europe/Madrid",
   "generation_enabled": false,
-  "max_publications_per_day": 1,
-  "daily_publication_time": "21:17",
+  "max_publications_per_day": 96,
+  "daily_publication_time": null,
   "editorial_standard": "monografia_documentada",
   "minimum_words": 3000,
   "minimum_sources": 5,
-  "minimum_sections": 8
+  "minimum_sections": 8,
+  "publication_interval_minutes": 15,
+  "reserved_release_times": {
+    "CHG-A-0004": "2026-10-28T21:17:00+01:00"
+  }
 }
