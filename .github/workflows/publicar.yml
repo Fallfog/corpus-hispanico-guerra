@@ -1,15 +1,16 @@
 name: Publicación editorial
 on:
   schedule:
-    - cron: '17 21 * * *'
+    # Cuatro ejecuciones por hora, desplazadas para evitar las horas en punto.
+    - cron: '7,22,37,52 * * * *'
       timezone: Europe/Madrid
   workflow_dispatch:
     inputs:
       slot:
-        description: Monografía diaria (máximo una)
+        description: Publicación trimestral (15min) o modo manual antiguo
         type: choice
-        options: ['21:17']
-        default: '21:17'
+        options: ['15min', '21:17']
+        default: '15min'
       dry_run:
         description: Simular sin publicar
         type: boolean
@@ -22,7 +23,7 @@ concurrency:
 jobs:
   publicar:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -30,24 +31,25 @@ jobs:
           python-version: '3.12'
       - name: Pruebas de seguridad editorial
         run: python -m unittest discover -s tests -v
-      - name: Seleccionar ficha
+      - name: Seleccionar ficha aprobada y programada
         env:
-          SCHEDULE: ${{ github.event.schedule }}
           SLOT: ${{ inputs.slot }}
           DRY_RUN: ${{ inputs.dry_run }}
+        shell: bash
         run: |
-          args=()
-          if [ -n "$SLOT" ]; then args+=(--slot "$SLOT"); fi
+          args=(--interval-15)
+          if [ "$SLOT" = "21:17" ]; then args=(--slot "21:17"); fi
           if [ "$DRY_RUN" = "true" ]; then args+=(--dry-run); fi
           python scripts/publish_next.py "${args[@]}"
       - name: Validar web antes de confirmar publicación
         run: python scripts/check.py
       - name: Guardar publicación e inventario
+        shell: bash
         run: |
           if [[ -n "$(git status --porcelain content editorial dist)" ]]; then
             git config user.name "corpus-editorial-bot"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add -A content editorial dist
-            git commit -m "Publicación de ficha aprobada e inventario"
+            git commit -m "Publicar ficha aprobada en intervalo de quince minutos"
             git push
           fi
