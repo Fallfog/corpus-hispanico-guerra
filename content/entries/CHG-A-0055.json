@@ -236,7 +236,7 @@
     "CHG-A-0002"
   ],
   "editorial_note": "Redacción original con revisión histórico-documental asistida por IA, sin arbitraje académico externo. Desarrollo: 3481 palabras, 12 secciones y 36 párrafos con referencias [n]. Fuente 1: artículo completo leído; fuente 2: ficha y extracto; fuentes 3, 4, 7 y 9: resúmenes académicos; fuentes 5, 6 y 8: extractos indexados de PDF. No se han consultado directamente crónicas medievales ni archivos primarios. Se evitan cifras cerradas de efectivos y bajas, mapas tácticos fingidos y citas literales extensas. Se distingue batalla, consecuencias políticas y construcción posterior de memoria.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-28",
   "topics": [
     "batallas-combates-y-asedios",
@@ -257,5 +257,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "deb94b38ab0e254598c44514d0fd65a0a954f4e92e75b6ad46ae60ce330f11f2"
-  }
+  },
+  "publication_date": "2026-10-28",
+  "publication_time": "2026-10-28T22:46:44.761Z",
+  "publication_slot": "2026-10-28/extra-A-0055",
+  "last_reviewed": "2026-10-28"
 }
