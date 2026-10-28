@@ -32,4 +32,13 @@
 - Inventario y asiento: `editorial/inventory.json` y `editorial/publications.json`, clave `2026-10-28/extra-D-0004`.
 - **Total del Corpus tras esta publicación: 49 fichas.**
 - HTML esperado: `dist/articulos/flotas-galeones-carrera-de-indias-sistema-convoyes-defensa/index.html`.
-- **GitHub Actions y Cloudflare:** pendientes de completar y anotar después del commit de publicación. No atribuir éxito hasta observar las comprobaciones reales.
+## Validación técnica final
+
+- GitHub «Verificar Corpus»: success (https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40720902258).
+- GitHub «Compilar web estática»: success (https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40720902431).
+- Commit de artículo: 8db08b788c84b5ef0245f3250809ed70510a3643.
+- Commit de HTML público: 277dcae8d136d42ddc7ccccefc3a3b721586a8cb.
+- Cloudflare Workers Builds, producción: **success**. https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/9d6349c1-9b83-45b6-a195-5b36351ab24d
+- Versión Cloudflare: 7292f6e7-6921-4cdf-9890-f5d82d134ecd.
+- HTML de la ficha verificado, así como sus enlaces en el archivo y la cronología.
+- Alcance: despliegue de producción confirmado por Cloudflare, sin verificación independiente de la URL pública, cuyo hostname no está documentado.
