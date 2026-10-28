@@ -44,4 +44,12 @@
 
 ## Cloudflare Workers
 
-El build de Cloudflare sobre el commit automático `[skip ci]` fue omitido, de modo que no constituye prueba de despliegue. Este asiento técnico se publica en un commit independiente, sin `[skip ci]`, para que Workers Builds pueda recoger `main` con el HTML definitivo incluido. Queda pendiente comprobar su resultado y registrar el enlace a la compilación de producción. No se presupone una URL pública sin evidencia externa.
+**Despliegue de producción confirmado: `success` en Cloudflare Workers Builds.** La publicación fue regenerada sin la marca `[skip ci]` y recibió una versión de producción confirmada por el proveedor.
+
+- Commit con el HTML estático definitivo: `ffaf1e842d1db471f27a2a969706f579d0c19916`.
+- Cloudflare Workers Builds: https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/06177493-8688-4835-b2cc-36dae42121f5
+- Resultado del proveedor: `success` (28-10-2026, producción).
+- ID de versión desplegada: `3ae290be-5fd9-45c1-ab08-f29440032133`.
+- Se corrigió `.github/workflows/compilar.yml` para que futuros commits de compilación no incluyan `[skip ci]`, que había causado un despliegue omitido.
+- Verificación del archivo y la cronología: ambos enlazan a `/articulos/desembarco-alhucemas-1925-operacion-anfibia-guerra-rif/`.
+- **Limitación:** no se verificó directamente la apertura de la dirección pública porque el hostname del Worker no está consignado en el repositorio; no se inventa un subdominio `workers.dev`.
