@@ -39,4 +39,13 @@
 
 ## Comprobaciones de GitHub y Cloudflare
 
-Pendiente de consignar tras el commit los resultados verificables de GitHub Actions, salida HTML y despliegue de Cloudflare. No se presume el despliegue en producción solo por crear la entrada.
+**Publicación y despliegue de producción confirmados.**
+
+- GitHub «Verificar Corpus»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40739130856
+- GitHub «Compilar web estática»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40739130759
+- Commit de publicación editorial y actualización del inventario: `6ac789cd2cba239e3c9661f5edc7caaa0c03332b`.
+- Commit con HTML regenerado: `dbba4a57b84713f4003d70032434e11ae5e77d62`.
+- Cloudflare Workers Builds, **producción success** para el commit HTML: https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/97de805e-0464-47d8-9e93-3d0ab9f98dff
+- Versión de producción comunicada: `a0ebfae7-d1d4-41b2-8fbd-8b4b31412bc2`.
+- Comprobado `dist/articulos/castillejos-1860-prim-odonnell-guerra-africa-marruecos/index.html` con título y código `CHG-A-0047`; archivo y cronología contienen enlaces hacia ese artículo.
+- Límite: se verificó el despliegue exitoso comunicado por Cloudflare, no la apertura directa en un hostname público, que no figura aún documentado en el repositorio.
