@@ -42,4 +42,13 @@ Se contrastaron además, como corroboración independiente de contexto, la biogr
 
 ## GitHub y Cloudflare
 
-Pendiente de consignar la ejecución de las pruebas, la compilación del HTML, los enlaces internos y el resultado de despliegue de Cloudflare Workers. No se asume éxito antes de comprobarlo.
+**Publicación comprobada y despliegue de producción confirmado.**
+
+- GitHub «Verificar Corpus»: **`success`**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40729372348
+- GitHub «Compilar web estática»: **`success`**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40729371869
+- Commit de la ficha y el registro editorial: `38db6bc025b4a2f3124ce0e162456835dac617c3`.
+- Commit que incluye el HTML regenerado: `f75c164806b2c0125de54dfd1fa61ea18382f0c1`.
+- **Cloudflare Workers Builds: `success`** en el commit de HTML, https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/6d23376c-28d4-43d2-8573-925e06f8f46a
+- Versión de producción publicada: `db7fe337-cc2f-4026-ad55-878fd99059ce`.
+- Verificada la presencia del archivo `dist/articulos/kinsale-1601-1602-juan-del-aguila-sitio-derrota-alianza-irlandesa/index.html` con el título e identificador `CHG-A-0042`; enlaces correctos desde `dist/archivo/index.html` y `dist/cronologia/index.html`.
+- **Límite de verificación:** se ha comprobado el éxito del despliegue en producción comunicado por Cloudflare, no la apertura independiente de una URL pública, porque el hostname del Worker no está documentado en el repositorio.
