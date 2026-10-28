@@ -41,4 +41,14 @@
 
 ## Validación GitHub y producción Cloudflare
 
-Pendiente de consignar resultados efectivos de GitHub Actions, compilación del HTML y despliegue específico en Cloudflare Workers. No se presume éxito de producción por el solo hecho de crear el commit editorial.
+**Validación, compilación y despliegue de producción confirmados.**
+
+- GitHub «Verificar Corpus»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40782865695
+- GitHub «Compilar web estática»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40782865565
+- Commit editorial con retirada de la cola: `81224cde2cfc03772aa4a40b0cdb4f506561bac9`.
+- Commit de generación de HTML estático: `2568872a180674f51f1b9f3c9b04cc8f1fb19b5b`.
+- Cloudflare Workers Builds, **producción: success** para la versión que incluye el HTML: https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/93fb0d6a-11e0-40e5-b835-44b6ae646c3f
+- Version ID de Cloudflare: `a4c25181-d46a-4281-bd49-2369c441902a`.
+- Comprobada `dist/articulos/batalla-sagrajas-zalaca-1086-alfonso-vi-yusuf-almoravides/index.html`, 44.941 caracteres, título e ID correctos.
+- Archivo `dist/archivo/index.html` y cronología `dist/cronologia/index.html`: enlaces nuevos comprobados.
+- **Límite:** Cloudflare acredita despliegue en producción; no se ha visitado de forma independiente un hostname público porque sigue sin identificarse documentalmente en el repositorio.
