@@ -1,13 +1,10 @@
 name: Publicación editorial
 on:
-  schedule:
-    # Cuatro ejecuciones por hora, desplazadas para evitar las horas en punto.
-    - cron: '7,22,37,52 * * * *'
-      timezone: Europe/Madrid
+  # Publicación solo bajo petición expresa del titular: sin cron automático.
   workflow_dispatch:
     inputs:
       slot:
-        description: Publicación trimestral (15min) o modo manual antiguo
+        description: Publicación manual de una ficha aprobada
         type: choice
         options: ['15min', '21:17']
         default: '15min'
