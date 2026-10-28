@@ -9,7 +9,5 @@
   "minimum_sources": 5,
   "minimum_sections": 8,
   "publication_interval_minutes": 15,
-  "reserved_release_times": {
-    "CHG-A-0004": "2026-10-28T21:17:00+01:00"
-  }
+  "reserved_release_times": {}
 }
