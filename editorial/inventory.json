@@ -411,5 +411,12 @@
     "topic_key": "batalla-castillejos-1860-prim-guerra-africa",
     "title": "Los Castillejos, 1860: Prim, O'Donnell y el mito de una victoria en Marruecos",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0048",
+    "slug": "batalla-albuera-1811-zayas-blake-beresford-soult-badajoz",
+    "topic_key": "batalla-albuera-1811-zayas-blake-soult",
+    "title": "La Albuera, 1811: Zayas, Blake y la victoria aliada que no decidió Badajoz",
+    "category": "Acciones militares"
   }
 ]
