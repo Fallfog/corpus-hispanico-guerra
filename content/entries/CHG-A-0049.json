@@ -56,7 +56,7 @@
     ],
     [
       "Fuerza expedicionaria",
-      "Fuentes narrativas citadas por BRASILHIS hablan de 62 barcos y unos 12.500 hombres; cifra no comprobada con estados originales"
+      "Catálogo Museo Naval/BOE (2026): 52 barcos y 12.000 hombres; síntesis basadas en crónicas: 62 embarcaciones y unos 12.500. Diferentes criterios de recuento, sin comprobación de estados nominales originales"
     ],
     [
       "Resultado",
@@ -104,7 +104,7 @@
       "heading": "La armada de socorro y sus mandos",
       "paragraphs": [
         "El mando superior de la expedición correspondió a Fadrique de Toledo Osorio, marqués de Valdueza y capitán general de la Armada del Mar Océano. Bajo su dirección confluyeron fuerzas navales y terrestres de distinta procedencia. La documentación sintetizada por BRASILHIS menciona la Armada del Estrecho, la escuadra de las Cuatro Villas, la de Nápoles y la armada portuguesa dirigida por Manuel de Menezes, además de otros mandos que actuaron en la empresa. Esa estructura no debe representarse como una flota nacional homogénea. Era una agrupación de recursos con jerarquías, costumbres de servicio y competencias que podían entrar en fricción. [1][3][4]",
-        "La cifra de sesenta y dos barcos y unos doce mil quinientos hombres aparece en síntesis académicas basadas en cronistas de la campaña, aunque las fuentes no siempre emplean las mismas categorías para contar navíos, embarcaciones auxiliares, soldados o personal embarcado. BRASILHIS recoge también un cómputo de 12.563 soldados atribuido a Guerreiro y Valencia y Guzmán. Es razonable utilizar estas cifras como orden de magnitud de la movilización, no como censo verificado de combatientes simultáneamente disponibles frente a las murallas. Una expedición cambia de composición durante su viaje y las listas de salida no equivalen necesariamente a los estados de fuerza al llegar. [2][3][5]",
+        "Las cifras de la flota varían según la fuente y el criterio de recuento. El catálogo oficial del Museo Naval, publicado por el BOE en 2026, resume la expedición en cincuenta y dos barcos y doce mil hombres; las síntesis de BRASILHIS basadas en cronistas de campaña recogen sesenta y dos embarcaciones y en torno a doce mil quinientos hombres, incluyendo un cómputo de 12.563 soldados atribuido a Guerreiro y Valencia y Guzmán. No es correcto presentar como idénticas las categorías de navíos de guerra, embarcaciones auxiliares, tropas de desembarco y personal embarcado. Las diferencias se consignan aquí sin fingir un recuento documental definitivo. Son órdenes de magnitud de la movilización, no un censo certificado de combatientes presentes al mismo tiempo frente a las murallas de Salvador. [2][3][5][9]",
         "La trayectoria de Fadrique había transcurrido por servicios navales anteriores, y su designación respondió a experiencia y posición institucional. Pero la centralidad del capitán general en los relatos oficiales no anula el papel de los mandos portugueses ni el de las fuerzas de resistencia en Brasil. La investigación de 2025 sobre las visiones portuguesas advierte de desacuerdos significativos durante la campaña. Esa evidencia obliga a tratar las jerarquías formales y el mando efectivo como cuestiones relacionadas, pero distintas. Una orden podía proceder del jefe de la expedición y necesitar después cooperación local para producir efectos sobre el terreno. [1][3][4]"
       ]
     },
@@ -245,14 +245,22 @@
       "kind": "Programa institucional sobre propaganda, noticia y memoria del sitio",
       "verified_at": "2026-10-28",
       "verification_note": "Leída íntegramente la página HTML descriptiva del programa; no se ha visionado ni transcrito la conferencia audiovisual, por lo que no se le atribuyen contenidos adicionales."
+    },
+    {
+      "n": 9,
+      "name": "Agencia Estatal BOE y Museo Naval, «Annus Mirabilis. Salvador de Bahía, 1625: El crédito de España», catálogo de exposición (2026)",
+      "url": "https://www.boe.es/biblioteca_juridica/publicacion.php?id=PUB-DH-2026-408&modo=2&tipo=L",
+      "kind": "Ficha oficial de catálogo de exposición histórica del Museo Naval, editada por el BOE",
+      "verified_at": "2026-10-28",
+      "verification_note": "Leída íntegramente la ficha HTML del BOE. Expresa 52 barcos y 12.000 hombres, mando de Fadrique de Toledo, expedición hispano-portuguesa y memoria de Lope de Vega y Maíno. No se afirma lectura íntegra de las 45,9 MB del catálogo PDF, que no fueron descargadas ni inspeccionadas."
     }
   ],
   "related": [
     "CHG-D-0004",
     "CHG-A-0010"
   ],
-  "editorial_note": "Redacción original en español de España, revisión asistida por IA sin arbitraje académico externo. Se consultaron íntegramente tres páginas HTML institucionales/académicas (BRASILHIS Maíno, BRASILHIS Fadrique, Casa de América); el resto de referencias se contrastó mediante extractos, resúmenes, fichas y bibliografía, con límites detallados individualmente. No se consultaron de primera mano los testimonios del siglo XVII ni se inventan balances de bajas. Se dejan explícitas las divergencias de cronología, cifras y conducta de las tropas. No se reproducen imágenes de terceros.",
-  "status": "revisado",
+  "editorial_note": "Redacción original en español de España, revisión asistida por IA sin arbitraje académico externo. Se consultaron íntegramente tres páginas HTML institucionales/académicas (BRASILHIS Maíno, BRASILHIS Fadrique, Casa de América); el resto de referencias se contrastó mediante extractos, resúmenes, fichas y bibliografía, con límites detallados individualmente. No se consultaron de primera mano los testimonios del siglo XVII ni se inventan balances de bajas. Se dejan explícitas las divergencias de cronología, cifras y conducta de las tropas. No se reproducen imágenes de terceros. Revisión adicional de cifras con catálogo del Museo Naval/BOE 2026: la diferencia entre 52 barcos/12.000 hombres y 62 embarcaciones/12.500 se hace explícita, evitando falsa precisión.",
+  "status": "publicado",
   "not_before": "2026-10-28",
   "topics": [
     "batallas-combates-y-asedios",
@@ -261,9 +269,9 @@
     "atlantico"
   ],
   "approval": {
-    "reviewer": "Revisión histórico-documental asistida por IA; no arbitraje académico externo",
+    "reviewer": "Revisión histórico-documental asistida por IA; sin arbitraje académico externo",
     "date": "2026-10-28",
-    "notes": "4162 palabras de desarrollo, 14 secciones, 42 párrafos citados, 8 fuentes reales con nivel de consulta individual. No se atribuye lectura íntegra de PDFs no abiertos. Contradicciones de saqueos, fechas y cifras explicitadas.",
+    "notes": "Salvador de Bahía, 1625: 4.186 palabras de desarrollo, 14 apartados, 42 párrafos citados, 9 fuentes, todas con nivel de consulta indicado. Revisión adicional sobre diferencia de cifras de flota con BOE/Museo Naval 2026 (52 barcos/12.000 hombres), frente a crónicas registradas por BRASILHIS (62 embarcaciones/~12.500). No se presume lectura íntegra de PDFs no examinados. Contradicciones sobre saqueos, fechas y reparto de honores expuestas.",
     "checks": {
       "hechos_contrastados": true,
       "bibliografia_verificada": true,
@@ -271,6 +279,10 @@
       "originalidad_y_derechos": true,
       "profundidad_suficiente": true
     },
-    "content_sha256": "51de31d72c1886334bd4c98551b62483eb4d199b9915594037ee0f0f61cf0127"
-  }
+    "content_sha256": "f7c69a4b071c9bb758ce7dce0881537322878093dcff5b2317f468f4485240a9"
+  },
+  "publication_date": "2026-10-28",
+  "publication_time": "2026-10-28T19:54:11.374Z",
+  "publication_slot": "2026-10-28/extra-A-0049",
+  "last_reviewed": "2026-10-28"
 }
