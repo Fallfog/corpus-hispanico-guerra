@@ -223,5 +223,10 @@
     "id": "CHG-A-0037",
     "at": "2026-10-28T15:39:09.049Z",
     "mode": "publicación monográfica manual solicitada por titular; revisión documental y compilación Cloudflare"
+  },
+  "2026-10-28/extra-D-0004": {
+    "id": "CHG-D-0004",
+    "at": "2026-10-28T15:54:33.406Z",
+    "mode": "publicación manual a solicitud del titular con revisión y despliegue Cloudflare"
   }
 }

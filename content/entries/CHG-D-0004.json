@@ -324,7 +324,7 @@
     "CHG-D-0003"
   ],
   "editorial_note": "Monografía contextual sobre flotas y galeones de la Carrera de Indias. Fuentes: cuadernos IHCN 52 y 89 (extractos indexados y fichas), Casa Contratación Censo-Guía 1503–1790, fichas AGI 1564–65 y 1575 y San José, artículos académicos Lamíkiz/Parrón por resúmenes, exposición Galeón Manila y Banco de España por extractos. No se atribuyen datos de cargas específicas a manuscritos no leídos ni se usan tasas de pérdidas sin normalización; 1739 marca transición desigual, 1778 no apertura mundial sin regulación. Se mencionan sistemas coloniales de explotación. Sin imágenes protegidas y sin arbitraje externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-28",
   "topic_key": "flotas-galeones-carrera-indias",
   "topics": [
@@ -346,5 +346,8 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "c36eee44fa2084bc7e9f037253a658e565897ea38f1e981dc22e126348f5690f"
-  }
+  },
+  "publication_date": "2026-10-28",
+  "publication_time": "2026-10-28T15:54:33.406Z",
+  "publication_slot": "2026-10-28/extra-D-0004"
 }
