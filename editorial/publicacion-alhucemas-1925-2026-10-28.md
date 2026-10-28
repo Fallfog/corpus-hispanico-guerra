@@ -34,4 +34,14 @@
 - Artículo esperado en compilación: `dist/articulos/desembarco-alhucemas-1925-operacion-anfibia-guerra-rif/index.html`.
 - **Total inventariado tras esta incorporación:** 48 monografías.
 
-**Verificación técnica posterior al commit:** pendiente de anotar tras comprobar Actions y el despliegue Cloudflare. La aprobación en GitHub, la compilación y la apertura de la URL pública son comprobaciones distintas.
+## Compilación y validación verificadas
+
+- **Verificar Corpus:** correcto. https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40718198689
+- **Compilar web estática:** correcto. https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40718198683
+- HTML de la ficha verificado en GitHub: `dist/articulos/desembarco-alhucemas-1925-operacion-anfibia-guerra-rif/index.html`, identificador y título presentes.
+- Commit original de incorporación: https://github.com/Fallfog/corpus-hispanico-guerra/commit/bfe6cb2e0f2251dd29afc8aefa3bfc3ed3286f66
+- Commit automático que añadió la versión compilada: https://github.com/Fallfog/corpus-hispanico-guerra/commit/537c019bffb1f49709138d233f428f98f47a4ad0
+
+## Cloudflare Workers
+
+El build de Cloudflare sobre el commit automático `[skip ci]` fue omitido, de modo que no constituye prueba de despliegue. Este asiento técnico se publica en un commit independiente, sin `[skip ci]`, para que Workers Builds pueda recoger `main` con el HTML definitivo incluido. Queda pendiente comprobar su resultado y registrar el enlace a la compilación de producción. No se presupone una URL pública sin evidencia externa.
