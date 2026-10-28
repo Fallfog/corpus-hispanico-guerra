@@ -39,4 +39,15 @@
 
 ## Validación de GitHub y Cloudflare
 
-Pendiente de completar tras verificar la ejecución de pruebas, la regeneración de HTML y el resultado específico del despliegue en Cloudflare Workers. No se confunde commit publicado con despliegue de producción.
+**Publicación verificada y despliegue en producción confirmado.**
+
+- GitHub «Verificar Corpus»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40736828365
+- GitHub «Compilar web estática»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40736828457
+- Commit editorial: `350bf1b559be6b4f46adf6440b1f097b0d72b2e3`.
+- Commit que genera HTML de publicación: `117830051b2c08f907df545c82f5d4486c29f38a`.
+- Cloudflare Workers Builds, **producción: success**, para este commit de HTML: https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/1f06c33c-93b1-4b51-acb3-510d0d81c5f8
+- Versión de producción confirmada por Cloudflare: `fe44b089-9aa6-46bc-aa7c-6d19fd439bbc`.
+- Fichero `dist/articulos/glenshiel-1719-soldados-espanoles-highlands-levantamiento-jacobita/index.html`: comprobada su existencia y la identificación `CHG-A-0046`.
+- `dist/archivo/index.html` y `dist/cronologia/index.html`: comprobados sus enlaces al nuevo artículo.
+- Otumba `content/cola/CHG-A-0045.json`: comprobada su conservación en la cola, sin ser publicada.
+- Límite: éxito de Cloudflare Workers confirmado, pero no visita independiente a una URL pública del Worker; el hostname público todavía no figura identificado en los archivos del repositorio.
