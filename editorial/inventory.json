@@ -453,5 +453,12 @@
     "topic_key": "combate-callao-2-mayo-1866-escuadra-pacifico",
     "title": "El Callao, 1866: Méndez Núñez, Gálvez y dos memorias de una batalla naval",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0054",
+    "slug": "batalla-dunas-1639-oquendo-tromp-neutralidad-inglesa",
+    "topic_key": "batalla-naval-dunas-downs-1639-oquendo-tromp",
+    "title": "Las Dunas, 1639: Oquendo, Tromp y la derrota que puso en crisis el socorro de Flandes",
+    "category": "Acciones militares"
   }
 ]
