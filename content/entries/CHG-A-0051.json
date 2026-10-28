@@ -240,7 +240,7 @@
     "filipinas",
     "asia"
   ],
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-28",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; no arbitraje externo",
@@ -254,5 +254,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "7f17d2cf1e22048c16c6814eefb36ade7da11bfbd4c62a17b1686402d23af525"
-  }
+  },
+  "publication_date": "2026-10-28",
+  "publication_time": "2026-10-28T21:34:08.401Z",
+  "publication_slot": "2026-10-28/extra-A-0051",
+  "last_reviewed": "2026-10-28"
 }

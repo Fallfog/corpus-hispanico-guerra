@@ -4,8 +4,8 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 
 ## Estado real
 
-- **62 monografías publicadas al 28-10-2026**. La última es Melilla 1774–1775 (CHG-A-0050), con 4.097 palabras, 10 apartados y 7 fuentes. Se mantienen al menos 3.000 palabras, ocho apartados y cinco fuentes por ficha. Ver actas en `editorial/`. Las revisiones documentales son asistidas por IA, sin arbitraje académico externo.
-- **Cola editorial:** sin monografías aprobadas pendientes tras publicar Melilla 1774–1775 CHG-A-0050. Los expedientes sin aprobación siguen conservados por separado. La publicación automática está desactivada.
+- **63 monografías publicadas al 28-10-2026**. La última es Manila 1762 (CHG-A-0051), con 3.864 palabras, 11 apartados y 9 fuentes. Se mantienen al menos 3.000 palabras, ocho apartados y cinco fuentes por ficha. Ver actas en `editorial/`. Las revisiones documentales son asistidas por IA, sin arbitraje académico externo.
+- **Cola editorial:** sin monografías aprobadas pendientes tras la publicación manual de Manila 1762 CHG-A-0051. La generación y publicación automática permanecen desactivadas.
 - **Publicación solo manual cuando el titular la solicite**: flujo investigación → contraste de fuentes → monografía → revisión → GitHub → validación y compilación → comprobación de Cloudflare Workers. El cron automático de 15 minutos se ha retirado de `.github/workflows/publicar.yml` y la configuración queda pausada (`editorial/config.json`). La comprobación de GitHub y Cloudflare se hace en cada entrega.
 - Generación autónoma: desactivada. No se ha contratado ninguna API.
 - El hecho de tener estos archivos no acredita que Cloudflare esté conectado o desplegado. Consultar el panel del alojamiento y el historial de Actions.
