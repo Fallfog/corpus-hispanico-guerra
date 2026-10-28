@@ -38,4 +38,11 @@
 - HTML esperado: `dist/articulos/batalla-simancas-939-ramiro-ii-abd-al-rahman-alhandega/index.html`.
 - Sin cron ni generación automática.
 
-**GitHub Actions y Cloudflare:** resultados pendientes de documentar tras publicación. El HTML en GitHub no demuestra por sí solo que el alojamiento haya terminado el despliegue.
+## Validación técnica efectuada
+
+- GitHub Actions «Verificar Corpus»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40725275497 .
+- GitHub Actions «Compilar web estática»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40725275383 .
+- Commit editorial: `1340982724b2e8363126606eb5042ce6879ff6f4`.
+- Commit de HTML compilado: `606a4e0af364c3d5af44127609cffdd972e448c3`.
+- Verificados los archivos `dist/articulos/batalla-simancas-939-ramiro-ii-abd-al-rahman-alhandega/index.html`, `dist/archivo/index.html` y `dist/cronologia/index.html`: incluyen la ficha y sus enlaces.
+- **Cloudflare Workers:** ningún resultado de «Workers Builds» confirmado todavía para el commit compilado; queda abierta la comprobación de despliegue de producción. No se ha abierto ni verificado una URL pública del Worker.
