@@ -35,4 +35,13 @@
 
 ## Validación y Cloudflare
 
-Pendiente de registrar aquí el resultado de las GitHub Actions, la comprobación del HTML generado y el despliegue específico de Cloudflare Workers. La existencia del artículo en GitHub no prueba por sí sola el éxito de producción.
+**Validación y despliegue de producción confirmados.**
+
+- GitHub Actions, «Verificar Corpus»: `success`, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40735082070
+- GitHub Actions, «Compilar web estática»: `success`, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40735081976
+- Commit editorial que creó la ficha, inventario y acta: `0f9ef594bf1fe7a915c6e306c1c34e3f7f54e864`.
+- Commit de compilación con HTML estático: `c9cba1650f19a7b3b63b5ff1c714c7321738fa30`.
+- Cloudflare Workers Builds **producción `success`** para el commit HTML: https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/c5264144-884e-4a5f-81cb-5ff6af614070
+- Versión de producción publicada: `0163e72e-738d-43b6-8266-a6ce9bf1da93`.
+- Comprobados `dist/articulos/batalla-ocana-1809-areizaga-soult-derrota-ejercito-mancha/index.html`, `dist/archivo/index.html` y `dist/cronologia/index.html`; la ficha y sus enlaces incluyen título e identificador `CHG-A-0044`.
+- Límite del control: se verificó el despliegue confirmado por Cloudflare, pero no una visita independiente a la URL pública porque el hostname del Worker no está documentado en el repositorio.
