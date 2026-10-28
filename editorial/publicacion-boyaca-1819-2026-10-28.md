@@ -38,4 +38,13 @@
 
 ## Resultado de validación y despliegue
 
-Pendiente de completar con las verificaciones efectivas de GitHub Actions, compilación HTML y Cloudflare Workers después de este commit. No se presume éxito de producción solo por subir el artículo.
+**Publicación y despliegue de producción verificados.**
+
+- GitHub Actions, «Verificar Corpus»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40732594047
+- GitHub Actions, «Compilar web estática»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40732593999
+- Commit editorial: `82f92045e602271cc0866f3b48321e1cc976d8bd`.
+- Commit con HTML estático regenerado: `67782d4d7a7364a00cdf184019a2a4ddff5ff126`.
+- Cloudflare Workers Builds, **producción: success** para el commit HTML: https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/414abd0c-e3a8-4760-b39c-b368be899694
+- Versión de producción notificada: `6f7e3846-113f-44d8-b228-92f4223052fb`.
+- Verificada presencia de `dist/articulos/batalla-boyaca-1819-bolivar-santander-barreiro-nueva-granada/index.html` con título y código de artículo, y enlaces en `dist/archivo/index.html` y `dist/cronologia/index.html`.
+- Alcance del control: Cloudflare confirmó despliegue de producción. El hostname público del Worker no se documenta aún y no se afirma visita independiente a una URL pública.
