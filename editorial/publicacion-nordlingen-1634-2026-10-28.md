@@ -42,4 +42,14 @@
 
 ## Compilación y Cloudflare
 
-Pendiente de incorporar los resultados comprobados de GitHub Actions, regeneración de HTML y despliegue en producción de Cloudflare Workers. El commit de fuente no se toma por sí solo como confirmación de despliegue.
+**GitHub Actions completado y Cloudflare Workers confirmado en producción.**
+
+- GitHub «Verificar Corpus»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40774636798
+- GitHub «Compilar web estática»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40774636781
+- Commit fuente editorial `9a907e6d542855223a5ea5af12c773f35f3541eb`.
+- Commit de regeneración HTML `91db8d331e036b8d5f072b3e343de223891ebff7`.
+- Cloudflare Workers Builds: **production success** para el commit que incluye el HTML: https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/89439bfa-ffce-4d0d-9370-60528e0265cf
+- Cloudflare Version ID: `7845da4a-f543-419c-8616-f32d6562b409`.
+- Comprobado el archivo `dist/articulos/batalla-nordlingen-1634-cardenal-infante-tercios-habsburgo/index.html` (66.160 caracteres), con identificador `CHG-A-0052` y título correctos.
+- `dist/archivo/index.html` y `dist/cronologia/index.html` contienen enlaces al artículo y el ID nuevo.
+- **Límite:** éxito en producción comunicado por Cloudflare; no se ha comprobado de forma independiente un hostname público del Worker porque aún no está verificado en el repositorio.
