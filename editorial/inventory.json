@@ -215,5 +215,12 @@
     "topic_key": "sitio-tenochtitlan-1521",
     "title": "Tenochtitlan, 1521: la guerra de las alianzas, el sitio del lago y la caída de la capital mexica",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0026",
+    "slug": "batalla-de-muret-1213-pedro-ii-aragon-cruzada-albigense",
+    "topic_key": "batalla-muret-1213",
+    "title": "Muret, 1213: Pedro II de Aragón, Simón de Montfort y la batalla que quebró el proyecto occitano",
+    "category": "Acciones militares"
   }
 ]
