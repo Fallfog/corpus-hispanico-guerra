@@ -42,4 +42,14 @@
 
 ## Pruebas y despliegue
 
-Pendiente de completar con el resultado concreto de GitHub Actions, la compilación de HTML y el estado del build de Cloudflare Workers para el commit HTML. No se considera confirmado el despliegue por la mera existencia de un commit editorial.
+**GitHub y Cloudflare Workers verificados, despliegue de producción confirmado.**
+
+- GitHub Actions «Verificar Corpus»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40778059308
+- GitHub Actions «Compilar web estática»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40778059614
+- Commit de publicación editorial: `1b6d2817438d6d6975123c8faf30fcd50a77bd0a`.
+- Commit de HTML estático generado: `527a633827c12686542a8c4f1778ea0d8d4caa75`.
+- Cloudflare Workers Builds: **producción success** en el commit de HTML: https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/f2d496c2-fff4-4d72-9ca8-c1c7844e5a98
+- Version ID de Cloudflare: `fb38bda2-3dc7-4e39-b49e-a49c6a080278`.
+- Comprobado `dist/articulos/batalla-dunas-1639-oquendo-tromp-neutralidad-inglesa/index.html` (53.047 caracteres) con código `CHG-A-0054` y título.
+- Comprobados `dist/archivo/index.html` y `dist/cronologia/index.html`, con enlaces a la monografía.
+- **Límite de verificación:** Cloudflare confirma su build en producción; no se ha verificado de forma independiente la apertura en una URL pública del Worker.
