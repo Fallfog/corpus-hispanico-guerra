@@ -36,4 +36,15 @@
 
 ## GitHub Actions y Cloudflare
 
-Pendiente de consignar después del commit el estado real de validación, compilación y despliegue de Cloudflare Workers. No se presume éxito de producción antes de la comprobación.
+**Comprobaciones realizadas: publicación validada y despliegue en producción confirmado.**
+
+- GitHub Actions, «Verificar Corpus»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40737555152
+- GitHub Actions, «Compilar web estática»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40737555233
+- Commit de publicación editorial: `4a0b8beb15cc0b92d3af134a2d4f3bcad5536978`.
+- Commit de HTML estático generado: `a5fb674b21e1ccdae1bc5cce73edf38fc2104809`.
+- Cloudflare Workers Builds, **producción: success** en el commit que genera HTML: https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/d6f84f77-21b7-445d-a765-5f35cefdeca4
+- Versión de producción confirmada por Cloudflare: `22758c67-03e0-4bd3-a3e0-7793c272ed7e`.
+- Existe `dist/articulos/otumba-1520-retirada-tlaxcala-cronologia-estandarte/index.html`, con título y código `CHG-A-0045`.
+- `dist/archivo/index.html` y `dist/cronologia/index.html` contienen el enlace a la nueva ficha.
+- El borrador revisado se retiró atómicamente de `content/cola/CHG-A-0045.json`; no quedó duplicado en cola e inventario.
+- **Límite:** Cloudflare confirmó éxito del despliegue en producción. No se ha comprobado una URL pública independiente del dominio del Worker, todavía no identificado en los archivos consultados.
