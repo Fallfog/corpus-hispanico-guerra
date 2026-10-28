@@ -4,7 +4,7 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 
 ## Estado real
 
-- 38 fichas registradas a 28-10-2026, con monografías y algunas fichas piloto en proceso de ampliación. La revisión histórica externa no está acreditada; distinguir los pilotos de la revisión documental asistida de las publicaciones posteriores.
+- **38 fichas registradas a 28-10-2026**, todas con al menos 3.000 palabras de desarrollo, ocho apartados y cinco fuentes identificadas con notas de verificación. La auditoría retrospectiva comenzó con 36 fichas, de las que se ampliaron seis publicaciones breves sin cambiar sus enlaces; las dos entradas posteriores (El Salado y Maipú) también cumplen. Véase `editorial/auditoria-retroactiva-36-fichas-2026-10-28.md`. La revisión documental es asistida por IA y **no equivale a evaluación académica externa**.
 - Cola actual: Pavía (CHG-A-0004), revisada, con reserva original hasta el 28-10-2026 a las 21:17 (Europe/Madrid). Fuera de esa ficha, no hay un almacén de monografías aprobadas que sostenga la cadencia de quince minutos. El sistema no genera investigaciones y no publica sin monografías revisadas y aprobadas.
 - Publicador automático cada 15 minutos a los minutos :07, :22, :37 y :52, hora Europe/Madrid (GitHub Actions cron). Elige como máximo una monografía aprobada de cualquier categoría por ejecución, con un máximo de 96 automáticas por día; si no hay fichas disponibles, NO publica contenido ni crea una entrada ficticia. GitHub puede retrasar u omitir ejecuciones. Mantiene franja manual histórica 21:17 solo para compatibilidad.
 - Generación autónoma: desactivada. No se ha contratado ninguna API.
