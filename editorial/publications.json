@@ -138,5 +138,10 @@
     "id": "CHG-A-0025",
     "at": "2026-10-28T09:20:00+01:00",
     "mode": "publicación extraordinaria expresamente solicitada, sin modificar la cola Pavía CHG-A-0004 reservada para 2026-10-28"
+  },
+  "2026-10-28/extra-A-0026": {
+    "id": "CHG-A-0026",
+    "at": "2026-10-28T09:45:00+01:00",
+    "mode": "publicación extraordinaria solicitada: Muret 1213, sin alterar cola ordinaria Pavía CHG-A-0004"
   }
 }
