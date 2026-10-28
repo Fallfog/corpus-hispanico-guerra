@@ -41,4 +41,14 @@
 
 ## Verificaciones GitHub Actions y Cloudflare Workers
 
-Pendiente de registrar la comprobación de GitHub Actions, la existencia del HTML y el resultado del despliegue de Cloudflare sobre el commit que contiene el HTML. No se presume éxito de producción a partir del commit editorial.
+**Validación editorial, compilación y despliegue de producción confirmados.**
+
+- GitHub Actions «Verificar Corpus»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40758675138
+- GitHub Actions «Compilar web estática»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40758674879
+- Commit fuente/editorial con retirada de la cola: `0846c0dea639f3a9baf85aab9b13fc304275adc8`.
+- Commit del HTML generado y validado: `8c471c444846d0444b2f2f8137d82c5b44bcf8e0`.
+- Cloudflare Workers Builds, **production success** en el commit del HTML: https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/32e50dae-b0c5-497a-8af6-1414376412aa
+- Version ID de producción comunicada: `96ecdb5b-420f-4554-887e-0ef109ecea0d`.
+- Verificado `dist/articulos/salvador-bahia-1625-recuperacion-luso-espanola-sitio/index.html` (52.621 caracteres), identificador y título correctos.
+- Comprobados los enlaces en `dist/archivo/index.html` y `dist/cronologia/index.html`.
+- **Límite:** Cloudflare confirma el despliegue; todavía no se ha visitado de forma independiente una URL pública del Worker, cuyo hostname no está verificado en el repositorio.
