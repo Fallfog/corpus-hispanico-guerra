@@ -4,8 +4,8 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 
 ## Estado real
 
-- **64 monografías publicadas al 28-10-2026**. La última es Nördlingen 1634 (CHG-A-0052), con 5.598 palabras, 17 apartados y 10 fuentes.
-- **Cola editorial:** sin monografías revisadas pendientes tras la publicación manual de Nördlingen 1634 (CHG-A-0052). Continúa desactivada la generación y publicación automática.
+- **65 monografías publicadas al 28-10-2026**. La última es El Callao 1866 (CHG-A-0053), con 4.442 palabras, 11 apartados y 9 fuentes.
+- **Cola editorial:** sin monografías revisadas pendientes tras la publicación manual del Callao 1866 (CHG-A-0053). La generación y publicación automática permanecen desactivadas.
 - **Publicación solo manual cuando el titular la solicite**: flujo investigación → contraste de fuentes → monografía → revisión → GitHub → validación y compilación → comprobación de Cloudflare Workers. El cron automático de 15 minutos se ha retirado de `.github/workflows/publicar.yml` y la configuración queda pausada (`editorial/config.json`). La comprobación de GitHub y Cloudflare se hace en cada entrega.
 - Generación autónoma: desactivada. No se ha contratado ninguna API.
 - El hecho de tener estos archivos no acredita que Cloudflare esté conectado o desplegado. Consultar el panel del alojamiento y el historial de Actions.
