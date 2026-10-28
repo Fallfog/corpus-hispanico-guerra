@@ -128,5 +128,10 @@
     "id": "CHG-A-0023",
     "at": "2026-10-28T00:46:21+01:00",
     "mode": "publicación extraordinaria expresamente solicitada, con reserva de Pavía CHG-A-0004 intacta"
+  },
+  "2026-10-28/extra-A-0024": {
+    "id": "CHG-A-0024",
+    "at": "2026-10-28T08:08:08.407Z",
+    "mode": "publicación extraordinaria solicitada, sin alterar la programación ordinaria de Pavía CHG-A-0004"
   }
 }
