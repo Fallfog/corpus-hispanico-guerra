@@ -43,4 +43,13 @@
 
 ## Verificación de GitHub y Cloudflare
 
-Pendiente de consignar las comprobaciones reales de GitHub Actions, compilación de la web y Workers Builds para el commit de HTML. Este acta no presume despliegue en producción solo por registrar el contenido.
+**Resultado confirmado: validación, compilación y despliegue en producción correctos.**
+
+- Verificar Corpus: success; https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40776056939
+- Compilar web estática: success; https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40776057040
+- Commit editorial: d953a33b5608ed3b42b7776b7308221e5496ce27
+- Commit HTML: dc3ae5d1af079872a1c37145e5d64ffbf9c3db33
+- Cloudflare Workers Builds (producción): success; https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/7b1b7809-2c62-4c78-a3ea-fbfaec92ffad
+- Versión Cloudflare: 9bffce28-2c0e-43f4-acaf-49537cc8508a
+- HTML existente con título y CHG-A-0053; enlaces en archivo y cronología comprobados.
+- No se verificó de modo independiente una URL pública del Worker.
