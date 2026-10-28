@@ -207,7 +207,7 @@
     "CHG-A-0017"
   ],
   "editorial_note": "Monografía original elaborada mediante contraste de fuentes institucionales y estudios históricos; revisión documental asistida por IA, sin arbitraje académico externo. Fuentes 1 y 4: texto HTML consultado en los apartados pertinentes; fuente 2: PDF consultado por secciones, no íntegramente; fuente 3: solo ficha/resumen, sin lectura del libro; fuente 5: PDF oficial consultado parcialmente, con advertencia de afirmaciones discutibles; fuente 6: ficha bibliográfica íntegra, artículo inaccesible. No se consultaron documentos primarios originales. Las referencias [6] solo apoyan la existencia y objeto del estudio bibliográfico, no afirmaciones tácticas concretas. No se usan imágenes ajenas, citas extensas ni cifras de bajas no contrastadas. No se presenta como probada la influencia directa en Normandía.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-28",
   "topic_key": "desembarco-alhucemas-1925-operacion-anfibia-guerra-rif",
   "topics": [
@@ -228,5 +228,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "2a620763bf83a78ed5d3d76fff3b33ecd9e8edc8a9678d22bc270b64ab1993b8"
-  }
+  },
+  "publication_date": "2026-10-28",
+  "publication_time": "2026-10-28T15:39:09.049Z",
+  "publication_slot": "2026-10-28/extra-A-0037",
+  "last_reviewed": "2026-10-28"
 }
