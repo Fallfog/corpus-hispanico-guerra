@@ -1,0 +1,48 @@
+{
+  "working_title": "Santiago de Cuba, 1898: bloqueo, salida de Cervera y destrucción de la escuadra",
+  "topic_key_provisional": "combate-santiago-de-cuba-1898",
+  "status": "borrador_no_aprobado",
+  "created_at": "2026-10-28",
+  "publication_authorized": false,
+  "editorial_note": "Borrador documental preliminar. No cumple todavía 3.000 palabras de desarrollo ni revisión completa de inventario y cola. No trasladar a content/cola ni asignar SHA256 de aprobación.",
+  "research_summary": "El 3 de julio de 1898 la escuadra de Pascual Cervera intentó romper el bloqueo de Santiago de Cuba. La operación debe estudiarse como desenlace de la campaña terrestre y naval, atendiendo a la estrechez del canal, la situación material de los buques, la cadena de mando y la disparidad entre testimonios españoles y estadounidenses. La documentación oficial estadounidense registra la salida entre las 9:35 y las 10:00 y permite contrastar la narración de la batalla con informes de unidades. La historiografía naval española subraya las deficiencias estructurales y la responsabilidad política previa. Es imprescindible evitar presentar como hecho probado las arengas atribuidas retrospectivamente a Cervera sin cotejo documental.",
+  "sources": [
+    {
+      "n": 1,
+      "name": "Naval History and Heritage Command, Naval Operations at Santiago de Cuba",
+      "url": "https://www.history.navy.mil/content/history/nhhc/research/publications/documentary-histories/united-states-navy-s/naval-operations-at.html",
+      "consultation": "Texto web introductorio consultado; documentos vinculados no leídos íntegramente."
+    },
+    {
+      "n": 2,
+      "name": "Sampson a Long, 15 julio 1898",
+      "url": "https://www.history.navy.mil/research/publications/documentary-histories/united-states-navy-s/the-battle-of-santia/rear-admiral-william/_jcr_content.html",
+      "consultation": "Extracto consultado; lectura íntegra pendiente."
+    },
+    {
+      "n": 3,
+      "name": "NHHC, H-Gram 020: The Last Battle",
+      "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-020.html",
+      "consultation": "Extracto consultado; lectura íntegra pendiente."
+    },
+    {
+      "n": 4,
+      "name": "Armada española, Causas de la pérdida de la escuadra en Santiago de Cuba, Cuadernos IHCN 91",
+      "url": "https://armada.defensa.gob.es/archivo/mardigitalrevistas/cuadernosihcn/91cuaderno/Cuaderno91Completo.pdf",
+      "consultation": "Extracto del PDF consultado; artículo íntegro pendiente."
+    },
+    {
+      "n": 5,
+      "name": "NHHC, Informe de Huse a Wainwright, 4 julio 1898",
+      "url": "https://www.history.navy.mil/research/publications/documentary-histories/united-states-navy-s/the-battle-of-santia/lieutenant-harry-p-h.html",
+      "consultation": "Extracto consultado; lectura íntegra pendiente."
+    }
+  ],
+  "pending": [
+    "Revisar todos los ficheros de content/entries y content/cola, además de inventory.json.",
+    "Completar lectura y cotejo de cinco fuentes.",
+    "Redactar al menos 3.000 palabras de desarrollo en ocho secciones y citar cada párrafo.",
+    "Validar el esquema y controles editoriales antes de crear un archivo revisado en cola.",
+    "Comprobar workflow tras la incorporación definitiva."
+  ]
+}
