@@ -243,5 +243,12 @@
     "topic_key": "ataque-santa-cruz-tenerife-1797",
     "title": "Santa Cruz de Tenerife, 1797: Nelson, Gutiérrez y el desembarco británico que fracasó",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0030",
+    "slug": "batalla-rande-ria-vigo-1702-flota-indias-tesoro",
+    "topic_key": "batalla-rande-1702",
+    "title": "Rande, 1702: la derrota de la Flota de Indias, la ruptura de la estacada y el mito del tesoro de Vigo",
+    "category": "Acciones militares"
   }
 ]
