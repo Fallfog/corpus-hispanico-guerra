@@ -4,7 +4,7 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 
 ## Estado real
 
-- **50 monografías publicadas al 28-10-2026**. La última es Santiago de Cuba 1898 (CHG-A-0038), con 5.198 palabras, 18 apartados y 13 fuentes. Se mantienen al menos 3.000 palabras, ocho apartados y cinco fuentes por ficha. Ver actas en `editorial/`. Las revisiones documentales son asistidas por IA, sin arbitraje académico externo.
+- **51 monografías publicadas al 28-10-2026**. La última es Villalar 1521 (CHG-A-0039), con 3.922 palabras, 13 apartados y 11 fuentes. Se mantienen al menos 3.000 palabras, ocho apartados y cinco fuentes por ficha. Ver actas en `editorial/`. Las revisiones documentales son asistidas por IA, sin arbitraje académico externo.
 - **Cola editorial:** sin monografías revisadas pendientes tras publicar Curalaba CHG-A-0036, Alhucemas CHG-A-0037 y Flotas y galeones CHG-D-0004. No se generan investigaciones automáticamente.
 - **Publicación solo manual cuando el titular la solicite**: flujo investigación → contraste de fuentes → monografía → revisión → GitHub → validación y compilación → comprobación de Cloudflare Workers. El cron automático de 15 minutos se ha retirado de `.github/workflows/publicar.yml` y la configuración queda pausada (`editorial/config.json`). La comprobación de GitHub y Cloudflare se hace en cada entrega.
 - Generación autónoma: desactivada. No se ha contratado ninguna API.
