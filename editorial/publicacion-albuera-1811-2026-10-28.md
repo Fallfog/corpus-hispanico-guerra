@@ -43,4 +43,14 @@
 
 ## Comprobación de compilación y despliegue
 
-Pendiente de registrar después del commit los resultados reales de GitHub Actions, la existencia del HTML y el despliegue específico de Cloudflare Workers. No se presume producción solo por crear el contenido.
+**Publicación validada y despliegue de producción confirmado.**
+
+- GitHub Actions «Verificar Corpus»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40742805371
+- GitHub Actions «Compilar web estática»: **success**, https://github.com/Fallfog/corpus-hispanico-guerra/actions/runs/40742805492
+- Commit editorial: `f317709213a7ac3c5669527f234875a7c79a66ab`.
+- Commit de HTML estático generado: `4dfba1f41f97ab3c50cb040940f78538dec1d688`.
+- Cloudflare Workers Builds, **producción: success** para el commit de HTML: https://dash.cloudflare.com/ea17a6c531d8d5eabf32220cdeb8edc9/workers/services/view/corpus-hispanico-guerra/production/builds/9ecd653f-d717-406d-837a-aeb8d9fe8de7
+- Versión de producción confirmada: `3fa529d1-4602-4e70-b610-282709d93f15`.
+- Comprobada la existencia de `dist/articulos/batalla-albuera-1811-zayas-blake-beresford-soult-badajoz/index.html` (62.264 caracteres) con el identificador `CHG-A-0048` y el título.
+- Comprobados los enlaces al artículo en `dist/archivo/index.html` y `dist/cronologia/index.html`.
+- **Límite de verificación:** éxito de producción comunicado por Cloudflare; no comprobada una URL de acceso público independiente, pues aún no se dispone de un hostname público documentalmente verificado.
