@@ -211,7 +211,7 @@
   ],
   "related": [],
   "editorial_note": "Monografía original y crítica, ampliación de expediente del 28-10-2026. Cotejados suplemento oficial de 1775 (con inspección visual de p.148), estudio académico de Lora Pastor, artículo de Tierra Digital y dos fichas institucionales HTML. Fuente Lourido solo ficha, Revista Ejército 955 solo extractos. No se inspeccionaron manuscritos originales de los diarios ni fuentes marroquíes en árabe. Se distinguen cifras oficiales y conmemorativas, inicio de retirada y abandono final, y fuentes primarias frente a memoria institucional. No hay imágenes de terceros. Revisión asistida por IA, no arbitraje académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-28",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; no arbitraje académico externo",
@@ -225,5 +225,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "3e9df42c3d642b47b624c6c18666d030518019fd864ea68650ecc6cfe2b76fc3"
-  }
+  },
+  "publication_date": "2026-10-28",
+  "publication_time": "2026-10-28T20:56:59.323Z",
+  "publication_slot": "2026-10-28/extra-A-0050",
+  "last_reviewed": "2026-10-28"
 }
