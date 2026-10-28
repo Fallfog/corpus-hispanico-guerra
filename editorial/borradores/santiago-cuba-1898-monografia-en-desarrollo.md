@@ -61,3 +61,9 @@ La interpretación de Santiago exige distinguir tres niveles: la eficacia operat
 
 ## Control editorial
 **NO APROBADO.** Falta ampliar el desarrollo a un mínimo de 3.000 palabras, cotejar integralmente cinco fuentes y verificar exhaustivamente la ausencia de duplicados en content/entries y content/cola. Este documento no utiliza el esquema de fichas aprobadas y no debe entrar en la cola automática. No se ha generado SHA256 de aprobación.
+
+
+## Verificación adicional (28-10-2026)
+Se han contrastado en línea el informe de Sampson de 15 de julio, su telegrama del 3 de julio, el boletín de escuadra n.º 21, el parte del teniente Huse y el parte del capitán Evans, todos transcritos por Naval History and Heritage Command. Las transcripciones web se han consultado mediante los extractos accesibles, **no se afirma lectura íntegra de los originales archivísticos**. Se ha localizado además el estudio de Santiago José Acosta Ortega en Cuadernos del Instituto de Historia y Cultura Naval n.º 91 y el artículo sanitario de Revista General de Marina (2008); lectura íntegra pendiente. Esta verificación no subsana la extensión insuficiente del borrador ni autoriza su publicación.
+
+Referencias adicionales verificadas: https://www.history.navy.mil/research/publications/documentary-histories/united-states-navy-s/squadron-bulletins/north-atlantic-fleet-15.html ; https://www.history.navy.mil/research/publications/documentary-histories/united-states-navy-s/the-battle-of-santia/lieutenant-harry-p-h.html ; https://www.history.navy.mil/content/history/nhhc/research/publications/documentary-histories/united-states-navy-s/the-battle-of-santia/captain-robly-d-evan.html ; https://armada.defensa.gob.es/archivo/rgm/2008/200807.pdf
