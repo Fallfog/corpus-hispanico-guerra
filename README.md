@@ -4,8 +4,8 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 
 ## Estado real
 
-- **58 monografías publicadas al 28-10-2026**. La última es Otumba 1520 (CHG-A-0045), con 3.713 palabras, 12 apartados y 7 fuentes. Se mantienen al menos 3.000 palabras, ocho apartados y cinco fuentes por ficha. Ver actas en `editorial/`. Las revisiones documentales son asistidas por IA, sin arbitraje académico externo.
-- **Cola editorial:** sin monografías revisadas pendientes tras publicar manualmente Otumba CHG-A-0045. Las fichas solo se publican por solicitud expresa; no se generan investigaciones automáticamente.
+- **59 monografías publicadas al 28-10-2026**. La última es Los Castillejos 1860 (CHG-A-0047), con 5.042 palabras, 16 apartados y 10 fuentes. Se mantienen al menos 3.000 palabras, ocho apartados y cinco fuentes por ficha. Ver actas en `editorial/`. Las revisiones documentales son asistidas por IA, sin arbitraje académico externo.
+- **Cola editorial:** sin monografías revisadas pendientes tras publicar Los Castillejos CHG-A-0047 de forma manual. Las fichas solo se publican por solicitud expresa; no se generan investigaciones automáticamente.
 - **Publicación solo manual cuando el titular la solicite**: flujo investigación → contraste de fuentes → monografía → revisión → GitHub → validación y compilación → comprobación de Cloudflare Workers. El cron automático de 15 minutos se ha retirado de `.github/workflows/publicar.yml` y la configuración queda pausada (`editorial/config.json`). La comprobación de GitHub y Cloudflare se hace en cada entrega.
 - Generación autónoma: desactivada. No se ha contratado ninguna API.
 - El hecho de tener estos archivos no acredita que Cloudflare esté conectado o desplegado. Consultar el panel del alojamiento y el historial de Actions.
