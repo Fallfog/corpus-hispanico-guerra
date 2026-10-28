@@ -137,6 +137,20 @@
         "Los tercios también participaron en servicios ligados a los puertos y a la defensa costera. El transporte marítimo de soldados, su embarque en galeras y la protección de posiciones mediterráneas exigían adaptar equipos y turnos a espacios estrechos. La interacción con marineros y artilleros resultaba distinta de la convivencia con caballería en una campaña terrestre. Estas misiones explican que una definición exclusivamente basada en un cuadrado de picas sea insuficiente y que haya que estudiar cada teatro de guerra según sus exigencias. [1][2]",
         "La permanencia en Italia durante largos periodos contribuyó a formar mandos con experiencia administrativa y conocimiento de las relaciones locales. Una guarnición debía proteger una plaza y mantener suficiente disciplina para no provocar conflictos constantes con los habitantes. El tiempo dedicado a esas obligaciones apenas aparece en relatos épicos, pero condicionaba la preparación de futuras campañas. La historia comparada de guarniciones permite reconocer que el prestigio de una unidad se construía tanto por su continuidad como por su desempeño en batallas aisladas. [1]"
       ]
+    },
+    {
+      "heading": "La sanidad militar y las bajas invisibles",
+      "paragraphs": [
+        "En campaña, las enfermedades podían retirar a muchos soldados del servicio sin que hubieran participado en una batalla. La permanencia en campamentos, el agua disponible y las dificultades para transportar a heridos afectaban a la capacidad operativa. Los oficiales necesitaban distinguir los hombres presentes de quienes estaban enfermos o dispersos por distintas tareas. Por esa razón, comparar estados numéricos de dos fechas sin reconocer bajas y refuerzos puede conducir a juicios falsos sobre el rendimiento de un tercio. La guerra cotidiana exigía atención a enfermos, reposición de equipo y decisiones sobre dónde alojar a personas incapaces de marchar. [1]",
+        "El impacto sanitario también se extendía a las poblaciones que compartían agua, caminos y alimentos con los ejércitos. Un sitio podía agravar epidemias mientras el bloqueo impedía comprar suministros ordinarios. Las tropas no eran independientes de las comunidades de su entorno: necesitaban comerciantes, trabajadores y autoridades locales. La organización militar dependía de sostener esa cooperación incluso cuando el conflicto generaba violencia y escasez. Incorporar la enfermedad a una historia de los tercios permite explicar por qué una unidad prestigiosa podía aparecer disminuida en un estado de fuerza sin haber perdido recientemente una gran batalla. [1][6]"
+      ]
+    },
+    {
+      "heading": "Los reemplazos y las dificultades del servicio veterano",
+      "paragraphs": [
+        "La veteranía suponía experiencia de marcha y capacidad de conservar la formación, pero ningún grupo de soldados podía mantener indefinidamente sus efectivos iniciales. Las bajas, las licencias y los cambios de destino obligaban a incorporar reemplazos que necesitaban instrucción y adaptación a las costumbres de cada compañía. Las relaciones entre oficiales y soldados resultaban importantes para transmitir prácticas y sostener la confianza. Un tercio cuya reputación se había formado en campañas anteriores no podía apoyarse solamente en esa memoria cuando recibía hombres que nunca habían combatido juntos. [1][2]",
+        "El aprendizaje se desarrollaba durante guardias, ejercicios, marchas y pequeños enfrentamientos. Para el soldado, la capacidad de escuchar órdenes entre disparos y humo era tan relevante como saber manejar el arma en reposo. Los mandos debían preservar la cohesión al distribuir compañías entre plazas y volverlas a reunir. Esta continuidad de servicios ayuda a comprender por qué una organización militar podía mantenerse durante generaciones sin ser una estructura idéntica en cada periodo. Su historia está hecha de adaptación y reemplazo, no de una plantilla de soldados que hubiera permanecido invariable desde el siglo XVI hasta los comienzos del XVIII. [1][3]"
+      ]
     }
   ],
   "sources": [
@@ -207,7 +221,7 @@
   "approval": {
     "reviewer": "Revisión editorial documental asistida por IA",
     "date": "2026-10-28",
-    "notes": "Ampliación retrospectiva de los tercios a 2840 palabras, 13 secciones y 6 fuentes; incluidas perspectivas sociales, técnicas, fiscales y multinacionales. Consulta de fichas y extractos identificada en bibliography; no hay arbitraje externo.",
+    "notes": "Extensión retrospectiva aprobada para CHG-D-0002; 3222 palabras, 15 apartados y 6 fuentes. Se conservan URL, slug y contenido original y se amplían organización, guerra cotidiana, sanidad, reclutamiento, Flandes, logística y memoria; estudios de revista comprobados por fichas y extractos, sin afirmar lectura íntegra ni arbitraje histórico externo.",
     "checks": {
       "hechos_contrastados": true,
       "bibliografia_verificada": true,
@@ -215,6 +229,6 @@
       "originalidad_y_derechos": true,
       "profundidad_suficiente": true
     },
-    "content_sha256": "0bb5c442912d1708a63dc8d055d2facfd14bfdf112c4b0557b871e2f470e7a66"
+    "content_sha256": "2b4763ae16691bd67dde5e7225bd95f9bb90791eea8d17d60db90ab1f529c631"
   }
 }
