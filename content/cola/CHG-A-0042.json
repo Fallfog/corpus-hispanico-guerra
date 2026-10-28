@@ -1,5 +1,5 @@
 {
-  "id": "CHG-A-0041",
+  "id": "CHG-A-0042",
   "slug": "kinsale-1601-1602-juan-del-aguila-sitio-derrota-alianza-irlandesa",
   "title": "Kinsale, 1601–1602: Juan del Águila, la alianza irlandesa y el fracaso de una expedición española",
   "eyebrow": "Acciones militares · Edad Moderna · Irlanda",
@@ -285,7 +285,7 @@
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; no arbitraje externo",
     "date": "2026-10-28",
-    "notes": "Kinsale 1601–1602: 4226 palabras de desarrollo, 16 secciones, 48 párrafos citados y 9 fuentes con alcance de consulta declarado. Contrastados el desembarco, el cerco, la expedición a Castlehaven, el socorro irlandés y la capitulación. Se discuten las fechas juliana/gregoriana y los sesgos del informe de Bustamante, sin atribuir lectura de manuscritos originales. Sin imágenes ni citas extensas.",
+    "notes": "Kinsale 1601–1602: 4226 palabras de desarrollo, 16 secciones, 48 párrafos citados y 9 fuentes con alcance de consulta declarado. Contrastados el desembarco, el cerco, la expedición a Castlehaven, el socorro irlandés y la capitulación. Se discuten las fechas juliana/gregoriana y los sesgos del informe de Bustamante, sin atribuir lectura de manuscritos originales. Sin imágenes ni citas extensas. Identificador reservado original CHG-A-0041 reasignado a CHG-A-0042 tras comprobar colisión concurrente con la entrada publicada La Rochela; monografía y bibliografía sin alteración.",
     "checks": {
       "hechos_contrastados": true,
       "bibliografia_verificada": true,
@@ -293,6 +293,6 @@
       "originalidad_y_derechos": true,
       "profundidad_suficiente": true
     },
-    "content_sha256": "f25691cc94efda49768c976b9e900f1cc9f3f5aa2a1c75e3e078f28619630a49"
+    "content_sha256": "791aa69b48e539ca1db2a887d8fe2919aebc2d03e29a80c727afb07977d29d92"
   }
 }
