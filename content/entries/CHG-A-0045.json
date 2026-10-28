@@ -218,7 +218,7 @@
     "CHG-A-0025"
   ],
   "editorial_note": "Redacción original y revisión documental asistida por IA, sin arbitraje académico externo. Se leyeron íntegramente dos estudios universitarios breves (Brokmann HTML y Cervera PDF), la página editorial UNAM y el pasaje de Cortés transcrito; el artículo de Arqueología Mexicana se consultó solo mediante extracto, la ficha del Museo del Ejército se examinó en texto accesible y del artículo de Mendoza únicamente se leyó ficha y resumen. Se diferencian el 7 de julio tradicional y la propuesta 10/11, no se inventan recuentos de bajas ni se asume verificada la leyenda del estandarte. No se reproducen imágenes ni pasajes extensos de terceros.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-28",
   "topics": [
     "batallas-combates-y-asedios",
@@ -239,5 +239,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "d594be534237560fdebf75357c95819900142a964511cdf2016d2a768e7dc18e"
-  }
+  },
+  "publication_date": "2026-10-28",
+  "publication_time": "2026-10-28T17:36:26.204Z",
+  "publication_slot": "2026-10-28/extra-A-0045",
+  "last_reviewed": "2026-10-28"
 }
