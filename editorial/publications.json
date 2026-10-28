@@ -228,5 +228,10 @@
     "id": "CHG-D-0004",
     "at": "2026-10-28T15:54:33.406Z",
     "mode": "publicación manual a solicitud del titular con revisión y despliegue Cloudflare"
+  },
+  "2026-10-28/extra-A-0038": {
+    "id": "CHG-A-0038",
+    "at": "2026-10-28T16:08:57.918Z",
+    "mode": "publicación manual nueva investigación 5198 palabras; contraste documental, revisión e implementación Cloudflare"
   }
 }
