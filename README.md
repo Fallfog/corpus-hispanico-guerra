@@ -4,7 +4,7 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 
 ## Estado real
 
-- **86 monografías publicadas al 29-10-2026**. La última es Munda (CHG-A-0090), con 4.615 palabras de desarrollo, 14 apartados y 9 fuentes. Contenido registrado en `content/entries/CHG-A-0090.json` y web compilada en `dist/articulos/batalla-munda-45-ac-julio-cesar-cneo-pompeyo-hispania/index.html`.
+- **87 monografías publicadas al 29-10-2026**. La última es Guadalete (CHG-A-0091), con 5.141 palabras, 16 apartados y 11 fuentes identificadas; ficha `content/entries/CHG-A-0091.json`, HTML `dist/articulos/batalla-guadalete-711-rodrigo-tariq-fin-reino-visigodo/index.html`.
 - **Cola editorial:** permanecen reservadas las investigaciones CHG-A-0076, CHG-A-0081. Nájera (CHG-A-0082) se ha incorporado sin modificar las reservas previas. La generación y publicación automática permanecen desactivadas.
 - **Publicación solo manual cuando el titular la solicite**: flujo investigación → contraste de fuentes → monografía → revisión → GitHub → validación y compilación → comprobación de Cloudflare Workers. El cron automático de 15 minutos se ha retirado de `.github/workflows/publicar.yml` y la configuración queda pausada (`editorial/config.json`). La comprobación de GitHub y Cloudflare se hace en cada entrega.
 - Generación autónoma: desactivada. No se ha contratado ninguna API.
