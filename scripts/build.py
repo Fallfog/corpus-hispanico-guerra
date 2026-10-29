@@ -101,12 +101,12 @@ def chronology_sort_key(entry):
     if isinstance(raw,(int,float)) and not isinstance(raw,bool):
         return int(raw)
     text=str(raw).strip()
-    if re.fullmatch(r'-?\\d{1,5}',text):
+    if re.fullmatch(r'-?\d{1,5}',text):
         return int(text)
     # Descriptive fields occasionally contain multiple years; the title
     # names the year that identifies the published event.
     for candidate in (entry.get('title',''),text,entry.get('date','')):
-        match=re.search(r'(?<!\\d)(\\d{3,4})(?!\\d)',candidate)
+        match=re.search(r'(?<!\d)(\d{3,4})(?!\d)',candidate)
         if match:
             return int(match.group(1))
     raise ValueError(f"Fecha cronológica no interpretable: {entry['id']}: {raw!r}")
