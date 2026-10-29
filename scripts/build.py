@@ -91,8 +91,28 @@ def archive(entries):
     main=f'''<section class="container interior-hero"><div class="eyebrow"><span class="line"></span> ARCHIVO DOCUMENTAL / ÍNDICE GENERAL</div><h1>El archivo<span class="period">.</span></h1><p>Fichas históricas con identificador propio, fuentes enlazadas y contexto interpretativo.</p></section><section class="container archive-controls" aria-label="Filtrar el archivo"><label class="search-box"><span>BUSCAR</span><input id="archive-search" type="search" placeholder="Batalla, figura histórica, época..." autocomplete="off"></label><label class="select-box"><span>CATEGORÍA</span><select id="archive-category"><option value="">Todas las áreas</option><option>Acciones militares</option><option>Protagonistas</option><option>Historia de la guerra</option></select></label><label class="select-box"><span>PERÍODO</span><select id="archive-period"><option value="">Todos los períodos</option><option>Antigüedad</option><option>Edad Media</option><option>Edad Moderna</option><option>Edad Contemporánea</option></select></label></section><section class="container section archive-list"><div class="section-title"><span id="results-count" role="status" aria-live="polite">{len(entries)} FICHAS EN EL ARCHIVO</span><span>DOCUMENTACIÓN ABIERTA</span></div><div id="archive-grid" class="cards-grid">{cards}</div><p id="no-results" hidden>No se encontraron fichas con esos criterios.</p></section>'''
     return shell('Archivo',main,page='archivo',description='Índice general de fichas históricas documentadas',path='/archivo/')
 
+def chronology_sort_key(entry):
+    """Normalize numeric years and older descriptive chronologies without editing approved records.
+
+    The article title supplies the event's year if chronology contains prose
+    (e.g. a campaign range), so those records still sort within the timeline.
+    """
+    raw=entry['chronology']
+    if isinstance(raw,(int,float)) and not isinstance(raw,bool):
+        return int(raw)
+    text=str(raw).strip()
+    if re.fullmatch(r'-?\\d{1,5}',text):
+        return int(text)
+    # Descriptive fields occasionally contain multiple years; the title
+    # names the year that identifies the published event.
+    for candidate in (entry.get('title',''),text,entry.get('date','')):
+        match=re.search(r'(?<!\\d)(\\d{3,4})(?!\\d)',candidate)
+        if match:
+            return int(match.group(1))
+    raise ValueError(f"Fecha cronológica no interpretable: {entry['id']}: {raw!r}")
+
 def timeline(entries):
-    chronological=sorted(entries,key=lambda e:e['chronology'])
+    chronological=sorted(entries,key=lambda e:(chronology_sort_key(e),e['id']))
     blocks=''.join(f'<div class="timeline-item"><div class="timeline-year">{esc(e["era"])}</div><div class="timeline-body"><span class="micro">{esc(e["id"])} · {esc(e["category"])}</span><h2><a href="{link_for(e)}">{esc(e["title"])} ↗</a></h2><p>{esc(e["summary"])}</p></div></div>' for e in chronological)
     return shell('Cronología',f'<section class="container interior-hero"><div class="eyebrow"><span class="line"></span> CONTEXTO Y SECUENCIA</div><h1>Cronología<span class="period">.</span></h1><p>Recorre los acontecimientos y las trayectorias del Corpus por fecha histórica aproximada, no por fecha de publicación.</p></section><section class="container section timeline">{blocks}</section>',page='cronologia',path='/cronologia/')
 
