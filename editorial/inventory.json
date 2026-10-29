@@ -537,5 +537,12 @@
     "topic_key": "batalla-montjuic-1641-defensa-barcelona-guerra-segadors",
     "title": "Montjuïc, 1641: la defensa de Barcelona, la derrota de los Vélez y la guerra de las memorias",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0066",
+    "slug": "sitio-cartagena-indias-1815-morillo-bloqueo-hambre",
+    "topic_key": "sitio-cartagena-indias-1815-morillo-bloqueo-hambre",
+    "title": "Cartagena de Indias, 1815: Morillo, el bloqueo del hambre y los límites de la reconquista",
+    "category": "Acciones militares"
   }
 ]
