@@ -292,7 +292,7 @@
     "Cataluña",
     "1285"
   ],
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-29",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje académico externo",
@@ -306,5 +306,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "e991d535cd79c7a0bb44cba895a08a279a998286d19f9ac630202451df0d1738"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T00:31:07+01:00",
+  "publication_slot": "manual-centenario-02",
+  "last_reviewed": "2026-10-29"
 }

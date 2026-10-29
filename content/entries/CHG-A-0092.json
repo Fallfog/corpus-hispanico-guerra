@@ -225,7 +225,7 @@
   ],
   "related": [],
   "editorial_note": "Monografía original con contraste de historiografía académica y fuentes narrativas transmitidas por edición secundaria. Lectura íntegra declarada únicamente para el artículo divulgativo; estudio RAH consultado parcialmente y restantes fuentes por ficha o resumen. No se ofrecen cifras exactas de bajas ni diálogos como hechos demostrados. Revisión asistida por IA, sin arbitraje académico externo. No se reproduce imagen ajena.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-29",
   "topics": [
     "Uclés",
@@ -245,5 +245,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "2502db6b2be3af971aef6d9550c001a6b0c49f3f9b822f5de38159bd74156a8b"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T00:31:07+01:00",
+  "publication_slot": "manual-centenario-01",
+  "last_reviewed": "2026-10-29"
 }

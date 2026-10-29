@@ -255,7 +255,7 @@
     "gibraltar",
     "guerra-anglo-espanola"
   ],
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-29",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje académico externo",
@@ -269,5 +269,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "bda405a0cd501c9aac069366782c2b45ffc85b6a0e8e6235e713f51892b5fa47"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T00:31:07+01:00",
+  "publication_slot": "manual-centenario-05",
+  "last_reviewed": "2026-10-29"
 }

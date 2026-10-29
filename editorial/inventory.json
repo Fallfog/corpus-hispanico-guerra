@@ -628,5 +628,75 @@
     "topic_key": "batalla-montiel-1369-guerra-civil-castellana",
     "title": "Montiel, 1369: la derrota de Pedro I, el cerco de La Estrella y el triunfo de Enrique II",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0092",
+    "slug": "batalla-ucles-1108-sancho-alfonsez-tamim-almoravides",
+    "topic_key": "batalla-ucles-1108-sancho-alfonsez-almoravides",
+    "title": "Uclés, 1108: Sancho Alfónsez, los siete condes y la derrota que cambió la sucesión",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0113",
+    "slug": "batallas-formigues-1285-marquet-mallol-roger-lauria-roses",
+    "topic_key": "batallas-navales-formigues-roses-1285",
+    "title": "Formigues y Roses, 1285: Marquet, Mallol, Roger de Lauria y las batallas que quebraron la invasión francesa",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0083",
+    "slug": "sitio-bilbao-1874-somorrostro-socorro-tercera-guerra-carlista",
+    "topic_key": "sitio-bilbao-1874-somorrostro-socorro-tercera-guerra-carlista",
+    "title": "Bilbao, 1874: el cerco carlista, Somorrostro y la victoria que no acabó la guerra",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0105",
+    "slug": "tarragona-1811-sitio-suchet-contreras-destruccion-ciudad",
+    "topic_key": "sitio-tarragona-1811-suchet-contreras",
+    "title": "Tarragona, 1811: Suchet, el sitio y la destrucción de una ciudad española",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0112",
+    "slug": "gran-sitio-gibraltar-1779-1783-baterias-flotantes-fracaso-hispanofrances",
+    "topic_key": "gran-sitio-gibraltar-1779-1783",
+    "title": "Gibraltar, 1779–1783: el Gran Sitio, las baterías flotantes y la derrota de una ofensiva hispanofrancesa",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0089",
+    "slug": "batalla-montes-claros-villaviciosa-1665-caracena-marques-marialva",
+    "topic_key": "batalla-montes-claros-villaviciosa-1665-restauracion-portuguesa",
+    "title": "Montes Claros, 1665: Caracena, Marialva y la derrota que precipitó la paz con Portugal",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0102",
+    "slug": "bicoca-1522-colonna-arcabuceros-piqueros-suizos",
+    "topic_key": "batalla-bicoca-1522-colonna-lautrec-suizos",
+    "title": "Bicoca, 1522: Colonna, los arcabuceros españoles y la derrota de los piqueros suizos",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0084",
+    "slug": "sitio-la-goleta-tunez-1574-derrota-otomana-socorro",
+    "topic_key": "sitio-la-goleta-tunez-1574",
+    "title": "La Goleta y Túnez, 1574: el asedio otomano, el socorro frustrado y los límites de Lepanto",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0076",
+    "slug": "sitio-san-juan-puerto-rico-1625-hendricksz-morro-incendio",
+    "topic_key": "sitio-san-juan-puerto-rico-1625-hendricksz",
+    "title": "San Juan de Puerto Rico, 1625: Hendricksz, El Morro y la ciudad incendiada",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0093",
+    "slug": "defensa-buenos-aires-1807-segunda-invasion-britanica",
+    "topic_key": "defensa-buenos-aires-1807-whitelocke-liniers-alzaga",
+    "title": "Buenos Aires, 1807: Whitelocke, Liniers y la ciudad que derrotó a la segunda invasión británica",
+    "category": "Acciones militares"
   }
 ]

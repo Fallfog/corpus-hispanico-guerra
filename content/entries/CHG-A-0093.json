@@ -261,7 +261,7 @@
   ],
   "related": [],
   "editorial_note": "Monografía original con 4032 palabras de desarrollo, 15 secciones y 45 párrafos referenciados. Investigación con nueve fuentes verificadas, dos textos institucionales completos y una síntesis militar completa; los estudios académicos se consultaron por ficha, resumen o extracto, expresamente declarados. Se advierten discrepancias sobre el número de columnas, efectivos, pérdidas y cronologías. No se reproducen imágenes ni citas textuales extensas. Revisión documental asistida por IA, no arbitraje académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-29",
   "topics": [
     "Invasiones británicas",
@@ -283,5 +283,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "b07afb9446a7edf4e5c250ca2a1b5457465c8a3e864878feaf1d859415b53dc7"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T00:31:07+01:00",
+  "publication_slot": "manual-centenario-10",
+  "last_reviewed": "2026-10-29"
 }

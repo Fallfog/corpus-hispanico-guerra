@@ -269,7 +269,7 @@
     "Siglo XVI"
   ],
   "editorial_note": "Investigación original basada en nueve referencias académicas, institucionales y una fuente primaria literaria; la lectura del artículo de González Castrillo y de varias obras completas sigue pendiente. Las afirmaciones se han limitado a los pasajes efectivamente comprobados; no se inventan cifras, fechas de asaltos ni citas. Las discrepancias cronológicas se señalan. Revisión documental asistida por IA, sin arbitraje académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-29",
   "approval": {
     "reviewer": "Revisión historiográfica y documental asistida por IA; sin arbitraje externo",
@@ -283,5 +283,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "c79abfdaaf1a37dab1ecc4c30b8dba47ce256ad13251083ea165a2aa25421393"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T00:31:07+01:00",
+  "publication_slot": "manual-centenario-08",
+  "last_reviewed": "2026-10-29"
 }

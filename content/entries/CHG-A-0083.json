@@ -252,7 +252,7 @@
     "guerras-carlistas"
   ],
   "editorial_note": "Monografía original sobre Bilbao 1874, con contraste de ocho referencias institucionales y académicas, diferenciando lectura directa de textos públicos, consulta parcial, ficha y extractos. No se han consultado íntegramente las monografías ni los artículos académicos de acceso parcial; no se infieren cifras cerradas de bajas ni se reproducen imágenes. Las fechas del bloqueo, del bombardeo y del socorro se diferencian explícitamente. Revisión historiográfica asistida por IA, sin arbitraje externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-29",
   "approval": {
     "reviewer": "Revisión historiográfica y documental asistida por IA; sin arbitraje externo",
@@ -266,5 +266,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "00e4cfe472017e45e083e1385fbc17ca82b74d335368a70e0d3354c48197b8b2"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T00:31:07+01:00",
+  "publication_slot": "manual-centenario-03",
+  "last_reviewed": "2026-10-29"
 }

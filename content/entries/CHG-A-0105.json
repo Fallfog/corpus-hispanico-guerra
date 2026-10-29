@@ -277,7 +277,7 @@
     "cataluna",
     "violencia-contra-civiles"
   ],
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-29",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; no arbitraje académico externo",
@@ -291,5 +291,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "88ea8a9afd2e5c6fad41ccb1548f74512de657f6f968f3cb53a83269b2673618"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T00:31:07+01:00",
+  "publication_slot": "manual-centenario-04",
+  "last_reviewed": "2026-10-29"
 }

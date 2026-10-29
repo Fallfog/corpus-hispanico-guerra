@@ -251,7 +251,7 @@
     }
   ],
   "editorial_note": "Monografía original y crítica basada en ocho fuentes institucionales o académicas. Alcance de consulta individual consignado en verification_note: dos páginas NPS leídas íntegras, una ponencia universitaria consultada en su cuerpo, expediente patrimonial leído parcialmente y tres publicaciones consultadas mediante extractos o ficha. Se distinguen resultados tácticos y estratégicos, fechas contradictorias, efectivos no homologables, consecuencias urbanas y memoria artística. Sin imágenes ajenas ni citas textuales extensas. No constituye arbitraje externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-29",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje académico externo",
@@ -265,5 +265,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "6fc151bb393a246f69a9eaa9b08ab063524b71236c1ffabcdf940c3a5f78d984"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T00:31:07+01:00",
+  "publication_slot": "manual-centenario-09",
+  "last_reviewed": "2026-10-29"
 }

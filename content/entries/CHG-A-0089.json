@@ -252,7 +252,7 @@
   ],
   "related": [],
   "editorial_note": "Monografía original de revisión crítica, sin imágenes reproducidas. Investigación basada en fuentes militares portuguesas, registro bibliográfico de fuente primaria de 1665 y estudio académico sobre propaganda. La lectura íntegra se atribuye únicamente a la reseña específica y al texto breve institucional, no a los libros, tesis o documentos primarios completos. Las divergencias de efectivos, duración y bajas se exponen expresamente. No se presenta como arbitraje académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-29",
   "topics": [
     "Guerra de Restauración portuguesa",
@@ -272,5 +272,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "1cdbcf6733bb30b178641fde415e53662a3786e94da2ba48722caedbcb4d1de2"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T00:31:07+01:00",
+  "publication_slot": "manual-centenario-06",
+  "last_reviewed": "2026-10-29"
 }

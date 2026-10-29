@@ -252,7 +252,7 @@
   ],
   "related": [],
   "editorial_note": "Texto original de desarrollo, sin imágenes ni citas extensas. Se ha revisado el inventario, las entradas y la cola, preservando Pavía CHG-A-0004 y demás reservas. Se contrasta la narración institucional suiza con la española y con un estudio militar de 2025 basado en correspondencia contemporánea. Lecturas completas, extractos y fichas están diferenciados. No se presenta la cifra de cero bajas como hecho ni la superioridad del arcabuz como sustitución inmediata de la pica. Sin arbitraje académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-29",
   "topics": [
     "Guerras de Italia",
@@ -272,5 +272,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "fe4473376c66399db25b6c473aa5e6108c4f5323e7ef6b9acfe0dbf114a4e3a6"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T00:31:07+01:00",
+  "publication_slot": "manual-centenario-07",
+  "last_reviewed": "2026-10-29"
 }

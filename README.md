@@ -4,8 +4,8 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 
 ## Estado real
 
-- **90 monografías publicadas al 29-10-2026**. La última es Montiel (CHG-A-0104), con 5.242 palabras, 16 apartados y 14 fuentes. Ficha `content/entries/CHG-A-0104.json` y HTML `dist/articulos/batalla-montiel-1369-pedro-i-enrique-ii-trastamara-castillo-estrella/index.html`.
-- **Cola editorial:** 14 fichas revisadas y pendientes de orden expresa de publicación (a 29-10-2026), con los identificadores reservados sin reutilizar; se consultan en `content/cola/`.
+- **100 monografías publicadas al 30-10-2026**. Se incorporó el lote manual centenario de diez monografías previamente revisadas, con expedientes individualizados; ver `editorial/lote-centenario-2026-10-30.md`.
+- **Cola editorial:** 6 fichas revisadas pendientes, sin publicación automática; consultar `content/cola/`.
 - **Publicación solo manual cuando el titular la solicite**: investigación → contraste → monografía ≥3.000 palabras → revisión → GitHub → pruebas y compilación → comprobación HTTP de Cloudflare. El cron de publicación está eliminado de `.github/workflows/publicar.yml`, y `editorial/config.json` permanece con `paused: true`.
 - Generación autónoma: desactivada. No se ha contratado ninguna API.
 - El hecho de tener estos archivos no acredita que Cloudflare esté conectado o desplegado. Consultar el panel del alojamiento y el historial de Actions.
