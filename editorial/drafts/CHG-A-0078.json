@@ -1,0 +1,162 @@
+{
+  "id": "CHG-A-0078",
+  "slug": "guerra-ifni-1957-1958-sidi-ifni-perimetro-ejercito-liberacion",
+  "topic_key": "guerra-ifni-1957-1958-defensa-sidi-ifni",
+  "title": "Ifni, 1957–1958: el perímetro de Sidi Ifni y la última guerra colonial española",
+  "eyebrow": "Acciones militares · Siglo XX · Descolonización",
+  "category": "Acciones militares",
+  "period": "Edad Contemporánea",
+  "era": "Siglo XX",
+  "chronology": 1957,
+  "date": "23 de noviembre de 1957–1958; tratado de retrocesión de 1969",
+  "location": "Ifni y Sidi Ifni; operaciones relacionadas en Sáhara y Cabo Juby",
+  "summary": "Monografía de la guerra de Ifni-Sáhara, la defensa de Sidi Ifni, puestos cercados, Ejército de Liberación marroquí, sanidad, propaganda y retrocesión de 1969.",
+  "featured": false,
+  "keywords": [
+    "guerra de Ifni",
+    "Sidi Ifni",
+    "1957",
+    "Ejército de Liberación marroquí",
+    "Telata",
+    "Tiliuin",
+    "Ortiz de Zárate",
+    "paracaidistas",
+    "Sáhara",
+    "Edchera",
+    "Teide Ecouvillon",
+    "censura franquista",
+    "descolonización",
+    "tratado de Fez"
+  ],
+  "facts": [
+    [
+      "Fecha",
+      "23 de noviembre de 1957–1958"
+    ],
+    [
+      "Lugar",
+      "Ifni y áreas saharianas bajo administración española"
+    ],
+    [
+      "Fuerzas",
+      "Unidades españolas frente a combatientes del Ejército de Liberación marroquí; intervención francesa en Sáhara"
+    ],
+    [
+      "Resultado",
+      "Sidi Ifni no fue tomada; numerosas posiciones interiores perdidas o evacuadas"
+    ],
+    [
+      "Consecuencias",
+      "Repliegue al perímetro de la capital, cesión de Cabo Juby en 1958 y retrocesión de Ifni en 1969"
+    ],
+    [
+      "Tratado de Fez",
+      "Firmado el 4 de enero de 1969"
+    ]
+  ],
+  "sections": [],
+  "sources": [
+    {
+      "n": 1,
+      "name": "Pastrana Piñero, Contreras Ruiz y Pich i Mitjana, «La guerra antes de la guerra», Revista Universitaria de Historia Militar, 4(7), 2015, 68–85",
+      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6130597",
+      "kind": "Artículo académico",
+      "verified_at": "2026-10-29",
+      "verification_note": "Ficha y resumen completos de Dialnet, no texto íntegro de revista; información sobre preludio e independencia."
+    },
+    {
+      "n": 2,
+      "name": "«La sanidad del Ejército de Tierra español durante la guerra de Ifni-Sáhara», Sanidad Militar, 2023",
+      "url": "https://scielo.isciii.es/scielo.php?pid=S1887-85712023000400007&script=sci_arttext",
+      "kind": "Estudio de historia médica y militar",
+      "verified_at": "2026-10-29",
+      "verification_note": "Extractos extensos de texto indexado con operaciones y atención sanitaria; acceso directo produjo 503."
+    },
+    {
+      "n": 3,
+      "name": "Miguel Renuncio, «La Guerra de Ifni-Sáhara», Tierra, boletín del Ejército, 193, 20 diciembre 2011, 15",
+      "url": "https://ejercito.defensa.gob.es/de/Galerias/multimedia/boletines/2011/Boletin_Tierra_193.pdf",
+      "kind": "Publicación institucional militar",
+      "verified_at": "2026-10-29",
+      "verification_note": "PDF abierto y artículo de página 15 inspeccionado visualmente, incluidas cronología y mapa."
+    },
+    {
+      "n": 4,
+      "name": "Navarro Suay et al., «La sanidad del Ejército del Aire español durante la guerra de Ifni-Sáhara», Sanidad Militar 80(4), 2024, 137–147",
+      "url": "https://scielo.isciii.es/scielo.php?pid=S1887-85712024000400005&script=sci_arttext",
+      "kind": "Artículo científico de sanidad aeronáutica",
+      "verified_at": "2026-10-29",
+      "verification_note": "Extractos amplios de introducción, resumen, ejemplos y conclusiones; apertura directa respondió 503."
+    },
+    {
+      "n": 5,
+      "name": "Alfredo Bosque Coma, «La agrupación de banderas paracaidistas del ejército de tierra durante la campaña de Ifni», tesis doctoral, Universitat de Barcelona, 1997",
+      "url": "https://dialnet.unirioja.es/servlet/tesis?codigo=178583",
+      "kind": "Ficha académica de tesis",
+      "verified_at": "2026-10-29",
+      "verification_note": "Ficha Dialnet y resumen leídos; texto completo no disponible."
+    },
+    {
+      "n": 6,
+      "name": "José Miguel García Pimentel, «La guerra de Ifni en las revistas África y A.O.E.», Studia Historica. Historia Contemporánea, 2026",
+      "url": "https://revistas.usal.es/uno/index.php/0213-2087/es/article/view/32412",
+      "kind": "Artículo académico de historia de la prensa",
+      "verified_at": "2026-10-29",
+      "verification_note": "Ficha y resumen indexados, acceso directo en bucle de redirección; no leído el artículo íntegro."
+    },
+    {
+      "n": 7,
+      "name": "Guadalupe Pérez García, «Información y propaganda en el último periodo colonial español (Ifni-Sahara), 1957-1976», tesis, UCM, 2005",
+      "url": "https://produccioncientifica.ucm.es/documentos/5d1df63829995204f7664e85?lang=es",
+      "kind": "Tesis doctoral, ficha y resumen UCM",
+      "verified_at": "2026-10-29",
+      "verification_note": "Ficha institucional y resumen completos leídos; sin lectura del texto completo de la tesis."
+    },
+    {
+      "n": 8,
+      "name": "«Ifni: la guerra olvidada», Revista Ejército, 919, 2017",
+      "url": "https://ejercito.defensa.gob.es/Galerias/multimedia/revista-ejercito/2017/919/accesible/Revista_Ejercito_Accesible.pdf",
+      "kind": "Síntesis de historia militar",
+      "verified_at": "2026-10-29",
+      "verification_note": "Extractos indexados sobre defensa perimetral y operaciones limitadas; no leído el PDF íntegro."
+    },
+    {
+      "n": 9,
+      "name": "Azcona Pastor y colaboradores, «La guerra de Sidi Ifni-Sáhara: 1957-1958», Estudios de Ciencias Sociales, 7, 1994, 65–91",
+      "url": "https://burjcdigital.urjc.es/items/a542eed7-091f-474a-9bd7-1f9dd732b131",
+      "kind": "Ficha institucional de estudio histórico",
+      "verified_at": "2026-10-29",
+      "verification_note": "Metadatos y resumen indexados; apertura del repositorio fallida por timeout, no leído íntegramente."
+    },
+    {
+      "n": 10,
+      "name": "«Stuck in the past? British views on the Spanish army’s effectiveness and military culture, 1946–1983», 2019",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/07292473.2019.1524347",
+      "kind": "Estudio académico comparativo",
+      "verified_at": "2026-10-29",
+      "verification_note": "Fragmento indexado del apartado Ifni consultado; acceso directo 403."
+    },
+    {
+      "n": 11,
+      "name": "BOE-A-1969-694, instrumento de ratificación del tratado sobre Ifni firmado en Fez el 4 de enero de 1969",
+      "url": "https://boe.es/buscar/doc.php?id=BOE-A-1969-694&lang=es",
+      "kind": "Ficha oficial de tratado diplomático",
+      "verified_at": "2026-10-29",
+      "verification_note": "Ficha BOE leída íntegramente con título y fechas; no leído PDF con articulado completo."
+    },
+    {
+      "n": 12,
+      "name": "Miguel Ángel Pérez González, «La aviación en la guerra de Ifni-Sáhara», Aeroplano, 43, 2025, 68–82",
+      "url": "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/en/consulta/registro.do?control=BMDB20250183841",
+      "kind": "Ficha bibliográfica oficial",
+      "verified_at": "2026-10-29",
+      "verification_note": "Ficha bibliográfica oficial completa leída; texto íntegro del artículo no consultado."
+    }
+  ],
+  "related": [
+    "CHG-A-0017",
+    "CHG-A-0037",
+    "CHG-A-0047"
+  ],
+  "editorial_note": "Borrador de trabajo interno; conservar fuera de entries hasta completar revisión de todos los apartados. Fuentes con alcance de lectura declarado."
+}
