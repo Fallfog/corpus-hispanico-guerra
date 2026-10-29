@@ -393,5 +393,10 @@
     "id": "CHG-A-0080",
     "at": "2026-10-29T09:18:22Z",
     "mode": "Publicación manual a petición del titular, limitada geográficamente a la península ibérica: Badajoz 1812, 3978 palabras, 13 apartados y 8 fuentes. Investigación de San Juan 1625 reservada en cola, automatización desactivada."
+  },
+  "2026-10-29/extra-A-0082": {
+    "id": "CHG-A-0082",
+    "at": "2026-10-29T09:40:00.000Z",
+    "mode": "Publicación manual a petición del titular y limitada a la península ibérica: Nájera 1367, 3936 palabras, 13 apartados y 10 fuentes. Reserva Maastricht CHG-A-0081 y Puerto Rico CHG-A-0076 conservadas; generación y publicación automáticas desactivadas."
   }
 }
