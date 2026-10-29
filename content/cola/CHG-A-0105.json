@@ -1,0 +1,295 @@
+{
+  "id": "CHG-A-0105",
+  "slug": "tarragona-1811-sitio-suchet-contreras-destruccion-ciudad",
+  "topic_key": "sitio-tarragona-1811-suchet-contreras",
+  "title": "Tarragona, 1811: Suchet, el sitio y la destrucción de una ciudad española",
+  "eyebrow": "Acciones militares · Guerra de la Independencia · 1811",
+  "category": "Acciones militares",
+  "period": "Edad Contemporánea",
+  "era": "Siglo XIX",
+  "chronology": "Primeros días de mayo–28 de junio de 1811; ocupación francesa hasta agosto de 1813",
+  "date": "28 de junio de 1811",
+  "location": "Tarragona, Cataluña, España",
+  "summary": "Análisis crítico del sitio francés de Tarragona en 1811: campaña de Suchet, fortificaciones y artillería, defensa española y milicias urbanas, fracaso del socorro, asalto del 28 de junio, violencia contra civiles y memoria del Pla de la Seu.",
+  "featured": false,
+  "keywords": [
+    "Tarragona",
+    "1811",
+    "Suchet",
+    "Contreras",
+    "Campoverde",
+    "Guerra de la Independencia",
+    "milicia urbana",
+    "fortín de la Oliva",
+    "Pla de la Seu",
+    "asedio",
+    "saqueo"
+  ],
+  "facts": [
+    [
+      "Fecha del asalto",
+      "28 de junio de 1811"
+    ],
+    [
+      "Campaña",
+      "Guerra de la Independencia española; operaciones napoleónicas en Cataluña"
+    ],
+    [
+      "Resultado",
+      "Victoria francesa y ocupación de Tarragona"
+    ],
+    [
+      "Mando sitiador",
+      "Louis-Gabriel Suchet"
+    ],
+    [
+      "Mando defensor",
+      "Juan Senén de Contreras; responsabilidad superior de Campoverde y participación de Sarsfield"
+    ],
+    [
+      "Advertencias",
+      "Discrepancias en la fecha de la caída de la Oliva y en los balances de víctimas"
+    ],
+    [
+      "Ocupación",
+      "Hasta agosto de 1813"
+    ]
+  ],
+  "sections": [
+    {
+      "heading": "1. Una derrota española que exige algo más que una crónica del asalto",
+      "paragraphs": [
+        "El sitio de Tarragona de 1811 fue una derrota militar española y una catástrofe humana de primer orden. La ciudad, convertida en refugio y centro logístico de la resistencia catalana, cayó el 28 de junio ante el ejército napoleónico dirigido por Louis-Gabriel Suchet. El resultado no puede explicarse únicamente por el valor de los defensores ni por la potencia de la artillería francesa. Confluyeron una campaña previa que había aislado la plaza, fortificaciones de calidad desigual, dificultades de coordinación entre los mandos españoles, expectativas de socorro incumplidas y la eficacia de las operaciones de sitio. La violencia que siguió a la entrada de los vencedores obliga a estudiar conjuntamente el combate y el destino de la población civil. [1][2][3]",
+        "Esta monografía propone separar tres planos que a menudo se confunden. El primero es operacional: por qué Suchet pudo acercarse, abrir trincheras, tomar obras exteriores y llegar a la muralla principal. El segundo es político y organizativo: por qué la guarnición permaneció esperando un ejército de socorro que no llegó en el momento decisivo. El tercero es social y memorial: cómo la ciudad experimentó el bombardeo, el asalto, el saqueo y una ocupación prolongada. Las investigaciones de Robert Vallverdú sobre las milicias urbanas y de Sofia Mata sobre la catedral permiten recuperar actores que desaparecen en las narraciones centradas exclusivamente en los generales. [3][4][5][6]",
+        "El estudio exige también prudencia con las cifras. Un expediente municipal de protección patrimonial recoge estimaciones muy elevadas de muertos, heridos y prisioneros; otras síntesis utilizan números distintos o categorías que no resultan directamente comparables. No se deben convertir esas sumas en un censo incontrovertible, ni emplearlas para medir el sufrimiento como si una tragedia pudiera establecerse únicamente por su magnitud estadística. La existencia de una matanza y de una devastación urbana está suficientemente documentada; el alcance exacto de cada categoría requiere crítica de fuentes y, cuando sea posible, contrastación nominal. [2][3]"
+      ]
+    },
+    {
+      "heading": "2. Cataluña en la guerra peninsular: un territorio disputado",
+      "paragraphs": [
+        "Desde 1808, Cataluña vivió una guerra de ocupación, resistencia y movimientos militares que desbordaba los límites de las plazas fuertes. Las autoridades napoleónicas intentaron asegurar ciudades, carreteras y comunicaciones, mientras los ejércitos españoles, las milicias y los grupos armados locales mantenían una oposición de intensidad variable. Las operaciones sobre Tarragona no fueron un hecho aislado, sino parte de una estrategia destinada a dominar el sur del Principado y conectar las posiciones francesas. La propia documentación municipal sitúa la campaña después de la caída de Lleida en 1810 y de Tortosa a comienzos de 1811, acontecimientos que modificaron profundamente el equilibrio regional. [1][3][8]",
+        "La ocupación de una fortaleza tenía consecuencias que excedían la simple modificación de una línea en el mapa. Controlar una ciudad permitía establecer almacenes, hospitales, depósitos de municiones y puntos de apoyo para nuevas operaciones. Por el contrario, perderla obligaba al adversario a buscar rutas alternativas, reorganizar tropas y atender a los desplazados. Tarragona adquirió una función especial porque el puerto ofrecía acceso al mar y a posibles suministros exteriores, al tiempo que las carreteras hacia Reus y el interior comunicaban con comarcas decisivas para el abastecimiento. La guerra de Cataluña se desarrollaba tanto en esos espacios logísticos como en los campos de batalla. [1][3]",
+        "La denominación catalana Guerra del Francès y la expresión Guerra de la Independencia española remiten al mismo conflicto, pero destacan tradiciones memoriales diferentes. La primera enfatiza la experiencia de invasión y resistencia en el territorio; la segunda integra los episodios en un marco peninsular y monárquico más amplio. Ambas perspectivas son pertinentes si no ocultan la pluralidad de actores y lealtades. Para Tarragona importa observar cómo las autoridades civiles, los mandos regulares, los miqueletes, los sometenes y los vecinos afrontaron problemas concretos de defensa, reclutamiento y supervivencia. El trabajo de Vallverdú ayuda a entender la construcción de esa resistencia local. [4][5][8]"
+      ]
+    },
+    {
+      "heading": "3. Una ciudad portuaria convertida en refugio y depósito militar",
+      "paragraphs": [
+        "Tarragona reunía condiciones que hacían deseable su conquista y difícil su abandono. Su puerto era una vía de entrada de abastecimientos y de relación con fuerzas navales aliadas, mientras la posición elevada de la ciudad favorecía la defensa de algunos sectores. La investigación patrimonial municipal recuerda que la plaza funcionaba como depósito general de recursos y refugio para personas desplazadas por la guerra. Esa acumulación de funciones multiplicaba la presión sobre las autoridades: debían alimentar soldados, atender a heridos, alojar refugiados y mantener unas defensas capaces de resistir artillería moderna. El asedio amenazaba a la vez una infraestructura militar y una comunidad urbana. [3][8]",
+        "El informe patrimonial municipal señala una población cercana a diez mil habitantes antes del incremento de refugiados y militares, y reproduce una estimación de hasta cuarenta mil personas en la ciudad al comenzar el sitio. La segunda cifra debe leerse como una estimación procedente de bibliografía histórica, no como un recuento administrativo certificado. Su importancia analítica radica en que recuerda la densidad humana del espacio asediado. Los bombardeos, la falta de movilidad y la ruptura de comunicaciones podían afectar a quienes no portaban armas tanto como a la guarnición. El resultado de la campaña no puede evaluarse exclusivamente por el número de unidades militares perdidas. [3][6]",
+        "La concentración de población también condicionó las decisiones de resistencia. Cuanto mayor era el número de personas refugiadas, más grave podía resultar una evacuación tardía y más difícil mantener el orden cuando se producía una brecha. A su vez, abandonar la ciudad suponía entregar al enemigo un puerto y un símbolo de resistencia. El dilema no puede reconstruirse retrospectivamente como una elección simple entre heroísmo y prudencia. Los defensores actuaron con información incompleta, sometidos a promesas de socorro, a responsabilidades políticas y a la amenaza real de que la capitulación o el asalto tuvieran consecuencias imprevisibles. [1][2][3]"
+      ]
+    },
+    {
+      "heading": "4. Topografía y fortificaciones: la ciudad alta y el arrabal",
+      "paragraphs": [
+        "El terreno de Tarragona favorecía una defensa escalonada, pero no garantizaba la invulnerabilidad. La ciudad alta se levantaba sobre una elevación próxima al mar; por debajo se extendían el arrabal, el puerto y las zonas de aproximación desde el Francolí. A lo largo de los siglos se habían superpuesto murallas de origen romano, ampliaciones modernas, baluartes y fortines construidos para responder a nuevas técnicas de asedio. El informe municipal describe una configuración compleja, con sectores reforzados y otros menos aptos para soportar un ataque prolongado de artillería. La fortaleza real no era una figura geométrica perfecta, sino una acumulación histórica de obras de distinta calidad. [3]",
+        "Entre las defensas exteriores destacaba el fortín de la Oliva, situado en una altura que protegía los accesos. El sistema del arrabal incluía obras relacionadas con el Francolí, el baluarte de Orleans, las posiciones de San Carlos y otras fortificaciones del sector portuario. Más arriba, la muralla de San Juan y sus baluartes articulaban una línea esencial para la defensa final. La enumeración de nombres puede resultar confusa porque las fuentes emplean denominaciones históricas, traducciones y variantes locales. Lo importante es su relación funcional: una vez perdidas las posiciones avanzadas, el enemigo podía aproximar baterías a las líneas interiores y concentrar el fuego contra puntos vulnerables. [1][3][9]",
+        "El documento de protección del Pla de la Seu reproduce descripciones de Juan Senén de Contreras sobre las cortaduras y baluartes que trató de emplear para impedir el avance francés desde el arrabal. Es un testimonio valioso porque procede de un protagonista, pero llega a través de una edición posterior y de un expediente patrimonial moderno. Conviene distinguir lo que Contreras observó o decidió de su interpretación sobre las responsabilidades del fracaso. La topografía explica por qué se combatió en determinados lugares; no permite, por sí sola, absolver o condenar a los mandos. [3]"
+      ]
+    },
+    {
+      "heading": "5. La milicia urbana: vecinos, refugiados y defensa organizada",
+      "paragraphs": [
+        "La defensa no dependía exclusivamente de regimientos regulares. Robert Vallverdú estudió la formación de las milicias urbanas tarraconenses y explicó que su reclutamiento acogió a jóvenes de otras localidades del Camp de Tarragona, desplazados por el avance de las tropas francesas. La iniciativa de crear cuerpos urbanos se desarrolló desde 1810 y se relacionó con las instituciones y formas previas de resistencia catalana. El hecho de que muchos milicianos no hubieran nacido en la ciudad muestra que la defensa de Tarragona fue también una empresa comarcal. Sus integrantes tenían conocimientos y experiencias diversos, y no deben imaginarse como una fuerza homogénea de profesionales. [4]",
+        "La segunda parte del trabajo de Vallverdú se ocupa de los jefes, oficiales y suboficiales de los dos batallones urbanos. Su resumen señala la participación de más de dos mil vecinos y presenta un estudio prosopográfico de ciento veintiún dirigentes, construido con fondos privados y archivos históricos. Esos datos proceden del resumen académico consultado, no de una lectura completa del artículo, por lo que aquí no se extrapolan para calcular las bajas totales ni la distribución social exacta. Sí permiten afirmar que la organización local fue suficientemente compleja para disponer de una jerarquía identificable y de trayectorias individuales susceptibles de investigación documental. [5]",
+        "La participación vecinal tenía un doble significado. Militarmente proporcionaba hombres para vigilar puertas, ocupar puestos y sostener una resistencia prolongada; políticamente vinculaba la defensa de la plaza a personas que habían invertido en ella sus bienes, su trabajo y sus relaciones familiares. Esa implicación no elimina las desigualdades sociales ni demuestra una voluntad idéntica entre todos los habitantes. Había soldados, refugiados, clérigos, comerciantes y personas que dependían de decisiones ajenas. Una historia completa del sitio debe estudiar las distintas posibilidades de actuar, resistir, esconderse o escapar, y no convertir a toda la población en un sujeto colectivo sin diferencias. [4][5][6]"
+      ]
+    },
+    {
+      "heading": "6. Suchet y el ejército sitiador: una campaña de aproximación",
+      "paragraphs": [
+        "Louis-Gabriel Suchet llegó a Tarragona después de haber consolidado operaciones en otros puntos de la región. El relato municipal sitúa su salida de Tortosa a finales de abril de 1811 y su entrada en Reus el 2 de mayo. Allí se organizaron hospitales y depósitos, y se protegieron edificios frente a ataques de partidas locales. Estos preparativos revelan que un sitio no comenzaba con el primer cañonazo: necesitaba caminos transitables, suministros, medios sanitarios y posiciones desde las que proteger las comunicaciones. La fuerza francesa actuaba como un ejército de campaña que debía convertirse temporalmente en una maquinaria de asedio. [1][3]",
+        "El expediente patrimonial atribuye a Suchet unos veintidós mil soldados al comienzo del sitio y menciona Constantí como emplazamiento de su cuartel general. Son cifras y localizaciones recogidas por una síntesis municipal basada en bibliografía anterior; no constituyen un estado de fuerza original cotejado en esta investigación. El ejército imperial incluía contingentes de distintas procedencias, y la coordinación de artillería, zapadores e infantería era esencial para avanzar sobre una plaza defendida. La superioridad francesa se manifestó tanto en la continuidad de los trabajos de sitio como en su capacidad para aprovechar las oportunidades que ofrecía el deterioro de las defensas. [3]",
+        "La operación francesa también debía afrontar amenazas. Los sometenes y fuerzas españolas podían hostigar los caminos, y la proximidad del mar exponía ciertos trabajos al fuego de buques enemigos. Sin embargo, esas dificultades no impidieron la progresión general. La guerra de asedio era una lucha por conservar el ritmo: si el atacante lograba abrir nuevas posiciones mientras el defensor perdía obras exteriores y no recibía refuerzos suficientes, el equilibrio se desplazaba gradualmente. La habilidad de Suchet consistió en sostener esa presión hasta convertir el problema de las murallas en una crisis de toda la defensa. [1][3]"
+      ]
+    },
+    {
+      "heading": "7. Campoverde, Contreras y Sarsfield: una autoridad dividida",
+      "paragraphs": [
+        "En el lado español, la distribución del mando complicó la toma de decisiones. Luis González Torres de Navarra, marqués de Campoverde, ejercía una responsabilidad superior sobre el ejército de Cataluña; Juan Senén de Contreras acabó asumiendo el gobierno militar de la plaza, y Pedro Sarsfield desempeñó funciones relevantes en su defensa. La síntesis municipal describe cambios de autoridad tras la pérdida de la Oliva y la salida de Campoverde para reunir fuerzas de socorro. Estas decisiones deben situarse en una situación de recursos limitados y de necesidad de coordinar tropas dentro y fuera de la ciudad, no simplemente en una disputa personal entre generales. [1][2][3]",
+        "La retirada de Campoverde constituye uno de los asuntos más controvertidos. El resumen municipal habla de una salida con cuatro mil soldados y de una promesa de regresar en pocos días; otras reconstrucciones ofrecen números diferentes para las tropas que efectivamente le acompañaron en una fase determinada. La divergencia puede obedecer a momentos distintos, a la distinción entre fuerzas disponibles y embarcadas, o a tradiciones historiográficas diferentes. No corresponde resolverla mediante una cifra elegida sin cotejar estados de fuerza. Lo seguro es que la plaza quedó esperando una intervención exterior y que el socorro decisivo no se produjo antes del asalto final. [1][2][3]",
+        "Contreras heredó así una tarea militar difícil: mantener una defensa dañada mientras se esperaba una operación cuya ejecución dependía de otros mandos. La promesa de ayuda pudo sostener la resistencia, pero también retrasar decisiones de evacuación o capitulación. Una valoración justa debe reconocer que un comandante sitiado no conoce el desenlace futuro. Al mismo tiempo, las fuentes permiten plantear preguntas sobre la coordinación, el intercambio de información y la conveniencia de prolongar una defensa cuando las posibilidades de socorro se reducían. El fracaso final fue colectivo y estructural, aunque las decisiones individuales influyeron en su desarrollo. [1][2][3]"
+      ]
+    },
+    {
+      "heading": "8. La pérdida del fortín de la Oliva",
+      "paragraphs": [
+        "La Oliva era una pieza fundamental del dispositivo exterior. Su posición elevada permitía proteger accesos y dificultar el despliegue de baterías enemigas. La pérdida del fuerte abrió a los franceses posibilidades que antes estaban restringidas y deterioró la confianza en la capacidad de resistencia de la plaza. El Ayuntamiento de Tarragona señala que el episodio se produjo a finales de mayo y lo considera un punto de inflexión. La relevancia del fuerte no dependía solo de los hombres que lo defendían: era un elemento que condicionaba el alcance de la artillería y la seguridad de las líneas interiores. [1][3][9]",
+        "Existe una discrepancia cronológica incluso entre documentos del mismo ámbito institucional. La página municipal dedicada al desarrollo del sitio sitúa la pérdida de la Oliva el 30 de mayo, mientras la noticia patrimonial sobre el fuerte menciona el día 29. La diferencia no altera la secuencia general, pero debe conservarse como cuestión abierta en lugar de disimularse. Para fijar con precisión la jornada haría falta cotejar diarios de operaciones, partes franceses y testimonios españoles. En esta monografía se emplea deliberadamente la expresión finales de mayo cuando no es necesario precisar el día. [1][9]",
+        "La caída de la Oliva demuestra el carácter acumulativo de los sitios. Una fortificación avanzada puede resistir con eficacia durante un periodo y perderse en una operación rápida, a veces favorecida por circunstancias locales como relevos, sorpresa o errores de coordinación. La narración municipal alude precisamente a un aprovechamiento francés del cambio de guardia. Esa explicación procede de una síntesis histórica, no de la lectura directa de los partes de las unidades participantes. El efecto operacional, en cambio, resulta claro: la defensa perdió profundidad y el atacante obtuvo mejores condiciones para acercar su fuego a la ciudad. [1][3]"
+      ]
+    },
+    {
+      "heading": "9. El puerto y la dimensión marítima del asedio",
+      "paragraphs": [
+        "El puerto de Tarragona impedía reducir la operación a un cerco terrestre convencional. Mientras existiera comunicación marítima, los defensores podían esperar suministros, refuerzos y la evacuación de heridos o refugiados. La posibilidad de apoyo de embarcaciones españolas y británicas obligaba a los sitiadores a considerar también el frente litoral. Pero la presencia de buques no equivalía a garantizar el levantamiento del sitio. Los barcos podían transportar personas y recursos; no podían sustituir por sí solos una fuerza terrestre capaz de romper las líneas francesas. Esta distinción ayuda a explicar la persistencia de esperanzas de socorro y su frustración. [3]",
+        "El expediente municipal describe la llegada por mar, el 27 de junio, de un contingente británico bajo el coronel Skerrett, al que atribuye unos mil quinientos hombres. Según esa reconstrucción, tras observar la situación los británicos volvieron a embarcar. La cifra se cita aquí exclusivamente como dato del informe patrimonial, no como una comprobación independiente de listas británicas. La escena resulta significativa por el momento: el día anterior al asalto definitivo, una posible intervención aliada no modificó el equilibrio militar. Para la población encerrada, la aparición y retirada de refuerzos debió representar una experiencia de enorme incertidumbre. [3]",
+        "El mar también fue una vía de huida trágica. El informe municipal recoge testimonios y estimaciones sobre personas que intentaron alcanzar embarcaciones durante el derrumbe de la defensa, algunas de las cuales murieron ahogadas o bajo el fuego. No conviene trasladar sin crítica cada número a una estadística final, pero la descripción muestra un espacio litoral que funcionaba simultáneamente como esperanza de salvación y escenario de muerte. En un sitio portuario, la línea entre frente militar y refugio civil podía desaparecer en pocas horas. [3][6]"
+      ]
+    },
+    {
+      "heading": "10. El asalto al arrabal y la pérdida de la ciudad baja",
+      "paragraphs": [
+        "En junio el ataque francés se concentró en las fortificaciones que protegían el arrabal y el sector portuario. El progreso de las baterías permitió preparar brechas y lanzar asaltos contra posiciones cuya pérdida comprometía toda la defensa exterior. La síntesis municipal señala que, hacia el 22 de junio, los franceses dominaban la zona baja y el puerto, después de ataques sobre diversas obras. El informe patrimonial sitúa el avance decisivo en el intervalo comprendido entre el 21 y el 22. La variación entre el día del asalto y el de la consolidación de la ocupación aconseja no forzar una cronología simplificada. [2][3]",
+        "La ciudad baja no era una pieza secundaria. Su ocupación facilitaba aproximarse a la muralla que protegía la parte alta y restringía las opciones de salida de los defensores. También dañaba la utilidad militar del puerto y reducía el espacio disponible para maniobrar. Una plaza fortificada puede seguir combatiendo después de perder una línea, pero cada retroceso concentra tropas, población y material en un recinto menor. En Tarragona ese proceso acercó el combate a los barrios habitados y transformó la posibilidad de un asalto final en una amenaza inmediata para los civiles refugiados. [2][3][6]",
+        "La progresión francesa plantea además un problema de interpretación: una posición puede ser tomada por superioridad material sin que sus defensores hayan carecido de disciplina o voluntad. Las brechas abiertas por artillería, la escasez de reservas, los cambios de mando y la imposibilidad de recibir socorro son factores que se refuerzan mutuamente. Las narraciones que explican la pérdida del arrabal mediante una sola conducta individual ofrecen una imagen demasiado cómoda. La documentación disponible permite reconstruir un desgaste progresivo, aunque no atribuir con exactitud toda la responsabilidad de cada puesto abandonado. [1][2][3]"
+      ]
+    },
+    {
+      "heading": "11. Trincheras, baterías y el trabajo de la artillería",
+      "paragraphs": [
+        "La fase final del sitio revela el papel de la ingeniería militar. El informe patrimonial describe la apertura de paralelas y la instalación de baterías frente a la muralla de San Juan, entre los espacios que hoy corresponden aproximadamente a las ramblas Nueva y Vieja. La artillería francesa trató de neutralizar piezas defensoras y ensanchar un punto vulnerable. No era un bombardeo indiscriminado en su finalidad militar: buscaba crear condiciones materiales para el paso de columnas de asalto. Eso no impidió que el fuego afectara también al interior urbano, especialmente cuando se disparaba desde posiciones como la Oliva. [3]",
+        "El documento municipal sitúa una nueva paralela el 25 de junio y explica que, el día 27, Suchet ya preparaba el ataque. La precisión de algunos detalles técnicos procede de una reconstrucción histórica apoyada en memorias y estudios anteriores; por eso se evita presentarlos como observación directa del investigador. La secuencia permite, sin embargo, apreciar una lógica clara. Las trincheras acercaban a los atacantes, las baterías debilitaban la muralla y las fuerzas de asalto esperaban la oportunidad de atravesar la brecha. Cada fase incrementaba la presión sobre un mando español que debía distribuir reservas sin saber con certeza el momento del ataque. [3]",
+        "El 28 de junio la artillería intensificó el fuego. El expediente patrimonial refiere la explosión de un polvorín en el sector del baluarte de Cervantes y el ensanchamiento de la brecha hasta permitir el paso de varias filas de soldados. La exactitud de las horas y dimensiones requiere contraste con fuentes originales, pero el mecanismo general es sólido: el daño material redujo la capacidad defensiva y abrió una vía practicable. La superioridad del atacante no consistía solo en disponer de más cañones; se expresaba en la capacidad de mantenerlos abastecidos, emplazados y protegidos hasta producir el efecto deseado. [3]"
+      ]
+    },
+    {
+      "heading": "12. El 28 de junio: ruptura de la muralla y combate urbano",
+      "paragraphs": [
+        "El asalto definitivo se produjo el 28 de junio de 1811. La reconstrucción patrimonial municipal lo sitúa a última hora de la tarde, cuando las columnas francesas atravesaron una brecha de la muralla de San Juan. El ataque sorprendió a los defensores antes de que pudieran ejecutar determinadas medidas previstas para la retirada. No se trató de un episodio independiente del sitio anterior: el asalto fue posible porque semanas de operaciones habían debilitado fortificaciones, reducido la profundidad de la defensa y agotado las opciones de socorro. El paso por la brecha convirtió una operación de ingeniería en combate inmediato por calles y posiciones interiores. [2][3]",
+        "La página municipal sobre la derrota describe la entrada francesa por el sector de San Francisco, los combates en la Rambla Vieja y el avance de varias columnas por la ciudad. Las milicias urbanas intentaron defender accesos como el Portalet, mientras otras unidades combatían en baluartes y puertas. Es necesario leer estas descripciones como una secuencia general: las acciones pudieron ser simultáneas y la información de los testigos fue fragmentaria. Una narración que atribuyera a cada compañía un itinerario exacto sin partes originales daría una apariencia de precisión que las fuentes empleadas no justifican. [2][3][5]",
+        "Contreras intentó mantener focos de resistencia, pero resultó herido y fue hecho prisionero. El expediente municipal reproduce pasajes de sus memorias que describen el derrumbe de la cohesión y el peligro sufrido por soldados y civiles. Esos testimonios permiten conocer su percepción, aunque también forman parte de un relato posterior en el que el general defendía su actuación. La captura del gobernador tuvo importancia militar y simbólica, pero la descomposición de la defensa obedeció a una combinación de penetración enemiga, pérdida de comunicaciones y pánico. La caída de Tarragona fue el resultado de una crisis general de la plaza, no de un único instante dramático. [2][3]"
+      ]
+    },
+    {
+      "heading": "13. La catedral y el Pla de la Seu: último refugio y memoria del horror",
+      "paragraphs": [
+        "La catedral desempeñó durante la guerra funciones que iban mucho más allá del culto. Sofia Mata de la Cruz señala en su investigación académica que sirvió como torre de vigilancia, hospital de sangre y refugio frente a los bombardeos. Esa utilización explica por qué el recinto y sus alrededores concentraron personas vulnerables cuando el asalto alcanzó la parte alta. La iglesia no fue un escenario apartado del conflicto, sino un espacio atravesado por las necesidades militares y civiles. Sus daños materiales y la suerte de quienes buscaron protección allí forman parte inseparable de la historia del sitio. [6]",
+        "El Pla de la Seu y las escaleras de la catedral quedaron asociados a los últimos combates y a la violencia posterior. El expediente patrimonial municipal documenta esa memoria y justifica la protección histórica del entorno por la continuidad de su configuración urbana. La presencia de testimonios y representaciones posteriores exige cautela: un grabado conmemorativo no es una fotografía de los acontecimientos, y una descripción redactada décadas después puede contener interpretaciones heredadas. Aun así, el lugar conserva valor para relacionar los movimientos de los combatientes con la geografía concreta de la ciudad y con el recuerdo de las víctimas. [3][9]",
+        "Las fuentes recogen relatos de asesinatos, agresiones y saqueos contra personas refugiadas en el ámbito catedralicio. El artículo de Mata destaca expresamente la violencia sufrida por civiles indefensos. El informe municipal contrapone el relato justificativo de Suchet con testimonios que describen abusos de enorme gravedad. La comparación es necesaria porque las memorias de los vencedores pueden minimizar los crímenes y las narraciones de los vencidos pueden expresar, junto a hechos reales, una voluntad de denuncia. Esa asimetría no obliga a suspender el juicio moral: la existencia de violencia contra no combatientes está documentada y no queda legitimada por la resistencia previa de la plaza. [3][6]"
+      ]
+    },
+    {
+      "heading": "14. Saqueo, represalias y responsabilidad de los vencedores",
+      "paragraphs": [
+        "La toma de Tarragona fue seguida por saqueos y represalias que las síntesis municipales sitúan durante varios días, hasta finales de junio. El expediente patrimonial describe una violencia que alcanzó a soldados derrotados y a civiles, incluidos quienes habían buscado refugio en espacios religiosos. La distinción entre muerte en combate y asesinato después de perder la capacidad de resistencia resulta esencial. En el lenguaje militar de la época se invocaban normas y costumbres sobre plazas tomadas al asalto, pero ninguna explicación sobre la obstinación de los defensores puede convertir automáticamente la violencia contra personas indefensas en una consecuencia inevitable o aceptable. [2][3][6]",
+        "Suchet dejó memorias en las que procuró justificar su actuación y describió esfuerzos de oficiales por contener a los soldados. El informe patrimonial municipal contrasta esa versión con las memorias de Contreras y con relatos posteriores que denunciaron la magnitud de los crímenes. En este trabajo no se afirma haber leído íntegramente los libros originales de Suchet o Contreras: sus pasajes se conocen aquí a través de las citas y el análisis del expediente municipal. Esa mediación importa porque impide atribuir una lectura directa que no se ha realizado y obliga a distinguir entre testimonio primario reproducido y estudio histórico secundario. [3]",
+        "La violencia posterior al asalto tuvo efectos militares y políticos. La destrucción de hogares, la muerte o dispersión de vecinos y el miedo a nuevas represalias alteraron la vida de la ciudad durante mucho tiempo. Al mismo tiempo, la noticia de lo ocurrido alimentó la memoria de resistencia y la imagen de una ocupación brutal. Un análisis histórico no necesita elegir entre explicar el éxito operacional de Suchet y condenar los abusos de sus tropas. Son cuestiones distintas: una victoria puede estar bien ejecutada desde el punto de vista táctico y quedar asociada a conductas moralmente inadmisibles contra la población. [2][3][7]"
+      ]
+    },
+    {
+      "heading": "15. Las cifras de víctimas: categorías, fuentes y contradicciones",
+      "paragraphs": [
+        "El balance humano del sitio constituye una de las mayores dificultades de la investigación. El informe municipal de protección patrimonial reproduce un cuadro que suma muertos durante el cerco, fallecidos en los días posteriores, personas ahogadas y prisioneros asesinados, hasta alcanzar un total de 10.900 muertos. La cifra debe atribuirse al documento y no adoptarse como resultado de un censo moderno. El mismo expediente recoge otros recuentos parciales, y las categorías de fallecidos por heridas o asesinados tras ser capturados pueden solaparse con otras series si se desconoce el procedimiento original de cómputo. [3]",
+        "También resulta problemática la relación entre población estable, refugiados, soldados y víctimas. Si se toma una estimación anterior de habitantes y se compara directamente con las bajas atribuidas a la ciudad durante el sitio, se corre el riesgo de producir conclusiones demográficas imposibles. La población de Tarragona cambió de manera extraordinaria con la llegada de desplazados y unidades militares. Por tanto, las bajas de un ejército, las muertes de vecinos y las de refugiados no pertenecen necesariamente a la misma población de referencia. Para avanzar haría falta examinar padrones, registros parroquiales, listas de prisioneros y documentación sanitaria. [3][4][5]",
+        "La prudencia estadística no equivale a relativizar la catástrofe. La investigación de Sofia Mata documenta ataques a civiles en la catedral, y las síntesis municipales coinciden en señalar saqueos y una destrucción extensa. La divergencia de las cifras afecta a la cuantificación, no a la existencia de los hechos. Conviene además recordar que el coste humano no terminó cuando cesó el combate: heridas, desplazamientos, pérdida de viviendas y deterioro del abastecimiento prolongaron el daño. Una monografía académica debe explicar qué se puede saber, qué continúa discutido y qué archivos podrían permitir una comprobación futura. [2][3][6][7]"
+      ]
+    },
+    {
+      "heading": "16. La ocupación y el retorno de 1813",
+      "paragraphs": [
+        "La caída de Tarragona no cerró la historia militar de la ciudad. El dominio francés continuó durante más de dos años, con sucesivos gobernadores y una administración vinculada a la ocupación napoleónica. La síntesis municipal sobre la recuperación señala que el ejército francés abandonó la plaza en agosto de 1813, después de que el curso general de la guerra peninsular hubiera cambiado. Es importante no confundir la conquista de junio de 1811 con la retirada de 1813: son operaciones distintas, separadas por un periodo prolongado de ocupación y por una transformación del equilibrio estratégico. [7]",
+        "La evacuación francesa estuvo acompañada por destrucciones deliberadas de fortificaciones y edificios, según el relato municipal. La voladura de obras militares redujo el valor defensivo de la ciudad para quienes regresaban y agravó el daño acumulado desde 1811. La recuperación no consistió, por tanto, en reabrir una ciudad intacta. Las autoridades y los vecinos debieron reorganizar la vida urbana en un entorno deteriorado, con pérdidas materiales, ausencias familiares y una memoria traumática del asalto. La dimensión de reconstrucción civil es indispensable para medir las consecuencias de una campaña militar. [3][7]",
+        "El recuerdo de los muertos adquirió pronto formas públicas. La página municipal dedicada al siglo XIX señala la celebración de un funeral conmemorativo el 28 de junio de 1815 y la continuidad de actos semejantes durante décadas. La fecha del asalto se convirtió así en un punto de referencia para la comunidad, independiente de las interpretaciones posteriores sobre la conducción militar. Las conmemoraciones no sustituyen la investigación histórica, pero muestran qué acontecimientos consideraron dignos de transmisión quienes vivieron sus consecuencias o recibieron su memoria. [7][9]"
+      ]
+    },
+    {
+      "heading": "17. Balance: logística, mando, ciudad y memoria",
+      "paragraphs": [
+        "Tarragona cayó porque un ejército sitiador consiguió transformar una campaña de aproximación en una secuencia eficaz de operaciones contra fortificaciones vulnerables, mientras la defensa no recibió el socorro esperado. La pérdida de la Oliva, la ocupación del arrabal y la apertura de brechas en la muralla interior fueron etapas relacionadas. Las dificultades de coordinación del mando español agravaron el problema, pero no explican por sí solas el resultado. La potencia francesa dependía de su organización logística y de ingeniería, y la resistencia española se sostuvo mediante fuerzas regulares, milicias y recursos urbanos sometidos a presión creciente. [1][2][3][4]",
+        "El episodio es especialmente importante para el Corpus Hispánico de la Guerra porque permite estudiar una derrota sin convertirla en una mera acusación de incompetencia ni en una leyenda heroica sin matices. Las investigaciones universitarias sobre las milicias muestran la densidad social de la defensa, mientras el estudio de la catedral y la documentación patrimonial permiten comprender la experiencia de los civiles. Los nombres de los generales son necesarios, pero insuficientes. También deben figurar quienes defendieron las puertas, atendieron a heridos, buscaron refugio y regresaron después a una ciudad devastada. [4][5][6][7]",
+        "La principal lección historiográfica es que la historia militar no termina cuando el vencedor ocupa una posición. En Tarragona, el éxito operacional de Suchet estuvo seguido de violencia contra la población, destrucción y una ocupación cuya huella perduró. Las discrepancias de fechas menores y las diferencias en los recuentos de víctimas deben quedar expuestas con honestidad. La memoria del Pla de la Seu, la documentación de las milicias y la bibliografía conservada en los archivos municipales ofrecen vías para seguir investigando. Una monografía rigurosa puede reconocer la derrota, explicar sus causas y otorgar a las víctimas un lugar central sin inventar certezas. [2][3][5][6][7][8]"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "n": 1,
+      "name": "Ajuntament de Tarragona, Arxiu Municipal, «El setge», monográfico del bicentenario de la Guerra del Francès",
+      "kind": "Síntesis histórica institucional",
+      "url": "https://www.tarragona.cat/patrimoni/arxiu-municipal/memoria-democratica/publicacions/monografics/bicentenari-de-la-guerra-del-frances/el-setge-de-tarragona/el-setge-a-tarragona/el-setge",
+      "verification_note": "Página web institucional leída íntegramente. Fuente secundaria de síntesis; no parte militar contemporáneo.",
+      "verified_at": "2026-10-29"
+    },
+    {
+      "n": 2,
+      "name": "Ajuntament de Tarragona, Arxiu Municipal, «La derrota», monográfico del bicentenario",
+      "kind": "Síntesis histórica institucional",
+      "url": "https://www.tarragona.cat/patrimoni/arxiu-municipal/memoria-democratica/publicacions/monografics/bicentenari-de-la-guerra-del-frances/el-setge-de-tarragona/el-setge-a-tarragona/la-derrota",
+      "verification_note": "Página institucional leída íntegramente; cronología y daños atribuidos a la síntesis, sin presentar recuentos como censos comprobados.",
+      "verified_at": "2026-10-29"
+    },
+    {
+      "n": 3,
+      "name": "Ajuntament de Tarragona, «Sol·licitud de declaració del Pla de la Seu i el seu entorn com a bé cultural d’interès nacional amb la categoria de lloc històric» (2011)",
+      "kind": "Informe institucional patrimonial con bibliografía y transcripciones de testimonios",
+      "url": "https://www.tarragona.cat/patrimoni/arxiu-municipal/memoria-democratica/publicacions/monografics/bicentenari-de-la-guerra-del-frances/fitxers/altres/pla_seu.pdf",
+      "verification_note": "Consultados directamente el índice, introducción y los apartados históricos de las páginas 17-29 del PDF de 78 páginas, con fragmentos de memorias de Suchet y Contreras; NO leído íntegramente el documento ni los libros primarios originales. Los balances de bajas son estimaciones del informe.",
+      "verified_at": "2026-10-29"
+    },
+    {
+      "n": 4,
+      "name": "Robert Vallverdú i Martí, «Aportació a l'estudi de la milícia urbana de Tarragona durant el setge i assalt del francès (1808-1811) (I)», Universitas Tarraconensis, núm. 9 (1987), pp. 271-289",
+      "kind": "Artículo académico de la Universitat Rovira i Virgili",
+      "url": "https://revistes.urv.cat/index.php/utghf/article/view/2091",
+      "verification_note": "Ficha editorial, autoría, volumen y resumen leídos; PDF del artículo NO leído. Publicación original en volumen de 1987 y ficha digital de 2018.",
+      "verified_at": "2026-10-29"
+    },
+    {
+      "n": 5,
+      "name": "Robert Vallverdú i Martí, «Aportació a l'estudi de la Milícia Urbana de Tarragona durant el setge i l'asalt del Francés (1808-1811) (II)», Universitas Tarraconensis, núm. 10 (1992), pp. 263-282",
+      "kind": "Artículo académico de la Universitat Rovira i Virgili",
+      "url": "https://www.revistes.urv.cat/index.php/utghf/article/view/2109",
+      "verification_note": "Ficha y resumen consultados íntegramente; artículo PDF NO leído. Dato de 121 dirigentes y más de 2.000 vecinos atribuido únicamente al resumen. Volumen original de 1992, ficha digital de 2018.",
+      "verified_at": "2026-10-29"
+    },
+    {
+      "n": 6,
+      "name": "Sofia Mata de la Cruz, «Els avatars de la catedral de Tarragona entre 1808 i 1813», Locus Amoenus, 11 (2012), pp. 193-213",
+      "kind": "Artículo académico de la Universitat Autònoma de Barcelona",
+      "url": "https://revistes.uab.cat/locus/article/view/v11-mata",
+      "verification_note": "Resumen, metadatos y DOI 10.5565/rev/locus.227 obtenidos de ficha indexada; la apertura directa devolvió error de servidor. NO leído el texto completo ni el PDF.",
+      "verified_at": "2026-10-29"
+    },
+    {
+      "n": 7,
+      "name": "Ajuntament de Tarragona, Arxiu Municipal, «Segle XIX», apartado «La recuperació de Tarragona»",
+      "kind": "Síntesis histórica institucional",
+      "url": "https://www.tarragona.cat/patrimoni/arxiu-municipal/memoria-democratica/publicacions/monografics/bicentenari-de-la-guerra-del-frances/el-setge-de-tarragona/la-recuperacio-de-tarragona/segle-xix/",
+      "verification_note": "Página institucional leída íntegramente; fechas de evacuación y reconstrucción atribuidas a la síntesis.",
+      "verified_at": "2026-10-29"
+    },
+    {
+      "n": 8,
+      "name": "Ajuntament de Tarragona, Biblioteca Hemeroteca Municipal, «Guerra del Francès», presentación del fondo bibliográfico",
+      "kind": "Catálogo institucional de biblioteca y archivo",
+      "url": "https://www.tarragona.cat/patrimoni/arxiu-municipal/fons/biblioteca-hemeroteca-municipal/guerra-del-frances",
+      "verification_note": "Página de catálogo leída íntegramente. Acredita fondos y bibliografía disponibles, no verifica por sí misma hechos de combate.",
+      "verified_at": "2026-10-29"
+    },
+    {
+      "n": 9,
+      "name": "Ajuntament de Tarragona, Conselleria de Patrimoni, «La Conselleria de Patrimoni sol·licita que es declari Bé Cultural d'Interès Nacional el Pla de la Seu i el Fortí de l'Oliva» (15 de febrero de 2011)",
+      "kind": "Noticia institucional sobre patrimonio histórico",
+      "url": "https://www.tarragona.cat/patrimoni/arxiu-municipal/memoria-democratica/publicacions/monografics/bicentenari-de-la-guerra-del-frances/activitats/noticies/la-conselleria-de-patrimoni-solb7licita-que-es-declari-be-cultural-dinteres-nacional-el-pla-de-la-seu-i-el-forti-de-loliva/",
+      "verification_note": "Página institucional breve leída íntegramente; indica el 29 de mayo para la pérdida de la Oliva, frente al 30 de mayo de otra síntesis municipal.",
+      "verified_at": "2026-10-29"
+    }
+  ],
+  "editorial_note": "Monografía original redactada tras lectura íntegra de varias síntesis municipales y de secciones históricas de un informe patrimonial de 78 páginas, con consulta de fichas y resúmenes académicos. No se afirma lectura íntegra de memorias de Suchet o Contreras ni de los artículos universitarios. Las cifras de víctimas son estimaciones no armonizadas; las divergencias del 29/30 de mayo para la Oliva y 21/22 de junio para la ciudad baja se hacen explícitas. No contiene imágenes ni citas textuales extensas. Revisión asistida por IA; no arbitraje académico externo.",
+  "related": [],
+  "topics": [
+    "tarragona",
+    "guerra-independencia",
+    "siglo-xix",
+    "asedios",
+    "cataluna",
+    "violencia-contra-civiles"
+  ],
+  "status": "revisado",
+  "not_before": "2026-10-29",
+  "approval": {
+    "reviewer": "Revisión documental e historiográfica asistida por IA; no arbitraje académico externo",
+    "date": "2026-10-29",
+    "notes": "17 secciones, 51 párrafos, 5068 palabras de desarrollo, 9 fuentes verificadas y grado de lectura explícito. Contrastadas cronología municipal, informe patrimonial y resúmenes universitarios; discrepancias conservadas y explicadas. Verificación automatizada de GitHub Actions pendiente.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "88ea8a9afd2e5c6fad41ccb1548f74512de657f6f968f3cb53a83269b2673618"
+  }
+}
