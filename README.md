@@ -4,8 +4,8 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 
 ## Estado real
 
-- **80 monografías publicadas al 29-10-2026**. La última es Ifni 1957–1958 (CHG-A-0078), con 3.487 palabras, 12 apartados y 12 fuentes.
-- **Cola editorial:** permanece reservada la investigación CHG-A-0076, CHG-A-0078. Ifni (CHG-A-0078) se ha publicado como investigación nueva sin modificar las reservas existentes. La generación y publicación automática permanecen desactivadas.
+- **80 monografías publicadas al 29-10-2026**. La última es Ifni 1957–1958 (CHG-A-0079), con 3.487 palabras, 12 apartados y 12 fuentes.
+- **Cola editorial:** permanece reservada la investigación CHG-A-0076, CHG-A-0078. Ifni (CHG-A-0079) se ha publicado como investigación nueva sin modificar las reservas existentes. La generación y publicación automática permanecen desactivadas.
 - **Publicación solo manual cuando el titular la solicite**: flujo investigación → contraste de fuentes → monografía → revisión → GitHub → validación y compilación → comprobación de Cloudflare Workers. El cron automático de 15 minutos se ha retirado de `.github/workflows/publicar.yml` y la configuración queda pausada (`editorial/config.json`). La comprobación de GitHub y Cloudflare se hace en cada entrega.
 - Generación autónoma: desactivada. No se ha contratado ninguna API.
 - El hecho de tener estos archivos no acredita que Cloudflare esté conectado o desplegado. Consultar el panel del alojamiento y el historial de Actions.
