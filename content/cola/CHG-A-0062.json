@@ -48,7 +48,7 @@
     ]
   ],
   "related": [
-    "CHG-A-0059",
+    "CHG-A-0035",
     "CHG-A-0025",
     "CHG-A-0050"
   ],
@@ -293,6 +293,6 @@
       "originalidad_y_derechos": true,
       "profundidad_suficiente": true
     },
-    "content_sha256": "63ca0524ddd80fa908798bb50e16613e1ec85dd666615f9ab3a6c6f00fd139e4"
+    "content_sha256": "d823dcdb21b7c71053b11c3414778236dc7f1713922cc82865efc7a09609143f"
   }
 }
