@@ -1,4 +1,17 @@
-# Política editorial del Corpus — versión 27/10/2026
+# Política editorial del Corpus — versión 29/10/2026
+
+## Alcance histórico y geográfico del Corpus
+
+El Corpus Hispánico de la Guerra abarca la historia militar vinculada al espacio hispánico y a sus protagonistas a través del tiempo. **No es obligatorio que los combatientes fueran españoles** ni que existiera España como Estado en la época estudiada.
+
+Se admiten por cualquiera de estas vías:
+- **Criterio territorial:** batallas, asedios, campañas y otras operaciones militares ocurridas en el territorio de la actual España, desde la Antigüedad, incluso cuando los contendientes pertenecían a culturas, pueblos o Estados anteriores a España.
+- **Criterio histórico hispánico:** acciones vinculadas a las entidades políticas históricas de Hispania y a los reinos peninsulares, atendiendo a su contexto y a las transformaciones del territorio.
+- **Criterio de participación:** operaciones de los reinos hispánicos, la Monarquía Hispánica, el Imperio español o las fuerzas armadas españolas fuera de la península, y episodios relevantes de la historia militar del mundo hispánico.
+
+**Caso orientativo:** Munda (45 a. C.), batalla de la guerra civil romana librada en Hispania, entra por su relación territorial con la actual España, aunque sus bandos no fueran ejércitos españoles. La localización exacta debe presentarse como debatida, sin imponer una identificación arqueológica concluyente.
+
+Al redactar, distinguir siempre entre el territorio actual, la provincia romana de Hispania, los reinos históricos y el Estado español moderno. No atribuir identidad nacional contemporánea a poblaciones o ejércitos antiguos ni confundir el lugar de una batalla con la nacionalidad de sus combatientes.
 
 ## Primacía del rigor sobre el volumen
 
