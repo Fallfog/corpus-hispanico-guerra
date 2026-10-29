@@ -1,13 +1,13 @@
 {
-  "paused": true,
+  "paused": false,
   "timezone": "Europe/Madrid",
   "generation_enabled": false,
-  "max_publications_per_day": 0,
+  "max_publications_per_day": 96,
   "daily_publication_time": null,
   "editorial_standard": "monografia_documentada",
   "minimum_words": 3000,
   "minimum_sources": 5,
   "minimum_sections": 8,
-  "publication_interval_minutes": null,
+  "publication_interval_minutes": 15,
   "reserved_release_times": {}
 }
