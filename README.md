@@ -4,7 +4,7 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 
 ## Estado real
 
-- **89 monografías publicadas al 29-10-2026**. La última incorporada es Fraga (CHG-A-0101), con 5.521 palabras de desarrollo, 17 apartados y 12 fuentes. Ficha `content/entries/CHG-A-0101.json`; página compilada `dist/articulos/batalla-fraga-1134-alfonso-i-batallador-almoravides-cinca/index.html`.
+- **90 monografías publicadas al 29-10-2026**. La última es Montiel (CHG-A-0104), con 5.242 palabras, 16 apartados y 14 fuentes. Ficha `content/entries/CHG-A-0104.json` y HTML `dist/articulos/batalla-montiel-1369-pedro-i-enrique-ii-trastamara-castillo-estrella/index.html`.
 - **Cola editorial:** permanecen reservadas las investigaciones CHG-A-0076, CHG-A-0081. Nájera (CHG-A-0082) se ha incorporado sin modificar las reservas previas. La generación y publicación automática permanecen desactivadas.
 - **Publicación solo manual cuando el titular la solicite**: flujo investigación → contraste de fuentes → monografía → revisión → GitHub → validación y compilación → comprobación de Cloudflare Workers. El cron automático de 15 minutos se ha retirado de `.github/workflows/publicar.yml` y la configuración queda pausada (`editorial/config.json`). La comprobación de GitHub y Cloudflare se hace en cada entrega.
 - Generación autónoma: desactivada. No se ha contratado ninguna API.
