@@ -41,30 +41,29 @@
     {
       "label": "Advertencia",
       "value": "Efectivos y bajas no homologados; fuentes coetáneas con intereses propagandísticos."
+    },
+    {
+      "label": "Hito cronológico · 1 de julio de 1638",
+      "value": "La síntesis de ARMA PLAZA fecha el cruce del Bidasoa por las tropas de Condé y el avance sobre el entorno."
+    },
+    {
+      "label": "Hito cronológico · Julio-agosto de 1638",
+      "value": "Cerco, baterías, presión sobre los baluartes y resistencia de la guarnición y los vecinos."
+    },
+    {
+      "label": "Hito cronológico · 7 de septiembre de 1638",
+      "value": "El ejército de socorro rompe el cerco y obliga a retirar a las fuerzas francesas."
+    },
+    {
+      "label": "Hito cronológico · Septiembre de 1638",
+      "value": "Llegan noticias a la corte y se multiplican celebraciones e impresos de victoria."
+    },
+    {
+      "label": "Hito cronológico · 1639 y años posteriores",
+      "value": "Consolidación de la memoria festiva y reparaciones del sistema defensivo."
     }
   ],
-  "chronology": [
-    {
-      "date": "1 de julio de 1638",
-      "event": "La síntesis de ARMA PLAZA fecha el cruce del Bidasoa por las tropas de Condé y el avance sobre el entorno."
-    },
-    {
-      "date": "Julio-agosto de 1638",
-      "event": "Cerco, baterías, presión sobre los baluartes y resistencia de la guarnición y los vecinos."
-    },
-    {
-      "date": "7 de septiembre de 1638",
-      "event": "El ejército de socorro rompe el cerco y obliga a retirar a las fuerzas francesas."
-    },
-    {
-      "date": "Septiembre de 1638",
-      "event": "Llegan noticias a la corte y se multiplican celebraciones e impresos de victoria."
-    },
-    {
-      "date": "1639 y años posteriores",
-      "event": "Consolidación de la memoria festiva y reparaciones del sistema defensivo."
-    }
-  ],
+  "chronology": 1638,
   "related": [
     "CHG-A-0010",
     "CHG-A-0052",
@@ -284,7 +283,7 @@
       "originalidad_y_derechos": true,
       "profundidad_suficiente": true
     },
-    "content_sha256": "f9fc72e309496358b697467288a580c7b0b298a35556a4f7911ecca3bf0a1239"
+    "content_sha256": "105205baf92956c3551d69a4f8f1c197ebc1adb77517f67176ea3c88d4beb71f"
   },
   "publication_date": "2026-10-29",
   "publication_time": "2026-10-29T09:56:23+01:00",
