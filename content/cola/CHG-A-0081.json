@@ -161,7 +161,7 @@
       "url": "https://maastrichtvestingstad.nl/en/ontdek/belegeringen/",
       "kind": "Síntesis histórica institucional local",
       "verified_at": "2026-10-29",
-      "verification_note": "Página HTML íntegra consultada; apartado de marzo de 1579 y comparativa de 1632. Sus cifras se tratan como estimaciones divulgativas sin cotejo nominal."
+      "verification_note": "Apartado sobre el sitio de 1579 leído completo en página HTML; consultada también la referencia al cambio de control en 1632. Las cifras no se consideran recuentos nominales."
     },
     {
       "n": 2,
@@ -169,7 +169,7 @@
       "url": "https://www.rijksmuseum.nl/en/collection/object/Beleg-van-Maastricht-1579--e5018f6b2ed87e79f3a410c442d1738b",
       "kind": "Ficha museística de estampa histórica",
       "verified_at": "2026-10-29",
-      "verification_note": "Ficha institucional leída íntegramente: título, cronología de producción, técnica, descripción, catalogación; no se afirma lectura íntegra de las inscripciones originales de la estampa."
+      "verification_note": "Ficha institucional y sus metadatos pertinentes consultados (autor, datación, técnica, descripción, catalogación); no se leyó la inscripción completa de la estampa original."
     },
     {
       "n": 3,
@@ -225,7 +225,7 @@
       "url": "https://cvc.cervantes.es/literatura/aih/pdf/06/aih_06_1_097.pdf",
       "kind": "Estudio académico de crítica textual, cinco páginas",
       "verified_at": "2026-10-29",
-      "verification_note": "PDF de cinco páginas consultado por rangos sucesivos hasta su conclusión y notas; lectura íntegra del texto académico, sin lectura íntegra de la crónica de Alonso Vázquez que cita."
+      "verification_note": "PDF académico de cinco páginas abierto y consultado mediante rangos sucesivos; lectura parcial amplia, no se certifica lectura íntegra de todas sus notas."
     },
     {
       "n": 10,
@@ -272,6 +272,6 @@
       "originalidad_y_derechos": true,
       "profundidad_suficiente": true
     },
-    "content_sha256": "da458c5831bb45e0d163dda0855acdec016d797fbd0e1779ecf9bf099c4da55a"
+    "content_sha256": "c76c53fa3d4c17b99a87550e111cf138900ac9c10f9cf84938d76e40fc759de9"
   }
 }
