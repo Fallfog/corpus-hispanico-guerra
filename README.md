@@ -4,8 +4,8 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 
 ## Estado real
 
-- **81 monografías publicadas al 29-10-2026**. La última es Fuenterrabía 1638 (CHG-A-0078), con 5.003 palabras, 13 apartados y 9 fuentes.
-- **Cola editorial:** permanecen reservadas las investigaciones CHG-A-0076. Fuenterrabía (CHG-A-0078) se ha retirado de la cola al publicarse. La generación y publicación automática permanecen desactivadas.
+- **82 monografías publicadas al 29-10-2026**. La última es Badajoz 1812 (CHG-A-0080), con 3.978 palabras, 13 apartados y 8 fuentes.
+- **Cola editorial:** permanece reservada la investigación CHG-A-0076. Badajoz (CHG-A-0080) se ha publicado como nueva monografía de la península ibérica. La generación y publicación automática permanecen desactivadas.
 - **Publicación solo manual cuando el titular la solicite**: flujo investigación → contraste de fuentes → monografía → revisión → GitHub → validación y compilación → comprobación de Cloudflare Workers. El cron automático de 15 minutos se ha retirado de `.github/workflows/publicar.yml` y la configuración queda pausada (`editorial/config.json`). La comprobación de GitHub y Cloudflare se hace en cada entrega.
 - Generación autónoma: desactivada. No se ha contratado ninguna API.
 - El hecho de tener estos archivos no acredita que Cloudflare esté conectado o desplegado. Consultar el panel del alojamiento y el historial de Actions.
