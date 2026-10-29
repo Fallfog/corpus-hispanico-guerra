@@ -1,8 +1,6 @@
 name: Publicación editorial
 on:
-  # Publicación autorizada por el titular, cada quince minutos.
-  schedule:
-    - cron: '*/15 * * * *'
+  # Solo ejecución manual explícita. Nunca programar publicaciones autónomas.
   workflow_dispatch:
     inputs:
       slot:
