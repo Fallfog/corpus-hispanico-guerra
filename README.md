@@ -4,8 +4,8 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 
 ## Estado real
 
-- **74 monografías publicadas al 29-10-2026**. La última es Las Salinas 1538 (CHG-A-0061), con 4.042 palabras, 13 apartados y 10 fuentes.
-- **Cola editorial:** siguen reservadas las investigaciones CHG-A-0062, CHG-A-0063, CHG-A-0065 y CHG-A-0066. Las Salinas (CHG-A-0061) se ha retirado de la cola al publicarse. La generación y publicación automática permanecen desactivadas.
+- **75 monografías publicadas al 29-10-2026**. La última es La Angostura 1847 (CHG-A-0062), con 4.734 palabras, 15 apartados y 12 fuentes.
+- **Cola editorial:** permanecen reservadas las investigaciones CHG-A-0063, CHG-A-0065, CHG-A-0066, CHG-A-0076. La Angostura (CHG-A-0062) se ha retirado de la cola al publicarse. La generación y publicación automática permanecen desactivadas.
 - **Publicación solo manual cuando el titular la solicite**: flujo investigación → contraste de fuentes → monografía → revisión → GitHub → validación y compilación → comprobación de Cloudflare Workers. El cron automático de 15 minutos se ha retirado de `.github/workflows/publicar.yml` y la configuración queda pausada (`editorial/config.json`). La comprobación de GitHub y Cloudflare se hace en cada entrega.
 - Generación autónoma: desactivada. No se ha contratado ninguna API.
 - El hecho de tener estos archivos no acredita que Cloudflare esté conectado o desplegado. Consultar el panel del alojamiento y el historial de Actions.
