@@ -4,7 +4,7 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 
 ## Estado real
 
-- **84 monografías publicadas al 29-10-2026**. La última es Covadonga (CHG-A-0087), con 4.145 palabras, 14 apartados y 5 fuentes. La edición revisada se encuentra en `content/entries/CHG-A-0087.json`; la compilación del sitio superó sus pruebas.
+- **85 monografías publicadas al 29-10-2026**. La última es Villaviciosa de Tajuña (CHG-A-0088), con 5.473 palabras, 18 apartados y 7 fuentes. El contenido validado se encuentra en `content/entries/CHG-A-0088.json`.
 - **Cola editorial:** permanecen reservadas las investigaciones CHG-A-0076, CHG-A-0081. Nájera (CHG-A-0082) se ha incorporado sin modificar las reservas previas. La generación y publicación automática permanecen desactivadas.
 - **Publicación solo manual cuando el titular la solicite**: flujo investigación → contraste de fuentes → monografía → revisión → GitHub → validación y compilación → comprobación de Cloudflare Workers. El cron automático de 15 minutos se ha retirado de `.github/workflows/publicar.yml` y la configuración queda pausada (`editorial/config.json`). La comprobación de GitHub y Cloudflare se hace en cada entrega.
 - Generación autónoma: desactivada. No se ha contratado ninguna API.
