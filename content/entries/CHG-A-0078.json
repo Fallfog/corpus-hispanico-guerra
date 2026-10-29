@@ -1,0 +1,293 @@
+{
+  "id": "CHG-A-0078",
+  "slug": "sitio-fuenterrabia-1638-conde-socorro-frontera-memoria",
+  "topic_key": "sitio-fuenterrabia-hondarribia-1638-socorro",
+  "title": "Fuenterrabía, 1638: la resistencia del Bidasoa, el socorro y la construcción de una victoria",
+  "eyebrow": "Acciones militares · Siglo XVII · Frontera pirenaica",
+  "category": "Acciones militares",
+  "period": "Edad Moderna",
+  "era": "Siglo XVII",
+  "date": "Julio–7 de septiembre de 1638",
+  "location": "Fuenterrabía (actual Hondarribia), Guipúzcoa, España",
+  "summary": "Monografía crítica sobre el sitio francés de Fuenterrabía en 1638, la defensa local, la ingeniería de sus fortificaciones, el ejército de socorro y la conversión del triunfo en noticia y memoria colectiva.",
+  "featured": false,
+  "keywords": [
+    "Fuenterrabía",
+    "Hondarribia",
+    "1638",
+    "príncipe de Condé",
+    "Domingo de Eguía",
+    "almirante de Castilla",
+    "marqués de los Vélez",
+    "Bidasoa",
+    "Guerra franco-española",
+    "fortificaciones abaluartadas",
+    "Olivares",
+    "relaciones de sucesos"
+  ],
+  "facts": [
+    {
+      "label": "Resultado",
+      "value": "La plaza resistió y el ejército de socorro levantó el asedio francés."
+    },
+    {
+      "label": "Fecha del socorro",
+      "value": "7 de septiembre de 1638"
+    },
+    {
+      "label": "Contexto",
+      "value": "Guerra franco-española (1635-1659), conectada con la Guerra de los Treinta Años."
+    },
+    {
+      "label": "Advertencia",
+      "value": "Efectivos y bajas no homologados; fuentes coetáneas con intereses propagandísticos."
+    }
+  ],
+  "chronology": [
+    {
+      "date": "1 de julio de 1638",
+      "event": "La síntesis de ARMA PLAZA fecha el cruce del Bidasoa por las tropas de Condé y el avance sobre el entorno."
+    },
+    {
+      "date": "Julio-agosto de 1638",
+      "event": "Cerco, baterías, presión sobre los baluartes y resistencia de la guarnición y los vecinos."
+    },
+    {
+      "date": "7 de septiembre de 1638",
+      "event": "El ejército de socorro rompe el cerco y obliga a retirar a las fuerzas francesas."
+    },
+    {
+      "date": "Septiembre de 1638",
+      "event": "Llegan noticias a la corte y se multiplican celebraciones e impresos de victoria."
+    },
+    {
+      "date": "1639 y años posteriores",
+      "event": "Consolidación de la memoria festiva y reparaciones del sistema defensivo."
+    }
+  ],
+  "related": [
+    "CHG-A-0010",
+    "CHG-A-0052",
+    "CHG-A-0063"
+  ],
+  "topics": [
+    "batallas-combates-y-asedios",
+    "edad-moderna",
+    "siglo-xvii",
+    "europa",
+    "fortificaciones"
+  ],
+  "sections": [
+    {
+      "heading": "Una plaza fronteriza y una victoria que necesita explicación",
+      "paragraphs": [
+        "El socorro de Fuenterrabía en septiembre de 1638 se recuerda como una victoria de la Monarquía Hispánica sobre una expedición francesa. Sin embargo, el resultado militar no agota el significado del acontecimiento. Durante semanas, la población permaneció expuesta al bombardeo, los defensores consumieron recursos y las autoridades tuvieron que organizar una respuesta desde territorios con obligaciones políticas y militares distintas. El ejército de socorro logró romper el cerco, pero esa conclusión no permite describir el sitio como una operación sin costes ni convertir a sus protagonistas en un conjunto uniforme. La resistencia local y la capacidad de reunir tropas exteriores deben estudiarse por separado y en relación. [1][2]",
+        "La plaza se encontraba junto a la desembocadura del Bidasoa, en una frontera cuya geografía convertía caminos, ríos, alturas y accesos marítimos en elementos militares. Una ciudad amurallada podía cerrar una ruta y proporcionar observación, pero dependía del entorno para abastecerse y recibir refuerzos. La investigación arquitectónica de Yáñez Pacios muestra que el recinto de Fuenterrabía era el resultado de proyectos sucesivos, no una fortificación diseñada de una sola vez. Por eso el asedio de 1638 ofrece también una prueba histórica de soluciones constructivas incompletas, condicionadas por el terreno y por los presupuestos de la Corona. [1][4]",
+        "La documentación plantea un segundo problema: la abundancia de relatos no equivale a independencia de testimonios. El estudio de Javier Díaz Noci explica que el triunfo generó relaciones impresas, celebraciones, romances y crónicas que circularon con intereses políticos reconocibles. Una versión repetida por varios impresores puede proceder de una misma noticia inicial. A la inversa, una relación parcial, nacida de la experiencia de los sitiados, puede conservar datos concretos aunque su lenguaje sea encomiástico. El objetivo de esta monografía es distinguir lo sucedido, lo que las fuentes permiten reconstruir y la interpretación posterior que convirtió el socorro en símbolo de fidelidad. [2][3]",
+        "La pregunta central no es únicamente por qué fracasó el ejército francés, sino qué combinación de resistencia material, dificultades operativas y coordinación del socorro hizo posible aquel desenlace. Para responder conviene evitar dos atajos: atribuirlo todo a un único jefe victorioso o reducirlo a supuestos errores del enemigo. La cronología general está suficientemente establecida, mientras que las cifras precisas de bajas y proyectiles, así como las motivaciones personales de algunos mandos, reclaman más cautela. La presente reconstrucción declara esas diferencias y no convierte la retórica de victoria de 1638 en estadística comprobada. [1][2][3]"
+      ]
+    },
+    {
+      "heading": "La guerra franco-española y el tablero de 1638",
+      "paragraphs": [
+        "La guerra declarada entre las monarquías de Francia y España desde 1635 se desarrollaba en el marco más amplio de los conflictos europeos de la primera mitad del siglo XVII. Felipe IV gobernaba una monarquía compuesta de reinos y territorios dispersos; Luis XIII, con el protagonismo político del cardenal Richelieu, trataba de contener el poder de los Habsburgo. La rivalidad tenía frentes continentales, marítimos y diplomáticos. No resulta suficiente explicar el ataque de Fuenterrabía como un simple episodio de hostilidad vecinal, porque las decisiones sobre el Bidasoa respondían también a prioridades de una guerra extensa. [1][4]",
+        "El valor estratégico de la plaza dependía de su posición de frontera y de la posibilidad de proyectar operaciones sobre Guipúzcoa y Navarra. El texto anónimo transcrito por Juan Antonio Sáez García presenta la amenaza de penetrar hacia Pamplona, pero esa formulación pertenece a un relato escrito desde el lado sitiado y no constituye por sí sola un plan operacional francés verificado. Lo que sí puede afirmarse es que la presión sobre Fuenterrabía amenazaba comunicaciones y obligaba a movilizar recursos defensivos. La ocupación del territorio circundante ofrecía al atacante ventajas para establecer baterías y vigilar los accesos. [1][2]",
+        "En una guerra de varios escenarios, reunir soldados para una plaza suponía apartarlos temporalmente de otras necesidades. El estudio sobre servicios de hombres y marcos forales en los territorios vascos sitúa las peticiones de reclutamiento del gobierno de Olivares dentro de una relación tensa con las instituciones locales. La defensa no era, por tanto, una simple orden descendente desde Madrid ejecutada sin negociación. Las comunidades y autoridades territoriales tenían prácticas, obligaciones y capacidades diferentes. La respuesta militar se organizó en ese contexto de compromisos y conflictos, aunque las relaciones triunfales tendiesen a presentar una voluntad política perfectamente unánime. [5][3]",
+        "La simultaneidad de la guerra terrestre y la marítima importa igualmente. El cerco francés buscó aprovechar el litoral y la presencia de barcos para dificultar comunicaciones; no se trataba de una plaza interior que pudiera describirse únicamente mediante trincheras y asaltos a murallas. La combinación de ejército de campaña, escuadra y artillería debía sostenerse durante semanas, con necesidades de coordinación que aumentaban a medida que el asedio se prolongaba. El fracaso final no demuestra que la empresa fuera absurda desde su origen, sino que sus ventajas iniciales no se transformaron en una rendición antes de la llegada del socorro. [1][2]"
+      ]
+    },
+    {
+      "heading": "Geografía, murallas y proyectos de ingeniería",
+      "paragraphs": [
+        "Fuenterrabía ocupaba una pequeña elevación junto al estuario. El agua protegía determinados sectores, pero la artillería de la Edad Moderna había alterado el valor de las defensas naturales. Una muralla alta podía ser visible y resistente a ciertas armas, y al mismo tiempo ofrecer una superficie vulnerable a baterías emplazadas con tiempo. La evolución del recinto desde la cerca medieval hasta los bastiones de los siglos XVI y XVII ilustra ese cambio. El estudio de Yáñez Pacios documenta la adaptación progresiva a una topografía irregular y a los nuevos criterios de defensa abaluartada. [1][4]",
+        "Entre los elementos existentes en 1638 figuraban los baluartes de San Felipe, San Nicolás y la Reina, así como el cubo de la Magdalena. En cambio, otras obras visibles o conocidas por planos posteriores todavía no se habían ejecutado. La síntesis de Sáez García distingue los revellines levantados después del sitio y los baluartes construidos más tarde. Esta precisión es fundamental: no puede juzgarse el ataque francés sobre una fotografía del recinto actual. Tampoco es legítimo suponer que todos los proyectos conservados en archivos llegaron a construirse, pues algunos fueron variantes de estudio o propuestas que quedaron sobre el papel. [1][4]",
+        "Los ingenieros vinculados a la fortificación de la frontera habían considerado soluciones diferentes. La tesis de Yáñez Pacios estudia los proyectos de Fratín y Tiburcio Spannocchi, así como las propuestas de Pedro Texeira Albernas, Marco Antonio Gandolfo y Gerónimo de Soto. En ellas aparecen problemas que trascienden una plaza concreta: cómo cubrir los flancos, dónde situar las obras exteriores, qué coste aceptar y si un foso debía permanecer seco o poder inundarse. La existencia de debates técnicos demuestra que la defensa no era una receta fija. Se trataba de conciliar geometría, terreno, dinero y amenaza probable. [4]",
+        "El sitio permite observar las consecuencias prácticas de esas decisiones. Las baterías enemigas presionaron especialmente los sectores orientados hacia tierra y la relación editada por Sáez García describe daños y tentativas de aprovechar brechas. La tesis arquitectónica examina las reparaciones posteriores como indicios de las zonas más castigadas. Sin embargo, una obra reparada no prueba automáticamente que fuese el objetivo principal durante todas las jornadas, del mismo modo que un plano posterior no equivale a un parte de artillería. La comparación entre cartografía, testimonios y proyectos debe respetar la función original de cada documento. [1][4]"
+      ]
+    },
+    {
+      "heading": "El comienzo del sitio y la ocupación del entorno",
+      "paragraphs": [
+        "La síntesis introductoria del Diario del sitio sitúa el cruce del Bidasoa por las fuerzas del príncipe de Condé el 1 de julio de 1638 y describe la ocupación de localidades del entorno. La fecha proporciona un punto de referencia sólido para el inicio de la campaña terrestre. En otras exposiciones se emplea una cronología más amplia, de junio a septiembre, que puede incluir preparativos o movimientos anteriores al cerco efectivo. No hay que convertir esas formulaciones distintas en una contradicción irreconciliable: una cosa es la campaña y otra el periodo en que la plaza quedó sometida a presión directa. [1][2]",
+        "El avance francés por el territorio próximo redujo el espacio de maniobra de los defensores y permitió aproximar tropas a la fortaleza. Una guarnición encerrada no podía competir con un ejército de campaña en campo abierto sin asumir riesgos graves. Su tarea consistía en conservar el recinto, impedir una penetración decisiva y mantener abiertas, cuando fuese posible, vías de comunicación con el exterior. La ocupación de caminos, aldeas y posiciones elevadas complicaba esas funciones. En ese contexto, el control francés del entorno no equivalía todavía a poseer Fuenterrabía: el recinto seguía siendo una posición militar autónoma. [1][4]",
+        "La llegada progresiva de medios navales amplió el peligro. Un bloqueo por mar podía interrumpir suministros y dificultar mensajes, aunque su eficacia real dependía de la vigilancia y de la cooperación con las tropas terrestres. La obra editada por Sáez García recoge una crítica historiográfica, atribuida a Eduardo Ducéré, según la cual el mando francés no consiguió cerrar todas las comunicaciones ni impedir ciertos auxilios. Esa valoración resulta plausible como explicación parcial, pero no autoriza a afirmar que conocemos todas las rutas clandestinas ni el volumen exacto de provisiones introducidas. Es preciso distinguir capacidad de resistencia de abundancia de recursos. [1]",
+        "Las decisiones iniciales también tuvieron una dimensión civil. La presencia de una población intramuros obligaba a compartir espacios, agua, víveres y riesgos. Las relaciones antiguas suelen nombrar a autoridades y oficiales, pero la supervivencia de la plaza dependía de tareas ordinarias difíciles de convertir en escenas heroicas: transportar materiales, reparar daños, preparar alimentos, asistir a heridos y transmitir avisos. La investigación moderna de la memoria del sitio advierte de que los impresos seleccionaron qué acciones merecían celebrarse. Por ello, el silencio sobre trabajos civiles no debe interpretarse como prueba de su inexistencia. [1][3]"
+      ]
+    },
+    {
+      "heading": "Mandos, vecinos y la defensa compartida",
+      "paragraphs": [
+        "La Relación diaria, transmitida en la edición de 2020, identifica a Domingo de Eguía como gobernador de la plaza en los primeros compases y menciona su experiencia de servicio en Flandes. También registra al alcalde Diego de Butrón y a otras autoridades municipales, junto con personas del cabildo y vecinos. La nómina resulta valiosa para estudiar la estructura local del mando, aunque debe leerse como una selección construida por el propio relato. No equivale a un censo completo de quienes participaron ni garantiza que cada nombre recibiese una valoración proporcional a sus actos. [1]",
+        "El carácter mixto de la defensa constituye uno de los rasgos centrales del episodio. Había soldados con experiencia, autoridades con responsabilidades políticas, vecinos capaces de portar armas y habitantes que sostenían materialmente la resistencia. La síntesis de Sáez García habla de aproximadamente mil cien defensores al sumar militares, población armada y refuerzos que consiguieron entrar. Esa cifra debe tratarse como estimación de conjunto, no como relación nominal comprobada para una fecha exacta. Los efectivos podían variar por pérdidas, enfermedades, relevos y entradas parciales de socorro. [1]",
+        "La importancia de Eguía se refleja también en una fuente de naturaleza singular: Egiaren kanta, un texto contemporáneo en euskera que lo ensalza. Su recuperación material, al encontrarse un pliego reutilizado en la encuadernación de otro libro, muestra hasta qué punto la supervivencia documental puede depender del azar. La edición de ARMA PLAZA permite situarlo como testimonio de una memoria heroica en lengua vasca. Precisamente porque es una apología, su elogio del mando no debe convertirse sin contraste en prueba de que las demás personas actuaron de forma secundaria. [6][1]",
+        "Las tensiones entre protagonismo individual y acción colectiva son visibles en la historiografía de la plaza. Un relato cortesano podía destacar a un jefe para facilitar la distribución de honores; una comunidad podía recordar su propia resistencia; un texto poético podía celebrar a quien encarnaba una virtud militar. Ninguna de esas perspectivas tiene por qué ser enteramente falsa, pero cada una responde a una pregunta distinta. La interpretación más prudente reconoce que la defensa requirió coordinación sin atribuir todos los méritos a un solo hombre. También evita convertir las diferencias de reconocimiento posterior en disputas personales reconstruidas sin documentación suficiente. [1][3][6]"
+      ]
+    },
+    {
+      "heading": "Artillería, brechas y desgaste durante el cerco",
+      "paragraphs": [
+        "Las operaciones de sitio en el siglo XVII combinaban fuego de artillería, excavación, fortificaciones provisionales y tentativas de aproximación. No bastaba con disponer de más hombres: había que llevar piezas a posiciones útiles, mantener pólvora y municiones, proteger a los trabajadores y encontrar un punto de ataque viable. Los planos y comentarios reunidos por Sáez García identifican baterías francesas frente a los baluartes de la Reina y San Nicolás, el cubo de la Magdalena y sectores de muralla oriental. Esa distribución permite comprender la presión sobre varios frentes sin inventar una secuencia diaria completa de disparos. [1][4]",
+        "La existencia de una brecha no equivalía automáticamente a la caída de la plaza. La propia introducción del Diario del sitio señala que hubo daños suficientes para abrir una, pero que los defensores impidieron convertirla en una entrada efectiva. En términos operativos, una abertura debía ser alcanzable, permitir la progresión de los atacantes y mantenerse frente al fuego y a la oposición interior. El asaltante podía perder su ventaja numérica al avanzar por un espacio estrecho o batido. La guarnición, por su parte, necesitaba hombres y materiales para cerrar pasos y organizar defensas improvisadas. [1]",
+        "La resistencia se mide también por el tiempo. Cada jornada sin rendición obligaba al sitiador a conservar su dispositivo, alimentar a sus soldados y atender a sus heridos, mientras el defensor consumía reservas y sufría la destrucción de su entorno. El tiempo podía favorecer al atacante si su bloqueo era completo, o perjudicarle si una fuerza exterior estaba reuniéndose. En Fuenterrabía el segundo riesgo acabó siendo decisivo. No se trata de imaginar una cuenta atrás perfectamente conocida por ambos bandos, sino de reconocer que el valor de una operación de sitio depende de su duración y de lo que sucede fuera de sus trincheras. [1][2]",
+        "Algunas narraciones posteriores difunden cantidades enormes de proyectiles y pérdidas. La documentación consultada no ofrece aquí un registro homogéneo de municiones disparadas ni un balance independiente de bajas de ambos ejércitos. Repetir un número sin precisar su procedencia, unidad de medida o periodo convertiría una estimación literaria en un dato aparentemente exacto. Esta monografía prefiere describir la intensidad del bombardeo por sus efectos constatables sobre defensas y edificios, y deja pendiente cualquier cálculo cuantitativo hasta que puedan cotejarse cuentas de artillería, informes técnicos y testimonios franceses. [1][4][3]"
+      ]
+    },
+    {
+      "heading": "Socorro exterior y coordinación de fuerzas",
+      "paragraphs": [
+        "Mientras la plaza resistía, las autoridades de Felipe IV tuvieron que organizar una fuerza capaz de aproximarse al cerco y romperlo. Las relaciones sobre el acontecimiento identifican al almirante de Castilla, Juan Alfonso Enríquez de Cabrera, y al marqués de los Vélez entre los mandos del socorro, junto con otros oficiales a quienes la literatura festiva dedicó elogios. La presencia de distintos jefes no permite suponer una cadena de decisiones sencilla. El socorro requería reunir contingentes, establecer una dirección operativa y aprovechar una oportunidad antes de que los sitiados perdiesen la capacidad de resistir. [1][3]",
+        "La movilización de tropas desde territorios diversos obliga a considerar el problema institucional. Las investigaciones sobre servicios militares en los territorios vascos recuerdan que la demanda de hombres podía entrar en tensión con prácticas forales y obligaciones locales. Un ejército de socorro no surgía instantáneamente de una orden escrita: había que obtener recursos, trasladarlos y mantenerlos en condiciones de combatir. La monarquía disponía de instrumentos de coordinación, pero no podía eliminar por decreto los obstáculos de transporte, aprovisionamiento y negociación. El episodio muestra capacidad de respuesta sin probar que esa capacidad fuera ilimitada. [5][1]",
+        "La información circulaba en ambos sentidos. La guarnición necesitaba conocer, al menos de manera aproximada, la posibilidad de recibir ayuda; los mandos exteriores debían estimar el estado de la plaza y las posiciones francesas. Una noticia retrasada podía alterar decisiones sobre ataques, repliegues o movimientos de abastecimiento. La Relación diaria incluye correspondencia y adopta una voz próxima a los sitiados, lo que la hace útil para estudiar la percepción de la amenaza. Pero la edición moderna advierte que se trata de una construcción narrativa y que parte de las cartas originales no fue transcrita, limitación importante para reconstruir todas las comunicaciones. [1]",
+        "La historiografía tradicional contrapone con frecuencia un socorro eficaz a una dirección francesa incapaz de mantener el cerco. Es una interpretación posible, pero necesita distinguir entre errores verificables y acusaciones interesadas formuladas después de una derrota. La síntesis de Sáez García presenta la crítica de Ducéré a Condé por no impedir comunicaciones y refuerzos, y menciona controversias entre jefes franceses. La conclusión segura es más modesta: la coordinación del dispositivo atacante no consiguió neutralizar a tiempo a los defensores ni impedir el golpe exterior. Las motivaciones particulares de cada oficial no quedan resueltas mediante relatos hostiles. [1][3]"
+      ]
+    },
+    {
+      "heading": "El 7 de septiembre: ruptura del cerco y retirada",
+      "paragraphs": [
+        "El 7 de septiembre de 1638 constituye el punto de llegada de la campaña: las fuerzas de socorro rompieron el dispositivo francés y levantaron el asedio de Fuenterrabía. Esa fecha aparece en la investigación de Díaz Noci y en la síntesis histórica de ARMA PLAZA. La victoria tuvo un significado táctico preciso, pues la plaza no cayó y los sitiadores perdieron la posibilidad inmediata de obligarla a rendirse. También tuvo un valor operativo, al frustrar la ofensiva que había fijado durante semanas tropas y recursos en el extremo occidental de los Pirineos. [1][2]",
+        "Conviene distinguir el combate de socorro de la totalidad del sitio. La resistencia anterior hizo posible que la plaza permaneciese en manos de sus defensores hasta la llegada del ejército exterior; la ruptura del cerco, a su vez, evitó que el desgaste continuara indefinidamente. Atribuir la victoria exclusivamente a los sitiados borra el papel de quienes acudieron; atribuirla exclusivamente al ejército de campaña convierte en irrelevantes dos meses de resistencia. Ambos componentes fueron necesarios en la secuencia histórica que describen las fuentes. Esta relación causal no exige repartir porcentajes imaginarios de mérito militar. [1][2][3]",
+        "Los relatos de triunfo describieron una derrota francesa de grandes proporciones. Sin embargo, las cifras de muertos, heridos y prisioneros que circularon en impresos de celebración deben examinarse según sus condiciones de producción. La ficha de una relación sevillana de 1638 demuestra la temprana circulación de noticias victoriosas, pero no verifica por sí sola los balances que pudieran figurar en su interior. La investigación de Díaz Noci explica cómo la noticia se multiplicó en géneros diversos. Una cuantificación rigurosa requeriría cotejar testimonios de ambos ejércitos y distinguir pérdidas durante el asedio de las ocasionadas en el socorro. [3][8]",
+        "La retirada enemiga cerró la amenaza inmediata, pero no borró el daño acumulado. Murallas y edificios necesitaron reparaciones, la población había sufrido una experiencia de violencia y las instituciones comenzaron a gestionar honores y recuerdos. La tesis de Yáñez Pacios estudia los proyectos de reparación posteriores, lo que proporciona una vía de comprobación material distinta de los relatos festivos. En ese sentido, la victoria no fue el final de la historia local, sino el comienzo de una fase de reconstrucción. La cronología militar y la de la recuperación urbana no deben confundirse. [4][1]"
+      ]
+    },
+    {
+      "heading": "Las fuentes impresas y la fabricación de una noticia",
+      "paragraphs": [
+        "Pocos episodios militares del reinado de Felipe IV generaron una producción noticiosa tan visible como el socorro de Fuenterrabía. Díaz Noci estudia las relaciones en prosa y verso, las noticias manuscritas, las representaciones teatrales y las celebraciones organizadas en distintos lugares. Su aportación principal no consiste en repetir la batalla, sino en explicar cómo se seleccionaron y difundieron sus significados. La noticia podía informar y, simultáneamente, reforzar la imagen del monarca y de su gobierno. Para el historiador, la coexistencia de esas funciones exige leer los impresos como fuentes de acontecimientos y como objetos políticos. [2][3]",
+        "El estudio documenta la llegada de noticias a Madrid tres días después del socorro y las celebraciones que siguieron. También describe la intervención del entorno de Olivares en la difusión de una versión favorable a la Corona. Es importante separar el entusiasmo social, que pudo ser genuino, de la utilización política de ese entusiasmo. No hay contradicción necesaria entre ambas realidades. Las luminarias, las representaciones y los romances hicieron comprensible un episodio lejano para personas que nunca habían visto las murallas del Bidasoa. La victoria militar se convirtió así en un acontecimiento de circulación peninsular. [2][3]",
+        "El catálogo de la Diputación Foral de Bizkaia conserva la referencia a Triunpho de Navarra y vitoria de Fuenterrabia, impreso en Pamplona en 1638 por Martín de Labayen y atribuido a Diego Felipe Suárez. Su existencia y datos bibliográficos están comprobados mediante ficha, pero aquí no se ha leído el folleto completo. Esa distinción importa: el título acredita una determinada presentación editorial del triunfo, no permite atribuir al texto argumentos que no se han consultado. Algo semejante sucede con la relación de victoria impresa en Sevilla por Juan Gómez de Blas, documentada en el catálogo de Sancho el Sabio. [7][8]",
+        "La propia Relación diaria de 1639 se presenta con una voz cercana a los sitiados y una dedicatoria a Olivares. Sáez García advierte que la primera persona puede funcionar como recurso de verosimilitud y que la edición moderna suprime determinados materiales, incluidas algunas cartas. No es correcto leerla como un diario privado intacto ni como una transcripción diplomática exhaustiva. Su valor reside en conservar una narración detallada y una selección de correspondencia; su límite, en que la forma literaria y la transmisión editorial intervienen entre los hechos y el lector actual. [1]"
+      ]
+    },
+    {
+      "heading": "Palafox, la memoria oficial y las voces ausentes",
+      "paragraphs": [
+        "Juan de Palafox y Mendoza figura entre los autores fundamentales para estudiar la memoria cortesana del episodio. El catálogo de la Fundación Sancho el Sabio registra una cuarta impresión de su Sitio y socorro de Fuenterrabía y sucesos del año 1638, editada en Madrid en 1793. La descripción bibliográfica identifica una obra extensa y vinculada al encargo regio, pero no equivale a una lectura directa de sus cuatrocientas páginas. En esta investigación se utiliza esa ficha para situar la transmisión editorial de la obra, no para extraer episodios tácticos que no hayan sido comprobados. [9][3]",
+        "Díaz Noci compara las distintas estrategias de narración y muestra que la producción oficial aspiraba a fijar una memoria coherente del triunfo. Los nombres de generales, la piedad religiosa y la fidelidad al rey se integraron en un relato de cohesión política. No por ello deben desecharse todos los hechos contenidos en las relaciones, pero sí examinar qué voces tenían acceso a la imprenta y cuáles dependían de ser representadas por otros. Un impreso favorable al poder puede preservar una noticia cierta y al mismo tiempo organizarla para legitimar a quienes la difunden. [2][3]",
+        "Las mujeres aparecen en algunas relaciones festivas, según la investigación de Díaz Noci, mediante elogios que no siempre permiten reconstruir sus tareas concretas. El hecho de ser celebradas como grupo no proporciona una nómina de actuaciones ni prueba que desempeñasen un papel único. Su presencia obliga, sin embargo, a abandonar la imagen de una resistencia exclusivamente masculina y profesional. La supervivencia cotidiana de una plaza bajo fuego dependía de muchas personas que no figuraban en los escalafones. Para avanzar más sería necesario cotejar registros municipales, correspondencia y documentación sobre socorros y pérdidas familiares. [2][3]",
+        "La recuperación de Egiaren kanta añade otra dimensión. El texto en euskera ensalza a Domingo de Eguía y muestra que la memoria del asedio no se produjo únicamente en castellano ni solo desde la corte. La forma poética favorecía la exaltación, pero también documenta la existencia de públicos y lenguajes locales. La investigación debe resistir la tentación de elegir una única memoria auténtica frente a todas las demás. La historia de 1638 incluye la experiencia militar, la disputa por el reconocimiento y la diversidad de formas con que las comunidades contaron lo sucedido. [6][3]"
+      ]
+    },
+    {
+      "heading": "Reparaciones, costes y consecuencias estratégicas",
+      "paragraphs": [
+        "El fracaso del asedio francés aseguró la continuidad de Fuenterrabía bajo control de Felipe IV en 1638. Esa es la consecuencia política inmediata, pero no implica que la guerra franco-española terminase ni que Francia perdiese toda capacidad ofensiva. El conflicto continuó durante años y la paz entre ambas monarquías no llegó hasta 1659. La victoria local debe situarse en esa escala temporal más amplia. Fue importante para la defensa de la frontera y para la imagen del gobierno, sin convertirse por sí sola en una decisión final sobre la rivalidad europea. [1][4]",
+        "Las reparaciones posteriores permiten medir una parte de la factura material. La tesis de Yáñez Pacios examina las intervenciones en el baluarte de la Reina, las cortinas dañadas y las obras exteriores proyectadas tras el sitio. Las decisiones sobre qué reconstruir primero muestran que las autoridades debían jerarquizar riesgos y gastos. La reparación no era un mero regreso al estado anterior: podía incorporar correcciones derivadas de la experiencia del ataque. Al mismo tiempo, no todos los proyectos recibieron idéntica prioridad ni todos llegaron a ejecutarse según sus dibujos iniciales. [4]",
+        "La memoria triunfal tendía a concentrarse en la liberación, mientras la vida local tuvo que afrontar la recuperación. La investigación arquitectónica ofrece evidencias sobre obras, pero no constituye una contabilidad completa de pérdidas domésticas, cosechas, comercio o desplazamientos. Por eso sería improcedente adjudicar una cifra total de daños sin cuentas municipales y documentación patrimonial. La victoria militar pudo coexistir con empobrecimiento y desorganización temporal. Este contraste entre resultado estratégico y experiencia social es indispensable para no confundir la conservación de una fortaleza con la ausencia de sufrimiento entre sus habitantes. [1][4]",
+        "La fortificación siguió evolucionando después de 1638. Algunas obras exteriores que no existían durante el cerco se levantaron posteriormente, mientras el papel relativo de Fuenterrabía cambió con la evolución de la frontera y de otras plazas. El estudio arquitectónico permite observar tanto la continuidad de inversiones como el progresivo desplazamiento de prioridades. No se puede presentar el socorro como prueba de que el sistema defensivo había alcanzado una perfección definitiva. Precisamente los daños y las propuestas de reforma muestran que las defensas eran una respuesta provisional a amenazas y tecnologías en transformación. [4][1]"
+      ]
+    },
+    {
+      "heading": "Discrepancias documentales y límites de la reconstrucción",
+      "paragraphs": [
+        "La primera discrepancia es cronológica. Las exposiciones generales hablan a veces de un sitio entre junio y septiembre, mientras la síntesis de Sáez García fecha el cruce del Bidasoa el 1 de julio y contabiliza sesenta y siete días de resistencia hasta el 7 de septiembre. Es posible conciliar parte de esa diferencia distinguiendo preparativos, operaciones de aproximación y cerco efectivo. No obstante, una cronología diaria completa requeriría cotejar registros de ambos ejércitos. Esta monografía conserva como hito firme el socorro del 7 de septiembre y evita fijar una fecha única para todas las fases preliminares. [1][2]",
+        "La segunda afecta a los efectivos. La cifra aproximada de mil cien defensores presentada por Sáez García integra categorías distintas y refuerzos llegados durante el sitio. Las cifras francesas publicadas en síntesis y relaciones pueden incluir fuerzas de campaña, personal embarcado o contingentes que no participaron simultáneamente en los asaltos. Compararlas sin normalizar esas categorías produce una aparente precisión engañosa. No se ofrece aquí una tabla cerrada de fuerzas porque faltan listas de revista contrastadas y un criterio común de cómputo. El desequilibrio general existió, pero su proporción exacta depende de qué se cuente. [1][3]",
+        "La tercera es interpretativa: ¿se impuso el valor de los defensores o fracasó la dirección francesa? La resistencia a los asaltos y la llegada del socorro están documentadas en sus líneas principales. Las acusaciones sobre incompetencia, deslealtad o rivalidades entre mandos pertenecen a una discusión más compleja. Sáez García recoge la explicación crítica de Ducéré y la contrapone a las exaltaciones de las relaciones. Ninguna interpretación excluye necesariamente a la otra: una plaza puede resistir con eficacia y beneficiarse de errores del enemigo. Lo que no resulta aceptable es convertir una imputación personal en hecho probado sin examinar las fuentes francesas. [1]",
+        "La cuarta afecta a la propia historiografía. Díaz Noci muestra que el material impreso se reprodujo y reelaboró; por eso la coincidencia de varios textos no garantiza testimonios independientes. Incluso su artículo académico de 2004 contiene, en el pasaje sobre el correo llegado a Madrid, una referencia a febrero incompatible con el socorro de septiembre, mientras las frases contiguas sitúan correctamente las celebraciones en septiembre. Se trata de una errata interna detectable por contexto, no de una nueva cronología. Señalarla ilustra la necesidad de revisar también los estudios modernos y de no atribuir infalibilidad a ninguna edición. [2][3]"
+      ]
+    },
+    {
+      "heading": "Fiesta, identidad local y balance histórico",
+      "paragraphs": [
+        "La celebración del 8 de septiembre está ligada a la memoria de la liberación. Díaz Noci explica que las decisiones festivas de 1639 consolidaron una conmemoración religiosa y militar que perduró, con transformaciones, en la vida de Hondarribia. La continuidad no significa inmovilidad: las fiestas cambian de forma, participantes y significados. Tampoco permite proyectar sobre 1638 todos los debates contemporáneos. La historia del alarde pertenece a la historia de la memoria pública tanto como al recuerdo de un hecho de armas. Estudiar esa relación exige reconocer el pasado sin convertirlo en argumento automático para resolver conflictos presentes. [2][3]",
+        "El papel de la Virgen de Guadalupe en los relatos y votos colectivos muestra cómo se interpretó la supervivencia de la plaza mediante categorías religiosas propias del siglo XVII. El historiador puede documentar esas creencias y su importancia social sin presentar una intervención sobrenatural como explicación militar comprobable. De igual manera, el lenguaje de los impresos que opone una monarquía católica a enemigos supuestamente heréticos debe entenderse como retórica de movilización. La guerra entre Francia y España no puede reducirse a una frontera confesional, puesto que la política de alianzas europea era mucho más compleja. [1][2][3]",
+        "El episodio muestra también la utilidad de combinar disciplinas. La arquitectura militar permite comprobar qué obras existían y cuáles fueron reparadas; la historia política explica la movilización de recursos; el estudio de las relaciones revela la construcción de una noticia; la filología conserva una voz poética en euskera. Cada enfoque responde a preguntas diferentes. Un buen relato histórico no consiste en reunir todos esos materiales para que confirmen una conclusión preestablecida, sino en aprovechar sus diferencias para precisar qué sabemos y qué permanece incierto. La riqueza documental del sitio es una oportunidad y, al mismo tiempo, una exigencia de prudencia. [1][2][4][6]",
+        "El balance final puede formularse sin hipérbole. Fuenterrabía resistió una ofensiva francesa en 1638 y fue socorrida el 7 de septiembre por fuerzas de la Monarquía Hispánica. La operación enemiga fracasó en su objetivo inmediato, pero la plaza sufrió un desgaste que obligó a reparar sus defensas. La noticia fue convertida rápidamente en un símbolo político y festivo de alcance mucho mayor que el del campo de operaciones. La historia completa no pertenece en exclusiva a los generales, a los habitantes o a los impresores: surge de la interacción entre combate, instituciones, ingeniería y memoria. [1][2][3][4]"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "n": 1,
+      "name": "Juan Antonio Sáez García (ed.), Diario del sitio: Hondarribia 1638, ARMA PLAZA Fundazioa (2020)",
+      "url": "https://armaplaza.eus/images/Publicaciones/Boletines/Diario%20Sitio_2020_cas.pdf",
+      "kind": "Edición institucional de fuente primaria y estudio introductorio",
+      "verified_at": "2026-10-29",
+      "verification_note": "Consulta directa parcial del PDF de 54 páginas: introducción histórica y fortificaciones, páginas impresas 4-11, inicio de la relación y nómina de autoridades, pp. 12-14. No se leyó íntegramente la transcripción ni todas las cartas; la edición declara omisiones."
+    },
+    {
+      "n": 2,
+      "name": "Javier Díaz Noci, Fuentes históricas coetáneas de la liberación de Hondarribia, Mediatika 10 (2004), pp. 77-107",
+      "url": "https://www.eusko-ikaskuntza.eus/PDFAnlt/mediatika/10/10077107.pdf",
+      "kind": "Artículo académico de historia de la comunicación y fuentes coetáneas",
+      "verified_at": "2026-10-29",
+      "verification_note": "Consulta directa parcial del PDF académico de 31 páginas, especialmente introducción, pp. 77-81 y secciones sobre relaciones, fiestas y transmisión. No se afirma lectura íntegra del artículo; se detectó una errata interna 'febrero' en la narración de septiembre."
+    },
+    {
+      "n": 3,
+      "name": "Javier Díaz Noci, Las relaciones sobre el sitio de Fuenterrabía (1638-1639), Euskonews 149 (2002)",
+      "url": "https://www.euskonews.eus/zbk/149/las-relaciones-sobre-el-sitio-de-fuenterrabia-1638-1639-la-construccion-de-un-acontecimiento-en-la-espana-de-los/ar-0149001002C/",
+      "kind": "Estudio historiográfico publicado por Eusko Ikaskuntza",
+      "verified_at": "2026-10-29",
+      "verification_note": "Leído el texto público HTML completo de la síntesis historiográfica. Es obra del mismo autor que [2], por lo que no se considera corroboración independiente."
+    },
+    {
+      "n": 4,
+      "name": "Roberto Tomás Yáñez Pacios, Génesis y evolución de las fortificaciones abaluartadas de Fuenterrabía (1496-1638), tesis Universidad de Alicante (2019)",
+      "url": "https://portalcientifico.unav.edu/documentos/5ef67e8829995218d31a532a",
+      "kind": "Tesis doctoral de arquitectura militar, ficha y resumen institucional extenso",
+      "verified_at": "2026-10-29",
+      "verification_note": "Leída íntegramente la ficha académica y el resumen extenso del portal científico de la Universidad de Navarra; el PDF completo del repositorio de Alicante no se pudo abrir. No se atribuye lectura íntegra de la tesis."
+    },
+    {
+      "n": 5,
+      "name": "Más de un vizcaíno. Lecturas de los servicios de hombres y los marcos forales de los territorios vascos en la época de los Austrias, Obradoiro de Historia Moderna 30 (2021)",
+      "url": "https://revistas.usc.gal/index.php/ohm/article/view/7456",
+      "kind": "Artículo académico de historia moderna",
+      "verified_at": "2026-10-29",
+      "verification_note": "Verificados ficha y resumen indexado sobre reclutamiento, fueros y sitio de 1638. La apertura directa de la revista devolvió 503; no se leyó el artículo íntegro."
+    },
+    {
+      "n": 6,
+      "name": "Juan Antonio Sáez García (ed.), Egiaren kanta: Hondarribia 1638, ARMA PLAZA Fundazioa (2020)",
+      "url": "https://armaplaza.eus/images/Publicaciones/Boletines/Egiaren%20Kanta_2020_eus_cas.pdf",
+      "kind": "Edición institucional de poema histórico en euskera y castellano",
+      "verified_at": "2026-10-29",
+      "verification_note": "Consulta directa parcial del PDF bilingüe de 30 páginas, incluyendo presentación, contexto y ficha del testimonio; no se leyó íntegramente el poema ni su estudio."
+    },
+    {
+      "n": 7,
+      "name": "Diego Felipe Suárez, Triunpho de Navarra y vitoria de Fuenterrabia, Pamplona: Martín de Labayen (1638)",
+      "url": "https://liburutegibiltegi.bizkaia.eus/handle/20.500.11938/70456",
+      "kind": "Fuente primaria: ficha bibliográfica institucional, Biblioteca Foral de Bizkaia",
+      "verified_at": "2026-10-29",
+      "verification_note": "Consultada íntegramente la ficha catalográfica con autor, impresor, fecha y extensión. No se abrió ni leyó el impreso histórico; se cita únicamente como prueba de circulación editorial."
+    },
+    {
+      "n": 8,
+      "name": "Relación verdadera de la grandiosa vitoria ... sobre el cerco de Fuente Rabia, Sevilla: Juan Gómez de Blas (1638)",
+      "url": "https://catalogo.sanchoelsabio.eus/Record/bfbizkaia-20.500.11938-72164/Description",
+      "kind": "Fuente primaria: ficha de impreso histórico en catálogo institucional",
+      "verified_at": "2026-10-29",
+      "verification_note": "Leída íntegramente la ficha de catálogo y referencias de impresos relacionados. No se consultó el texto completo del folleto; no se derivan de él cifras ni narraciones tácticas."
+    },
+    {
+      "n": 9,
+      "name": "Juan de Palafox y Mendoza, Sitio y socorro de Fuenterrabía y sucesos del año 1638, cuarta impresión, Madrid (1793)",
+      "url": "https://catalogo.sanchoelsabio.eus/Record/9778",
+      "kind": "Fuente histórica: ficha bibliográfica institucional de crónica cortesana",
+      "verified_at": "2026-10-29",
+      "verification_note": "Consultada la ficha completa de Fundación Sancho el Sabio con autoría, edición y extensión. No se leyó la obra de 400 páginas; se utiliza únicamente para estudiar transmisión bibliográfica."
+    }
+  ],
+  "editorial_note": "Investigación original sobre el sitio de 1638 basada en nueve registros académicos, documentales e institucionales comprobados el 29-10-2026. Se especifica el alcance real de cada lectura: artículo HTML íntegro, PDFs parciales, resumen doctoral, extracto académico y fichas de impresos históricos. Se reconoce que dos trabajos de Díaz Noci no son testimonios independientes. Se contrastan cronología, mandos, efectivos, memoria impresa y reparaciones, sin imágenes ajenas ni transcripciones extensas. No se afirma lectura completa de las obras antiguas ni arbitraje externo.",
+  "status": "publicado",
+  "not_before": "2026-10-29",
+  "approval": {
+    "reviewer": "Revisión historiográfica asistida por IA, sin arbitraje académico externo",
+    "date": "2026-10-29",
+    "notes": "Cotejo documental con 9 fuentes verificadas y alcances de lectura identificados; 5003 palabras de desarrollo, 13 secciones, 52 párrafos con referencias válidas. Se identifican discrepancias cronológicas y cuantitativas, la dependencia entre dos textos de Díaz Noci, y los límites de las fichas catalográficas. Sin imágenes ajenas.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "f9fc72e309496358b697467288a580c7b0b298a35556a4f7911ecca3bf0a1239"
+  },
+  "publication_date": "2026-10-29",
+  "publication_time": "2026-10-29T09:56:00+01:00",
+  "publication_slot": "2026-10-29/extra-A-0078",
+  "last_reviewed": "2026-10-29"
+}
