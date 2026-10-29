@@ -1,0 +1,147 @@
+{
+  "id": "CHG-A-0080",
+  "slug": "sitio-badajoz-1812-wellington-philippon-brechas-saqueo",
+  "topic_key": "sitio-badajoz-1812-asalto-saqueo-guerra-independencia",
+  "title": "Badajoz, 1812: Wellington, las brechas y el saqueo que ensombreció la victoria",
+  "eyebrow": "Acciones militares · Edad Contemporánea · Guerra de la Independencia",
+  "category": "Acciones militares",
+  "period": "Edad Contemporánea",
+  "era": "Siglo XIX",
+  "chronology": 1812,
+  "date": "16 de marzo – 6 de abril de 1812; saqueos posteriores",
+  "location": "Badajoz, Extremadura, España",
+  "summary": "La toma aliada de Badajoz en 1812, el asedio de Philippon, las brechas de Wellington y la violencia contra la población tras la conquista.",
+  "featured": false,
+  "keywords": [
+    "Badajoz",
+    "1812",
+    "Wellington",
+    "Philippon",
+    "saqueo de Badajoz",
+    "Guerra de la Independencia",
+    "Picuriña",
+    "Trinidad",
+    "Santa María"
+  ],
+  "facts": [
+    [
+      "Fecha",
+      "16 de marzo – 6 de abril de 1812"
+    ],
+    [
+      "Lugar",
+      "Badajoz, Extremadura, España"
+    ],
+    [
+      "Mando atacante",
+      "Arthur Wellesley, conde de Wellington"
+    ],
+    [
+      "Mando defensor",
+      "Armand Philippon"
+    ],
+    [
+      "Resultado",
+      "Conquista aliada seguida de saqueos y violencia contra civiles"
+    ]
+  ],
+  "sections": [],
+  "sources": [
+    {
+      "n": 1,
+      "name": "National Army Museum, «Peninsular War», sección «Badajoz»",
+      "url": "https://www.nam.ac.uk/explore/peninsular-war",
+      "kind": "Museo militar británico; historia de campaña y saqueo",
+      "verified_at": "2026-10-29",
+      "verification_note": "Página consultada directamente, con referencias al asalto, unas 4500 bajas aliadas y violencia contra civiles."
+    },
+    {
+      "n": 2,
+      "name": "Biblioteca Virtual de Defensa, «Badajoz: noticias históricas sobre el sitio de la plaza por las tropas aliadas en 1812», expediente O'Lawlor, Roselló y marqués de Monsalud",
+      "url": "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/consulta/registro.do?control=BMDB20220095327",
+      "kind": "Catálogo de 21 documentos primarios de 1812",
+      "verified_at": "2026-10-29",
+      "verification_note": "Ficha y 21 sumarios de correspondencia leídos directamente; no han sido leídos los manuscritos íntegros."
+    },
+    {
+      "n": 3,
+      "name": "Juan Altieri Sánchez, Carlos María Sánchez Rubio y Álvaro Meléndez Teodoro, «Estudio histórico del baluarte de la Trinidad de la fortificación de Badajoz», 2014",
+      "url": "https://ahmaix.es/wp-content/uploads/2020/11/2014-Estudio-historico-baluarte-Trinidad.pdf",
+      "kind": "Estudio técnico-histórico de arquitectura militar",
+      "verified_at": "2026-10-29",
+      "verification_note": "PDF original abierto, secciones sobre 1811–1812 consultadas y páginas impresas 7 y 22 examinadas visualmente. No leído el volumen entero."
+    },
+    {
+      "n": 4,
+      "name": "Gavin Daly, «The sacking of a town is an abomination», Historical Research, 92(255), 2019, pp. 160–182",
+      "url": "https://academic.oup.com/histres/article-abstract/92/255/160/5603512",
+      "kind": "Artículo académico revisado por pares",
+      "verified_at": "2026-10-29",
+      "verification_note": "Título, DOI, fecha, ficha y resumen leídos. Texto completo de acceso restringido, no leído."
+    },
+    {
+      "n": 5,
+      "name": "Gaceta de la Regencia de las Españas, núm. 49, 18 de abril de 1812, pp. 403–405, oficio de Wellington de 27 de marzo",
+      "url": "https://www.boe.es/gazeta/dias/1812/04/18/pdfs/GRE-1812-49.pdf",
+      "kind": "Parte primario reproducido por el órgano de la Regencia",
+      "verified_at": "2026-10-29",
+      "verification_note": "PDF original de 8 páginas abierto, oficio de Wellington consultado directamente. Contiene sucesos hasta 27 de marzo, no asalto de abril."
+    },
+    {
+      "n": 6,
+      "name": "Junta de Extremadura, SITEX, «Troisième Défense de Badajoz en 1812», L. Houbloup, 1837",
+      "url": "https://sitex.juntaex.es/Cartoteca/fichas/view/206",
+      "kind": "Ficha de plano militar retrospectivo francés",
+      "verified_at": "2026-10-29",
+      "verification_note": "Ficha cartográfica leída directamente con autor, edición, escala y detalle de Trinidad, Santa María y Rivillas."
+    },
+    {
+      "n": 7,
+      "name": "National Army Museum, «Badajoz during the Siege of June 1811», ficha 1971-02-33-507-7",
+      "url": "https://collection.nam.ac.uk/detail.php?acc=1971-02-33-507-7",
+      "kind": "Ficha de colección sobre antecedentes de 1811",
+      "verified_at": "2026-10-29",
+      "verification_note": "Ficha accesible en consulta histórica, empleada solo para diferenciar el intento previo de 1811 del asalto definitivo."
+    },
+    {
+      "n": 8,
+      "name": "Arquivo Histórico Militar de Portugal, «A praça de Badajoz tomada de assalto aos franceses», PT/AHM/FE/010/A07/MD/08",
+      "url": "https://ahm-exercito.defesa.gov.pt/details?id=37512",
+      "kind": "Registro de estampa portuguesa",
+      "verified_at": "2026-10-29",
+      "verification_note": "Enlace institucional localizado, pero la apertura actual produjo bucle de redirección; no se ha verificado el contenido gráfico."
+    }
+  ],
+  "related": [
+    "CHG-A-0048",
+    "CHG-A-0028",
+    "CHG-A-0027",
+    "CHG-A-0018"
+  ],
+  "editorial_note": "Investigación en elaboración para publicación manual. Se preserva la distinción entre victoria militar y violencia contra civiles. Sin arbitraje externo.",
+  "status": "en_redaccion",
+  "not_before": "2026-10-29",
+  "topics": [
+    "batallas-combates-y-asedios",
+    "edad-contemporanea",
+    "peninsula-iberica",
+    "guerra-independencia"
+  ],
+  "approval": {
+    "reviewer": "Revisión historiográfica asistida por IA; sin arbitraje académico externo",
+    "date": "2026-10-29",
+    "notes": "Pendiente revisión final",
+    "checks": {
+      "hechos_contrastados": false,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": false,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": false
+    },
+    "content_sha256": ""
+  },
+  "publication_date": "2026-10-29",
+  "publication_time": "2026-10-29T11:30:00+01:00",
+  "publication_slot": "2026-10-29/extra-A-0080",
+  "last_reviewed": "2026-10-29"
+}
