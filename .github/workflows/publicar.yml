@@ -1,6 +1,8 @@
 name: Publicación editorial
 on:
-  # Publicación solo bajo petición expresa del titular: sin cron automático.
+  # Publicación autorizada por el titular, cada quince minutos.
+  schedule:
+    - cron: '*/15 * * * *'
   workflow_dispatch:
     inputs:
       slot:
