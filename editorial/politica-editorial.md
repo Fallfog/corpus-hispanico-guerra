@@ -15,7 +15,7 @@ Al redactar, distinguir siempre entre el territorio actual, la provincia romana 
 
 ## Primacía del rigor sobre el volumen
 
-La producción editorial se organiza en torno a monografías históricas, no a un objetivo obligatorio de tres textos diarios. Se publicará **como máximo una monografía al día**, y solo si ha completado una investigación y una revisión documentadas. Los días sin material listo quedarán sin publicaciones nuevas.
+La producción editorial se organiza en torno a monografías históricas, sin cuota ni cadencia de publicaciones. **Cada nueva publicación requiere una solicitud expresa del titular y una investigación y revisión documentadas.** Pueden publicarse varias monografías en una fecha cuando así se solicite, sin reducir los estándares editoriales. Los días sin solicitudes no habrá publicaciones nuevas.
 
 ## Requisitos para nuevas incorporaciones
 
@@ -28,7 +28,7 @@ La producción editorial se organiza en torno a monografías históricas, no a u
 
 ## Publicación y control
 
-Publicación programada: una oportunidad diaria a las 21:17, zona Europe/Madrid (GitHub Actions puede retrasarse).
-La selección admite cualquiera de las tres categorías históricas. La cola de nuevas fichas está sometida al filtro de monografía y a la aprobación explícita con acta y control de integridad. La existencia de este proceso no equivale a generación autónoma de contenido: esta última permanece desactivada.
+**Publicación programada: desactivada.** El workflow de publicación solo admite la ejecución manual iniciada expresamente por un operador autorizado. La configuración `editorial/config.json` permanece con `paused: true`, por lo que el script de selección de cola no publica hasta una autorización de reanudación específica.
+La selección podrá abarcar cualquiera de las tres categorías históricas cuando se autorice. La cola conserva fichas revisadas, sin despliegue autónomo. Cada ficha requiere investigación, aprobación y control de integridad, y la generación autónoma de contenido permanece desactivada.
 
 Los artículos anteriores permanecen en el archivo; la nueva exigencia mínima se aplica a nuevas aprobaciones y publicaciones futuras, no borra retroactivamente contenidos publicados.
