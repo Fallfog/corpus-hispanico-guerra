@@ -5,8 +5,8 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 ## Estado real
 
 - **90 monografías publicadas al 29-10-2026**. La última es Montiel (CHG-A-0104), con 5.242 palabras, 16 apartados y 14 fuentes. Ficha `content/entries/CHG-A-0104.json` y HTML `dist/articulos/batalla-montiel-1369-pedro-i-enrique-ii-trastamara-castillo-estrella/index.html`.
-- **Cola editorial:** permanecen reservadas las investigaciones CHG-A-0076, CHG-A-0081. Nájera (CHG-A-0082) se ha incorporado sin modificar las reservas previas. La generación y publicación automática permanecen desactivadas.
-- **Publicación solo manual cuando el titular la solicite**: flujo investigación → contraste de fuentes → monografía → revisión → GitHub → validación y compilación → comprobación de Cloudflare Workers. El cron automático de 15 minutos se ha retirado de `.github/workflows/publicar.yml` y la configuración queda pausada (`editorial/config.json`). La comprobación de GitHub y Cloudflare se hace en cada entrega.
+- **Cola editorial:** 14 fichas revisadas y pendientes de orden expresa de publicación (a 29-10-2026), con los identificadores reservados sin reutilizar; se consultan en `content/cola/`.
+- **Publicación solo manual cuando el titular la solicite**: investigación → contraste → monografía ≥3.000 palabras → revisión → GitHub → pruebas y compilación → comprobación HTTP de Cloudflare. El cron de publicación está eliminado de `.github/workflows/publicar.yml`, y `editorial/config.json` permanece con `paused: true`.
 - Generación autónoma: desactivada. No se ha contratado ninguna API.
 - El hecho de tener estos archivos no acredita que Cloudflare esté conectado o desplegado. Consultar el panel del alojamiento y el historial de Actions.
 
@@ -19,11 +19,11 @@ python -m unittest discover -s tests -v
 python scripts/check.py
 ```
 
-Para generar sitemap, RSS y canónicas, definir `SITE_URL` con la URL pública real. Si no existe, se utiliza `CF_PAGES_URL` cuando Cloudflare la proporciona. Las pruebas usan example.org exclusivamente como dominio de prueba.
+**Pendiente de SEO:** faltan `sitemap.xml`, RSS y enlaces canónicos en el HTML generado porque `SITE_URL` no tiene una dirección pública real configurada. Definir `SITE_URL` con la URL verificada del Worker y recompilar; si no está disponible, se admite `CF_PAGES_URL`. `example.org` se usa exclusivamente en pruebas, nunca como dominio público.
 
 ## Alojamiento actual: Cloudflare Workers + GitHub
 
-El proyecto existente es un Cloudflare Worker con recursos estáticos (`wrangler.jsonc`, directorio `dist`), no un proyecto Pages. Las GitHub Actions validan y generan `dist` y Cloudflare despliega los cambios en `main`. El resultado de las comprobaciones en GitHub/Cloudflare no equivale a verificar la navegación pública desde fuera. La URL real del Worker y el valor de `SITE_URL` deben verificarse antes de declarar las canónicas como definitivas.
+El proyecto existente es un Cloudflare Worker con recursos estáticos (`wrangler.jsonc`, directorio `dist`), no un proyecto Pages. Las GitHub Actions validan y generan `dist`; la conexión de Cloudflare Workers con `main` no está verificada desde este repositorio. El resultado de las comprobaciones en GitHub/Cloudflare no equivale a verificar la navegación pública desde fuera. La URL real del Worker y el valor de `SITE_URL` deben verificarse antes de declarar las canónicas como definitivas.
 
 ## Administración desde GitHub
 
@@ -31,7 +31,7 @@ El proyecto existente es un Cloudflare Worker con recursos estáticos (`wrangler
 2. **Documentar:** incluir **al menos 3.000 palabras de desarrollo**, **ocho apartados** y **cinco fuentes identificadas con verificación documentada**, además de referencias `[1]` en cada párrafo. Cada fuente necesita `verified_at` (AAAA-MM-DD) y `verification_note` con el contenido realmente comprobado. El campo `topic_key` representa el acontecimiento/persona, no el enfoque del artículo: conservarlo para evitar publicar versiones como temas nuevos.
 3. **Revisar:** contrastar los hechos y derechos de uso; resolver o expresar discrepancias. La comprobación informática NO realiza esta revisión histórica ni detecta todas las paráfrasis duplicadas.
 4. **Aprobar:** Actions → Aprobar ficha revisada → Run workflow. Indicar ID y acta de revisión; marcar la confirmación solo tras efectuar las comprobaciones. Se registra el usuario de GitHub y un resumen criptográfico del contenido. Cambiar el contenido invalida esa aprobación.
-5. **Publicar:** el calendario automático de los minutos :07, :22, :37 y :52 (Europe/Madrid) comprueba la cola editorial y elige una ficha aprobada de cualquier categoría, sin inventar contenido. `not_before: AAAA-MM-DD` y las reservas horarias de `editorial/config.json` impiden publicaciones tempranas. `scripts/publish_next.py --interval-15 --dry-run` permite comprobar qué se publicaría. En GitHub: Actions → Publicación editorial → Run workflow → modo `15min`, `dry_run` activado. Las ejecuciones son orientativas, no tienen puntualidad garantizada.
+5. **Publicar:** solo por orden expresa del titular. Crear y revisar la ficha o seleccionar una previamente aprobada, moverla a `content/entries` por el procedimiento editorial, actualizar inventario y acta y comprobar Actions. **No existe cron activo**. El workflow manual de publicación tiene un modo de simulación por defecto, y el script `publish_next.py` respeta `paused: true`. No reactivar un calendario ni cambiar `paused` sin consentimiento específico.
 6. **Modificar:** editar el JSON con el lápiz. Para una revisión sustancial de un piloto, conservar ID y slug. En artículos aprobados, volver a revisar el contenido y registrar su aprobación; el procedimiento de actualización de publicados todavía exige edición técnica. No crear otro artículo del mismo tema.
 7. **Retirar:** cambiar `status` a `retirado` en la ficha publicada. Conservar el registro en `editorial/inventory.json`; no reutilizar ID, slug ni topic_key. El generador elimina la página en la siguiente compilación.
 8. **Pausar:** editar `editorial/config.json` y cambiar `paused` a `true`. Reanudar con `false`. También puede deshabilitarse el workflow desde Actions.
@@ -40,18 +40,18 @@ No incluir claves, contraseñas ni información privada: este repositorio es pú
 
 ## Controles y límites
 
-El sistema retiene fichas sin revisión, con referencias incompletas, contenido alterado después de aprobación, estructura insuficiente, duplicados de ID/slug/tema o referencias cruzadas inexistentes. Registra el día y franja de 15 minutos, impide dobles publicaciones en una franja y aplica un enfriamiento de 15 minutos entre automáticas realmente realizadas; el límite configurable máximo es 96 diarias. Con cola vacía finaliza sin cambios. La concurrencia de Actions serializa las publicaciones. Una compilación fallida no confirma los cambios en GitHub.
+El sistema valida fichas, referencias, integridad de aprobación y enlaces internos. La automatización de cola existe solo como código desactivado, sin calendario; la opción futura queda limitada a una publicación automatizada diaria en configuración y requeriría aprobación expresa. Las acciones de compilación siguen ejecutándose automáticamente tras los commits para mantener `dist` actualizado. Una compilación fallida no acredita un despliegue.
 
-El control formal necesita un revisor responsable: una URL y una casilla no prueban la veracidad de un texto. No se promete detectar automáticamente todos los errores históricos, plagios o fuentes inventadas.
+El control formal necesita un revisor responsable: una URL y una casilla no prueban la veracidad de un texto. La revisión documental asistida por IA no equivale a arbitraje académico independiente. No se promete detectar automáticamente todos los errores históricos, plagios o fuentes inventadas.
 
 ## Costes y continuidad
 
 Documentación consultada el 27-10-2026:
 
 - [GitHub Actions](https://docs.github.com/en/actions/concepts/billing-and-usage): runners estándar gratuitos en repositorios públicos.
-- El alojamiento utiliza Cloudflare Workers con integración GitHub; verificar límites del plan y consumos reales antes de llegar a una frecuencia de hasta 96 despliegues al día. La programación vacía no genera cambios y, por tanto, no necesita compilar un artículo inexistente. Si se llenara la cola de 96 fichas por día habría que revisar cuotas y sostenibilidad.
+- El proyecto declara un Cloudflare Worker con recursos estáticos en `dist`. **No se ha podido demostrar desde GitHub el dominio público o el despliegue en Cloudflare**, por lo que no debe afirmarse una integración operativa sin comprobar su panel y la URL HTTP real.
 - [Programaciones](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows): posibles retrasos y desactivación tras 60 días sin actividad en un repositorio público. Vigilar especialmente cuando la cola permanece vacía.
-- Dominio propio: opcional y de pago, no contratado. El subdominio de Pages se obtiene al desplegar.
+- Dominio propio: opcional; no consta una URL pública verificada. Este repositorio configura **Cloudflare Workers**, no Cloudflare Pages, por lo que no debe suponerse la existencia de un dominio Pages.
 - IA: ninguna API activada ni precio asumido. Antes de habilitar generación, verificar tarifas, cuotas, derechos de uso y presupuesto del proveedor elegido.
 
 ## Segunda fase de generación asistida
@@ -60,7 +60,7 @@ Un proceso separado puede investigar y generar JSON en `content/cola` siempre co
 
 ## Errores corregidos en esta revisión
 
-- La publicación original organizaba tres franjas temáticas y luego una franja diaria (21:17); desde el 28-10-2026 hay intervalos de 15 minutos, sin obligación de publicar cuando no existe material aprobado y conservando compatibilidad con la franja manual histórica.
+- La programación histórica por franjas y los intervalos de quince minutos quedan desactivados; desde la supervisión del 29-10-2026 solo se publica mediante órdenes manuales expresas.
 - No existía registro de franjas ni inventario permanente: añadidos.
 - Cambiar un texto no invalidaba la aprobación: ahora se comprueba su hash.
 - La validación solo comprobaba presencia de URL: exige notas de verificación y acta explícita, sin confundirlo con comprobación histórica automática.
