@@ -593,5 +593,12 @@
     "topic_key": "batalla-villaviciosa-1710",
     "title": "Villaviciosa, 1710: Felipe V, Vendôme y la victoria estratégica de un combate disputado",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0090",
+    "slug": "batalla-munda-45-ac-julio-cesar-cneo-pompeyo-hispania",
+    "topic_key": "batalla-munda-45-ac-guerra-civil-romana-hispania",
+    "title": "Munda, 45 a. C.: César y los pompeyanos en la última gran batalla de la guerra civil romana",
+    "category": "Acciones militares"
   }
 ]
