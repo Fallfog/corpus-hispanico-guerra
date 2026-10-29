@@ -509,5 +509,12 @@
     "topic_key": "batalla-rancagua-1814-cachapoal-reconquista-chile",
     "title": "Rancagua, 1814: el cerco, la victoria realista y las fracturas de la Patria Vieja",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0061",
+    "slug": "batalla-las-salinas-1538-pizarro-almagro-guerra-civil-peru",
+    "topic_key": "batalla-las-salinas-1538-guerra-civil-pizarristas-almagristas",
+    "title": "Las Salinas, 1538: Pizarro, Almagro y la primera gran batalla de las guerras civiles del Perú",
+    "category": "Acciones militares"
   }
 ]
