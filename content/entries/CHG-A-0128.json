@@ -258,7 +258,7 @@
     }
   ],
   "editorial_note": "Estudio original sin imágenes ni citas literales extensas. Investigación web documentada con alcance de lectura individualizado. La evidencia pública no equivale a auditoría archivística de partes originales; las cifras y cronologías discutidas se presentan con cautela. Revisión documental asistida por IA sin arbitraje académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión historiográfica y documental asistida por IA; sin arbitraje académico externo",
@@ -272,5 +272,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "b821d19c60d98f84851ecafc46ca502192739afcb3c3c31722a05150dc101123"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T13:09:29.074Z",
+  "publication_slot": "lote-triple-manual",
+  "last_reviewed": "2026-10-30"
 }

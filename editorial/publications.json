@@ -598,5 +598,20 @@
     "id": "CHG-A-0130",
     "at": "2026-10-30T12:48:14.427Z",
     "mode": "Publicación manual por lote de tres; commit conjunto; automatización desactivada"
+  },
+  "2026-10-30/lote-124-126/CHG-A-0128": {
+    "id": "CHG-A-0128",
+    "at": "2026-10-30T13:09:29.074Z",
+    "mode": "Publicación manual conjunta de tres monografías por orden expresa; generación automática desactivada"
+  },
+  "2026-10-30/lote-124-126/CHG-A-0132": {
+    "id": "CHG-A-0132",
+    "at": "2026-10-30T13:09:29.074Z",
+    "mode": "Publicación manual conjunta de tres monografías por orden expresa; generación automática desactivada"
+  },
+  "2026-10-30/lote-124-126/CHG-A-0133": {
+    "id": "CHG-A-0133",
+    "at": "2026-10-30T13:09:29.074Z",
+    "mode": "Publicación manual conjunta de tres monografías por orden expresa; generación automática desactivada"
   }
 }

@@ -859,5 +859,26 @@
     "topic_key": "batalla-almonacid-1809-venegas-sebastiani",
     "title": "Almonacid, 1809: Venegas, Sébastiani y la derrota del Ejército de La Mancha",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0128",
+    "slug": "batalla-teruel-1937-1938-ofensiva-republicana-invierno-desgaste",
+    "topic_key": "batalla-teruel-1937-1938-ofensiva-invierno-desgaste",
+    "title": "Teruel, 1937–1938: la ofensiva republicana, el invierno y el desgaste que abrió Aragón",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0132",
+    "slug": "olmedo-1445-juan-ii-alvaro-luna-infantes-aragon",
+    "topic_key": "batalla-olmedo-1445-juan-ii-infantes-aragon",
+    "title": "Olmedo, 1445: Juan II, Álvaro de Luna y la batalla entre guerra y caballería",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0133",
+    "slug": "puente-alcolea-1868-serrano-novaliches-gloriosa",
+    "topic_key": "batalla-puente-alcolea-1868-revolucion-gloriosa",
+    "title": "Alcolea, 1868: Serrano, Novaliches y la batalla que precipitó el final de Isabel II",
+    "category": "Acciones militares"
   }
 ]
