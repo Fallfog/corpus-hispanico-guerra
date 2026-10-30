@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Volumen I: edición integral y reproducible de las 100 monografías del Corpus.
+"""Volumen I: edición académica documental de los 92 estudios no biográficos.
 
 Fuentes: content/entries/*.json en la revisión del repositorio que ejecuta el proceso.
 Salidas: PDF paginado, EPUB3 navegable, índices y manifiesto editorial.
@@ -19,7 +19,7 @@ CONTENT = ROOT / "content" / "entries"
 OUTPUT = ROOT / "ediciones" / "volumen-I"
 DATE = "2026-10-30"
 TITLE = "Corpus Hispánico de la Guerra"
-SUBTITLE = "Volumen I. Cien estudios de historia militar hispánica"
+SUBTITLE = "Volumen I. Guerra y conflicto en el mundo hispánico: 92 estudios documentales"
 PDF = OUTPUT / "corpus-hispanico-guerra-volumen-I.pdf"
 EPUB = OUTPUT / "corpus-hispanico-guerra-volumen-I.epub"
 PERIODS = ["Antigüedad", "Edad Media", "Edad Moderna", "Edad Contemporánea"]
@@ -62,8 +62,12 @@ def year(e):
 
 def load():
     entries=[json.loads(p.read_text(encoding="utf-8")) for p in sorted(CONTENT.glob("*.json"))]
-    entries=[e for e in entries if e.get("status")=="publicado"]
-    if len(entries)!=100: raise ValueError(f"Se requieren 100 fichas publicadas: encontradas {len(entries)}")
+    published=[e for e in entries if e.get("status")=="publicado"]
+    if len(published)!=100: raise ValueError(f"Archivo inconsistente: se esperaban 100 fichas publicadas, encontradas {len(published)}")
+    excluded=[e for e in published if e.get("category")=="Protagonistas"]
+    entries=[e for e in published if e.get("category")!="Protagonistas"]
+    if len(excluded)!=8 or len(entries)!=92:
+        raise ValueError(f"La edición académica requiere 92 estudios militares y excluye 8 biografías: {len(entries)}, {len(excluded)}")
     ids=set();slugs=set()
     for e in entries:
         if e["id"] in ids or e["slug"] in slugs: raise ValueError("Duplicado: "+e["id"])
@@ -307,7 +311,7 @@ def pdf_book(entries,refs):
     doc.multiBuild(story,maxPasses=4)
 
 def epub_book(entries,refs):
-    # EPUB 3 autocontenido: cubierta tipográfica, navegación y cien capítulos XHTML.
+    # EPUB 3 autocontenido: cubierta tipográfica y 92 investigaciones no biográficas.
     ns="http://www.idpf.org/2007/opf"
     base="OEBPS/"
     uid=str(uuid.uuid5(uuid.NAMESPACE_URL,"https://github.com/Fallfog/corpus-hispanico-guerra/volumen-I/2026-10-30"))
@@ -409,20 +413,22 @@ def main():
     with zipfile.ZipFile(EPUB) as z:
         assert z.testzip() is None
         assert z.namelist()[0]=="mimetype"
-        assert len([n for n in z.namelist() if re.fullmatch(r"OEBPS/chapter-\d{3}.xhtml",n)])==100
+        assert len([n for n in z.namelist() if re.fullmatch(r"OEBPS/chapter-\d{3}.xhtml",n)])==92
     pages=len(reader.pages)
-    if pages<300:raise ValueError("PDF demasiado corto para incluir las cien monografías íntegras")
+    if pages<300:raise ValueError("PDF demasiado corto para incluir los estudios íntegros")
     manifest={"title":SUBTITLE,"date":DATE,"monographs":len(entries),
              "pages":pages,"periods":{p:sum(e["period"]==p for e in entries) for p in PERIODS},
              "classifications":{k:sum(e["category"]==k for e in entries) for k in sorted({e["category"] for e in entries})},
              "bibliographic_records":len(refs),
              "words_of_monographs":sum(len(" ".join(p for s in e["sections"] for p in s["paragraphs"]).split()) for e in entries),
-             "three_pilot_records_with_review_notice":[e["id"] for e in entries if e.get("review_notice")],
+             "pilot_records_with_review_notice":[e["id"] for e in entries if e.get("review_notice")],
+             "excluded_biographies":[p.stem for p in sorted(CONTENT.glob("CHG-P-*.json")) if json.loads(p.read_text(encoding="utf-8")).get("category")=="Protagonistas"],
+             "edition":"Revisión de investigación documental, sin biografías; monocroma blanco y negro; sin arbitraje académico externo.",
              "files":{}}
     for path in (PDF,EPUB,OUTPUT/"indice-historico-bibliografia.md"):
         manifest["files"][path.name]={"bytes":path.stat().st_size,
             "sha256":hashlib.sha256(path.read_bytes()).hexdigest()}
     (OUTPUT/"manifiesto-volumen-I.json").write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    print("VOLUMEN_I_VERIFICADO",json.dumps({k:v for k,v in manifest.items() if k!="files"},ensure_ascii=False))
+    print("VOLUMEN_I_EDICION_ACADEMICA_VERIFICADA",json.dumps({k:v for k,v in manifest.items() if k!="files"},ensure_ascii=False))
 if __name__=="__main__":
     main()
