@@ -498,5 +498,10 @@
     "id": "CHG-A-0123",
     "at": "2026-10-30T10:20:49+01:00",
     "mode": "Publicación manual expresa del titular. Talavera 1809: 3435 palabras, 12 apartados y 5 fuentes. Revisión documental asistida por IA; sin arbitraje externo. Cron y pausa preservados."
+  },
+  "2026-10-30/extra-A-0125": {
+    "id": "CHG-A-0125",
+    "at": "2026-10-30T10:37:36+01:00",
+    "mode": "Publicación manual expresa tras Talavera: Alcañiz 1809; 3436 palabras, 12 apartados y seis fuentes. Revisión documental asistida por IA; sin arbitraje externo. Automatización preservada en pausa."
   }
 }
