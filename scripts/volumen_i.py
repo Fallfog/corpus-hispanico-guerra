@@ -52,7 +52,7 @@ def year(e):
         m=re.search(r"(?<!\d)(\d{3,4})(?!\d)",candidate)
         if m:
             y=int(m.group(1))
-            if re.search(r"a\.?\s*C\.?|antes de (?:nuestra era|Cristo)",candidate,re.I):
+            if re.search(r"\ba\.\s*C\.|\bantes de (?:nuestra era|Cristo)\b",candidate,re.I):
                 y=-y
             return y
     for candidate in candidates:
