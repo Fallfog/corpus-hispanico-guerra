@@ -37,7 +37,6 @@
 
 ### Edad Moderna (47 estudios)
 
-- **CHG-A-0076** · San Juan de Puerto Rico, 1625: Hendricksz, El Morro y la ciudad incendiada — Septiembre–noviembre de 1625 · Acciones militares
 - **CHG-P-0002** · Gonzalo Fernández de Córdoba: campañas y reformas del Gran Capitán — Segunda mitad del siglo XV y comienzos del XVI · Protagonistas
 - **CHG-A-0012** · Ceriñola, 1503: el Gran Capitán, las armas de fuego y la transformación del combate — 28 de abril de 1503 · Acciones militares
 - **CHG-A-0013** · Garellano, 1503: el invierno, el cruce del río y la victoria en Nápoles — 6 de noviembre y 28–29 de diciembre de 1503; capitulación de Gaeta el 1 de enero de 1504 · Acciones militares
@@ -63,6 +62,7 @@
 - **CHG-A-0042** · Kinsale, 1601–1602: Juan del Águila, la alianza irlandesa y el fracaso de una expedición española — Octubre de 1601–primeros meses de 1602; batalla el 3 de enero de 1602 (calendario gregoriano) · Acciones militares
 - **CHG-A-0010** · Breda, 1624–1625: el sitio de Spínola, la guerra del hambre y la rendición — 27–28 de agosto de 1624 a 5 de junio de 1625 · Acciones militares
 - **CHG-A-0049** · Salvador de Bahía, 1625: la Jornada del Brasil entre la victoria naval y las disputas de dos coronas — Finales de marzo–1 de mayo de 1625 · Acciones militares
+- **CHG-A-0076** · San Juan de Puerto Rico, 1625: Hendricksz, El Morro y la ciudad incendiada — Septiembre–noviembre de 1625 · Acciones militares
 - **CHG-A-0052** · Nördlingen, 1634: los tercios del cardenal-infante y la victoria de los dos Fernandos — 5–6 de septiembre de 1634 (combate decisivo el día 6) · Acciones militares
 - **CHG-A-0078** · Fuenterrabía, 1638: la resistencia del Bidasoa, el socorro y la construcción de una victoria — Julio–7 de septiembre de 1638 · Acciones militares
 - **CHG-A-0054** · Las Dunas, 1639: Oquendo, Tromp y la derrota que puso en crisis el socorro de Flandes — 21 de octubre de 1639 (gregoriano); 11 de octubre de 1639 en documentos ingleses julianos · Acciones militares
@@ -87,7 +87,6 @@
 
 ### Edad Contemporánea (30 estudios)
 
-- **CHG-A-0105** · Tarragona, 1811: Suchet, el sitio y la destrucción de una ciudad española — 28 de junio de 1811 · Acciones militares
 - **CHG-P-0004** · Martín Álvarez Galán (1766–1801): el granadero del San Nicolás y la memoria de San Vicente — 1766–1801 · Protagonistas
 - **CHG-P-0007** · Agustina de Aragón (1786–1857): la artillera del Portillo entre la historia y la leyenda — 1786–1857 · Protagonistas
 - **CHG-A-0006** · Cabo de San Vicente, 1797: derrota española, maniobras navales y responsabilidades — 14 de febrero de 1797 · Acciones militares
@@ -97,6 +96,7 @@
 - **CHG-A-0027** · Zaragoza, 1808–1809: dos sitios, guerra casa por casa y el precio de la resistencia — 15 de junio–14/15 de agosto de 1808; 20/21 de diciembre de 1808–21 de febrero de 1809 · Acciones militares
 - **CHG-A-0044** · Ocaña, 1809: Aréizaga, Soult y la derrota que abrió Andalucía — 19 de noviembre de 1809 · Acciones militares
 - **CHG-A-0048** · La Albuera, 1811: Zayas, Blake y la victoria aliada que no decidió Badajoz — 16 de mayo de 1811 · Acciones militares
+- **CHG-A-0105** · Tarragona, 1811: Suchet, el sitio y la destrucción de una ciudad española — 28 de junio de 1811 · Acciones militares
 - **CHG-A-0028** · Los Arapiles, 1812: Wellington, Marmont y la victoria aliada que abrió el camino a Madrid — 22 de julio de 1812 · Acciones militares
 - **CHG-A-0080** · Badajoz, 1812: Wellington, las brechas y el saqueo que ensombreció la victoria — 16 de marzo–6 de abril de 1812; saqueos posteriores · Acciones militares
 - **CHG-A-0018** · Vitoria, 1813: Wellington, Morillo y Longa en la derrota de José Bonaparte — 21 de junio de 1813 · Acciones militares
@@ -144,7 +144,6 @@
 - CHG-A-0020 · Aljubarrota, 1385: la derrota castellana, la victoria portuguesa y la arqueología del campo
 - CHG-A-0057 · La Higueruela, 1431: Juan II, Álvaro de Luna y la victoria que no conquistó Granada
 - CHG-A-0058 · Toro, 1476: dos victorias parciales y el giro estratégico de la sucesión castellana
-- CHG-A-0076 · San Juan de Puerto Rico, 1625: Hendricksz, El Morro y la ciudad incendiada
 - CHG-A-0012 · Ceriñola, 1503: el Gran Capitán, las armas de fuego y la transformación del combate
 - CHG-A-0013 · Garellano, 1503: el invierno, el cruce del río y la victoria en Nápoles
 - CHG-A-0045 · Otumba, 1520: retirada, alianzas indígenas y el mito de una victoria decisiva
@@ -162,6 +161,7 @@
 - CHG-A-0042 · Kinsale, 1601–1602: Juan del Águila, la alianza irlandesa y el fracaso de una expedición española
 - CHG-A-0010 · Breda, 1624–1625: el sitio de Spínola, la guerra del hambre y la rendición
 - CHG-A-0049 · Salvador de Bahía, 1625: la Jornada del Brasil entre la victoria naval y las disputas de dos coronas
+- CHG-A-0076 · San Juan de Puerto Rico, 1625: Hendricksz, El Morro y la ciudad incendiada
 - CHG-A-0052 · Nördlingen, 1634: los tercios del cardenal-infante y la victoria de los dos Fernandos
 - CHG-A-0078 · Fuenterrabía, 1638: la resistencia del Bidasoa, el socorro y la construcción de una victoria
 - CHG-A-0054 · Las Dunas, 1639: Oquendo, Tromp y la derrota que puso en crisis el socorro de Flandes
@@ -182,7 +182,6 @@
 - CHG-A-0021 · Pensacola, 1781: Gálvez, la guerra del golfo y la caída de la Florida Occidental británica
 - CHG-A-0029 · Santa Cruz de Tenerife, 1797: Nelson, Gutiérrez y el desembarco británico que fracasó
 - CHG-A-0035 · San Juan de Puerto Rico, 1797: milicias, fortines y cañoneras frente a la invasión británica
-- CHG-A-0105 · Tarragona, 1811: Suchet, el sitio y la destrucción de una ciudad española
 - CHG-A-0006 · Cabo de San Vicente, 1797: derrota española, maniobras navales y responsabilidades
 - CHG-A-0015 · Trafalgar, 1805: la Armada española, Nelson y el combate más allá del mito
 - CHG-A-0093 · Buenos Aires, 1807: Whitelocke, Liniers y la ciudad que derrotó a la segunda invasión británica
@@ -190,6 +189,7 @@
 - CHG-A-0027 · Zaragoza, 1808–1809: dos sitios, guerra casa por casa y el precio de la resistencia
 - CHG-A-0044 · Ocaña, 1809: Aréizaga, Soult y la derrota que abrió Andalucía
 - CHG-A-0048 · La Albuera, 1811: Zayas, Blake y la victoria aliada que no decidió Badajoz
+- CHG-A-0105 · Tarragona, 1811: Suchet, el sitio y la destrucción de una ciudad española
 - CHG-A-0028 · Los Arapiles, 1812: Wellington, Marmont y la victoria aliada que abrió el camino a Madrid
 - CHG-A-0080 · Badajoz, 1812: Wellington, las brechas y el saqueo que ensombreció la victoria
 - CHG-A-0018 · Vitoria, 1813: Wellington, Morillo y Longa en la derrota de José Bonaparte

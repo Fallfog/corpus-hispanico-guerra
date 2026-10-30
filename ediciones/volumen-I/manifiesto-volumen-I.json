@@ -23,16 +23,16 @@
   ],
   "files": {
     "corpus-hispanico-guerra-volumen-I.pdf": {
-      "bytes": 7310956,
-      "sha256": "615e3af9cc6a6136c6d82578585f6b59464346cf260e410bc70177c06b4c9b61"
+      "bytes": 7310954,
+      "sha256": "8d0a46768e4622845dd2a76d090852190e95d60402a4fa7304f9008a74e6b1ad"
     },
     "corpus-hispanico-guerra-volumen-I.epub": {
-      "bytes": 1673408,
-      "sha256": "0f81e41a498717256b781d7cc0e87607f4ac4f734eb92ca0c264c8449d19253b"
+      "bytes": 1673407,
+      "sha256": "618dc51ffbebd516368c0066dbfb532c9f001191c53d86541a2fdc318482a345"
     },
     "indice-historico-bibliografia.md": {
       "bytes": 294949,
-      "sha256": "db7caa30c5066c16cc80fa20d54d676fdbfcc701620d8d1759d10abe320eaee6"
+      "sha256": "4288719c75d9de4346279d6bb449b3b64cf95329020e3516b02306316a84a635"
     }
   }
 }
