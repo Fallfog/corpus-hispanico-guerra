@@ -1,0 +1,38 @@
+{
+  "title": "Volumen I. Cien estudios de historia militar hispánica",
+  "date": "2026-10-30",
+  "monographs": 100,
+  "pages": 1268,
+  "periods": {
+    "Antigüedad": 4,
+    "Edad Media": 19,
+    "Edad Moderna": 47,
+    "Edad Contemporánea": 30
+  },
+  "classifications": {
+    "Acciones militares": 88,
+    "Historia de la guerra": 4,
+    "Protagonistas": 8
+  },
+  "bibliographic_records": 1062,
+  "words_of_monographs": 484533,
+  "three_pilot_records_with_review_notice": [
+    "CHG-D-0001",
+    "CHG-P-0001",
+    "CHG-A-0001"
+  ],
+  "files": {
+    "corpus-hispanico-guerra-volumen-I.pdf": {
+      "bytes": 7310956,
+      "sha256": "8d9d67f26c35aa24288a431cad4596a3fffb7c020d14cc00870e2ecfc2e63bf8"
+    },
+    "corpus-hispanico-guerra-volumen-I.epub": {
+      "bytes": 1673408,
+      "sha256": "6ea3263e9b0730d18c1c9797d2b1414c7feebe7dbbfe64193374a33ee08e36dd"
+    },
+    "indice-historico-bibliografia.md": {
+      "bytes": 294949,
+      "sha256": "db7caa30c5066c16cc80fa20d54d676fdbfcc701620d8d1759d10abe320eaee6"
+    }
+  }
+}
