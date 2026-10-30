@@ -1,0 +1,74 @@
+name: Publicar Volumen I (cien monografías)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/volumen_i.py'
+      - '.github/workflows/volumen-i.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: corpus-volume-one
+  cancel-in-progress: false
+
+jobs:
+  editar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Obtener las cien fichas originales
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Preparar entorno editorial
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Instalar herramientas de maquetación y comprobación
+        run: python -m pip install --disable-pip-version-check reportlab pypdf
+      - name: Compilar PDF integral, EPUB e índices
+        run: python scripts/volumen_i.py
+      - name: Verificar los entregables y el manifiesto
+        run: |
+          python - <<'PY'
+          import json, pathlib, zipfile
+          root=pathlib.Path('ediciones/volumen-I')
+          m=json.loads((root/'manifiesto-volumen-I.json').read_text(encoding='utf-8'))
+          assert m['monographs']==100
+          assert m['pages']>=300
+          assert len(m['three_pilot_records_with_review_notice'])==3
+          for name,meta in m['files'].items():
+              assert (root/name).stat().st_size==meta['bytes']
+          with zipfile.ZipFile(root/'corpus-hispanico-guerra-volumen-I.epub') as z:
+              assert len([x for x in z.namelist() if x.startswith('OEBPS/chapter-')])==100
+          print('Entrega de Volumen I completa y reproducible:',m['pages'],'páginas',m['bibliographic_records'],'referencias')
+          PY
+      - name: Guardar ejemplares como artefactos de GitHub
+        uses: actions/upload-artifact@v4
+        with:
+          name: corpus-hispanico-guerra-volumen-I
+          path: |
+            ediciones/volumen-I/*.pdf
+            ediciones/volumen-I/*.epub
+            ediciones/volumen-I/*.md
+            ediciones/volumen-I/*.json
+          if-no-files-found: error
+          retention-days: 90
+      - name: Incorporar la edición maquetada al repositorio
+        shell: bash
+        run: |
+          git add ediciones/volumen-I
+          if git diff --cached --quiet; then
+            echo "El volumen ya está actualizado."
+            exit 0
+          fi
+          git config user.name "corpus-edicion-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Publicar Volumen I: PDF integral, EPUB, índice y aparato bibliográfico"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
