@@ -192,7 +192,7 @@
       "url": "https://www.biblioteca-antologica.org/es/wp-content/uploads/2019/08/MARI%C3%91O-DE-LOBERA-Cr%C3%B3nica-del-Reino-de-Chile.pdf",
       "kind": "Crónica colonial, texto digitalizado",
       "verified_at": "2026-10-30",
-      "verification_note": "Lectura selectiva directa de los capítulos XLI-XLVI y especialmente XLII-XLIII (PDF pp. 130-135 aprox.); no se ha leído íntegra la crónica de 381 páginas."
+      "verification_note": "Lectura directa selectiva de los pasajes de la marcha y del combate en el capítulo XLIII (PDF pp. 130-135 aprox.) y consulta del índice de capítulos XLI-XLVI; no se ha leído íntegra la crónica de 381 páginas ni todos esos capítulos."
     },
     {
       "n": 3,
@@ -265,6 +265,6 @@
       "originalidad_y_derechos": true,
       "profundidad_suficiente": true
     },
-    "content_sha256": "ee5806f3b21aed20895188c1da5b3cc6d2b629020553812ab68a27f0ce40bb98"
+    "content_sha256": "3afb1a395cfd34123bcca53db3834151856c42c8d00fb06f09969777a22745c5"
   }
 }
