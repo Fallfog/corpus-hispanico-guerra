@@ -121,8 +121,26 @@ def method():
 <section class="container method-layout"><aside><span>PROTOCOLO / CHG-000</span><p>Estándar editorial inicial.<br>Versión de trabajo.</p></aside><div class="method-main"><div class="method-part"><span>01</span><div><h2>Identificación inequívoca</h2><p>Cada artículo tiene un identificador estable, una categoría y un período histórico. Una misma batalla o persona no se crea de nuevo porque figure en otra campaña o cronología.</p></div></div><div class="method-part"><span>02</span><div><h2>Fuentes trazables</h2><p>Los hechos centrales se acompañan de referencias a archivos, museos, repositorios científicos u obras historiográficas localizables. Las referencias se enumeran y enlazan dentro de cada ficha.</p></div></div><div class="method-part"><span>03</span><div><h2>Incertidumbre sin disfraz</h2><p>Las discrepancias de fechas, cifras, atribuciones y localizaciones se hacen visibles. Ninguna reconstrucción moderna se presenta como certeza cuando subsiste debate entre especialistas.</p></div></div><div class="method-part"><span>04</span><div><h2>Revisión antes de publicar</h2><p>La automatización solo puede extraer de la cola artículos marcados expresamente como revisados, con un mínimo de dos referencias, estructura completa e identificador exclusivo. Si no hay fichas revisadas, no se publica nada.</p></div></div><div class="method-part"><span>05</span><div><h2>Transparencia del proyecto</h2><p>Este sitio es una edición piloto de un proyecto documental independiente. Los textos han sido preparados con apoyo de inteligencia artificial y requieren supervisión editorial especializada antes de considerarse publicaciones académicas definitivas.</p></div></div></div></section>'''
     return shell('Método y fuentes',main,page='metodo',description='Política editorial y criterios de verificación histórica',path='/metodo/')
 
+def facts_html(items):
+    """Renderiza datos destacados tanto con etiqueta como en frases independientes.
+
+    Las fichas anteriores utilizan pares [etiqueta, valor]; algunas fichas
+    revisadas usan afirmaciones breves como cadenas de texto. Ambos formatos
+    se representan sin alterar la huella de aprobación del documento.
+    """
+    rows=[]
+    for index,item in enumerate(items,1):
+        if isinstance(item,str):
+            key,value=f'Dato {index}',item
+        elif isinstance(item,(list,tuple)) and len(item)==2:
+            key,value=item
+        else:
+            raise ValueError(f'Formato de dato destacado no admitido: {item!r}')
+        rows.append(f'<div class="fact"><dt>{esc(key)}</dt><dd>{esc(value)}</dd></div>')
+    return ''.join(rows)
+
 def article(e, by_id):
-    facts=''.join(f'<div class="fact"><dt>{esc(k)}</dt><dd>{esc(v)}</dd></div>' for k,v in e['facts'])
+    facts=facts_html(e['facts'])
     sections=''.join(f'<section class="entry-section" id="seccion-{i}"><h2>{esc(s["heading"])}</h2>'+''.join(f'<p>{cite_paragraph(p)}</p>' for p in s['paragraphs'])+'</section>' for i,s in enumerate(e['sections'],1))
     sources=''.join(f'<li id="fuente-{s["n"]}"><span>[{s["n"]}]</span><div><a href="{esc(s["url"])}" target="_blank" rel="noopener noreferrer">{esc(s["name"])} ↗</a><small>{esc(s["kind"])}</small></div></li>' for s in e['sources'])
     related=''.join(article_card(by_id[r]) for r in e['related'] if r in by_id)
