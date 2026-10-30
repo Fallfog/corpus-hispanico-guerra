@@ -252,7 +252,7 @@
   "approval": {
     "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
     "date": "2026-10-30",
-    "notes": "Inventario (100), entradas (100) y cola (10) examinados; ID y tema nuevos. 4106 palabras de desarrollo, 11 apartados, 40 párrafos referenciados, 7 fuentes con alcance de lectura declarado. Fechas, cifras y discrepancias expuestas; sin imágenes ni reproducción extensa de terceros.",
+    "notes": "Inventario (100), entradas (100) y cola (10) examinados; ID y tema nuevos. 4106 palabras de desarrollo, 11 apartados, 44 párrafos referenciados, 7 fuentes con alcance de lectura declarado. Fechas, cifras y discrepancias expuestas; sin imágenes ni reproducción extensa de terceros.",
     "checks": {
       "hechos_contrastados": true,
       "bibliografia_verificada": true,
