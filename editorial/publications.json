@@ -488,5 +488,10 @@
     "id": "CHG-A-0120",
     "at": "2026-10-30T08:23:52+01:00",
     "mode": "Publicación extraordinaria a petición expresa del titular. Málaga 1487: 4220 palabras, 12 apartados, 48 párrafos, nueve fuentes. Aprobación original conservada; cron de publicación desactivado."
+  },
+  "2026-10-30/extra-A-0119": {
+    "id": "CHG-A-0119",
+    "at": "2026-10-30T09:22:26+01:00",
+    "mode": "Publicación manual extraordinaria solicitada por titular del Corpus: sitio de Barcelona 1713-1714. Ficha previamente revisada de 4.211 palabras, 13 apartados y 12 fuentes; conservar sello de aprobación; cron desactivado."
   }
 }

@@ -4,9 +4,9 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 
 ## Estado real
 
-- **101 monografías publicadas al 30-10-2026**. Se incorporó el lote manual centenario de diez monografías previamente revisadas, con expedientes individualizados; ver `editorial/lote-centenario-2026-10-30.md`.
+- **102 monografías publicadas al 30-10-2026**. Se incorporó el lote manual centenario de diez monografías previamente revisadas, con expedientes individualizados; ver `editorial/lote-centenario-2026-10-30.md`.
 - **Volumen I — edición de investigación histórico-documental en blanco y negro:** 92 estudios completos (88 acciones militares y 4 historia de la guerra), excluidas del libro las 8 biografías de personajes. Selección histórica congelada en `ediciones/volumen-I/seleccion-volumen-I.json`, sin incorporar automáticamente publicaciones posteriores. PDF, EPUB, índices y manifiesto en `ediciones/volumen-I/`, con criterios de edición en `ediciones/volumen-I/criterios-edicion-academica.md`. No se declara arbitraje científico externo; el archivo general conserva las 100 fichas.
-- **Cola editorial:** 12 fichas revisadas pendientes, sin programación autónoma.
+- **Cola editorial:** 13 fichas revisadas y pendientes de publicación manual; sin ejecución programada.
 - **Publicación solo manual cuando el titular la solicite**: investigación → contraste → monografía ≥3.000 palabras → revisión → GitHub → pruebas y compilación → comprobación HTTP de Cloudflare. El cron de publicación está eliminado de `.github/workflows/publicar.yml`, y `editorial/config.json` permanece con `paused: true`.
 - Generación autónoma: desactivada. No se ha contratado ninguna API.
 - El hecho de tener estos archivos no acredita que Cloudflare esté conectado o desplegado. Consultar el panel del alojamiento y el historial de Actions.

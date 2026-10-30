@@ -304,7 +304,7 @@
     }
   ],
   "editorial_note": "Investigación original sin imágenes. Inventario (100), entradas (100) y cola (11) examinados antes de seleccionar tema nuevo. Fuentes con alcance de lectura declarado, incluidos resúmenes académicos no leídos íntegramente. Se explicitan diferencias de efectivos y duración. No se han examinado archivos originales ni existe arbitraje académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
@@ -318,5 +318,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "f0f9ba33cb8b78710ea0c4eb3771e00d1931f6662cb91f436345bc51b13d4aaf"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T09:22:26+01:00",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30"
 }
