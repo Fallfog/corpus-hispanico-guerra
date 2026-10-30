@@ -25,17 +25,26 @@ EPUB = OUTPUT / "corpus-hispanico-guerra-volumen-I.epub"
 PERIODS = ["Antigüedad", "Edad Media", "Edad Moderna", "Edad Contemporánea"]
 ISBN_NOTE = "Edición documental independiente; sin ISBN asignado."
 EDITORIAL = [
-    "El Corpus Hispánico de la Guerra reúne investigaciones históricas sobre campañas, batallas, asedios, instituciones y protagonistas relacionados con el espacio hispánico. Este primer volumen integra cien monografías publicadas en su archivo. Reúne estudios relativos a la Antigüedad, a los reinos medievales, a las guerras de la Monarquía Hispánica y a conflictos de época contemporánea dentro y fuera de la península ibérica.",
-    "El criterio hispánico no se usa aquí como una identidad nacional retrospectiva. La historia de la Hispania romana, de los pueblos prerromanos, de las entidades medievales y del Estado moderno exige distinguir épocas y autoridades. La pertenencia de un episodio al Corpus puede responder a su emplazamiento en el territorio de la actual España, al vínculo con los poderes políticos históricos de la península o a la participación de fuerzas hispánicas en escenarios exteriores.",
-    "La batalla es examinada como proceso y no únicamente como desenlace. Los capítulos estudian, según las fuentes disponibles, antecedentes, organización del mando, logística, operaciones, experiencia social, consecuencias y memoria. La incertidumbre constituye información histórica: cifras transmitidas por crónicas tardías, topónimos disputados y discursos atribuidos a combatientes no adquieren precisión documental por repetirse muchas veces.",
-    "Los cien textos de esta edición se reproducen íntegramente desde las fichas de publicación, sin resumir ni modificar sus párrafos. Cada estudio mantiene sus citas numeradas, sus referencias bibliográficas y, cuando existe, la declaración de límites del trabajo documental. Las referencias numeradas pertenecen a cada capítulo: una cita [1] remite a la fuente 1 de ese estudio y no a una numeración continua de toda la obra.",
-    "Las tres fichas piloto identificadas como Lepanto (CHG-A-0001), Numancia (CHG-D-0001) y Juan de Austria (CHG-P-0001) conservan su advertencia de revisión documental especializada pendiente. La presencia de una ficha en el volumen no equivale a una aprobación académica independiente. Las restantes monografías han superado controles editoriales y técnicos automatizados y una revisión asistida, pero no un proceso externo de arbitraje científico.",
-    "La bibliografía consolidada al final identifica las referencias incluidas en los capítulos y permite localizar sus usos por identificador. La disponibilidad, permanencia y exactitud de cada enlace externo pueden cambiar después de la edición. No se han añadido referencias inventadas ni se atribuye a los investigadores una lectura íntegra de obras que sus fichas describen como consultas de resúmenes, registros o extractos.",
-    "Este es un volumen digital de consulta. Por su extensión, una futura edición impresa podría organizarse en varios tomos materiales, sin alterar la unidad intelectual de este primer volumen. Las fechas, títulos e identificadores remiten a la versión del Corpus de 30 de octubre de 2026."
+    ("Objeto de la edición",
+     "Este primer volumen reúne, de manera íntegra, noventa y dos estudios de historia militar vinculada al mundo hispánico. El objeto de análisis comprende batallas, campañas, asedios, operaciones navales e instituciones y sistemas de guerra. Se excluyen expresamente las ocho biografías clasificadas como Protagonistas en el archivo general de cien publicaciones. La selección no supone una evaluación comparativa del mérito de las personas históricas: responde a la delimitación del objeto científico de este volumen."),
+    ("Delimitación cronológica y espacial",
+     "La colección abarca desde la Antigüedad hasta la época contemporánea. El criterio de adscripción territorial comprende acontecimientos librados en el espacio de la actual España, incluso cuando preceden al Estado moderno. El criterio histórico incluye las entidades políticas de la península y sus actuaciones en otros territorios. No se atribuyen identidades nacionales actuales a poblaciones romanas, prerromanas o medievales."),
+    ("Preguntas y ejes analíticos",
+     "Los estudios examinan, en la medida permitida por las fuentes, el contexto político y territorial, los objetivos de las operaciones, la organización de los ejércitos, el mando, la logística y el abastecimiento, la acción táctica, las consecuencias y la memoria historiográfica. La colección no pretende responder con un modelo causal único a conflictos de épocas muy diferentes: cada monografía delimita sus problemas, sus pruebas y sus incertidumbres."),
+    ("Naturaleza de la investigación y criterios de selección",
+     "Esta es una recopilación crítica de investigaciones histórico-documentales previamente publicadas en el Corpus. Los criterios formales de admisión fueron disponer de estructura analítica, extensión suficiente, fuentes identificadas, notas sobre el grado de acceso a estas y referencias numeradas en los párrafos. Se preserva la formulación de las monografías originales; esta edición modifica únicamente la selección de capítulos y su dispositivo tipográfico, no los hechos ni las citas de los estudios."),
+    ("Crítica de fuentes y niveles de evidencia",
+     "La documentación consultada combina, según el capítulo, fuentes narrativas antiguas, crónicas, testimonios institucionales, archivos, estudios de arqueología, investigaciones académicas y obras de síntesis. Se diferencia la lectura íntegra de una obra de la consulta de fichas bibliográficas, resúmenes o fragmentos. La mera presencia de un enlace, un DOI o una referencia no valida por sí sola una afirmación. Las cifras de efectivos, discursos atribuidos, topografías y secuencias tácticas controvertidas se presentan como tales cuando la evidencia no permite cerrarlas."),
+    ("Normas de citación y aparato bibliográfico",
+     "Cada capítulo conserva íntegramente su sistema de referencias numeradas entre corchetes. La numeración se reinicia en cada estudio, de manera que [1] remite a la primera referencia de ese capítulo. La bibliografía del final de cada monografía identifica las obras utilizadas y conserva sus advertencias de verificación. El repertorio final consolida entradas por combinación de título bibliográfico y dirección de consulta e indica las fichas en las que aparece cada una."),
+    ("Alcance de la revisión y límites de certificación",
+     "Los textos proceden de un proceso de revisión documental asistido por inteligencia artificial y de verificaciones técnicas sobre su estructura e integridad. El volumen no ha sido sometido en su conjunto a arbitraje académico independiente ni a una revisión historiográfica externa de todas las referencias. Numancia (CHG-D-0001) y Lepanto (CHG-A-0001) mantienen un aviso de revisión especializada pendiente. No se atribuyen al libro acreditaciones universitarias, científicas, editoriales, ISBN o DOI no concedidos."),
+    ("Integridad, trazabilidad y futuras correcciones",
+     "Los identificadores de las fichas enlazan esta edición con el archivo histórico del Corpus. El índice por etapas y el índice de identificadores facilitan localizar cada investigación. Las rectificaciones ulteriores deberán documentar la lectura o prueba que las motive, las versiones afectadas y su fecha. Un resultado de compilación correcto demuestra la integridad técnica del archivo, pero no sustituye el juicio crítico de la comunidad investigadora."),
 ]
-NOTE = ("EDICIÓN DOCUMENTAL CON REVISIÓN ASISTIDA. No consta arbitraje académico "
-        "independiente de las cien monografías. Tres estudios piloto conservan un "
-        "aviso explícito de revisión especializada pendiente.")
+NOTE = ("EDICIÓN DOCUMENTAL DE FORMATO ACADÉMICO. No se declara revisión por pares "
+        "ni arbitraje científico independiente. Los estudios de Numancia y Lepanto "
+        "conservan advertencias explícitas de revisión especializada pendiente.")
 
 def clean(s):
     s=str(s or "")
@@ -234,7 +243,9 @@ def pdf_book(entries,refs):
         PageBreak(),
         Paragraph("Presentación editorial",styles["h0"])
     ])
-    story.extend(Paragraph(escape(x),styles["intro"]) for x in EDITORIAL)
+    for heading,description in EDITORIAL:
+        story.append(Paragraph(escape(heading),styles["h2"]))
+        story.append(Paragraph(escape(description),styles["intro"]))
     story.extend([PageBreak(),Paragraph("Índice general",styles["h0"]),
                   Paragraph("El índice indica la página de comienzo de cada bloque y estudio; su contenido es navegable en el PDF.",styles["caption"])])
     toc=TableOfContents()
@@ -324,7 +335,7 @@ def epub_book(entries,refs):
           '<body>'+body+'</body></html>')
     chapter_files=[]
     content={}
-    front="<section><h1>Presentación editorial</h1>"+''.join("<p>"+escape(x)+"</p>" for x in EDITORIAL)
+    front="<section><h1>Introducción, alcance y metodología</h1>"+''.join("<h2>"+escape(h)+"</h2><p>"+escape(x)+"</p>" for h,x in EDITORIAL)
     front+='<p class="warning">'+escape(NOTE)+"</p></section>"
     content["front.xhtml"]=xhtml("Presentación editorial",front)
     for i,e in enumerate(entries,1):
