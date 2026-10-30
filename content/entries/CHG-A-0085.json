@@ -275,7 +275,7 @@
     }
   ],
   "editorial_note": "Investigación original de fuentes institucionales y académicas, con alcance de lectura individualizado. El informe de San Martín se conoce aquí por transcripción institucional accesible mediante extractos, no por original; la cartografía de Mitre y el volumen de Bertling se verificaron solo en ficha. No se reproducen imágenes. Las cifras de bajas y la secuencia minuto a minuto se presentan como pendientes de cotejo primario. Revisión documental asistida por IA, sin arbitraje académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-29",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje externo",
@@ -289,5 +289,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "0f18322494113f1bb918342b30fb13556a3f9bd4919c2aec3df03253b6bcd082"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T12:16:11.102Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-29"
 }

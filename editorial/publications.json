@@ -568,5 +568,10 @@
     "id": "CHG-A-0106",
     "at": "2026-10-30T12:13:19.548Z",
     "mode": "publicación manual extraordinaria solicitada por el titular; calendario y generación automáticos desactivados"
+  },
+  "2026-10-30/extra-A-0085": {
+    "id": "CHG-A-0085",
+    "at": "2026-10-30T12:16:11.102Z",
+    "mode": "Publicación manual extraordinaria expresamente solicitada; generación y calendario automáticos desactivados"
   }
 }

@@ -817,5 +817,12 @@
     "topic_key": "batalla-pichincha-1822-sucre-aymerich",
     "title": "Pichincha, 1822: Sucre, Aymerich y la derrota realista que abrió Quito",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0085",
+    "slug": "batalla-chacabuco-1817-ejercito-andes-san-martin-maroto",
+    "topic_key": "batalla-chacabuco-1817",
+    "title": "Chacabuco, 1817: San Martín, Maroto y la victoria que abrió Santiago sin terminar la guerra",
+    "category": "Acciones militares"
   }
 ]
