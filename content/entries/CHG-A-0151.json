@@ -259,6 +259,23 @@
     }
   ],
   "editorial_note": "Síntesis de investigación original asistida por IA con citas numéricas. No se confunde el testimonio judicial de Bartomeu de Cas con un parte militar neutral ni una ficha bibliográfica con lectura íntegra. Incluye saqueo y violencia contra mudéjares. Sin imágenes ajenas y sin evaluación académica por pares.",
-  "status": "borrador",
-  "not_before": "2026-10-31"
+  "status": "publicado",
+  "not_before": "2026-10-31",
+  "publication_date": "2026-10-31",
+  "publication_time": "2026-10-30T23:10:51.591Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-31",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-10-31",
+    "notes": "Inventario de 143 monografías y cola sin documentos ajenos contrastados. Nueva batalla del Vernissa/Gandía, 25-07-1521; sin duplicidad. 4477 palabras, 14 apartados y 42 párrafos con referencias; 8 fuentes con alcance de lectura expreso. Contrastado Pons Fuster (2018) con testimonio de 1524 de Bartomeu de Cas, Archivo Municipal de Gandía, folleto científico Universitat de València y museo. Trece cañones atribuidos al testigo, no contabilidad cotejada. Saqueo, violencia antimudéjar y bautismos forzosos incorporados. No se atribuye lectura íntegra de fuentes consultadas solo en ficha. Sin imágenes ajenas ni evaluación de pares.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "f80e9b58fc611967206d951fbc102e5667ac600160fd866c76f340d1d10c3e10"
+  }
 }
