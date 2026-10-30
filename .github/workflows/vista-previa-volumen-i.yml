@@ -31,7 +31,12 @@ jobs:
           for name,n in pages:
               im=doc[n].render(scale=1.15).to_pil()
               im.save(root/f'vista-{name}.png',optimize=True)
-              print(name,'página',n+1,im.size)
+              rgb=im.convert('RGB')
+              # Las muestras deben usar estrictamente escala de grises (R=G=B).
+              for pixel in rgb.getdata():
+                  if not (pixel[0]==pixel[1]==pixel[2]):
+                      raise AssertionError(f'Tinta no monocroma en {name}: {pixel}')
+              print(name,'página',n+1,im.size,'monocroma')
           PY
       - name: Guardar muestras del volumen
         uses: actions/upload-artifact@v4
