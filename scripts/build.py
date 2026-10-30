@@ -124,8 +124,8 @@ def method():
 def facts_html(items):
     """Renderiza datos destacados tanto con etiqueta como en frases independientes.
 
-    Las fichas anteriores utilizan pares [etiqueta, valor]; algunas fichas
-    revisadas usan afirmaciones breves como cadenas de texto. Ambos formatos
+    Las fichas anteriores utilizan pares [etiqueta, valor] o diccionarios
+    {'label': ..., 'value': ...}; otras incluyen frases. Los tres formatos
     se representan sin alterar la huella de aprobación del documento.
     """
     rows=[]
@@ -134,6 +134,8 @@ def facts_html(items):
             key,value=f'Dato {index}',item
         elif isinstance(item,(list,tuple)) and len(item)==2:
             key,value=item
+        elif isinstance(item,dict) and 'label' in item and 'value' in item:
+            key,value=item['label'],item['value']
         else:
             raise ValueError(f'Formato de dato destacado no admitido: {item!r}')
         rows.append(f'<div class="fact"><dt>{esc(key)}</dt><dd>{esc(value)}</dd></div>')

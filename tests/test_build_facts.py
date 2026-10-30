@@ -19,6 +19,10 @@ class FactsHtml(unittest.TestCase):
         self.assertIn('<dt>Dato 1</dt><dd>El ejército venció.</dd>',html)
         self.assertIn('<dt>Dato 2</dt><dd>San Martín &amp; Maroto</dd>',html)
 
+    def test_label_value_dict(self):
+        html=facts_html([{'label':'Resultado','value':'Victoria & saqueo'}])
+        self.assertIn('<dt>Resultado</dt><dd>Victoria &amp; saqueo</dd>',html)
+
     def test_bad_structure_is_rejected(self):
         with self.assertRaises(ValueError):
             facts_html([{'wrong':'shape'}])
