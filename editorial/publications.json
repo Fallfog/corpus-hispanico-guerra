@@ -583,5 +583,20 @@
     "id": "CHG-A-0127",
     "at": "2026-10-30T12:24:52.683Z",
     "mode": "Publicación extraordinaria manual solicitada para alcanzar las 120; cron y generación inactivos"
+  },
+  "2026-10-30/extra-A-0131": {
+    "id": "CHG-A-0131",
+    "at": "2026-10-30T12:48:14.427Z",
+    "mode": "Publicación manual por lote de tres; commit conjunto; automatización desactivada"
+  },
+  "2026-10-30/extra-A-0129": {
+    "id": "CHG-A-0129",
+    "at": "2026-10-30T12:48:14.427Z",
+    "mode": "Publicación manual por lote de tres; commit conjunto; automatización desactivada"
+  },
+  "2026-10-30/extra-A-0130": {
+    "id": "CHG-A-0130",
+    "at": "2026-10-30T12:48:14.427Z",
+    "mode": "Publicación manual por lote de tres; commit conjunto; automatización desactivada"
   }
 }

@@ -838,5 +838,26 @@
     "topic_key": "combate-san-lorenzo-1813-granaderos",
     "title": "San Lorenzo, 1813: San Martín, los granaderos y la guerra por el Paraná",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0131",
+    "slug": "cuarte-1094-cid-valencia-almoravides-cerco",
+    "topic_key": "batalla-cuarte-1094-cid-valencia-almoravides",
+    "title": "Cuarte, 1094: el Cid, Valencia y la ruptura del cerco almorávide",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0129",
+    "slug": "almenar-1710-stanhope-felipe-v-sas-caballeria",
+    "topic_key": "batalla-almenar-1710-stanhope-guerra-sucesion",
+    "title": "Almenar, 1710: Stanhope, Felipe V y la victoria de caballería que abrió Aragón",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0130",
+    "slug": "almonacid-1809-venegas-sebastiani-derrota-toledo",
+    "topic_key": "batalla-almonacid-1809-venegas-sebastiani",
+    "title": "Almonacid, 1809: Venegas, Sébastiani y la derrota del Ejército de La Mancha",
+    "category": "Acciones militares"
   }
 ]
