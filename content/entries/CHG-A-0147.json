@@ -253,6 +253,23 @@
     }
   ],
   "editorial_note": "Monografía de síntesis original asistida por IA, con discrepancias cuantitativas y de cronología explícitas. No se reproducen imágenes ni se afirma arbitraje por pares.",
-  "status": "borrador",
-  "not_before": "2026-10-30"
+  "status": "publicado",
+  "not_before": "2026-10-30",
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T19:50:44.892Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-10-30",
+    "notes": "Inventario de 139 registros y cola contrastados, sin duplicidad de Somosierra (1808). Monografía de 4031 palabras, 13 apartados y 39 párrafos referenciados. Ocho fuentes individualizadas con alcance de consulta; la de Pawlak solo en resumen indexado, Toreno leído por tramo. Se preservan divergencias de efectivos, orden de la carga y fecha de capitulación de Madrid. Sin imágenes incorporadas ni arbitraje científico externo.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "787f3a41d0ca024ecdbf7f315519240a9ba9aee20f41502b71d3909f6982ebdf"
+  }
 }
