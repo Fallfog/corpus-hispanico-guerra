@@ -199,6 +199,19 @@
     }
   ],
   "editorial_note": "Monografía original, sin imágenes ni citas textuales extensas. Se examinaron inventario, entradas y cola, preservando Pavía y las reservas. Lecturas completas, selectivas y fichas claramente identificadas. Revisión asistida por IA, sin arbitraje externo.",
-  "status": "borrador",
-  "not_before": "2026-10-30"
+  "status": "revisado",
+  "not_before": "2026-10-30",
+  "approval": {
+    "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje académico externo",
+    "date": "2026-10-30",
+    "notes": "Inventario y cola comprobados antes de crear la ficha. 3248 palabras de desarrollo, 10 secciones, 40 párrafos referenciados, 6 fuentes con alcance de lectura explícito. Contradicciones cronológicas y cifras tratadas con cautela; sin imágenes ni reproducción de textos ajenos. Pavía y reservas preservadas.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "f58d71e301b389c08137dc455f6d4fe4887e01a7ebe4bfe418da7cf07028d509"
+  }
 }
