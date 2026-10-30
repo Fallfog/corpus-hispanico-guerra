@@ -307,7 +307,7 @@
     }
   ],
   "editorial_note": "Monografía original en castellano de España sin imágenes ni citas textuales extensas. Se consultaron el inventario, las entradas publicadas y la cola para evitar duplicados y se preservaron todas las reservas y Pavía CHG-A-0004. El análisis distingue victoria táctica británica, evacuación operativa y ocupación territorial francesa. Se documentan discrepancias sobre efectivos, bajas y capitulación; la ficha municipal contiene una errata de mes no trasladada. Se separan lecturas íntegras de notas breves, lecturas selectivas de obra extensa y simples fichas o resúmenes académicos. Sin revisión por pares externa ni acceso directo a los manuscritos archivísticos citados.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje académico externo",
@@ -321,5 +321,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "a2df5d6140a164ab769710ca95af8545ebf5455edd089c3eb5422e34bf9626a7"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T10:48:02.899Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30"
 }

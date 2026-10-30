@@ -4,9 +4,9 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 
 ## Estado real
 
-- **109 monografías incorporadas al archivo publicado de GitHub al 30-10-2026**. Nueva publicación extraordinaria manual: Orán y Mazalquivir (1732), CHG-A-0115, tras Castelnuovo (1539), CHG-A-0114.
-- **Volumen I — edición de investigación histórico-documental en blanco y negro:** 92 estudios completos (88 acciones militares y 4 historia de la guerra), excluidas del libro las 8 biografías de personajes. Selección histórica congelada en `ediciones/volumen-I/seleccion-volumen-I.json`, sin incorporar automáticamente publicaciones posteriores. PDF, EPUB, índices y manifiesto en `ediciones/volumen-I/`, con criterios de edición en `ediciones/volumen-I/criterios-edicion-academica.md`. No se declara arbitraje científico externo; el volumen conserva el corte editorial histórico de 100 fichas, mientras el archivo vivo contiene 109.
-- **Cola editorial:** 10 fichas revisadas pendientes de publicación manual; sin ejecución programada.
+- **110 monografías incorporadas al archivo publicado de GitHub al 30-10-2026**. Nueva publicación manual: Elviña y La Coruña (1809), CHG-A-0117; precedida por Orán y Mazalquivir (1732), CHG-A-0115.
+- **Volumen I — edición de investigación histórico-documental en blanco y negro:** 92 estudios completos (88 acciones militares y 4 historia de la guerra), excluidas del libro las 8 biografías de personajes. Selección histórica congelada en `ediciones/volumen-I/seleccion-volumen-I.json`, sin incorporar automáticamente publicaciones posteriores. PDF, EPUB, índices y manifiesto en `ediciones/volumen-I/`, con criterios de edición en `ediciones/volumen-I/criterios-edicion-academica.md`. No se declara arbitraje científico externo; el volumen conserva el corte editorial histórico de 100 fichas, mientras el archivo vivo contiene 110.
+- **Cola editorial:** 9 fichas revisadas pendientes de publicación manual; sin ejecución programada.
 - **Publicación solo manual cuando el titular la solicite**: investigación → contraste → monografía ≥3.000 palabras → revisión → GitHub → pruebas y compilación → comprobación HTTP de Cloudflare. El cron de publicación está eliminado de `.github/workflows/publicar.yml`, y `editorial/config.json` permanece con `paused: true`.
 - Generación autónoma: desactivada. No se ha contratado ninguna API.
 - El hecho de tener estos archivos no acredita que Cloudflare esté conectado o desplegado. Consultar el panel del alojamiento y el historial de Actions.
