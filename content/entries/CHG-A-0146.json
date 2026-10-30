@@ -267,6 +267,23 @@
     }
   ],
   "editorial_note": "Monografía original de investigación y síntesis documental asistida por IA. El testimonio municipal se lee como denuncia histórica, no como pericia concluyente sobre cada foco de incendio. Fuentes primarias reproducidas, fichas de archivo, museo y estudios secundarios identificados con sus límites de consulta. No se publican imágenes ajenas ni se afirma evaluación externa por pares.",
-  "status": "borrador",
-  "not_before": "2026-10-30"
+  "status": "publicado",
+  "not_before": "2026-10-30",
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T18:54:25.502Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-10-30",
+    "notes": "Revisados 138 registros publicados y cola vacía salvo borrador propio, sin duplicidad de la acción. 3864 palabras de desarrollo, 12 apartados y 36 párrafos citados. Once fuentes verificadas en web y catalogación, con notas de alcance. Se documentan discrepancias de hora de asalto, casas salvadas y autoría del incendio, además de límites de estimación de víctimas. Aprobación documental asistida, sin evaluación externa. No se incorporan imágenes ajenas.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "c37c9bb4ee16ac08b39baa9caa46266aeccd5d9d4612d3a22140b3b3b25bd112"
+  }
 }
