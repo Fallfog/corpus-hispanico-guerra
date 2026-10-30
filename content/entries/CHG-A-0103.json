@@ -241,7 +241,7 @@
     "siglo-xvii",
     "guerra-hispano-neerlandesa"
   ],
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-29",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; no arbitraje académico externo",
@@ -255,5 +255,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "7d1e451b857d17743ad072e7fb34291a779fa01a3970e3f02aaf7eb8c59b3890"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T11:07:49.959Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-29"
 }
