@@ -193,7 +193,7 @@
     }
   ],
   "editorial_note": "Monografía original sin imágenes ni reproducción de citas extensas. Se han revisado inventario, entradas y reservas de cola; Pavía y las reservas permanecen intactas. Las fuentes se documentan como lectura completa, selectiva o extracto. Las cifras y tradiciones heroicas se atribuyen y contrastan. Revisión documental asistida por IA, sin arbitraje externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje académico externo",
@@ -207,5 +207,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "1fcd3645828aa0edd1b0cf309f220f96debd5dd4cb2b60388ca604f9ba702ddb"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T12:24:52.683Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30"
 }

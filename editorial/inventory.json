@@ -831,5 +831,12 @@
     "topic_key": "batalla-san-jacinto-1836-texas-mexico",
     "title": "San Jacinto, 1836: Santa Anna, Houston y la derrota mexicana que no cerró la disputa por Texas",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0127",
+    "slug": "combate-san-lorenzo-1813-san-martin-granaderos-parana",
+    "topic_key": "combate-san-lorenzo-1813-granaderos",
+    "title": "San Lorenzo, 1813: San Martín, los granaderos y la guerra por el Paraná",
+    "category": "Acciones militares"
   }
 ]

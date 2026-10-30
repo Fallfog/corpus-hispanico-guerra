@@ -578,5 +578,10 @@
     "id": "CHG-A-0086",
     "at": "2026-10-30T12:22:15.344Z",
     "mode": "publicación manual extraordinaria por petición expresa; automatización y calendario desactivados"
+  },
+  "2026-10-30/extra-A-0127": {
+    "id": "CHG-A-0127",
+    "at": "2026-10-30T12:24:52.683Z",
+    "mode": "Publicación extraordinaria manual solicitada para alcanzar las 120; cron y generación inactivos"
   }
 }
