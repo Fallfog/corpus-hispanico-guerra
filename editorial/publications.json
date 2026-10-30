@@ -613,5 +613,20 @@
     "id": "CHG-A-0133",
     "at": "2026-10-30T13:09:29.074Z",
     "mode": "Publicación manual conjunta de tres monografías por orden expresa; generación automática desactivada"
+  },
+  "2026-10-30/lote-127-129/CHG-A-0134": {
+    "id": "CHG-A-0134",
+    "at": "2026-10-30T13:44:53.164Z",
+    "mode": "Publicación extraordinaria manual de un lote de tres; automatización inactiva"
+  },
+  "2026-10-30/lote-127-129/CHG-A-0135": {
+    "id": "CHG-A-0135",
+    "at": "2026-10-30T13:44:53.164Z",
+    "mode": "Publicación extraordinaria manual de un lote de tres; automatización inactiva"
+  },
+  "2026-10-30/lote-127-129/CHG-A-0136": {
+    "id": "CHG-A-0136",
+    "at": "2026-10-30T13:44:53.164Z",
+    "mode": "Publicación extraordinaria manual de un lote de tres; automatización inactiva"
   }
 }

@@ -880,5 +880,26 @@
     "topic_key": "batalla-puente-alcolea-1868-revolucion-gloriosa",
     "title": "Alcolea, 1868: Serrano, Novaliches y la batalla que precipitó el final de Isabel II",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0134",
+    "slug": "matanzas-1628-piet-heyn-benavides-captura-flota-plata",
+    "topic_key": "captura-flota-nueva-espana-matanzas-1628-piet-heyn-benavides",
+    "title": "Matanzas, 1628: Piet Heyn, Benavides y la captura de la flota de Nueva España",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0135",
+    "slug": "axarquia-1483-incursion-castellana-emboscada-nazari",
+    "topic_key": "batalla-axarquia-1483-guerra-granada",
+    "title": "La Axarquía, 1483: la emboscada nazarí y el desastre de la incursión castellana",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0136",
+    "slug": "castalla-1813-murray-suchet-whittingham-levante",
+    "topic_key": "segunda-batalla-castalla-1813-guerra-independencia",
+    "title": "Castalla, 1813: Murray, Suchet y la resistencia aliada en las montañas de Alicante",
+    "category": "Acciones militares"
   }
 ]

@@ -230,7 +230,7 @@
       "verification_note": "Consultada la ficha descriptiva pública y su intervalo cronológico mediante extracto; NO se leyó íntegro el texto alemán del reverso ni se realizó inspección física."
     }
   ],
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje académico externo",
@@ -244,5 +244,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "1912261cc239179b60b499861396a4a5d3e093ba49fd5c1c8f52fef4bbca2ffe"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T13:44:53.164Z",
+  "publication_slot": "extraordinaria-manual-lote",
+  "last_reviewed": "2026-10-30"
 }
