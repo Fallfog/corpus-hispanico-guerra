@@ -943,5 +943,19 @@
     "topic_key": "asedio-sagunto-219-ac-anibal-arse",
     "title": "Sagunto, 219 a. C.: Aníbal, Arse y el asedio que precipitó una guerra mediterránea",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0137",
+    "slug": "argel-1775-oreilly-desembarco-derrota-anfibia",
+    "topic_key": "expedicion-argel-1775-oreilly-desembarco-fracaso",
+    "title": "Argel, 1775: O’Reilly, el desembarco y la derrota de una operación anfibia",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0144",
+    "slug": "mactan-1521-lapulapu-magallanes-desembarco-y-resistencia",
+    "topic_key": "batalla-mactan-1521-lapulapu-magallanes",
+    "title": "Mactán, 1521: Lapulapu, Magallanes y el fracaso de una intervención armada",
+    "category": "Acciones militares"
   }
 ]

@@ -244,7 +244,7 @@
     }
   ],
   "editorial_note": "Monografía original redactada con asistencia de IA y revisión documental no equivalente a arbitraje académico externo. Cada referencia indica lectura parcial, de sección o de ficha. Las cifras de fuerzas y bajas permanecen abiertas cuando los testimonios divergen. Sin imágenes ajenas. No se han examinado los manuscritos citados solo por catálogo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje académico externo",
@@ -258,5 +258,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "7d90c52aa6270abfa3ae5de5a9ff7d608afed29eb6a8e800bcae6b7d9767ee3f"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T18:33:10.806Z",
+  "publication_slot": "extraordinaria-manual-lote",
+  "last_reviewed": "2026-10-30"
 }

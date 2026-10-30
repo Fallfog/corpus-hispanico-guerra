@@ -658,5 +658,15 @@
     "id": "CHG-A-0143",
     "at": "2026-10-30T17:53:36.506Z",
     "mode": "Publicación manual conjunta de tres monografías revisadas; automatización inactiva"
+  },
+  "2026-10-30/lote-136-137/CHG-A-0137": {
+    "id": "CHG-A-0137",
+    "at": "2026-10-30T18:33:10.806Z",
+    "mode": "Publicación manual de dos monografías revisadas por orden expresa; automatización desactivada"
+  },
+  "2026-10-30/lote-136-137/CHG-A-0144": {
+    "id": "CHG-A-0144",
+    "at": "2026-10-30T18:33:10.806Z",
+    "mode": "Publicación manual de dos monografías revisadas por orden expresa; automatización desactivada"
   }
 }

@@ -243,7 +243,7 @@
     }
   ],
   "editorial_note": "Monografía de investigación original asistida por IA. Se distinguen testimonios primarios consultados por tramos, lectura de ensayos institucionales completos, transcripciones conmemorativas y fichas o extractos académicos. No se inventan diálogos, efectivos ni bajas; cifras del combate atribuidas a Pigafetta. No se reproducen imágenes ajenas. Revisión documental, no arbitraje por pares.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
@@ -257,5 +257,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "e7f35ba9f1757a7661f853422a99c1507e459da74637996ce29d27e1a33d4b44"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T18:33:10.806Z",
+  "publication_slot": "extraordinaria-manual-lote",
+  "last_reviewed": "2026-10-30"
 }
