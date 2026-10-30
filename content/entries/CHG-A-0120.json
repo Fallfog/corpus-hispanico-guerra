@@ -263,7 +263,7 @@
     }
   ],
   "editorial_note": "Investigación original en español de España. Se revisaron inventario, entradas y cola; no se alteraron inventario ni ledger. Lectura SELECTIVA de una monografía académica de 127 páginas; lectura íntegra de textos institucionales breves; fichas y resúmenes académicos diferenciados expresamente. No se han examinado crónicas manuscritas, libros originales de repartimientos ni el incunable. Se discuten fechas, efectivos y cautivos sin inventar exactitud. No contiene imágenes y carece de arbitraje académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
@@ -277,5 +277,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "806d6eb15cc4ccbe284b1c7ec25a6e0d5a927c958a2f885789ca090e0fcada49"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T08:23:52+01:00",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30"
 }

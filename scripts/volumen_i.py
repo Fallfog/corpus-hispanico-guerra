@@ -72,11 +72,18 @@ def year(e):
 def load():
     entries=[json.loads(p.read_text(encoding="utf-8")) for p in sorted(CONTENT.glob("*.json"))]
     published=[e for e in entries if e.get("status")=="publicado"]
-    if len(published)!=100: raise ValueError(f"Archivo inconsistente: se esperaban 100 fichas publicadas, encontradas {len(published)}")
-    excluded=[e for e in published if e.get("category")=="Protagonistas"]
-    entries=[e for e in published if e.get("category")!="Protagonistas"]
-    if len(excluded)!=8 or len(entries)!=92:
-        raise ValueError(f"La edición académica requiere 92 estudios militares y excluye 8 biografías: {len(entries)}, {len(excluded)}")
+    snapshot=json.loads((OUTPUT/"seleccion-volumen-I.json").read_text(encoding="utf-8"))
+    included=set(snapshot["included_ids"])
+    excluded_ids=set(snapshot["excluded_biography_ids"])
+    if len(included)!=92 or len(excluded_ids)!=8 or included.intersection(excluded_ids):
+        raise ValueError("Selección editorial congelada del Volumen I incoherente")
+    available={e["id"]:e for e in published}
+    if not (included|excluded_ids).issubset(available):
+        raise ValueError("Faltan fichas originales del Volumen I")
+    excluded=[available[x] for x in excluded_ids]
+    entries=[available[x] for x in included]
+    if any(e.get("category")=="Protagonistas" for e in entries) or any(e.get("category")!="Protagonistas" for e in excluded):
+        raise ValueError("Selección de contenido biográfico incorrecta")
     ids=set();slugs=set()
     for e in entries:
         if e["id"] in ids or e["slug"] in slugs: raise ValueError("Duplicado: "+e["id"])
@@ -443,7 +450,7 @@ def main():
              "bibliographic_records":len(refs),
              "words_of_monographs":sum(len(" ".join(p for s in e["sections"] for p in s["paragraphs"]).split()) for e in entries),
              "pilot_records_with_review_notice":[e["id"] for e in entries if e.get("review_notice")],
-             "excluded_biographies":[p.stem for p in sorted(CONTENT.glob("CHG-P-*.json")) if json.loads(p.read_text(encoding="utf-8")).get("category")=="Protagonistas"],
+             "excluded_biographies":sorted(snapshot["excluded_biography_ids"]),
              "edition":"Revisión de investigación documental, sin biografías; monocroma blanco y negro; sin arbitraje académico externo.",
              "files":{}}
     for path in (PDF,EPUB,OUTPUT/"indice-historico-bibliografia.md"):

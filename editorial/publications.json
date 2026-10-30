@@ -483,5 +483,10 @@
     "id": "CHG-A-0093",
     "at": "2026-10-30T00:31:07+01:00",
     "mode": "Publicación manual única en lote centenario: autorización expresa del titular para alcanzar 100 monografías; revisión editorial y sello de aprobación conservados, cron desactivado."
+  },
+  "2026-10-30/extra-A-0120": {
+    "id": "CHG-A-0120",
+    "at": "2026-10-30T08:23:52+01:00",
+    "mode": "Publicación extraordinaria a petición expresa del titular. Málaga 1487: 4220 palabras, 12 apartados, 48 párrafos, nueve fuentes. Aprobación original conservada; cron de publicación desactivado."
   }
 }
