@@ -271,7 +271,7 @@
     "Ejército realista",
     "Capitulaciones"
   ],
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-29",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje académico externo",
@@ -285,5 +285,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "4c686772a42ffe0f9235befdde15f5baf1699e1ac666f36ff682e6e44ed9d355"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T12:13:19.548Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-29"
 }
