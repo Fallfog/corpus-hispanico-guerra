@@ -4,9 +4,9 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 
 ## Estado real
 
-- **118 monografías incorporadas al archivo publicado de GitHub al 30-10-2026**. Nueva publicación manual: Chacabuco (1817), CHG-A-0085, después de Pichincha (1822), CHG-A-0106.
-- **Volumen I — edición de investigación histórico-documental en blanco y negro:** 92 estudios completos (88 acciones militares y 4 historia de la guerra), excluidas del libro las 8 biografías de personajes. Selección histórica congelada en `ediciones/volumen-I/seleccion-volumen-I.json`, sin incorporar automáticamente publicaciones posteriores. PDF, EPUB, índices y manifiesto en `ediciones/volumen-I/`, con criterios de edición en `ediciones/volumen-I/criterios-edicion-academica.md`. No se declara arbitraje científico externo; el volumen conserva el corte editorial histórico de 100 fichas, mientras el archivo vivo contiene 118.
-- **Cola editorial:** 2 fichas revisadas pendientes de publicación manual; sin ejecución programada.
+- **119 monografías incorporadas al archivo publicado de GitHub al 30-10-2026**. Nueva publicación manual: San Jacinto (1836), CHG-A-0086, tras Chacabuco (1817), CHG-A-0085.
+- **Volumen I — edición de investigación histórico-documental en blanco y negro:** 92 estudios completos (88 acciones militares y 4 historia de la guerra), excluidas del libro las 8 biografías de personajes. Selección histórica congelada en `ediciones/volumen-I/seleccion-volumen-I.json`, sin incorporar automáticamente publicaciones posteriores. PDF, EPUB, índices y manifiesto en `ediciones/volumen-I/`, con criterios de edición en `ediciones/volumen-I/criterios-edicion-academica.md`. No se declara arbitraje científico externo; el volumen conserva el corte editorial histórico de 100 fichas, mientras el archivo vivo contiene 119.
+- **Cola editorial:** 1 ficha revisada pendiente de publicación manual; sin ejecución programada.
 - **Publicación solo manual cuando el titular la solicite**: investigación → contraste → monografía ≥3.000 palabras → revisión → GitHub → pruebas y compilación → comprobación HTTP de Cloudflare. El cron de publicación está eliminado de `.github/workflows/publicar.yml`, y `editorial/config.json` permanece con `paused: true`.
 - Generación autónoma: desactivada. No se ha contratado ninguna API.
 - El hecho de tener estos archivos no acredita que Cloudflare esté conectado o desplegado. Consultar el panel del alojamiento y el historial de Actions.

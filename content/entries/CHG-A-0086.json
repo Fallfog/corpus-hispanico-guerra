@@ -310,7 +310,7 @@
     }
   ],
   "editorial_note": "Monografía original de interpretación crítica y fuentes institucionales, documentales y académicas. La consulta íntegra se refiere a los textos digitales indicados, no a fondos físicos ni a bibliografías citadas. Quedan explícitas las divergencias 783/910/930 insurgentes, más de 1.500/frente a aproximadamente 1.200-1.250 mexicanos, las diferencias de bajas y el contraste entre la afirmación de humanidad de Houston y la persecución letal descrita por la biblioteca estatal. El artículo de Santiago Aparicio solo se consultó mediante resumen. No se reproducen imágenes. Revisión asistida por IA, sin arbitraje historiográfico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-29",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje externo",
@@ -324,5 +324,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "18d66a499741c1a70d42eca95466285b143572d8758e645a3ba6dd010aade267"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T12:22:15.344Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-29"
 }
