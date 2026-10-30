@@ -225,7 +225,7 @@
     }
   ],
   "editorial_note": "Monografía de investigación con citas por párrafo. Fuente primaria consultada en edición crítica, no manuscrito original. Se diferencian los datos firmes de las estimaciones cronísticas y se evita reproducir imágenes o pasajes extensos. Los capítulos de Zinato se han utilizado solo a partir de sus fichas y resúmenes institucionales.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje académico externo",
@@ -239,5 +239,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "0c1f52eafe974d7fe3cfb2799cba7b54c19bcea9bcef1af53526be8d33887f30"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T10:32:49.866Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30"
 }
