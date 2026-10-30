@@ -193,6 +193,19 @@
     }
   ],
   "editorial_note": "Monografía original sin imágenes ni reproducción de citas extensas. Se han revisado inventario, entradas y reservas de cola; Pavía y las reservas permanecen intactas. Las fuentes se documentan como lectura completa, selectiva o extracto. Las cifras y tradiciones heroicas se atribuyen y contrastan. Revisión documental asistida por IA, sin arbitraje externo.",
-  "status": "borrador",
-  "not_before": "2026-10-30"
+  "status": "revisado",
+  "not_before": "2026-10-30",
+  "approval": {
+    "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje académico externo",
+    "date": "2026-10-30",
+    "notes": "Inventario, entradas y seis reservas de cola examinados antes de crear la ficha. 3291 palabras de desarrollo, 10 secciones, 40 párrafos referenciados y 5 fuentes con alcance de lectura documentado. Parte y Mitre contrastados; discrepancias en bajas expresas. Sin imágenes ajenas.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "1fcd3645828aa0edd1b0cf309f220f96debd5dd4cb2b60388ca604f9ba702ddb"
+  }
 }
