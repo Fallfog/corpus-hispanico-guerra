@@ -275,7 +275,7 @@
     }
   ],
   "editorial_note": "Monografía de investigación histórica en castellano de España, sin imágenes. Inventario, entradas, cola, Pavía y reservas comprobados el 30-10-2026. Se distinguen fuentes antiguas de reconstrucciones modernas, el alcance exacto de cada lectura y las divergencias entre autores; no se presume que la Cartagena romana posterior reproduzca íntegramente la topografía púnica. Revisión documental asistida por IA, sin arbitraje académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
@@ -289,5 +289,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "a604fc2a070b04db13299f4002bc7c8f2957f9fd39db4dcdb454f6c9aa0eaf12"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T10:17:38.937Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30"
 }
