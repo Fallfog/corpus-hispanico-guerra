@@ -250,7 +250,7 @@
     },
     {
       "n": 7,
-      "name": "Modernalia, Universidad de Castilla-La Mancha, «Testimonio de la batalla de las Islas Azores» (recurso de enseñanza), basado en Pi Corrales, Cuadernos de Historia Moderna",
+      "name": "Modernalia, «Testimonio de la batalla de las Islas Azores» (recurso de enseñanza), basado en Pi Corrales, Cuadernos de Historia Moderna",
       "url": "https://www.modernalia.es/items/show/2300",
       "kind": "Ficha didáctica de fuente histórica y referencia académica",
       "verified_at": "2026-10-30",
@@ -258,6 +258,23 @@
     }
   ],
   "editorial_note": "Síntesis original de investigación asistida por IA. Diferencia el combate naval de julio de 1582 y la conquista anfibia de 1583, contrasta artículos y fuentes archivísticas catalogadas, y hace explícita la ejecución de prisioneros. No se reclama arbitraje científico externo ni se reproducen imágenes ajenas.",
-  "status": "borrador",
-  "not_before": "2026-10-30"
+  "status": "publicado",
+  "not_before": "2026-10-30",
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T20:17:13.816Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-10-30",
+    "notes": "Inventario previo de 142 monografías, sin batalla de San Miguel (1582); biografía de Bazán ya existente y diferenciada. Monografía de 4346 palabras en 14 secciones y 42 párrafos con 7 fuentes anotadas. Verificados estudio naval de 2023, ensayo Cerezo, Archivo de Granada; resúmenes científicos y catálogos no tratados como consulta integral. Reconocida incertidumbre táctica sobre San Mateo, cifras de buques y bajas, y ejecución de cautivos franceses. Separados combate del 26 julio 1582 y desembarco en Terceira de 1583. Sin imágenes ajenas ni arbitraje externo.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "6d7609c518bede2bf1ee3526591d58fb5c016abe9108705ee999b873e0ee0a8d"
+  }
 }

@@ -992,5 +992,12 @@
     "topic_key": "sitio-coruna-1589-drake-norris",
     "title": "A Coruña, 1589: Drake, Norris y la defensa de una ciudad frente a la expedición inglesa",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0150",
+    "slug": "san-miguel-1582-bazan-strozzi-azores-batalla-naval",
+    "topic_key": "batalla-naval-san-miguel-azores-1582",
+    "title": "San Miguel, 1582: Álvaro de Bazán, Felipe Strozzi y la batalla naval por las Azores",
+    "category": "Acciones militares"
   }
 ]
