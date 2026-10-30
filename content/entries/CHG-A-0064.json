@@ -282,7 +282,7 @@
     }
   ],
   "editorial_note": "Monografía de investigación histórica y crítica sobre San Marcial (1813), con fuentes institucionales, estudio académico localizado, fichas de impresos coetáneos, historia archivística municipal y relato local contrastado. Revisión documental ampliada el 30-10-2026 con lectura íntegra del artículo de Salvador Pérez Torres en El Valeroso (pp. 34-37); el volumen completo y el artículo especializado de Rodríguez Insausti no se leyeron íntegramente. Se identifican las divergencias entre cifras de bajas, la atribución de la arenga a Wellington, los alcances del dispositivo francés y la distinción entre asalto y rendición final de San Sebastián. Ningún dato controvertido se presenta como comprobado mediante originales archivísticos no consultados. Sin imágenes ni citas extensas ajenas. Revisión asistida por IA; no arbitraje académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje académico externo",
@@ -296,5 +296,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "86e8f69182423ee1b5eca3e0bfc6ae13fcf99ba71f970aef4f21c6c766579a22"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T10:00:50.441Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30"
 }
