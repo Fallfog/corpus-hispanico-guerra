@@ -294,7 +294,7 @@
     }
   ],
   "editorial_note": "Investigación original de síntesis crítica a 30-10-2026. Fuentes primarias publicadas por CEDCS y fichas de PARES; alcance de consulta individual explícito. No se consultaron manuscritos originales ni el artículo de Önalp completo. Se documentan discrepancias de cronología, efectivos y responsabilidades. Sin imágenes ni citas textuales extensas. Se revisaron inventory, entries y cola; Pavía y reservas intactas.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
@@ -308,5 +308,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "a145b3a480c46fa25564f6f98ec7a6104d6365ce64f5109a2c90aa2ba8e955ad"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T11:02:38.144Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30"
 }
