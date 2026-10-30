@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/vista-previa-volumen-i.yml'
+      - 'ediciones/volumen-I/*.pdf'
 permissions:
   contents: write
 jobs:
