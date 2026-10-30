@@ -433,6 +433,7 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 def main():
     OUTPUT.mkdir(parents=True,exist_ok=True)
     entries=load();refs=bibliography(entries)
+    snapshot=json.loads((OUTPUT/"seleccion-volumen-I.json").read_text(encoding="utf-8"))
     write_indices(entries,refs)
     pdf_book(entries,refs)
     epub_book(entries,refs)
