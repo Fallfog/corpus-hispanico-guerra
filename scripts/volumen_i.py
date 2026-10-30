@@ -140,7 +140,7 @@ def write_indices(entries,refs):
 
 def pdf_book(entries,refs):
     from reportlab.lib import colors, pagesizes
-    from reportlab.lib.enums import TA_CENTER, TA_LEFT
+    from reportlab.lib.enums import TA_CENTER, TA_LEFT, TA_JUSTIFY
     from reportlab.lib.styles import ParagraphStyle
     from reportlab.lib.units import mm
     from reportlab.pdfbase import pdfmetrics
@@ -160,9 +160,9 @@ def pdf_book(entries,refs):
         serif="Serif";bold="Serif-Bold";sans="Sans";sansbold="Sans-Bold"
     else:
         serif="Times-Roman";bold="Times-Bold";sans="Helvetica";sansbold="Helvetica-Bold"
-    DARK=colors.HexColor("#172735")
-    RUST=colors.HexColor("#8B493A")
-    LIGHT=colors.HexColor("#60717B")
+    DARK=colors.black
+    RUST=colors.black
+    LIGHT=colors.black
     PAGE=pagesizes.A4
     width,height=PAGE
     LM,RM,TM,BM=21*mm,20*mm,22*mm,21*mm
@@ -178,33 +178,43 @@ def pdf_book(entries,refs):
             self.canv.addOutlineEntry(title,key,level=level,closed=(level==0))
             if level==1:self.running_title=title
     def cover(c,doc):
-        c.setFillColor(DARK);c.rect(0,0,width,height,stroke=0,fill=1)
-        c.setStrokeColor(RUST);c.setLineWidth(2.2)
-        c.line(32*mm,height-42*mm,width-32*mm,height-42*mm)
-        c.setFont(sansbold,14);c.setFillColor(colors.HexColor("#D4D9DD"))
-        c.drawCentredString(width/2,height-53*mm,"CORPUS HISPÁNICO")
-        c.drawCentredString(width/2,height-62*mm,"DE LA GUERRA")
-        c.setFillColor(colors.HexColor("#FFFFFF"));c.setFont(serif,39)
-        c.drawCentredString(width/2,height-107*mm,"VOLUMEN I")
-        c.setFillColor(colors.HexColor("#D7CCBE"));c.setFont(serif,17)
-        c.drawCentredString(width/2,height-124*mm,"CIEN ESTUDIOS")
-        c.drawCentredString(width/2,height-133*mm,"DE HISTORIA MILITAR HISPÁNICA")
-        c.setStrokeColor(RUST);c.line(60*mm,height-151*mm,width-60*mm,height-151*mm)
-        c.setFillColor(colors.HexColor("#D4D9DD"));c.setFont(sans,11)
-        c.drawCentredString(width/2,53*mm,"DE LA ANTIGÜEDAD A LA ÉPOCA CONTEMPORÁNEA")
-        c.drawCentredString(width/2,44*mm,"EDICIÓN DOCUMENTAL · OCTUBRE DE 2026")
-        c.setFont(sans,8.5)
-        c.drawCentredString(width/2,24*mm,"PROYECTO EDITORIAL INDEPENDIENTE")
+        # Portada de monografía académica: fondo blanco, tinta negra, sin acentos de color.
+        c.setFillColor(colors.white)
+        c.rect(0,0,width,height,stroke=0,fill=1)
+        c.setStrokeColor(colors.black)
+        c.setLineWidth(.75)
+        c.line(31*mm,height-45*mm,width-31*mm,height-45*mm)
+        c.setFont(sansbold,10.7)
+        c.setFillColor(colors.black)
+        c.drawCentredString(width/2,height-34*mm,"CORPUS HISPÁNICO DE LA GUERRA")
+        c.setFont(sans,10)
+        c.drawCentredString(width/2,height-56*mm,"SERIE DE INVESTIGACIÓN HISTÓRICO-DOCUMENTAL")
+        c.setFont(serif,31)
+        c.drawCentredString(width/2,height-100*mm,"VOLUMEN I")
+        c.setFont(serif,19)
+        c.drawCentredString(width/2,height-121*mm,"GUERRA Y CONFLICTO")
+        c.drawCentredString(width/2,height-133*mm,"EN EL MUNDO HISPÁNICO")
+        c.setLineWidth(.65)
+        c.line(57*mm,height-147*mm,width-57*mm,height-147*mm)
+        c.setFont(sans,11)
+        c.drawCentredString(width/2,height-162*mm,"92 ESTUDIOS DE INVESTIGACIÓN DOCUMENTAL")
+        c.setFont(serif,11)
+        c.drawCentredString(width/2,48*mm,"DE LA ANTIGÜEDAD A LA ÉPOCA CONTEMPORÁNEA")
+        c.setFont(sans,9.2)
+        c.drawCentredString(width/2,37*mm,"EDICIÓN DE INVESTIGACIÓN · OCTUBRE DE 2026")
+        c.setFont(sans,8)
+        c.drawCentredString(width/2,24*mm,"PROYECTO EDITORIAL INDEPENDIENTE · SIN ARBITRAJE EXTERNO")
+        c.line(31*mm,19*mm,width-31*mm,19*mm)
     def inner(c,doc):
         c.setFillColor(DARK);c.setFont(sans,7.2)
         c.drawString(LM,height-13*mm,"CORPUS HISPÁNICO DE LA GUERRA")
-        c.setStrokeColor(colors.HexColor("#CAD1D5"))
+        c.setStrokeColor(colors.black)
         c.setLineWidth(.45);c.line(LM,height-16*mm,width-RM,height-16*mm)
         c.setFont(sans,7.3);c.setFillColor(LIGHT)
-        c.drawString(LM,11.5*mm,"VOLUMEN I · EDICIÓN DOCUMENTAL")
+        c.drawString(LM,11.5*mm,"VOLUMEN I · EDICIÓN ACADÉMICA DOCUMENTAL")
         c.drawRightString(width-RM,11.5*mm,str(doc.page))
     doc=Book(str(PDF),pagesize=PAGE,leftMargin=LM,rightMargin=RM,topMargin=TM,bottomMargin=BM,
-             title=SUBTITLE,author=TITLE,subject="Cien monografías históricas con fuentes documentales e índices")
+             title=SUBTITLE,author=TITLE,subject="Noventa y dos investigaciones históricas no biográficas; fuentes documentales e índices")
     doc.addPageTemplates([PageTemplate(id="Portada",frames=[f],onPage=cover),
                           PageTemplate(id="Interior",frames=[f],onPage=inner)])
     styles={}
@@ -216,7 +226,7 @@ def pdf_book(entries,refs):
     st("h0",sansbold,15,20,spaceBefore=14,spaceAfter=10)
     st("h1",sansbold,13.8,19,spaceBefore=10,spaceAfter=12)
     st("h2",sansbold,10.8,15.5,spaceBefore=15,spaceAfter=8)
-    st("body",serif,10,15.6,spaceAfter=8.2)
+    st("body",serif,10,15.6,spaceAfter=8.2,alignment=TA_JUSTIFY)
     st("lead",serif,11.2,17.3,spaceAfter=15)
     st("small",serif,8.5,12.7,spaceAfter=5)
     st("source",serif,8.0,11.6,spaceAfter=7)
@@ -224,24 +234,24 @@ def pdf_book(entries,refs):
     st("stat",sans,8.6,13.3,spaceAfter=5)
     st("toc0",sansbold,10,14,spaceBefore=9,spaceAfter=2)
     st("toc1",serif,8.5,12,leftIndent=14,firstLineIndent=-3,spaceAfter=2)
-    st("intro",serif,10.3,16.1,spaceAfter=10)
-    st("bib",serif,8.15,12.1,spaceAfter=6)
+    st("intro",serif,10.3,16.1,spaceAfter=10,alignment=TA_JUSTIFY)
+    st("bib",serif,8.15,12.1,spaceAfter=6,alignment=TA_LEFT)
     story=[Spacer(1,175*mm),NextPageTemplate("Interior"),PageBreak()]
     story.extend([
         Spacer(1,17*mm),
         Paragraph("CORPUS HISPÁNICO DE LA GUERRA",styles["title"]),
-        Paragraph("Volumen I · Cien estudios de historia militar hispánica",styles["lead"]),
-        Paragraph("Edición documental íntegra · 30 de octubre de 2026",styles["caption"]),
+        Paragraph("Volumen I · Guerra y conflicto en el mundo hispánico",styles["lead"]),
+        Paragraph("92 estudios no biográficos · Edición de investigación documental · 30 de octubre de 2026",styles["caption"]),
         Spacer(1,8*mm),
         Paragraph("Créditos y alcance",styles["h0"]),
         Paragraph("Coordinación editorial: Corpus Hispánico de la Guerra, proyecto independiente.",styles["intro"]),
-        Paragraph("Textos: reproducción íntegra de las cien fichas publicadas en el archivo a la fecha de corte indicada. Las fuentes de cada monografía aparecen al final de su capítulo.",styles["intro"]),
+        Paragraph("Textos: selección íntegra de los 92 estudios de campañas, batallas, asedios y sistemas militares del archivo. Se excluyen las ocho biografías de personajes. Las referencias de cada investigación permanecen al final de su capítulo.",styles["intro"]),
         Paragraph(ISBN_NOTE,styles["caption"]),
         Spacer(1,7*mm),
         Paragraph("Advertencia de edición",styles["h0"]),
         Paragraph(escape(NOTE),styles["intro"]),
         PageBreak(),
-        Paragraph("Presentación editorial",styles["h0"])
+        Paragraph("Introducción y metodología de esta edición",styles["h0"])
     ])
     for heading,description in EDITORIAL:
         story.append(Paragraph(escape(heading),styles["h2"]))
@@ -255,7 +265,7 @@ def pdf_book(entries,refs):
         gp=[e for e in entries if e["period"]==period]
         story.append(Paragraph(escape(period)+f" · {len(gp)} estudios",styles["h2"]))
         for e in gp:
-            story.append(Paragraph(f'<font color="#8B493A">{escape(e["id"])}</font>  {escape(e["title"])}',styles["small"]))
+            story.append(Paragraph(f'<font color="#000000">{escape(e["id"])}</font>  {escape(e["title"])}',styles["small"]))
     story.extend([PageBreak(),Paragraph("Índice por clases de estudio",styles["h0"])])
     for category in sorted({e["category"] for e in entries}):
         group=[e for e in entries if e["category"]==category]
@@ -281,7 +291,7 @@ def pdf_book(entries,refs):
             story.append(Paragraph("RESUMEN",styles["caption"]))
             story.append(Paragraph(escape(e.get("summary","")),styles["lead"]))
             if e.get("review_notice"):
-                story.append(Paragraph('<font color="#8B493A"><b>AVISO DE REVISIÓN PENDIENTE:</b> '+escape(e["review_notice"])+'</font>',styles["small"]))
+                story.append(Paragraph('<font color="#000000"><b>AVISO DE REVISIÓN PENDIENTE:</b> '+escape(e["review_notice"])+'</font>',styles["small"]))
             if e.get("facts"):
                 for label,value in e["facts"]:
                     story.append(Paragraph("<b>"+escape(label)+":</b> "+escape(value),styles["stat"]))
@@ -292,7 +302,7 @@ def pdf_book(entries,refs):
                     def ref(m):
                         n=m.group(1)
                         dest="ref-"+e["id"]+"-"+n
-                        return f'<super><link href="#{dest}" color="#8B493A">[{n}]</link></super>'
+                        return f'<super><link href="#{dest}" color="#000000">[{n}]</link></super>'
                     marked=re.sub(r"\[(\d+)\]",ref,escape(clean(paragraph)))
                     story.append(Paragraph(marked,styles["body"]))
             story.append(Paragraph("Nota de criterio documental",styles["h2"]))
@@ -303,7 +313,7 @@ def pdf_book(entries,refs):
                 name=escape(clean(s["name"])); url=escape(clean(s["url"]),quote=True)
                 note=escape(clean(s.get("verification_note","")))
                 line=(f'<a name="{dest}"/><b>[{n}] {name}</b>. '
-                      f'<link href="{url}" color="#8B493A">{url}</link>')
+                      f'<link href="{url}" color="#000000">{url}</link>')
                 story.append(Paragraph(line,styles["source"]))
                 if note:story.append(Paragraph("Verificación declarada: "+note,styles["source"]))
             story.append(Spacer(1,6*mm))
@@ -313,11 +323,11 @@ def pdf_book(entries,refs):
         "Se conservan los títulos y los enlaces de las fichas; cada registro indica las monografías que lo utilizan.",styles["intro"]))
     for i,s in enumerate(refs,1):
         url=escape(clean(s["url"]),quote=True)
-        story.append(Paragraph(f'<b>{i:04d}. {escape(s["name"])}</b>. <link href="{url}" color="#8B493A">{url}</link>. '
+        story.append(Paragraph(f'<b>{i:04d}. {escape(s["name"])}</b>. <link href="{url}" color="#000000">{url}</link>. '
             f'<i>Fichas: {escape(", ".join(sorted(s["uses"])))}</i>.',styles["bib"]))
     story.append(Spacer(1,10*mm))
     story.append(Paragraph("Cierre editorial",styles["h0"]))
-    story.append(Paragraph("Fin del Volumen I. Esta edición integra cien fichas publicadas hasta el 30 de octubre de 2026. "
+    story.append(Paragraph("Fin del Volumen I. Esta edición contiene 92 investigaciones no biográficas procedentes del archivo de cien fichas al 30 de octubre de 2026. "
         "Los identificadores se mantienen como referencia permanente para futuras correcciones documentadas.",styles["intro"]))
     doc.multiBuild(story,maxPasses=4)
 
@@ -326,7 +336,7 @@ def epub_book(entries,refs):
     ns="http://www.idpf.org/2007/opf"
     base="OEBPS/"
     uid=str(uuid.uuid5(uuid.NAMESPACE_URL,"https://github.com/Fallfog/corpus-hispanico-guerra/volumen-I/2026-10-30"))
-    css="""body{font-family:Georgia,serif;line-height:1.55;color:#1b2d38;margin:4%;}h1,h2,h3{font-family:Arial,sans-serif;line-height:1.2}h1{font-size:1.6em}h2{font-size:1.22em;margin-top:1.6em;}h3{font-size:1em;margin-top:1.3em}.kicker{font-family:Arial,sans-serif;color:#8B493A;letter-spacing:.07em}.small{font-size:.82em;color:#536670}.source{font-size:.86em;border-bottom:1px solid #ddd;padding:.5em 0}.cover{background:#172735;color:#fff;text-align:center;padding:8em 1em 9em}.cover h1{color:#fff;font-size:2.1em}.cover p{color:#ddd}a{color:#8B493A}.warning{padding:.7em;border-left:3px solid #8B493A}section{break-before:page}"""
+    css="""body{font-family:Georgia,serif;line-height:1.6;color:#000;background:#ffffff;margin:4%;text-align:justify}h1,h2,h3{font-family:Georgia,serif;line-height:1.3;text-align:left;color:#000}h1{font-size:1.55em}h2{font-size:1.2em;margin-top:1.6em}h3{font-size:1.05em;margin-top:1.3em}.kicker{font-family:Georgia,serif;color:#000;font-size:.85em}.small{font-size:.84em;color:#000}.source{font-size:.85em;border-bottom:1px solid #000;padding:.5em 0}.cover{background:#ffffff;color:#000;text-align:center;padding:8em 1em 9em;border-top:1px solid #000;border-bottom:1px solid #000}.cover h1,.cover h2,.cover p{color:#000;text-align:center}a,a:visited{color:#000;text-decoration:underline}.warning{padding:.7em;border-left:2px solid #000}section{break-before:page}"""
     def xhtml(title,body):
         return ('<?xml version="1.0" encoding="UTF-8"?>'
           '<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">'
@@ -379,7 +389,7 @@ def epub_book(entries,refs):
         nav.append("</ol></li>")
     nav.append('<li><a href="bibliografia.xhtml">Bibliografía consolidada</a></li></ol></nav>')
     content["nav.xhtml"]=xhtml("Índice",''.join(nav))
-    cover='<section class="cover"><p>CORPUS HISPÁNICO DE LA GUERRA</p><h1>VOLUMEN I</h1><h2>CIEN ESTUDIOS DE HISTORIA MILITAR HISPÁNICA</h2><p>Octubre de 2026</p></section>'
+    cover='<section class="cover"><p>CORPUS HISPÁNICO DE LA GUERRA</p><h1>VOLUMEN I</h1><h2>92 ESTUDIOS DE INVESTIGACIÓN DOCUMENTAL</h2><p>Octubre de 2026</p></section>'
     content["cover.xhtml"]=xhtml(SUBTITLE,cover)
     manifest=['<item id="css" href="style.css" media-type="text/css"/>',
               '<item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>',
