@@ -1,38 +1,47 @@
 {
-  "title": "Volumen I. Cien estudios de historia militar hispánica",
+  "title": "Volumen I. Guerra y conflicto en el mundo hispánico: 92 estudios documentales",
   "date": "2026-10-30",
-  "monographs": 100,
-  "pages": 1268,
+  "monographs": 92,
+  "pages": 1182,
   "periods": {
     "Antigüedad": 4,
     "Edad Media": 19,
-    "Edad Moderna": 47,
-    "Edad Contemporánea": 30
+    "Edad Moderna": 41,
+    "Edad Contemporánea": 28
   },
   "classifications": {
     "Acciones militares": 88,
-    "Historia de la guerra": 4,
-    "Protagonistas": 8
+    "Historia de la guerra": 4
   },
-  "bibliographic_records": 1062,
-  "words_of_monographs": 484533,
-  "three_pilot_records_with_review_notice": [
+  "bibliographic_records": 993,
+  "words_of_monographs": 450412,
+  "pilot_records_with_review_notice": [
     "CHG-D-0001",
-    "CHG-P-0001",
     "CHG-A-0001"
   ],
+  "excluded_biographies": [
+    "CHG-P-0001",
+    "CHG-P-0002",
+    "CHG-P-0003",
+    "CHG-P-0004",
+    "CHG-P-0005",
+    "CHG-P-0006",
+    "CHG-P-0007",
+    "CHG-P-0008"
+  ],
+  "edition": "Revisión de investigación documental, sin biografías; monocroma blanco y negro; sin arbitraje académico externo.",
   "files": {
     "corpus-hispanico-guerra-volumen-I.pdf": {
-      "bytes": 7310954,
-      "sha256": "8d0a46768e4622845dd2a76d090852190e95d60402a4fa7304f9008a74e6b1ad"
+      "bytes": 6956833,
+      "sha256": "8693cf7a0b5ac7d4ea2bb9a611a0d3dc4ca0ed0ca0ba1c7da2b1356f8a82dd55"
     },
     "corpus-hispanico-guerra-volumen-I.epub": {
-      "bytes": 1673407,
-      "sha256": "618dc51ffbebd516368c0066dbfb532c9f001191c53d86541a2fdc318482a345"
+      "bytes": 1558521,
+      "sha256": "ec08bc4824fc20ca9cf66feb195fce687d83ae0271d83178d30af81cfefdfd55"
     },
     "indice-historico-bibliografia.md": {
-      "bytes": 294949,
-      "sha256": "4288719c75d9de4346279d6bb449b3b64cf95329020e3516b02306316a84a635"
+      "bytes": 275971,
+      "sha256": "48422548973a385c7c969b5858a5e04cb658bc05c5b615a7035474718fa08c49"
     }
   }
 }
