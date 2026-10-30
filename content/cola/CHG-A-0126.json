@@ -1,0 +1,312 @@
+{
+  "id": "CHG-A-0126",
+  "slug": "gelves-1560-medina-doria-sande-desastre-naval-asedio",
+  "topic_key": "campana-los-gelves-1560-tripoli-yerba-desastre",
+  "title": "Los Gelves, 1560: Trípoli frustrada, la derrota naval y el asedio de la sed",
+  "eyebrow": "Acciones militares · Siglo XVI · Mediterráneo central",
+  "category": "Acciones militares",
+  "period": "Edad Moderna",
+  "era": "Siglo XVI",
+  "chronology": 1560,
+  "date": "1559–agosto de 1560 (expedición, batalla naval y caída del fuerte)",
+  "location": "Isla de Yerba (Los Gelves), actual Túnez; Malta, Sicilia y Mediterráneo central",
+  "summary": "Investigación crítica de la expedición del duque de Medinaceli contra Trípoli, su desvío a Yerba, el desastre naval de mayo de 1560 y el asedio del fuerte de Álvaro de Sande, basada en cartas coetáneas de Simancas editadas por Archivo de la Frontera.",
+  "featured": false,
+  "keywords": [
+    "Los Gelves",
+    "Yerba",
+    "Djerba",
+    "1560",
+    "Trípoli",
+    "Juan de la Cerda",
+    "Medinaceli",
+    "Juan Andrea Doria",
+    "Sancho de Leyva",
+    "Álvaro de Sande",
+    "Pialí Bajá",
+    "Dragut",
+    "guerra naval",
+    "asedio",
+    "cautiverio"
+  ],
+  "facts": [
+    [
+      "Campaña",
+      "Empresa proyectada contra Trípoli, desviada hacia la isla de Yerba"
+    ],
+    [
+      "Desembarco",
+      "7 de marzo de 1560 según la carta de Leyva"
+    ],
+    [
+      "Choque naval",
+      "Mayo de 1560; derrota de la armada de la coalición"
+    ],
+    [
+      "Mando hispánico",
+      "Juan de la Cerda, duque de Medinaceli; Juan Andrea Doria en el mando naval"
+    ],
+    [
+      "Mando otomano",
+      "Pialí Bajá; participación de Dragut en la campaña y el sitio"
+    ],
+    [
+      "Defensa terrestre",
+      "Álvaro de Sande al frente del fuerte"
+    ],
+    [
+      "Agua",
+      "Cisternas insuficientes para la población refugiada; bloqueo y sed"
+    ],
+    [
+      "Caída del fuerte",
+      "Anterior o igual al 6 de agosto de 1560 según carta de Sande"
+    ],
+    [
+      "Resultado",
+      "Victoria otomana y cautiverio de numerosos defensores"
+    ],
+    [
+      "Cifras",
+      "Sin total de bajas ni barcos reconciliado con las fuentes examinadas"
+    ]
+  ],
+  "related": [
+    "CHG-A-0001",
+    "CHG-A-0084",
+    "CHG-A-0052"
+  ],
+  "topics": [
+    "Historia militar hispánica",
+    "Mediterráneo central",
+    "Operaciones anfibias",
+    "Inteligencia naval",
+    "Logística militar",
+    "Historia otomana",
+    "Fuentes primarias"
+  ],
+  "sections": [
+    {
+      "heading": "1. Problema histórico, delimitación y método",
+      "paragraphs": [
+        "La derrota de Los Gelves de 1560 suele resumirse como una batalla naval ganada por el Imperio otomano frente a una coalición dirigida desde los dominios de Felipe II. Esa descripción es correcta, pero insuficiente: el episodio comenzó como una expedición proyectada contra Trípoli, se desvió hacia la isla de Yerba, produjo una catástrofe de galeras y terminó con un fuerte sitiado cuyos defensores quedaron cautivos. Separar esas fases permite comprender por qué una empresa concebida para ganar una base se convirtió en un problema de supervivencia y rescate. [4][8]",
+        "Esta monografía se ocupa de la campaña entre los preparativos de 1559 y las gestiones de cautiverio de otoño de 1560. No atribuye a una sola nación todos los barcos ni todos los soldados: la operación reunió contingentes de distintos territorios de la Monarquía Hispánica y aliados mediterráneos, mientras que los adversarios actuaban dentro de una estructura imperial otomana y de poderes norteafricanos con intereses propios. La palabra «española» identifica aquí el impulso político de la empresa, no una composición exclusivamente peninsular. [1][4][8]",
+        "El núcleo probatorio está formado por cartas y avisos del Archivo General de Simancas editados por el proyecto Archivo de la Frontera. Las piezas no son intercambiables: Sancho de Leyva critica al virrey; Álvaro de Sande justifica la defensa; Juan de la Cerda y Juan Andrea Doria explican sus decisiones después de perder la armada; Baltasar Prototico informa desde el Levante. Sus diferencias son parte del objeto de estudio, porque permiten observar cómo el mando producía explicaciones mientras todavía ignoraba la suerte de muchas naves. [1][2][3][4][5][6]",
+        "El método combina lectura selectiva de transcripciones publicadas, lectura de las presentaciones editoriales de la serie y comprobación de fichas del archivo estatal. No se afirma haber examinado los originales manuscritos ni el estudio de Önalp más allá de su registro bibliográfico. Los números de barcos y víctimas que aparecen en relatos posteriores no se convierten automáticamente en certezas. Se privilegian relaciones fechadas y se distingue lo visto, lo oído y lo inferido; el resultado es una reconstrucción crítica, no una pretendida transcripción exhaustiva de la campaña. [8][9][10][11][12]"
+      ]
+    },
+    {
+      "heading": "2. Trípoli y la frontera marítima del Mediterráneo central",
+      "paragraphs": [
+        "El objetivo inicial de la expedición era golpear la posición de Dragut en Trípoli. En el Mediterráneo central, una plaza costera no era solo una muralla: ofrecía fondeaderos, contactos mercantiles, rutas de abastecimiento y posibilidades de corso. Por ello, el valor de una victoria dependía de conservar la comunicación con Sicilia y Malta después del desembarco. Los documentos de 1560 muestran que los responsables debatían precisamente esa relación entre flota, fuerte y puerto; reducirla a un duelo entre generales borra la condición marítima de la empresa. [1][2][8]",
+        "La organización descansaba en Juan de la Cerda, duque de Medinaceli y virrey de Sicilia, con una armada de composición heterogénea y con Juan Andrea Doria en funciones navales principales. La autoridad política del virrey no eliminaba las competencias profesionales de los capitanes ni las tensiones con los representantes de Malta. El testimonio de Leyva evidencia una estructura en la que discrepar podía implicar perder influencia. Las dificultades de coordinación importan tanto como la identidad del enemigo, pues las órdenes tardías podían arrastrar barcos y hombres a posiciones difíciles de abandonar. [1][2][4]",
+        "No conviene presentar la isla de Yerba como un espacio vacío dispuesto para la ocupación. Las cartas del virrey aluden al jeque y a los habitantes, a negociaciones de vasallaje, a la provisión de alimentos en el zoco y a una escaramuza que alteró los acuerdos. El poder local no era un decorado: podía suministrar víveres, resistir, negociar o cambiar su actitud ante la llegada de otra flota. La campaña fue también una disputa por relaciones políticas y recursos insulares, no solo por un punto en el mapa. [4]",
+        "La decisión de operar lejos de los puertos italianos exigía controlar tiempos de navegación, aguadas y relevos de tropas. Si una galera debía buscar agua o comida en otro lugar, dejaba de estar disponible para combatir o cubrir la retirada. Si se desembarcaba demasiada gente, el fuerte consumía reservas antes calculadas para una guarnición menor. Estos problemas aparecen repetidamente en los documentos, antes y después del encuentro naval, y permiten formular una hipótesis prudente: la fragilidad logística precedió a la superioridad táctica otomana que la hizo visible. [1][2][4][6]"
+      ]
+    },
+    {
+      "heading": "3. La campaña perdida antes de comenzar: otoño e invierno",
+      "paragraphs": [
+        "Las cartas fechadas en Malta en enero de 1560 describen una expedición que había perdido la estación favorable. Leyva entendía que los meses útiles para atacar Trípoli habían quedado atrás y que la insistencia en continuar había consumido vidas y bastimentos. Sande, en cambio, conservaba confianza en la organización del virrey y esperaba que la llegada de las naves pendientes permitiera reanudar la empresa. No hay que elegir mecánicamente al profeta acertado: cada autor escribía desde una posición diferente en el mando y buscaba influir sobre Felipe II. [1]",
+        "Los temporales retrasaron la reunión de naves en Malta y complicaron los viajes desde Siracusa. Las cartas hablan de galeras enviadas a buscar vituallas, transportes dispersos y hombres enfermos durante una estancia prolongada. En una fuerza anfibia, el invierno no era una pausa inocua: los soldados seguían comiendo, las embarcaciones necesitaban mantenimiento y los remeros padecían las consecuencias de la inmovilidad. El coste de esperar no se limitó a los días de calendario; erosionó la capacidad operativa con la que después se pretendía sorprender a Trípoli. [1][8]",
+        "La divergencia entre Sande y Leyva ofrece una enseñanza metodológica. Sande destaca la esperanza que todavía proporcionaban los suministros previstos; Leyva insiste en los perjuicios que ya habían causado los retrasos. Una lectura retrospectiva podría tratar la confianza del primero como ignorancia y el pesimismo del segundo como certeza. Sería injusto con el momento documental: en enero ninguno conocía el desenlace de mayo. La crítica histórica debe recuperar las alternativas percibidas por los actores sin confundir sus pronósticos con una explicación causal demostrada. [1][5]",
+        "El aprovisionamiento procedente de Sicilia y Nápoles revela la geografía administrativa de la empresa. La misma armada que debía actuar en África dependía de órdenes, pagos, víveres y barcos repartidos por varias plazas. Una pérdida de tiempo en Malta repercutía sobre el transporte hacia la costa africana; una escasez de hombres obligaba a pensar en nuevas levas. La cadena de dependencias convirtió una decisión política aparentemente simple —proseguir la expedición— en una acumulación de riesgos que los testimonios permiten identificar, aunque no cuantificar con exactitud. [1][2][8]"
+      ]
+    },
+    {
+      "heading": "4. De Trípoli a Yerba: desembarco y elección de la fortaleza",
+      "paragraphs": [
+        "Leyva sitúa el desembarco en Los Gelves el 7 de marzo de 1560 y describe una escaramuza al día siguiente, cuando mangas de arcabuceros se adelantaron del grueso y fueron atacadas por combatientes locales. La relación ofrece bajas aproximadas, pero proceden de un participante interesado y no de una contabilidad independiente. Importa más su explicación táctica: la dispersión de las mangas creó un peligro que el movimiento de apoyo del escuadrón pudo corregir. La operación terrestre comenzó, por tanto, con resistencia y negociación, no con un dominio indiscutido. [2]",
+        "Tras los contactos con los habitantes y la ocupación de una posición, el virrey optó por construir un fuerte. Leyva recibió el encargo de reconocer y diseñar la obra con otros técnicos, pero objetó el emplazamiento elegido. Su crítica no era una oposición genérica a las fortificaciones: diferenciaba entre una posición defendible por tierra y otra capaz de proteger un puerto. Esa distinción sería decisiva cuando las galeras necesitaron acercarse a la costa y quedaron condicionadas por bajos y canales. [2][4]",
+        "Según la carta de abril, el emplazamiento impuesto carecía de un fondeadero inmediato para las galeras y obligaba a mantenerlas a distancia de la obra. Leyva prefería un sector oriental con mejores condiciones portuarias y temía que Dragut ocupase ese acceso cuando se retirase la armada. Su razonamiento anticipaba un problema de apoyo mutuo: una fortaleza aislada de sus barcos podía resistir algunos ataques, pero resultaba difícil socorrerla, evacuarla o abastecerla. Es una crítica técnica documentada, no una prueba de que cualquier alternativa hubiera garantizado el éxito. [2]",
+        "El tiempo de construcción era el segundo reparo de Leyva. Comenzar la obra en marzo significaba competir con la posible llegada de la escuadra otomana antes de completar fosos, parapetos y reservas. El virrey, en su relación posterior, subrayaría la rapidez con que habían avanzado los trabajos; ambas observaciones pueden ser ciertas simultáneamente. Un fuerte levantado deprisa podía impresionar a los contemporáneos y seguir siendo insuficiente para una campaña de asedio prolongada. La contradicción no es entre existencia y ausencia de defensas, sino entre dos criterios sobre su utilidad estratégica. [2][4]"
+      ]
+    },
+    {
+      "heading": "5. La inteligencia otomana y la velocidad de las noticias",
+      "paragraphs": [
+        "El aviso de Baltasar Prototico, redactado desde Corfú a finales de abril, proporciona una cronología concreta de circulación informativa. Su informante comunicaba que Pialí había salido de Constantinopla el 5 de abril y que un correo había partido al día siguiente. El aviso llegó a Palermo el 14 de mayo, según la anotación editorial. Es una secuencia especialmente reveladora: conocer un movimiento en Levante no equivalía a disponer de esa noticia a tiempo para decidir en Yerba. La distancia era también una demora administrativa y marítima. [3]",
+        "Prototico recoge cifras de galeras que cambian según el momento del rumor y del informe: primero se esperaban contingentes escalonados y después se anunciaba una fuerza mayor. Esas cantidades no deben sumarse como si representasen unidades distintas ya reunidas. La carta refleja un sistema de información alimentado por correos, observaciones y noticias transmitidas por terceros. Su principal valor para la campaña es mostrar que se conocía la preparación otomana y que la incertidumbre sobre ruta, composición y fecha de llegada persistió hasta muy tarde. [3]",
+        "Las cartas del virrey demuestran que también hubo avisos urgentes próximos al escenario de operaciones. Algunos situaban la escuadra enemiga rumbo a Trípoli, mientras otros alertaban de su posible llegada directa. La discusión sobre si era preciso embarcar inmediatamente ocurrió cuando todavía quedaban soldados y equipos en tierra. La cuestión no era solo recibir un mensaje, sino creerlo, valorar su procedencia y traducirlo en una orden que pudiera cumplirse antes del amanecer. La sorpresa fue, en parte, un fallo de sincronización entre inteligencia y maniobra. [4]",
+        "La superioridad otomana no debe explicarse como omnisciencia. Pialí y sus capitanes también dependían de información sobre dónde estaba el enemigo y de las posibilidades de navegación. El propio virrey recoge noticias atribuidas a prisioneros sobre el paso por los Quérquenes y la detección de luces de la escuadra cristiana. Como son declaraciones transmitidas por adversarios y reelaboradas por el mando derrotado, conviene presentarlas como información de segunda mano. Aun así, apuntan a la importancia del reconocimiento y de las rutas costeras en la localización de una flota vulnerable. [3][4]"
+      ]
+    },
+    {
+      "heading": "6. Mayo de 1560: la retirada naval y el combate",
+      "paragraphs": [
+        "Las relaciones de Juan de la Cerda y Juan Andrea Doria no narran una batalla ordenada entre dos líneas simétricas. Describen una evacuación incompleta, galeras que intentaron escapar, cambios de viento, bajos y canales, y embarcaciones perseguidas por una fuerza otomana que ganó la posición favorable. El virrey relata que algunas naves buscaron refugio hacia el fuerte y otras se dirigieron a los pasos de los Quérquenes. Doria insiste en la dificultad de maniobrar con viento contrario. El desenlace combinó persecución, encalladuras y capturas. [4]",
+        "La cronología precisa exige prudencia. Las cartas reconstruyen el episodio desde la llegada de avisos en torno al 8 de mayo y las maniobras de los días siguientes; las síntesis modernas pueden emplear un intervalo más amplio para la batalla naval. Por eso se utiliza «mayo de 1560» como fecha segura del choque, sin convertir una sola jornada en explicación de toda la campaña. La carta del virrey fechada el 18 de mayo y la de Doria del 26 muestran además que la información sobre pérdidas todavía se estaba reuniendo después de que ambos escaparan. [4]",
+        "La importancia de los fondos someros se aprecia en las galeras que no pudieron entrar hasta el fuerte y quedaron varadas. Un barco más grande y cargado necesitaba un calado y un espacio de maniobra que no siempre existían. Doria cuenta que su propia galera no pudo protegerse bajo la fortificación y que otras siguieron la misma suerte. La configuración del litoral, criticada antes por Leyva, adquirió entonces un efecto táctico inmediato: separó la protección que ofrecía la artillería de tierra de las necesidades reales de una flota en retirada. [2][4]",
+        "Ambos jefes explican sus acciones con un lenguaje de obediencia, servicio y honor. El virrey se presenta preocupado por los hombres que quedaban y por la defensa de Sicilia; Doria destaca que había advertido del peligro y que actuó sin desobedecer las órdenes recibidas. Ninguno de esos relatos es una sentencia imparcial sobre la responsabilidad del otro. La comparación permite establecer que existió una disputa de criterio y una retirada desordenada, pero no autoriza a atribuir cada pérdida a la cobardía de un individuo. [4]"
+      ]
+    },
+    {
+      "heading": "7. Balance de la catástrofe y límites de las cifras",
+      "paragraphs": [
+        "Las pérdidas fueron muy graves, pero los balances inmediatos son incompletos. En la relación del virrey aparecen noticias sobre galeras salvadas por distintos pasos, embarcaciones que se creían perdidas y otras cuya suerte nadie había presenciado. Doria también reconoce que no conocía todavía cuántas habían sido apresadas durante la persecución. Cualquier cifra cerrada atribuida al mismo día del combate ocultaría esa incertidumbre. La investigación distingue por ello el dato contemporáneo provisional del cálculo historiográfico posterior, sin ofrecer un total que las fuentes examinadas no permiten reconciliar. [4]",
+        "La composición de la armada introduce otra dificultad. Los textos hablan de galeras, galeotas, fragatas, naos y otras embarcaciones, pero no todas cumplían funciones equivalentes. Un transporte perdido no tiene el mismo significado táctico que una galera de combate capturada; una nave varada podía ser abandonada sin hundirse; una galera que llegaba a Malta no necesariamente estaba en condiciones de volver al servicio. La expresión «la mitad de la flota» puede ser útil como imagen de desastre, pero necesita una definición de qué unidades se cuentan. [1][2][4]",
+        "Tampoco es seguro transformar las cifras de soldados embarcados, remeros y defensores del fuerte en una sola estadística de muertos. Los hombres pudieron morir durante la navegación invernal, en las escaramuzas de marzo, en la persecución naval o en el asedio posterior; otros fueron capturados y algunos lograron huir. Las cartas de cautiverio prueban que una parte importante de los supervivientes tuvo una historia posterior que no cabe bajo la palabra «bajas». La contabilidad histórica requiere separar periodos, categorías y procedencias documentales. [1][4][7]",
+        "La ficha académica del trabajo de Ertuğrul Önalp confirma la existencia de una investigación especializada sobre la expedición de 1560, pero no se ha leído su contenido íntegro durante esta ejecución. No sería correcto utilizarla para adjudicar una cifra o un juicio táctico concreto. Su presencia en la bibliografía señala una vía de contraste pendiente, mientras que el análisis cuantitativo de esta monografía permanece deliberadamente conservador. Es preferible conservar un vacío verificable a presentar como precisión una cifra repetida de manera acrítica. [8][11]"
+      ]
+    },
+    {
+      "heading": "8. El fuerte de Álvaro de Sande: hombres, cisternas y trincheras",
+      "paragraphs": [
+        "Después de la pérdida naval, Álvaro de Sande quedó al frente de quienes no pudieron embarcar y de otros refugiados. El virrey reconoce que el fuerte estaba preparado para una guarnición menor que la finalmente reunida. La desproporción afectaba especialmente al agua: unas cisternas suficientes para el plan original podían agotarse con rapidez si se multiplicaban los consumidores. Esta relación entre capacidad de almacenamiento y población encerrada explica mejor la crisis posterior que una supuesta falta absoluta de valor de los defensores. [4][5][6]",
+        "La carta de Sande del 4 de junio describe una salida contra las trincheras otomanas, con ocupación temporal de posiciones y daños en piezas de artillería. El comandante estimó un número elevado de bajas enemigas, pero ese cálculo pertenece a su propia relación y no se presenta aquí como balance confirmado. También consignó muertos de su lado, entre ellos oficiales, y pidió que se acelerase la reunión de una armada de socorro. El documento muestra una defensa activa, capaz de emprender ataques locales, sin que ello modificase el cerco marítimo. [5]",
+        "Sande relató además el ensayo de un procedimiento para obtener agua potable del mar. Su carta transmite entusiasmo por una prueba inicial, pero admite que el problema decisivo era la cantidad que podría producirse. Este matiz impide convertir una experiencia prometedora en solución técnica demostrada. La guarnición no necesitaba solo que un alambique funcionase una vez: requería una producción sostenida, combustible, recipientes y distribución para numerosos hombres. La diferencia entre éxito experimental y viabilidad operativa resulta central para comprender la esperanza de junio y el fracaso de agosto. [5][6]",
+        "En julio, Sande consideraba que los sitiadores preferían vencer por sed antes que lanzar un asalto frontal. Afirmaba que las trincheras enemigas limitaban las ocasiones de combate abierto y esperaba resistir mientras se preparaba un socorro. Su carta muestra confianza y también una percepción razonable del peligro: si el enemigo mantenía el bloqueo y no era posible reponer agua, el tiempo favorecía a los sitiadores. La resistencia del fuerte no desmiente la derrota naval; prolonga sus consecuencias en otra escala de la guerra. [6]"
+      ]
+    },
+    {
+      "heading": "9. La caída de la posición y la cronología discutida",
+      "paragraphs": [
+        "La comunicación de Sande fechada el 6 de agosto de 1560 anuncia que ha perdido la libertad tras agotarse las cisternas. Se trata de una prueba contemporánea de que la posición ya había caído para esa fecha. Algunas cronologías divulgativas sitúan la rendición a finales de julio; con la documentación aquí leída no es prudente convertir una de esas fechas en día exacto indiscutible. La carta del 6 de agosto fija un límite cronológico seguro y aporta la causa que el propio comandante consideraba inmediata: la falta de agua. [6][8]",
+        "El comandante afirmó haber hecho lo que había previsto cuando faltase el agua y añadió una crítica al comportamiento de parte de sus hombres. Ese reproche no puede utilizarse como diagnóstico independiente de desmoralización general. Fue escrito después de una derrota y participa de una defensa personal del honor militar. Los sitiados habían combatido durante semanas, pero la fuente no permite medir la conducta de cada compañía ni distinguir por completo entre cansancio, enfermedad, deserción y decisiones tácticas. La frase revela una interpretación del jefe, no una investigación disciplinaria. [5][6]",
+        "La secuencia del sitio ayuda a explicar por qué no bastaba con reforzar muros. El enemigo podía atrincherarse, controlar accesos, impedir el tráfico marítimo y esperar a que los recursos interiores disminuyesen. Los defensores podían responder con artillería o salidas, pero ninguna acción local garantizaba romper el cerco exterior. En términos estratégicos, la fortaleza necesitaba una escuadra que no estaba disponible en condiciones suficientes. El punto de ruptura fue, por tanto, la separación entre resistencia táctica y posibilidad de socorro. [2][4][6]",
+        "La derrota del fuerte completó la transformación del objetivo original. Una expedición destinada a amenazar Trípoli terminó obligando a Sicilia a defender sus propias costas, reunir barcos supervivientes y negociar por oficiales cautivos. El fracaso no fue solo una pérdida territorial momentánea: alteró prioridades, presupuestos y redes de comunicación. Esta consecuencia se advierte en las cartas posteriores del virrey y en los registros archivísticos de junio, que siguen hablando de socorros cuando la situación militar se había vuelto extremadamente comprometida. [7][8][9][10]"
+      ]
+    },
+    {
+      "heading": "10. Cautiverio, rescates y la guerra después de la batalla",
+      "paragraphs": [
+        "Las cartas de octubre de Sande y Leyva abren una fase que los relatos exclusivamente navales suelen omitir. El repertorio documental sitúa la llegada de cautivos a Estambul a finales de septiembre y su presentación ante Solimán al comenzar octubre. Los dos oficiales escribieron desde lugares de prisión diferentes y expusieron necesidades familiares, de salud y de dinero. El desenlace militar había terminado, pero para los supervivientes comenzó una negociación prolongada en la que intervinieron autoridades, intermediarios y acreedores. [7]",
+        "La correspondencia de Leyva describe problemas físicos y la angustia por sus hijos, también cautivos. Sus peticiones de mediación muestran que la jerarquía de un oficial no lo protegía de la incertidumbre. La posibilidad de rescate dependía de comunicaciones que atravesaban territorios enemigos, de decisiones de altos funcionarios otomanos y de la obtención de recursos financieros. No puede reducirse este mundo a una escena heroica de prisión: era una economía política de la guerra en la que cada persona estaba vinculada a redes de obligaciones y promesas. [7]",
+        "La presencia de mediadores y comerciantes no constituye una anécdota secundaria. Las noticias de la serie documental hablan de negociaciones previas por cautivos destacados y de gestiones desde Sicilia. La movilización de dinero y agentes muestra que el Estado no podía resolver la captura de sus oficiales únicamente mediante una orden militar. Los rescates requerían crédito, confianza y acceso a interlocutores. Las cartas, además, advierten contra la tentación de considerar a los cautivos como una cifra indiferenciada: sus situaciones jurídicas, familiares y económicas eran distintas. [7][8]",
+        "Las fichas de PARES sobre cartas de Andrea Doria y del embajador Gómez Suárez de Figueroa confirman que en junio circulaban noticias sobre socorros a los hombres de Sande. Esas fichas permiten documentar la existencia, fecha y asunto de los papeles, pero no autorizan a atribuir a sus autores argumentos que no figuran en la descripción. Sirven para situar una red de correspondencia oficial paralela a las cartas publicadas por Archivo de la Frontera. La distinción entre documento localizado y documento leído evita construir un archivo imaginario. [9][10][12]"
+      ]
+    },
+    {
+      "heading": "11. Responsabilidades y versiones contrapuestas",
+      "paragraphs": [
+        "La crítica de Leyva fue anterior al desenlace y, por ello, posee un valor particular: no es solo una explicación inventada después de perder. Identificó la estación inadecuada, la erosión de los bastimentos, la ubicación del fuerte y el peligro de una llegada rápida de la flota otomana. Pero tampoco es un testigo neutral. Se sentía marginado por el virrey y escribía directamente al rey para defender su juicio profesional. Su anticipación de problemas reales debe valorarse junto con ese interés personal. [1][2]",
+        "Medinaceli y Doria escribieron después de la catástrofe y justificaron decisiones distintas. El primero insistió en su obligación de atender a quienes quedaban en tierra y en la necesidad de reorganizar la defensa de Sicilia; el segundo sostuvo que había intentado preservar la escuadra y que el viento impedía ejecutar la retirada prevista. Las versiones coinciden en la gravedad del desastre, pero no distribuyen la responsabilidad del mismo modo. Compararlas es más fructífero que repetir una acusación de cobardía que ninguna de las fuentes permite probar por sí sola. [4]",
+        "El propio Sande presenta una trayectoria documental cambiante. En enero se mostraba confiado en la empresa; en junio esperaba un socorro y comunicaba éxitos parciales; en julio imaginaba una resistencia prolongada; en agosto informaba de la pérdida de libertad. Esa evolución no exige calificarlo de incompetente ni de héroe infalible. Sus cartas demuestran cómo las expectativas se ajustaban a la información disponible y a las necesidades de mantener la disciplina. La distancia entre promesa y resultado constituye una evidencia histórica que debe explicarse, no ocultarse. [1][5][6]",
+        "La evaluación de mando más sólida es sistémica: una expedición tardía, abastecimientos consumidos, un objetivo cambiado, una fortificación con problemas de acceso marítimo, avisos cuya llegada y credibilidad no coincidían con las decisiones, y una escuadra sorprendida en un litoral difícil. Cada factor por separado pudo ser manejable; su acumulación redujo el margen de error. La victoria otomana tuvo agentes y decisiones propias, pero la documentación hispánica disponible permite demostrar especialmente cómo la coalición fue quedando expuesta antes del contacto decisivo. [1][2][3][4][6]"
+      ]
+    },
+    {
+      "heading": "12. Consecuencias estratégicas, memoria y conclusiones",
+      "paragraphs": [
+        "Los Gelves dejó al descubierto los límites de la proyección marítima de Felipe II en el Mediterráneo central. La pérdida de barcos, hombres y oficiales no supuso que desapareciera de inmediato la capacidad naval de la Monarquía, pero sí obligó a reconsiderar recursos y prioridades. La serie documental conserva cartas sobre la reunión de nuevas galeras, el aprovisionamiento de otras plazas y los rescates. Esos papeles permiten afirmar una continuidad de esfuerzos defensivos y diplomáticos; no autorizan a calcular por sí solos el coste fiscal total de la campaña. [4][7][8][9]",
+        "La comparación con Lepanto, once años después, debe hacerse con cautela. Gelves muestra el peligro de una coalición que no consigue sincronizar logística, mando y retirada; Lepanto pertenece a otro contexto operativo y político. No es riguroso presentar una batalla como simple revancha de la otra ni convertir el resultado de 1560 en prueba de dominio otomano absoluto durante toda la década. La potencia naval variaba por campañas, estaciones, recursos y aliados. La utilidad del episodio reside precisamente en estudiar una derrota sin transformarla en destino inevitable. [3][4][8]",
+        "La memoria de Gelves suele concentrarse en la figura de Sande y en la espectacularidad del desastre. Las cartas amplían el reparto de protagonistas: los soldados que construyeron el fuerte, los marineros que intentaron cruzar los canales, los habitantes de la isla que negociaron o combatieron, los mensajeros de Levante y los cautivos cuya suerte dependía de terceros. También muestran la voz otomana solo de forma indirecta, a través de noticias recogidas por sus enemigos. Esa asimetría obliga a reconocer que la documentación aquí estudiada es fundamentalmente hispano-italiana. [2][3][4][7]",
+        "La conclusión principal no es que una sola decisión equivocada causara la derrota, sino que una campaña anfibia perdió sucesivamente sus condiciones de viabilidad. La empresa de Trípoli consumió su oportunidad estacional, el fuerte de Yerba quedó separado de un apoyo naval seguro, la llegada otomana convirtió la retirada en persecución y el asedio agotó el recurso que más necesitaba la guarnición. La historiografía futura podrá revisar cifras y responsabilidades con otros fondos; esta monografía deja visibles sus fuentes, sus límites de lectura y las discrepancias que no deben disimularse. [1][2][3][4][5][6][7]"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "n": 1,
+      "name": "Archivo de la Frontera / CEDCS, Sancho de Leyva y Álvaro de Sande: cartas desde Malta, enero de 1560 (AGS, Estado, leg. 1125, docs. 7 y 8)",
+      "url": "https://www.archivodelafrontera.com/wp-content/uploads/2021/03/01-1560-01-28-Sancho-de-Leyva-desde-Malta-Malestar-por-la-empresa-de-Tr%C3%ADpoli.pdf",
+      "kind": "Edición documental de cartas de 1560, 17 páginas",
+      "verified_at": "2026-10-30",
+      "verification_note": "Lectura SELECTIVA de la transcripción modernizada y su estudio introductorio, en particular cartas de enero y abastecimiento. NO se leyó íntegramente el PDF ni se cotejaron originales."
+    },
+    {
+      "n": 2,
+      "name": "Archivo de la Frontera / CEDCS, Sancho de Leyva: carta de 2 de abril de 1560 (AGS, Estado, leg. 1125, doc. 28)",
+      "url": "https://www.archivodelafrontera.com/wp-content/uploads/2021/03/05-1560-04-2-Sancho-de-Leyva-desde-los-Gelves-sigue-con-su-malestar-por-la-empresa.pdf",
+      "kind": "Edición documental de carta crítica, 11 páginas",
+      "verified_at": "2026-10-30",
+      "verification_note": "Lectura SELECTIVA de la carta modernizada y pasajes de la transcripción original, en especial fechas, fortificación y críticas técnicas. NO lectura íntegra del PDF."
+    },
+    {
+      "n": 3,
+      "name": "Archivo de la Frontera / CEDCS, Baltasar Prototico: aviso de Corfú de 30 de abril de 1560 (AGS, Estado, leg. 485)",
+      "url": "https://www.archivodelafrontera.com/wp-content/uploads/2021/03/06-1560-04-Baltasar-Prototico-desde-Corf%C3%BA.pdf",
+      "kind": "Edición y traducción de aviso de inteligencia, 7 páginas",
+      "verified_at": "2026-10-30",
+      "verification_note": "Lectura de la presentación y de los pasajes de traducción sobre movimientos de Pialí y cadena de avisos, con cotejo SELECTIVO del italiano transcrito; no cotejo de manuscrito."
+    },
+    {
+      "n": 4,
+      "name": "Archivo de la Frontera / CEDCS, Juan de la Cerda y Juan Andrea Doria: dos relaciones de mayo de 1560 (AGS, Estado, leg. 1125, docs. 49 y 58)",
+      "url": "https://www.archivodelafrontera.com/wp-content/uploads/2021/03/07-1560-05-18-Juan-de-la-Cerda-y-Juan-Andrea-Doria-en-los-Gelves.pdf",
+      "kind": "Edición documental comparada, 24 páginas",
+      "verified_at": "2026-10-30",
+      "verification_note": "Lectura SELECTIVA de ambos relatos modernizados y de pasajes originales sobre maniobras, bajas provisionales y justificaciones; NO lectura íntegra de las 24 páginas."
+    },
+    {
+      "n": 5,
+      "name": "Archivo de la Frontera / CEDCS, Álvaro de Sande: carta de 4 de junio de 1560 (AGS, Estado, leg. 1125, doc. 71)",
+      "url": "https://www.archivodelafrontera.com/wp-content/uploads/2021/03/10-1560-06-4-Alvaro-de-Sande-y-optimismo-desde-los-Gelves.pdf",
+      "kind": "Edición documental de carta desde el fuerte, 7 páginas",
+      "verified_at": "2026-10-30",
+      "verification_note": "Lectura SELECTIVA de la transcripción modernizada y parte de la original, incluidas salida contra trincheras y ensayo de agua potable; no lectura íntegra."
+    },
+    {
+      "n": 6,
+      "name": "Archivo de la Frontera / CEDCS, Álvaro de Sande: cartas de 11 de julio y 6 de agosto de 1560 (AGS, Estado, leg. 485)",
+      "url": "https://www.archivodelafrontera.com/wp-content/uploads/2021/05/17-1560-08-ALVARO-DE-SANDE-desde-el-Fuerte-de-los-Gelbes.pdf",
+      "kind": "Edición documental de dos cartas, 7 páginas",
+      "verified_at": "2026-10-30",
+      "verification_note": "Leído ÍNTEGRAMENTE el cuerpo de las dos cartas modernizadas y la presentación editorial; cotejo parcial de la transcripción antigua; no manuscrito original."
+    },
+    {
+      "n": 7,
+      "name": "Archivo de la Frontera / CEDCS, Álvaro de Sande y Sancho de Leyva: cartas desde cautiverio, octubre de 1560 (AGS, Estado, leg. 485)",
+      "url": "https://www.archivodelafrontera.com/wp-content/uploads/2021/05/19-1560-10-LEYVA-Y-SANDE-DESDE-EL-CAUTIVERIO.pdf",
+      "kind": "Edición documental de cartas desde Estambul, 15 páginas",
+      "verified_at": "2026-10-30",
+      "verification_note": "Lectura SELECTIVA de la introducción y de la carta de Leyva; NO lectura íntegra de ambas cartas ni cotejo manuscrito."
+    },
+    {
+      "n": 8,
+      "name": "Archivo de la Frontera / CEDCS, La expedición de los Gelves del duque de Medinaceli y su final desastrado (repertorio de 20 entregas)",
+      "url": "https://www.archivodelafrontera.com/archivos/la-expedicion-de-los-gelves-del-duque-de-medinaceli-juan-de-la-cerda-y-su-final-desastrado-en-el-verano-de-1560/",
+      "kind": "Índice científico-editorial de fuentes primarias transcritas",
+      "verified_at": "2026-10-30",
+      "verification_note": "Leída ÍNTEGRAMENTE la página índice con sus 20 resúmenes y referencias archivísticas. No se leyeron íntegramente los 20 expedientes."
+    },
+    {
+      "n": 9,
+      "name": "PARES / Archivo General de Simancas, Carta de Andrea Doria a Felipe II sobre socorros a Los Gelves, 13 de junio de 1560, EST,LEG,1389,68",
+      "url": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/3568788",
+      "kind": "Ficha archivística de fuente primaria",
+      "verified_at": "2026-10-30",
+      "verification_note": "Consultada SOLO la FICHA descriptiva y signatura recuperadas mediante índice web; no el documento manuscrito ni sus imágenes."
+    },
+    {
+      "n": 10,
+      "name": "PARES / Archivo General de Simancas, Carta de Gómez Suárez de Figueroa a Felipe II, 19 de junio de 1560, EST,LEG,1389,20",
+      "url": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/3565823",
+      "kind": "Ficha archivística de fuente primaria",
+      "verified_at": "2026-10-30",
+      "verification_note": "Consultada SOLO la FICHA y resumen archivístico sobre socorros y suministros; no el manuscrito."
+    },
+    {
+      "n": 11,
+      "name": "Ertuğrul Önalp, La expedición española contra la isla de Gelves en 1560, OTAM, vol. 7 (1996), DOI 10.1501/OTAM_0000000156",
+      "url": "https://dergipark.org.tr/en/pub/otam/article/132572",
+      "kind": "Artículo académico, registro bibliográfico universitario",
+      "verified_at": "2026-10-30",
+      "verification_note": "Verificada SOLO la FICHA bibliográfica, autoría, revista, año y DOI mediante resultado de búsqueda; acceso al texto falló. NO se leyó el artículo y no se le atribuyen conclusiones específicas."
+    },
+    {
+      "n": 12,
+      "name": "PARES / Archivo General de Simancas, Avisos del fuerte de Los Gelves por galeotas y cartas de Sande, EST,LEG,1389,188",
+      "url": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/3571926",
+      "kind": "Ficha archivística de aviso primario, probable 1560",
+      "verified_at": "2026-10-30",
+      "verification_note": "Consultada SOLO la FICHA archivística recuperada en búsqueda web; el acceso directo sufrió limitación temporal y no se consultó la imagen."
+    }
+  ],
+  "editorial_note": "Investigación original de síntesis crítica a 30-10-2026. Fuentes primarias publicadas por CEDCS y fichas de PARES; alcance de consulta individual explícito. No se consultaron manuscritos originales ni el artículo de Önalp completo. Se documentan discrepancias de cronología, efectivos y responsabilidades. Sin imágenes ni citas textuales extensas. Se revisaron inventory, entries y cola; Pavía y reservas intactas.",
+  "status": "revisado",
+  "not_before": "2026-10-30",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-10-30",
+    "notes": "4173 palabras de desarrollo, 12 secciones, 48 párrafos referenciados, 12 fuentes documentales/académicas verificadas con alcance de lectura diferenciado. Cifras y cronologías disputadas explicitadas. Sin imágenes. Pavía, inventario, ledger y reservas preservados.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "a145b3a480c46fa25564f6f98ec7a6104d6365ce64f5109a2c90aa2ba8e955ad"
+  }
+}
