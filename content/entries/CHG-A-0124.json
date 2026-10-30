@@ -258,7 +258,7 @@
     }
   ],
   "editorial_note": "Investigación de síntesis documental original, sin imágenes ni citas extensas, realizada el 30-10-2026. Fuentes de lectura completa y de solo ficha distinguidas; no se presenta consulta archivística original ni arbitraje externo. Discrepancias de cronología, efectivos y bajas documentadas. Inventario, entradas y cola inspeccionados; Pavía y reservas sin modificación.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
@@ -272,5 +272,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "e5f815b424bf50a984e9dce32ef74276b6d36bc4552f24dfaa90aa7ce16d6bf0"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T11:49:51.667Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30"
 }
