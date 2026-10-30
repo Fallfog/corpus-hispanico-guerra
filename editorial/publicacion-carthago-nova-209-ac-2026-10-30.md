@@ -4,7 +4,7 @@ Fecha: 2026-10-30. Orden del titular: «Seguimos con otra». Expediente CHG-A-01
 
 ## Investigación, contraste y revisión
 
-- Inventario previo: 105 fichas publicadas; cola revisada con 14 expedientes. Comprobado que el ID, slug y topic_key de Carthago Nova no constan entre los publicados.
+- Inventario previo: 105 fichas publicadas; cola revisada con 13 expedientes. Comprobado que el ID, slug y topic_key de Carthago Nova no constan entre los publicados.
 - Desarrollo conservado íntegro: 4328 palabras, 13 apartados, 52 párrafos con referencia y 8 fuentes documentadas.
 - Aprobación documental preexistente de 2026-10-30, con sello de contenido SHA-256 `a604fc2a070b04db13299f4002bc7c8f2957f9fd39db4dcdb454f6c9aa0eaf12`. Se modifican solo campos de gestión que están excluidos de la huella aprobada.
 - Comprobación adicional de Polibio, Historias 10.6–20, del extracto del artículo académico de J. H. Richardson (2018) y del portal patrimonial de Cartagena Puerto de Culturas. Las divergencias sobre la laguna y el descenso de las aguas se tratan como un problema historiográfico, no una certeza física reconstruida.
@@ -47,6 +47,6 @@ Comprobación documental declarada: Consultados ficha institucional, metadatos y
 
 ## Publicación y verificación técnica
 
-Se traslada `content/cola/CHG-A-0121.json` a `content/entries/CHG-A-0121.json` y se actualizan inventario, registro de publicaciones y resumen de estado. Resultan 106 monografías en el archivo y 13 en cola.
+Se traslada `content/cola/CHG-A-0121.json` a `content/entries/CHG-A-0121.json` y se actualizan inventario, registro de publicaciones y resumen de estado. Resultan 106 monografías en el archivo y 12 en cola.
 Se mantienen `editorial/config.json` con `paused: true` y generación desactivada, la selección congelada del Volumen I y las reservas de otras fichas.
 El commit debe activar en GitHub las pruebas y la compilación; se verifican sus resultados posteriormente. Cloudflare Workers no se declara verificado hasta disponer de URL real y comprobación HTTP.
