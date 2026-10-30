@@ -259,7 +259,7 @@
     "fortificaciones"
   ],
   "editorial_note": "Estudio crítico original, con referencias por párrafo. Verificación documental efectuada el 29-10-2026: fuentes institucionales, fichas de estampas, síntesis histórica y estudios académicos; se distingue expresamente lectura íntegra, parcial y de extractos. Las cifras de víctimas y efectivos no se homologan. Pendiente una investigación archivística directa de partes, registros demográficos y la crónica completa de Alonso Vázquez.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-29",
   "approval": {
     "reviewer": "Revisión historiográfica asistida por IA; sin arbitraje académico externo",
@@ -273,5 +273,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "c76c53fa3d4c17b99a87550e111cf138900ac9c10f9cf84938d76e40fc759de9"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T11:52:43.698Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-29"
 }
