@@ -922,5 +922,26 @@
     "topic_key": "batalla-arroyomolinos-montanchez-1811",
     "title": "Arroyomolinos, 1811: Hill, Girón y Morillo en la sorpresa de la división de Girard",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0141",
+    "slug": "carabobo-1821-bolivar-la-torre-batalla-consecuencias",
+    "topic_key": "batalla-carabobo-1821-bolivar-la-torre",
+    "title": "Carabobo, 1821: Bolívar, La Torre y una victoria que no terminó la guerra",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0142",
+    "slug": "tucapel-1553-lautaro-valdivia-resistencia-mapuche",
+    "topic_key": "batalla-tucapel-1553-lautaro-valdivia",
+    "title": "Tucapel, 1553: Lautaro, Valdivia y la victoria mapuche que quebró una conquista",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0143",
+    "slug": "sagunto-219-ac-anibal-arse-asedio-y-guerra-punica",
+    "topic_key": "asedio-sagunto-219-ac-anibal-arse",
+    "title": "Sagunto, 219 a. C.: Aníbal, Arse y el asedio que precipitó una guerra mediterránea",
+    "category": "Acciones militares"
   }
 ]

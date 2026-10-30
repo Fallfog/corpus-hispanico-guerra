@@ -228,7 +228,7 @@
     }
   ],
   "editorial_note": "Investigación original asistida por IA, sin arbitraje externo. Se distingue la lectura de apartados clásicos, de páginas completas, de folletos y de resúmenes académicos; se evitan cifras no contrastadas, citas inventadas y reconstrucciones arqueológicas no documentadas. Sin imágenes ajenas.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
@@ -242,5 +242,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "0eeba991363725bc3d9175ade89a8eefc6acb24a0c88a85ea14e2c04ab3f1879"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T17:53:36.506Z",
+  "publication_slot": "extraordinaria-manual-lote",
+  "last_reviewed": "2026-10-30"
 }

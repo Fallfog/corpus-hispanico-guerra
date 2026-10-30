@@ -252,7 +252,7 @@
     }
   ],
   "editorial_note": "Monografía original de investigación documental asistida por IA, sin arbitraje académico externo. La lectura se ha distinguido entre íntegra de páginas web, selectiva de documentos, y fichas o resúmenes académicos. No se atribuyen al artículo completo afirmaciones procedentes solo del resumen. Se señalan las discrepancias sobre fecha, número de combatientes, muerte de Valdivia y alcance de la rebelión. Sin imágenes ajenas.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
@@ -266,5 +266,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "3afb1a395cfd34123bcca53db3834151856c42c8d00fb06f09969777a22745c5"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T17:53:36.506Z",
+  "publication_slot": "extraordinaria-manual-lote",
+  "last_reviewed": "2026-10-30"
 }

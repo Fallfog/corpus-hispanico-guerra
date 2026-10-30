@@ -244,7 +244,7 @@
     }
   ],
   "editorial_note": "Monografía original con revisión documental asistida por IA, no arbitraje académico externo. Se separan lectura íntegra, lectura selectiva y consulta de fichas o resúmenes. Las cifras divergentes de efectivos y bajas no se presentan como definitivas. No incluye imágenes ajenas. El manuscrito del parte y el manifiesto de La Torre no han sido cotejados directamente.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
@@ -258,5 +258,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "f3a5cad139407f15340238b67accd05484fd9edeaff5c31f20c29df1a4f5046c"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T17:53:36.506Z",
+  "publication_slot": "extraordinaria-manual-lote",
+  "last_reviewed": "2026-10-30"
 }
