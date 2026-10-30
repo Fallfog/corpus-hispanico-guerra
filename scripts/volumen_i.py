@@ -120,8 +120,7 @@ def write_indices(entries,refs):
     (OUTPUT/"indice-historico-bibliografia.md").write_text("\n".join(lines)+"\n",encoding="utf-8")
 
 def pdf_book(entries,refs):
-    from reportlab import colors
-    from reportlab.lib import pagesizes
+    from reportlab.lib import colors, pagesizes
     from reportlab.lib.enums import TA_CENTER, TA_LEFT
     from reportlab.lib.styles import ParagraphStyle
     from reportlab.lib.units import mm
