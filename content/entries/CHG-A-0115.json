@@ -274,7 +274,7 @@
     }
   ],
   "editorial_note": "Monografía original de 4525 palabras de desarrollo, 15 secciones y 45 párrafos citados, con nueve fuentes documentales, académicas e institucionales y grados de consulta explícitos. Confrontados estudios de Fé Cantó, Bravo Caro, García González, Rega Castro y fuentes institucionales. Se diferencian las cifras de buques, los efectivos teóricos, la fecha de desembarco, la entrada en la ciudad y los combates posteriores. Los impresos de 1732 se citan solo como fichas bibliográficas, no como fuentes primarias leídas. No se han consultado originales archivísticos ni reproducido imágenes ajenas. Revisión asistida por IA, sin arbitraje académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje académico externo",
@@ -288,5 +288,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "0dde0f9b5e6a87334c0f29d1309e328c4f7ed27acb136579c821be135c2cac16"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T10:35:27.389Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30"
 }
