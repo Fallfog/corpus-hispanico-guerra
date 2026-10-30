@@ -628,5 +628,20 @@
     "id": "CHG-A-0136",
     "at": "2026-10-30T13:44:53.164Z",
     "mode": "Publicación extraordinaria manual de un lote de tres; automatización inactiva"
+  },
+  "2026-10-30/lote-130-132/CHG-A-0138": {
+    "id": "CHG-A-0138",
+    "at": "2026-10-30T14:42:59.884Z",
+    "mode": "Publicación manual conjunta de tres investigaciones, generación y calendario automáticos desactivados"
+  },
+  "2026-10-30/lote-130-132/CHG-A-0139": {
+    "id": "CHG-A-0139",
+    "at": "2026-10-30T14:42:59.884Z",
+    "mode": "Publicación manual conjunta de tres investigaciones, generación y calendario automáticos desactivados"
+  },
+  "2026-10-30/lote-130-132/CHG-A-0140": {
+    "id": "CHG-A-0140",
+    "at": "2026-10-30T14:42:59.884Z",
+    "mode": "Publicación manual conjunta de tres investigaciones, generación y calendario automáticos desactivados"
   }
 }

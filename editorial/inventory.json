@@ -901,5 +901,26 @@
     "topic_key": "segunda-batalla-castalla-1813-guerra-independencia",
     "title": "Castalla, 1813: Murray, Suchet y la resistencia aliada en las montañas de Alicante",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0138",
+    "slug": "toro-1476-fernando-alfonso-v-juana-sucesion",
+    "topic_key": "batalla-toro-1476-sucesion-castellana",
+    "title": "Toro, 1476: Fernando, Alfonso V y una victoria política de resultado militar disputado",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0139",
+    "slug": "brihuega-1710-stanhope-vendome-capitulacion",
+    "topic_key": "batalla-brihuega-1710-vendome-stanhope",
+    "title": "Brihuega, 1710: Vendôme, Stanhope y la capitulación que cambió la campaña",
+    "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0140",
+    "slug": "arroyomolinos-1811-hill-girard-giron-morillo",
+    "topic_key": "batalla-arroyomolinos-montanchez-1811",
+    "title": "Arroyomolinos, 1811: Hill, Girón y Morillo en la sorpresa de la división de Girard",
+    "category": "Acciones militares"
   }
 ]
