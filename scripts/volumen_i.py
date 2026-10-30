@@ -45,13 +45,19 @@ def year(e):
     value=e.get("chronology")
     if isinstance(value,(int,float)) and not isinstance(value,bool):
         return int(value)
-    for candidate in (str(e.get("title","")),str(value),str(e.get("date",""))):
-        m=re.search(r"(?<!\d)(\d{1,4})(?!\d)",candidate)
+    # Algunos artículos conservan una secuencia de eventos con días y meses.
+    # Nunca ordenar por el primer día (24) de una cronología narrativa de 1625.
+    candidates=[str(e.get("title","")),str(e.get("date","")),str(value)]
+    for candidate in candidates:
+        m=re.search(r"(?<!\d)(\d{3,4})(?!\d)",candidate)
         if m:
             y=int(m.group(1))
             if re.search(r"a\.?\s*C\.?|antes de (?:nuestra era|Cristo)",candidate,re.I):
                 y=-y
             return y
+    for candidate in candidates:
+        m=re.search(r"(?<!\d)(\d{1,2})(?!\d)\s*a\.?\s*C\.?",candidate,re.I)
+        if m:return -int(m.group(1))
     raise ValueError("Cronología no reconocible: "+e["id"])
 
 def load():
