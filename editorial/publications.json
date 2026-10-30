@@ -513,5 +513,10 @@
     "id": "CHG-A-0121",
     "at": "2026-10-30T10:17:38.937Z",
     "mode": "publicación editorial extraordinaria ordenada por el titular; automatización desactivada"
+  },
+  "2026-10-30/extra-A-0118": {
+    "id": "CHG-A-0118",
+    "at": "2026-10-30T10:21:59.732Z",
+    "mode": "Publicación manual extraordinaria autorizada por el titular; sin habilitar automatización"
   }
 }

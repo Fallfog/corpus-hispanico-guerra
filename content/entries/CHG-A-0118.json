@@ -247,7 +247,7 @@
     }
   ],
   "editorial_note": "Estudio original sin imágenes. Se comprobó inventario (100), entradas (100) y cola (10 JSON) antes de seleccionar tema nuevo. Las siete fuentes tienen alcance real de consulta declarado: artículos largos leídos selectivamente, resumen académico, páginas institucionales y actas primarias consultadas parcialmente; no se atribuye lectura íntegra inexistente. Diferencias de cronología, cifras y escalas de victoria explicitadas. No hay revisión por pares externa ni comprobación directa de archivos originales.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
@@ -261,5 +261,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "5d7f30234a8a8b0b388c887d62d2c6cdce544c545c0a889c3b79eac908b8c1b1"
-  }
+  },
+  "last_reviewed": "2026-10-30",
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T10:21:59.732Z",
+  "publication_slot": "extraordinaria-manual"
 }
