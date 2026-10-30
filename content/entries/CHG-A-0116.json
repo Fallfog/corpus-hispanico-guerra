@@ -242,7 +242,7 @@
     }
   ],
   "editorial_note": "Monografía original sin imágenes ni citas textuales extensas. Se examinaron inventario, entradas y cola, preservando Pavía CHG-A-0004 y todas las reservas. Fuentes institucionales y académicas con alcance de lectura explícito. Se documentan las discrepancias sobre las fechas de capitulación, la distinción entre declaración y eficacia del bloqueo y las cautelas sobre cifras de bajas y efectivos. No se han consultado originales archivísticos ni se presenta el trabajo como arbitrado externamente.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje académico externo",
@@ -256,5 +256,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "8569295cb2739464d455a0991eb60e25a40b5992a6184c24958c6c2f09d10f0c"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T12:07:50.623Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30"
 }

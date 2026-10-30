@@ -558,5 +558,10 @@
     "id": "CHG-A-0081",
     "at": "2026-10-30T11:52:43.698Z",
     "mode": "Publicación manual extraordinaria expresamente solicitada; automatización inactiva"
+  },
+  "2026-10-30/extra-A-0116": {
+    "id": "CHG-A-0116",
+    "at": "2026-10-30T12:07:50.623Z",
+    "mode": "Publicación editorial manual extraordinaria, solicitada expresamente; automatización desactivada"
   }
 }
