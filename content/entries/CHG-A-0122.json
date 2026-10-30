@@ -306,7 +306,7 @@
     }
   ],
   "editorial_note": "Monografía original en español de España, sin imágenes. Comprobados inventory.json (101), content/entries (101) y content/cola (13 JSON y README) el 30-10-2026; ID y tema inéditos, Pavía y reservas intactas. Lecturas y límites documentados. Discrepancias sobre cifras, fortificaciones, horarios y fuentes reconocidas. Revisión asistida por IA, sin arbitraje académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-10-30",
   "approval": {
     "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
@@ -320,5 +320,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "2f7c77bb71ee6c0b5c4fcc038555b87163e832c4f2521fa047384c6288e7a9cd"
-  }
+  },
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T11:05:11.008Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30"
 }
