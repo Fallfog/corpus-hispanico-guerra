@@ -64,7 +64,7 @@
   "related": [
     "CHG-P-0008",
     "CHG-A-0042",
-    "CHG-A-0038"
+    "CHG-A-0054"
   ],
   "topics": [
     "Galicia",
@@ -248,6 +248,23 @@
     }
   ],
   "editorial_note": "Estudio original de síntesis histórico-documental asistida por IA. Se declara el acceso limitado a resúmenes, fichas y transcripciones; no se presenta la reproducción de un diario del siglo XIX como manuscrito coetáneo leído ni el memorial de 1596 como parte neutral. No se reproducen imágenes ni se reclama arbitraje externo.",
-  "status": "borrador",
-  "not_before": "2026-10-30"
+  "status": "publicado",
+  "not_before": "2026-10-30",
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T20:09:38.674Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-10-30",
+    "notes": "Contrastados los 141 registros publicados y la cola sin otras fichas. Estudio de 4359 palabras en 14 secciones y 42 párrafos con 7 fuentes y referencias trazables. Separado diario anónimo en copia decimonónica, memorial de 1596 y estudios divulgativos; límites de lectura de ficha de Verdera y registro universitario declarados. Cifras de naves, defensores y bajas sin precisión inventada. Distinguidos ataque a Pescadería, defensa de Ciudad Vieja y retirada. Sin imágenes ajenas ni arbitraje externo.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "997d66499d643a1a53de10351fcaf8985cbc07c064aae88a0fdc569e70924344"
+  }
 }
