@@ -1,4 +1,4 @@
-name: Publicar Volumen I (cien monografías)
+name: Publicar Volumen I — edición documental académica
 
 on:
   push:
@@ -38,14 +38,16 @@ jobs:
           import json, pathlib, zipfile
           root=pathlib.Path('ediciones/volumen-I')
           m=json.loads((root/'manifiesto-volumen-I.json').read_text(encoding='utf-8'))
-          assert m['monographs']==100
+          assert m['monographs']==92
           assert m['pages']>=300
-          assert len(m['three_pilot_records_with_review_notice'])==3
+          assert len(m['pilot_records_with_review_notice'])==2
+          assert len(m['excluded_biographies'])==8
+          assert m['classifications'].get('Protagonistas',0)==0
           for name,meta in m['files'].items():
               assert (root/name).stat().st_size==meta['bytes']
           with zipfile.ZipFile(root/'corpus-hispanico-guerra-volumen-I.epub') as z:
-              assert len([x for x in z.namelist() if x.startswith('OEBPS/chapter-')])==100
-          print('Entrega de Volumen I completa y reproducible:',m['pages'],'páginas',m['bibliographic_records'],'referencias')
+              assert len([x for x in z.namelist() if x.startswith('OEBPS/chapter-')])==92
+          print('Volumen I académico y monocromo verificado:',m['pages'],'páginas',m['bibliographic_records'],'referencias')
           PY
       - name: Guardar ejemplares como artefactos de GitHub
         uses: actions/upload-artifact@v4
@@ -68,7 +70,7 @@ jobs:
           fi
           git config user.name "corpus-edicion-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Publicar Volumen I: PDF integral, EPUB, índice y aparato bibliográfico"
+          git commit -m "Publicar revisión académica monocroma del Volumen I (92 estudios)"
           git fetch origin main
           git rebase origin/main
           git push origin HEAD:main
