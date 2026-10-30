@@ -40,6 +40,10 @@ jobs:
       - name: Publicar muestras de las páginas del libro
         run: |
           git add ediciones/volumen-I/vista-*.png
+          if git diff --cached --quiet; then
+            echo 'Las muestras ya coinciden con el PDF disponible.'
+            exit 0
+          fi
           git config user.name corpus-edicion-bot
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git commit -m "Documentar seis páginas de prueba visual del Volumen I"
