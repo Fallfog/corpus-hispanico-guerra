@@ -1,4 +1,5 @@
 name: Control visual puntual del Volumen I
+# Revisión visual final tras ajustar el índice cronológico del libro.
 on:
   push:
     branches: [main]
