@@ -220,6 +220,23 @@
     }
   ],
   "editorial_note": "Monografía original de síntesis histórica asistida por IA, con alcance de consulta y reservas documentales explícitos. Se distingue catalogación de lectura de originales, total disponible de fuerza efectivamente desplegada y estimación de pérdidas de parte nominal. Sin arbitraje externo ni cesión de fotografías ajenas.",
-  "status": "borrador",
-  "not_before": "2026-10-30"
+  "status": "publicado",
+  "not_before": "2026-10-30",
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T18:45:14.016Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-10-30",
+    "notes": "Inventario de 137 fichas y cola revisados: Tudela (1808) inédita. 3771 palabras, 12 apartados y 36 párrafos con referencias. Seis fuentes con alcance de consulta documentado: Toreno, Ministerio de Cultura, IGN, Rickard, Diario de Navarra y memoria local. Se separan cifras discrepantes y se indican límites documentales; sin imágenes de terceros. No se atribuye revisión externa.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "206ebdc480b7849bdbe6dd11e7d92e4a80e0bfeb56236a7b1af81a8af30c5091"
+  }
 }
