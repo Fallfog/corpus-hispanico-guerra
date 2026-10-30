@@ -176,7 +176,7 @@
     {
       "heading": "13. Partes de guerra, pérdidas y prisioneros",
       "paragraphs": [
-        "Las cifras de pérdidas son uno de los principales campos de controversia. El texto de la Gaceta de Madrid del 20 de julio informó de centenares de muertos franceses y españoles según un recuento muy favorable a la victoria imperial, y mencionó quince cañones capturados. Lafuente consideró exagerado el parte de Bessières y no quiso imponer un total definitivo de bajas, al tiempo que recordaba el carácter sangriento de la persecución. Rickard presenta estimaciones diferentes para los ejércitos españoles y pérdidas francesas inferiores a quinientas. En estas condiciones, una cifra aislada sin apellido de autor no debe figurar como dato incontrovertible. [1][2][7]",
+        "Las cifras de pérdidas son uno de los principales campos de controversia. El texto de la Gaceta de Madrid del 20 de julio declaró unas cincuenta muertes y trescientos heridos franceses, describió elevadas pérdidas españolas y mencionó quince cañones capturados, todo ello en un relato favorable al ejército imperial. Lafuente consideró exagerado el parte de Bessières y no quiso imponer un total definitivo de bajas, al tiempo que recordaba el carácter sangriento de la persecución. Rickard presenta estimaciones diferentes para los ejércitos españoles y pérdidas francesas inferiores a quinientas. En estas condiciones, una cifra aislada sin apellido de autor no debe figurar como dato incontrovertible. [1][2][7]",
         "Los tipos de pérdidas tampoco son intercambiables: muertos, heridos, cautivos, extraviados y desertores no siempre fueron registrados con un criterio igual. La Gaceta de Madrid comunicó la existencia de mil seiscientos treinta prisioneros y utilizó algunos supuestos juramentos de fidelidad a José I como argumento político. No se ha comprobado aquí una lista personal que permita distinguir cada categoría. Es particularmente importante no identificar el número de hombres que aparecen en un parte con todos los soldados efectivamente presentes al comenzar la batalla. Los historiadores deben revisar qué fecha, fuente y criterio sustenta cada cantidad antes de agregarla a otras. [1][2][7]",
         "El inventario de la Colección Blake del Archivo General Militar de Madrid identifica correspondencia entre Blake y Bessières, fechada entre el 24 de julio y el 10 de agosto, sobre la liberación de cuatrocientos o quinientos cautivos de Rioseco y sobre propuestas de rendición. Ese registro tiene valor porque demuestra la existencia de un expediente concreto para investigar los efectos posteriores de la batalla. No demuestra que cuatrocientos o quinientos fueran todos los prisioneros, ni equivale a haber leído las cartas originales. Las diferencias entre el parte público y el objeto de una negociación concreta ilustran lo peligroso que sería sumar datos de naturaleza distinta. [1][8]"
       ]
@@ -257,6 +257,23 @@
     }
   ],
   "editorial_note": "Investigación y síntesis original asistida por IA; distingue la propaganda de 1808, reconstrucciones historiográficas y catálogos, sin afirmar haber consultado expedientes no accesibles ni realizar arbitraje académico externo. La violencia contra civiles se presenta con atribución y evaluación de testimonios. Sin imágenes de terceros.",
-  "status": "borrador",
-  "not_before": "2026-10-30"
+  "status": "publicado",
+  "not_before": "2026-10-30",
+  "publication_date": "2026-10-30",
+  "publication_time": "2026-10-30T19:56:33.629Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-10-30",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-10-30",
+    "notes": "Comprobado inventario de 140 y cola sin otros documentos. Monografía de 4396 palabras y 14 secciones, 42 párrafos con referencias y 8 fuentes individualmente anotadas. Se contrasta la propaganda de la Gaceta de 1808 con historias posteriores; desigualdad de cifras de bajas reconocida, diferencias entre mapas y catálogos señaladas, correspondencia Blake-Bessières catalogada sin atribuir lectura de originales; apartado específico de saqueo y violencia civil. Sin imágenes de terceros ni arbitraje externo.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "edec265b0bd95b8f868251e8e0180176c5d0aaae41419a2dbc1a333c77a688f0"
+  }
 }
