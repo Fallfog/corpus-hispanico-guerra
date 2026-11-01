@@ -292,6 +292,23 @@
     }
   ],
   "editorial_note": "Investigación original asistida por IA que distingue victoria táctica republicana y fracaso estratégico sobre Zaragoza; separa bajas, muertes y represiones; advierte erratas en síntesis universitarias y museísticas sobre golpe de 1936 y ocupación de 1938. No se utiliza propaganda de ningún bando como prueba sin atribución, ni se agregan fotografías protegidas, ni se reclama revisión por pares.",
-  "status": "borrador",
-  "not_before": "2026-11-01"
+  "status": "publicado",
+  "not_before": "2026-11-01",
+  "publication_date": "2026-11-01",
+  "publication_time": "2026-11-01T23:06:09.270Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-11-01",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-11-01",
+    "notes": "Comprobadas 145 entradas previas sin Belchite; monografía de 4701 palabras, 14 apartados, 42 párrafos documentados y 11 fuentes. Las cifras de 5.000 muertos y bajas se presentan como estimaciones heterogéneas; se separan sucesos de 1937, recaptura de 1938 y memoria de posguerra. Se documentan erratas en síntesis, límites de acceso a mapa PARES y empleo de presos políticos en reconstrucción. No hay revisión externa por pares ni imágenes de terceros.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "23a50ad7832c0261b510d90bff27fd8c462689939752173c846d15f18101620e"
+  }
 }
