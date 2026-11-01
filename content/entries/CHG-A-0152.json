@@ -272,6 +272,23 @@
     }
   ],
   "editorial_note": "Estudio documental original asistido por IA. Distingue registro archivístico del Edicto de lectura del documento, literatura decimonónica y grabados retrospectivos. Señala incertidumbres de cifras y responsabilidades y el carácter no decisivo de Gembloux. Sin imágenes ajenas ni revisión externa por pares.",
-  "status": "borrador",
-  "not_before": "2026-11-01"
+  "status": "publicado",
+  "not_before": "2026-11-01",
+  "publication_date": "2026-11-01",
+  "publication_time": "2026-11-01T22:50:33.906Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-11-01",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; no arbitraje científico externo",
+    "date": "2026-11-01",
+    "notes": "Inventario previo 144 registros sin Gembloux; cola sin otros pendientes. 4274 palabras de desarrollo en 14 apartados y 42 párrafos citados, 9 referencias con límite de consulta explícito. Verificado Nationaal Archief, PARES, Wallonie, Lafuente y fichas Rijksmuseum; se distingue grabado histórico de cartografía topográfica y resumen académico de lectura integral. Distinguidos triunfo táctico y consecuencias políticas de largo plazo. No se inventan cifras cerradas de bajas. Se consigna el relato histórico sobre represalias posteriores en Sichem. Sin imágenes ajenas.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "0a75bfb99d6383b97e6c4fa979365139b21751ee3ed4dc2f6d542e636ea4c1e2"
+  }
 }
