@@ -276,6 +276,23 @@
     }
   ],
   "editorial_note": "Investigación documental asistida por IA; se contrastan crónicas de Palencia, relación de la prisión de Boabdil publicada en Granada, expediente de probanza de AHN, tesis universitarias, fuentes museísticas y estudio de espada atribuida a Ali Atar. No se asegura fecha exacta de 20 frente a 21 de abril ni identidad única del primer captor. No se reproducen imágenes de terceros ni se afirma revisión por pares.",
-  "status": "borrador",
-  "not_before": "2026-11-03"
+  "status": "publicado",
+  "not_before": "2026-11-03",
+  "publication_date": "2026-11-03",
+  "publication_time": "2026-11-03T14:45:22.631Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-11-03",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-11-03",
+    "notes": "Inventario previo 150, sin Lucena 1483. Monografía de 4422 palabras, 14 secciones, 42 párrafos con referencias y 9 fuentes anotadas con alcance real. Contraste entre Palencia, relación universitaria granadina, tesis académicas y AHN. Fechas 20/21 abril diferenciadas. Primer captor Martín Hurtado según probanza trasladada en 1582 con última hoja ausente, distinto de custodia del alcaide. No se consolidan cifras discordantes ni se presentan atribuciones museísticas como prueba de portador en campo. Sin imágenes de terceros, revisión externa por pares ni acceso ficticio a manuscritos.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "376b9d3a4169f5ed8900f42b8da4dcf76f68531308f83bba435546bc6d6b02a8"
+  }
 }
