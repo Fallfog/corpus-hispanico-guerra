@@ -249,6 +249,23 @@
     }
   ],
   "editorial_note": "Estudio original y crítico asistido por IA con revisión de las versiones castellana y portuguesa. La victoria es discutida por la investigación historiográfica y no se atribuye incondicionalmente a ninguno de los bandos. Se distingue 1644 de la independencia reconocida en 1668. Los expedientes de archivos catalogados y manuscritos citados por investigadores no se presentan como leídos directamente. No se reproducen imágenes protegidas ni existe revisión científica externa por pares.",
-  "status": "borrador",
-  "not_before": "2026-11-03"
+  "status": "publicado",
+  "not_before": "2026-11-03",
+  "publication_date": "2026-11-03",
+  "publication_time": "2026-11-03T14:00:36.463Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-11-03",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-11-03",
+    "notes": "Inventario previo de 149 monografías sin Montijo 1644. 4634 palabras de desarrollo, 14 apartados, 42 párrafos citados, 6 fuentes con límites explícitos. Resultado de victoria disputada, no afirmación unilateral; se contraponen impresos de 1644 y estudios de Topoi (2012), Comisión Portuguesa (2025) y academia extremeña (2019, 2021). No se asume acceso a 52 folios archivísticos solo catalogados. Distintos los números de combatientes, muertos y cautivos y los datos parroquiales. Sin incorporación de azulejos, mapas o ilustraciones protegidas, sin arbitraje externo.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "3da5df8c0b2f119e01ad9fcba707dd63ef31908618c715e38d382251efe32e12"
+  }
 }
