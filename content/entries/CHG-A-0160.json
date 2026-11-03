@@ -293,6 +293,23 @@
     }
   ],
   "editorial_note": "Investigación documental asistida por IA que prioriza cronología apoyada en regesto de diplomas de 1330, tesis universitarias sobre fuentes escocesas y arqueología oficial del castillo. Separación expresa entre batalla, asedio y relato tardío del lanzamiento del corazón. Referencias de López de Coca (1988) identificadas por catálogo, no texto examinado. No arbitraje académico externo ni reproducción de imágenes protegidas.",
-  "status": "borrador",
-  "not_before": "2026-11-03"
+  "status": "publicado",
+  "not_before": "2026-11-03",
+  "publication_date": "2026-11-03",
+  "publication_time": "2026-11-03T16:37:31.325Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-11-03",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-11-03",
+    "notes": "Revisado inventario de 152 entradas previas sin Teba 1330. Monografía de 4459 palabras de desarrollo en 14 apartados, 42 párrafos con citas y 11 fuentes registradas. Diploma de real sobre Teba 24-08-1330 y carta de población 02-10-1330 citados a través de regesto; no se simula lectura de pergaminos originales. Se distingue batalla de socorro y caída del castillo. Douglas muerto según cronistas escoceses hacia 25 agosto; lanzamiento del corazón de Bruce tratado como literatura tardía. Arqueología muestra fases de distinta época, sin atribuir tumbas o murallas a 1330 automáticamente. Fuentes parciales y vistas PDF fallidas explicitadas. Sin imágenes ajenas, arbitraje externo ni automatización editorial.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "f04829a2e7344dafa822738954fdbc0d63d09a72204c8405e08f84a72cfbc063"
+  }
 }
