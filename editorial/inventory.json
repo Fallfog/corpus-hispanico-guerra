@@ -1090,5 +1090,12 @@
     "topic_key": "batalla-naval-ebro-217-ac-romanos-cartagineses",
     "title": "Ebro, 217 a. C.: Cneo Cornelio Escipión, Asdrúbal Barca y la victoria naval que aseguró la costa de Hispania",
     "category": "Acciones militares"
+  },
+  {
+    "id": "CHG-A-0164",
+    "slug": "hibera-216-215-ac-escipiones-asdrubal-barca-derrota-cartaginesa",
+    "topic_key": "batalla-hibera-ibera-216-215-ac",
+    "title": "Hibera, 216–215 a. C.: los hermanos Escipión y el fracaso del envolvimiento de Asdrúbal Barca",
+    "category": "Acciones militares"
   }
 ]

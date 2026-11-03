@@ -291,6 +291,23 @@
     }
   ],
   "editorial_note": "Monografía de investigación documental asistida por IA. Se distingue relato de Livio, comentario de Quesada y Noguera, y catálogo de localización de Dertosa. La cronología 216–215 a. C. y el campo de batalla son inciertos, y las motivaciones que Livio asigna a sus contingentes ibéricos reflejan sesgo romano. La hipótesis de imitación de Cannas se atribuye a interpretación moderna; no se presenta como orden cartaginesa conservada. Sin material gráfico de terceros, ni arbitraje externo.",
-  "status": "borrador",
-  "not_before": "2026-11-03"
+  "status": "publicado",
+  "not_before": "2026-11-03",
+  "publication_date": "2026-11-03",
+  "publication_time": "2026-11-03T18:06:33.700Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-11-03",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-11-03",
+    "notes": "Inventario previo 156 sin Hibera/Ibera 216–215 a. C. Monografía original de 4261 palabras, 14 secciones, 42 párrafos con referencias y 9 fuentes con notas de lectura. Se distingue derrota terrestre de Asdrúbal de acción naval de 217 y Cissa de 218. Texto de Livio XXIII, 27–29 leído en traducción y contrastado con latín, Quesada y Noguera. Cronología 216 o 215 discutida; localización exacta desconocida; Dertosa/Hibera equivalencia hipotética. Conjetura de imitación de Cannas atribuyéndose a historiografía y no a orden original. No se inventan bajas ni se acepta juicio etnicista sobre fidelidad de guerreros indígenas. PDF de Quesada y Noguera revisados por texto, captura visual de Noguera y Silgo confirmada; del PDF de Quesada bloqueada. Sin imágenes ajenas ni arbitraje externo.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "5c6590a478f1fc61da22808dac939afa9da81387b387143635c6e8f8a5c9e7f9"
+  }
 }
