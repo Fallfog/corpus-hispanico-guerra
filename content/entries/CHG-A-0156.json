@@ -280,6 +280,23 @@
     }
   ],
   "editorial_note": "Síntesis original de investigación documental asistida por IA. Se distinguen parte original catalogado de Blake, testimonio del parte de Acevedo comentado por Sánchez Martín, historiografía de Toreno, cartografía militar retrospectiva y reconstrucción divulgativa. No se equiparan cifras de combatientes y bajas de fuentes de distinto carácter ni se reproducen mapas e imágenes ajenas. No existe arbitraje académico externo.",
-  "status": "borrador",
-  "not_before": "2026-11-03"
+  "status": "publicado",
+  "not_before": "2026-11-03",
+  "publication_date": "2026-11-03",
+  "publication_time": "2026-11-03T13:49:42.616Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-11-03",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-11-03",
+    "notes": "Inventario de 148 monografías previo, sin Espinosa de los Monteros 1808. 4529 palabras, 14 secciones y 42 párrafos referenciados; 9 fuentes. Distinguidas jornadas del 10 y 11, partes de Blake de 10 y 12 de noviembre catalogados, parte de Acevedo comentado por Sánchez Martín y cartografía retrospectiva. La captura de Riego ocurrió durante retirada el 13, no el 11. Sin recuentos exactos de bajas no justificados ni fotografías protegidas. Fuentes con acceso parcial anotadas, no arbitraje externo.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "d90bf9995e22fb179f4cfa58417ddd393cad973935a6fe9ec5440a7c310bf91c"
+  }
 }
