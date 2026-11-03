@@ -288,6 +288,23 @@
     }
   ],
   "editorial_note": "Investigación original asistida por IA que contrasta parte de 1734 transmitido por catálogo y entrevista con análisis militar y tradición italiana posterior. Distingue las cifras atribuidas de las pérdidas nominalmente verificadas; no reproduce obras gráficas protegidas ni afirma revisión externa por pares.",
-  "status": "borrador",
-  "not_before": "2026-11-03"
+  "status": "publicado",
+  "not_before": "2026-11-03",
+  "publication_date": "2026-11-03",
+  "publication_time": "2026-11-03T13:27:55.919Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-11-03",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-11-03",
+    "notes": "Inventario previo 147 sin batalla de Bitonto. 4510 palabras, 14 secciones, 42 párrafos citados y 11 fuentes con alcance de lectura. Carta de Montemar del 25 mayo atribuida a transcripción publicada por Pice, no manuscrito original examinado. Recuentos del enemigo de Montemar, Segura García y tradición local no se fusionan. Se distingue combate 25 mayo, rendición Bari 26 mayo y sitios restantes. Pintura de Rocco no reproducida. No evaluación externa por pares; generación automática apagada.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "2516a3d6cd5f21ff96b3e3288f9001813227fc45b82e3fef6bf459eaa96f64e9"
+  }
 }
