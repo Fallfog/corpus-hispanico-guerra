@@ -4,7 +4,7 @@ Enciclopedia y repertorio documental independiente. Versión inicial conservada 
 
 ## Estado real
 
-- **155 monografías en el archivo publicado de GitHub a 03-11-2026. Última publicación manual: Cissa (218 a. C.), CHG-A-0162. Publicación anterior: Heliké (229–228 a. C.), CHG-A-0161.
+- **156 monografías en el archivo publicado de GitHub a 03-11-2026. Última publicación manual: Ebro naval (217 a. C.), CHG-A-0163. Publicación anterior: Cissa (218 a. C.), CHG-A-0162.
 - **Volumen I — edición de investigación histórico-documental en blanco y negro:** 92 estudios completos (88 acciones militares y 4 historia de la guerra), excluidas del libro las 8 biografías de personajes. Selección histórica congelada en `ediciones/volumen-I/seleccion-volumen-I.json`, sin incorporar automáticamente publicaciones posteriores. PDF, EPUB, índices y manifiesto en `ediciones/volumen-I/`, con criterios de edición en `ediciones/volumen-I/criterios-edicion-academica.md`. No se declara arbitraje científico externo; el volumen conserva el corte editorial histórico de 100 fichas, mientras el archivo vivo contiene 137.
 - **Cola editorial:** sin fichas pendientes tras esta publicación; sin ejecución programada. El archivo publicado y la cola deben revisarse antes de preparar el siguiente lote.
 - **Publicación solo manual cuando el titular la solicite**: investigación → contraste → monografía ≥3.000 palabras → revisión → GitHub → pruebas y compilación → comprobación HTTP de Cloudflare. El cron de publicación está eliminado de `.github/workflows/publicar.yml`, y `editorial/config.json` permanece con `paused: true`.

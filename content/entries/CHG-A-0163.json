@@ -278,6 +278,23 @@
     }
   ],
   "editorial_note": "Redacción original, documental y asistida por IA. Polibio y Livio se contraponen en nombres, pérdidas y expediciones posteriores. La identificación La Palma–Nova Classis y los itinerarios posteriores se consideran hipótesis y debates abiertos, no hechos arqueológicos cerrados. Sin arbitraje por pares externo ni imágenes protegidas.",
-  "status": "borrador",
-  "not_before": "2026-11-03"
+  "status": "publicado",
+  "not_before": "2026-11-03",
+  "publication_date": "2026-11-03",
+  "publication_time": "2026-11-03T17:56:09.966Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-11-03",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-11-03",
+    "notes": "Inventario previo 155 sin batalla naval Ebro 217 a.C. Monografía original de 4370 palabras, 14 secciones y 42 párrafos citados, 8 fuentes. Polibio III,95-97 y Livio XXII,19-22 contrastados; divergencia Amílcar/Himilcón y detalle de pérdidas no fusionados. Reconocimiento naval masaliota, 35 naves romanas, 40 púnicas y 25 capturas atribuidos a fuentes antiguas. Expedición a Onusa, Carthago Nova e Ibiza de Livio discutida académicamente; Cabezas-Guzmán 2021 solo leído por resumen. La Palma-Nova Classis de Noguera identificado como hipótesis arqueológica con materiales militares pero sin restos estructurales ni pecios del combate; PDFs con inspección visual portada. No se inventan cifras de muertos, trayectos o coordenadas precisas; sin reproducción de imágenes ajenas ni arbitraje externo.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "a93f04d1d2ba880f6cc97377037e9e00bfd06bf6cb56fe529f36763af0d70f8c"
+  }
 }
