@@ -294,6 +294,23 @@
     }
   ],
   "editorial_note": "Investigación original y crítica asistida por IA que contrasta Polybio III,76, Livio XXI,60–61, Frontino II,3,1 y arqueología de 2025 sobre Vilar de Valls. Se mantienen como hipótesis, aunque bien apoyadas, la equivalencia Vilar–Kissa y el ataque de Aníbal a la ciudad; se diferencian ese episodio, la batalla romana contra Hannón y el posterior ataque de Asdrúbal cerca de Tarraco. No se publican imágenes ajenas ni se afirma revisión académica externa.",
-  "status": "borrador",
-  "not_before": "2026-11-03"
+  "status": "publicado",
+  "not_before": "2026-11-03",
+  "publication_date": "2026-11-03",
+  "publication_time": "2026-11-03T17:04:50.584Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-11-03",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-11-03",
+    "notes": "154 monografías previas, ninguna sobre Cissa/Kissa 218 a. C. Desarrollo original 4489 palabras, 14 secciones, 42 párrafos citados y 9 fuentes. Lectura Polibio III,76 y Livio XXI,60-61 contrastada con Frontino II,3,1 (localidad Indibile no equiparada con certeza); artículo arqueológico Spal 34.1 (2025), Universidad de Barcelona y síntesis 2018. Se distingue saqueo o destrucción indígena probablemente por Aníbal del combate de Cneo Escipión contra Hannón y posterior incursión de Asdrúbal junto a Tarraco. El Vilar de Valls es candidato principal, no emplazamiento exacto de cada formación. Cifras de Livio no se tratan como censo. Visor PDF Spal falló, texto completo indexado y ficha consultados; fuentes de catálogo se anotan. Sin imágenes ajenas, arbitraje externo ni automatización.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "2df63c2b4fe5bcdf2c57e53326d4a21084f141ab59ff5860222f4a5ddb10dcc4"
+  }
 }
