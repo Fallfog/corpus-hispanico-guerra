@@ -261,6 +261,23 @@
     }
   ],
   "editorial_note": "Monografía original asistida por IA que contrasta estudios de fuentes árabes y castellanas sobre la secuencia de capitulación, entrada regia y evacuación, arqueología de Triana y la función naval. Se distingue fin de 1248 y enero 1249 y se advierte falta de prueba documental del título formal de primer almirante para Bonifaz. No se incorporan imágenes ajenas ni se declara arbitraje académico externo.",
-  "status": "borrador",
-  "not_before": "2026-11-03"
+  "status": "publicado",
+  "not_before": "2026-11-03",
+  "publication_date": "2026-11-03",
+  "publication_time": "2026-11-03T15:00:17.850Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-11-03",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-11-03",
+    "notes": "151 monografías previas sin Sevilla 1248. 4443 palabras, 14 secciones, 42 párrafos citados y 7 fuentes con alcance de lectura documentado. Se distingue cerco 1247-48, ruptura puente 3 mayo, capitulación 23 noviembre, entrada 22 diciembre, evacuación final de fuentes árabes 13 enero 1249; el fuero de Sevilla se otorgó en 1251. Se documenta la resistencia de Triana tras puente y ausencia de documento de investidura de Bonifaz como primer almirante. Diferencias entre crónicas castellanas, fuentes árabes y síntesis institucionales. Sin imágenes de terceros ni revisión por pares externa.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "9c7a5a173829453381a4cd2962adbc06c59308dc8a5f4eb5f27c6ee064592029"
+  }
 }
