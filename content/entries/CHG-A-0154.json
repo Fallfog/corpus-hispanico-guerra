@@ -183,6 +183,14 @@
         "El retablo del Centenar de la Ploma, de comienzos del siglo XV y conservado en el Victoria and Albert Museum, representa la batalla mediante símbolos y protagonistas seleccionados. Jaime I aparece allí a pesar de no haber participado en persona, y san Jorge ocupa un lugar privilegiado. El propio Centenar de la Ploma, milicia urbana relacionada con la protección de la Senyera, pertenece a una historia institucional posterior a 1237. La iconografía citada por Alvira contiene por ello anacronismos. La pintura es valiosísima para estudiar la memoria de Valencia y el prestigio de instituciones posteriores, pero no una descripción literal del orden de batalla. [1][6]",
         "Las reinterpretaciones del monasterio del Puig, de artistas posteriores y de crónicas del siglo XVI contribuyeron a mezclar el papel de Bernat Guillem, la participación del rey, la Virgen y san Jorge. Algunas imágenes corrigieron un detalle —la ausencia personal de Jaime I— mientras conservaron la intervención celestial; otras incorporaron personajes venerados en la tradición religiosa. La investigación de Francesc Granell sobre la mitificación bajomedieval del Conquistador proporciona un marco general para comprender por qué las comunidades adaptaron esas imágenes a sus necesidades políticas. Reconocer los anacronismos no supone despreciar su valor artístico: significa interpretarlas con categorías históricas adecuadas. [1][6][7]"
       ]
+    },
+    {
+      "heading": "14. Valoración documental y conclusiones",
+      "paragraphs": [
+        "El Puig fue una victoria importante de la guarnición de Jaime I sobre las fuerzas de Zayyan y permitió mantener una posición avanzada decisiva para las operaciones sobre Valencia. La investigación de Martín Alvira Cabrer, publicada en 2026, confirma el protagonismo de Bernat Guillem, Berenguer de Entença y Guillem d’Aguiló, la ausencia del monarca durante la batalla y la muerte posterior del comandante. Las crónicas del Llibre dels fets y de Desclot ilustran la elección del combate y la ruptura andalusí, pero no ofrecen cifras incontestables de efectivos y bajas. El día exacto continúa discutido: expresar un margen temporal es más riguroso que imponer una fecha turística como certeza. [1][2][7]",
+        "Las fuentes reunidas tienen alcances distintos. El artículo de 2026 se ha leído extensamente, mientras la ficha de Badenes permite conocer una hipótesis arquitectónica sin atribuirse examen de todas sus plantas. Guinot y Barrio ofrecen el marco social e institucional, no una reconstrucción de cargas; Renedo ayuda a no confundir falsas alarmas posteriores con la batalla verdadera. Rutas Jaume I aporta información sobre la memoria del lugar, pero contiene el error de situar la muerte de Bernat Guillem durante la jornada, en contradicción con testimonios posteriores. La revisión editorial registra expresamente esa corrección en lugar de repetirla para conservar un relato atractivo. [1][3][4][5][7][8][9]",
+        "La batalla incluye más que una carga de caballería o una tradición religiosa. Abarca el desgaste deliberado de la huerta andalusí, la defensa de una fortificación avanzada, las dificultades de alimentación, los límites del reconocimiento, el efecto de rumores y señales y la consolidación de un triunfo antes de las operaciones de 1238. Los habitantes de Valencia y de sus alquerías soportaron daños de una campaña que transformó el territorio y sus instituciones. Una investigación futura podría cotejar directamente las versiones manuscritas, correspondencia regia, fuentes árabes y topografía histórica, sin sustituir esa tarea por cifras, fechas o imágenes no verificadas. [1][2][3][8]"
+      ]
     }
   ],
   "sources": [
@@ -253,13 +261,30 @@
     {
       "n": 9,
       "name": "Juan Antonio Barrio Barrio, «Modelos de identidad urbana en el reino de Valencia, siglos XIII–XV», Anales de la Universidad de Alicante. Historia Medieval 16",
-      "url": "https://revistes.ua.es/medieval/article/view/2010-n16-queals-dits-ordenaments-e-capitols-sien-memoria",
+      "url": "https://revistes.ua.es/medieval/article/view/2010-n16-queals-dits-ordenaments-e-capitols-sien-meses-en-memori",
       "kind": "Artículo académico; resumen indexado",
       "verified_at": "2026-11-03",
       "verification_note": "Resumen consultado sobre conquistas hasta 1245 y transformación institucional; texto completo no leído, sin atribuciones de detalle."
     }
   ],
   "editorial_note": "Estudio documental asistido por IA. La cronología se presenta como discutida, se corrige el error sobre la muerte de Bernat Guillem, y se separan las crónicas y tradiciones religiosas de los hechos apoyados en documentos. Sin revisión por pares externa ni imágenes incorporadas.",
-  "status": "borrador",
-  "not_before": "2026-11-03"
+  "status": "publicado",
+  "not_before": "2026-11-03",
+  "publication_date": "2026-11-03",
+  "publication_time": "2026-11-03T13:37:00+01:00",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-11-03",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-11-03",
+    "notes": "Monografía de 4360 palabras, 14 secciones, 42 párrafos con citas verificadas, nueve fuentes anotadas. No hay entrada previa sobre El Puig (1237) en inventario de 146. Se distingue fecha incierta del combate, probable final de agosto o inicios de septiembre; la muerte del comandante ocurrió en 1238, no en batalla. Se separan relato regio, versión de Desclot, leyenda de san Jorge y fuentes iconográficas posteriores. Fichas y resúmenes no se hacen pasar por lectura integral. Sin imágenes ajenas ni arbitraje externo.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "31d1c574c50004b4f0e1033112d2c52ebee4dc406610d3e68c174276761638a0"
+  }
 }
