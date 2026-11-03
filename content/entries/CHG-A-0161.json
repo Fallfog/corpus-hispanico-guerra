@@ -289,6 +289,23 @@
     }
   ],
   "editorial_note": "Estudio original asistido por IA. Las fuentes grecorromanas transmiten versiones incompatibles del final de Amílcar; no se construye un relato único ni se asigna localidad exacta a Heliké. Las fuentes antiguas no prueban una primera batalla en Iberia en sentido absoluto. No se publican mapas o fotografías sujetos a derechos ni se afirma revisión por pares externa.",
-  "status": "borrador",
-  "not_before": "2026-11-03"
+  "status": "publicado",
+  "not_before": "2026-11-03",
+  "publication_date": "2026-11-03",
+  "publication_time": "2026-11-03T16:49:53.419Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-11-03",
+  "approval": {
+    "reviewer": "Revisión documental asistida por IA; sin arbitraje académico externo",
+    "date": "2026-11-03",
+    "notes": "Inventario previo 153 monografías; combate de Heliké inédito y cronológicamente anterior a Sagunto 219 a. C. Texto de 4411 palabras, 14 secciones, 42 párrafos citados, 10 fuentes. Se mantienen distintas las versiones de Diodoro (río), Polibio (muerte en combate) y Apiano (carros incendiarios). Orissón puede designar rey de los orisios, no nombre demostrado. Emplazamiento de Heliké sin localización segura; Elche, Elche de la Sierra y Belchite identificadas como hipótesis. Artículo reciente RAH 2023 solo leído parcialmente en fragmentos indexados; no se simula acceso integral. Sin bajas ficticias, imágenes de terceros, arbitraje externo ni automatización.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "283303be79aad92e599566e7fb2127dcd4f35c50afc0fe5b70ce1a7170eb779d"
+  }
 }
