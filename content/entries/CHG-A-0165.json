@@ -169,7 +169,7 @@
       "heading": "11. Cástulo, Amtorgis e Ilorci: problema geográfico",
       "paragraphs": [
         "Los nombres transmitidos por las fuentes no forman un mapa inequívoco. Cástulo es una ciudad histórica reconocible, pero su presencia en el relato de Apiano no identifica automáticamente la zona donde Publio recibió la herida mortal. Amtorgis aparece en la narración de Livio como referencia del dispositivo de Asdrúbal Barca, mientras que la localización de ese asentamiento resulta discutida. Ilorci entra sobre todo en la tradición geográfica del recuerdo de Cneo. La distancia que pudiera separar esos lugares depende de identificaciones que no han alcanzado un consenso universal. [1][2][3][7]",
-        "Plinio escribe que el Betis pasa por la región de Ilorci y menciona el monumento funerario de Escipión. Esta observación proporciona una asociación entre un lugar y una memoria antigua, pero no indica la posición de los campamentos, el trazado de las persecuciones ni el punto preciso de la muerte. El propio pasaje geográfico requiere atención a la puntuación y a la tradición textual latina. En consecuencia, colocar una marca en un mapa moderno debe ser una propuesta contrastable, nunca una localización probada simplemente porque la referencia antigua contenga un nombre parecido. [3][8]",
+        "Plinio escribe que el Betis pasa por la región de Ilorci y menciona el monumento funerario de Escipión. Esta observación proporciona una asociación entre un lugar y una memoria antigua, pero no indica la posición de los campamentos, el trazado de las persecuciones ni el punto preciso de la muerte. El propio pasaje geográfico requiere atención a la puntuación y a la tradición textual latina. En consecuencia, colocar una marca en un mapa moderno debe ser una propuesta contrastable, nunca una localización probada simplemente porque la referencia antigua contenga un nombre parecido. [3][9]",
         "La Universidad de Jaén ha documentado la importancia de combinar crítica textual, prospección y análisis de materiales al estudiar los campos de batalla púnicos. La investigación del proyecto Baécula demuestra que pueden hallarse restos relacionados con operaciones antiguas, pero remite a la acción de 208 a. C. Un yacimiento excavado en el Alto Guadalquivir no prueba automáticamente que los Escipiones murieran allí tres años antes. El estudio de la campaña de 211 requiere un programa de identificación de rutas y escenarios propio, y los testimonios literarios han de seguir siendo hipótesis sometidas a contraste. [5][6]"
       ]
     },
@@ -262,9 +262,34 @@
       "kind": "Fuente antigua latina con traducción automatizada auxiliar",
       "verified_at": "2026-11-05",
       "verification_note": "Consultado texto latino del capítulo 25.33. Se prefieren las palabras latinas y el contraste con traducción histórica de Livio; la traducción generada por IA de esa página no se trata como edición académica autorizada."
+    },
+    {
+      "n": 9,
+      "name": "Plinio el Viejo, Naturalis Historia III, 9, texto latino de Packhum",
+      "url": "https://latin.packhum.org/loc/978/1/216/279-282",
+      "kind": "Fuente geográfica antigua en lengua latina",
+      "verified_at": "2026-11-05",
+      "verification_note": "Consultado el fragmento latino de Naturalis Historia III 9.1 sobre el Betis, Ilorci y Scipionis rogum. La puntuación e interpretación topográfica no resuelven el emplazamiento del combate."
     }
   ],
   "editorial_note": "Monografía documental original asistida por IA, no revisada por pares. Se ha leído Livio XXV 32-37 y Apiano 16-19; Plinio §9 y fuentes académicas han sido consultados con el alcance consignado individualmente. Se distinguen la versión de la torre, los problemas topográficos y la pluralidad de agendas indígenas. No se atribuyen datos de una batalla a los hallazgos de Baécula 208. Sin imágenes de terceros ni cifras de bajas inventadas.",
-  "status": "borrador",
-  "not_before": "2026-11-05"
+  "status": "publicado",
+  "not_before": "2026-11-05",
+  "approval": {
+    "reviewer": "Revisión historiográfica y documental asistida por IA; sin arbitraje externo",
+    "date": "2026-11-05",
+    "notes": "Revisadas 9 fuentes con alcance expresamente limitado por entrada (Livio XXV, 32-37; Apiano XVI-XIX; Plinio III, 9; bibliografía académica y fichas institucionales). 14 apartados, 42 párrafos con referencias y 3828 palabras. Se contrastan versiones de las muertes, inestabilidad de alianzas, interpretación moral del relato romano y localización todavía debatida de Amtorgis e Ilorci. Las piezas de Baécula (208 a. C.) no se atribuyen a esta campaña. Sin cifras de bajas inventadas ni imágenes de terceros. Validación formal y documental, no revisión humana por pares.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "7d10a4e519d56f872d4f7f9f7b84ca049830c9b296f5d0e2c687c30ef83955da"
+  },
+  "publication_date": "2026-11-05",
+  "publication_time": "2026-11-05T18:39:59.260Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-11-05"
 }

@@ -668,5 +668,10 @@
     "id": "CHG-A-0144",
     "at": "2026-10-30T18:33:10.806Z",
     "mode": "Publicación manual de dos monografías revisadas por orden expresa; automatización desactivada"
+  },
+  "2026-11-05/manual/CHG-A-0165": {
+    "id": "CHG-A-0165",
+    "at": "2026-11-05T18:39:59.260Z",
+    "mode": "Publicación manual de una monografía revisada por petición expresa; generación automática desactivada"
   }
 }
