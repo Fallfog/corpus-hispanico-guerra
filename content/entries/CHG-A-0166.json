@@ -265,6 +265,23 @@
     }
   ],
   "editorial_note": "Investigación documental original asistida por IA, sin arbitraje científico externo. César se trata como fuente interesada; Casio Dion como testimonio tardío y Lucano como recreación poética. La tesis de Ripoll se cita solo en el alcance del resumen; la entrada Oxford únicamente en el alcance de su extracto; fuentes museográficas no se presentan como pruebas de campamentos. Sin material gráfico de terceros, sin reconstrucciones de bajas o coordenadas sin evidencia.",
-  "status": "borrador",
-  "not_before": "2026-11-09"
+  "status": "publicado",
+  "not_before": "2026-11-09",
+  "approval": {
+    "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje académico externo",
+    "date": "2026-11-09",
+    "notes": "Inventario de 158 fichas examinado: Ilerda (49 a. C.) no se encuentra publicado. Investigación original de 4.225 palabras, 15 apartados y 45 párrafos, todos referenciados. Se distinguen consulta amplia de César (libro I, 34–87), Dion (XLI, 19–24), lectura directa del poema de Lucano IV, resumen académico de Ripoll y extractos/fuentes patrimoniales con alcance limitado y declarado. Distingue combates parciales y rendición final, daños de riadas, infraestructura, condiciones de capitulación y función apologética de César. No fija coordenadas ni bajas sin evidencia, ni atribuye hallazgos de épocas posteriores a 49 a. C. Sin imágenes de terceros; control editorial asistido, no revisión académica por pares.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "823458371b1ac342aa346cbb5fbeff5895e4aac228c80a4326d9226c6e5e1935"
+  },
+  "publication_date": "2026-11-09",
+  "publication_time": "2026-11-08T23:20:43.643Z",
+  "publication_slot": "extraordinaria-manual",
+  "last_reviewed": "2026-11-09"
 }
