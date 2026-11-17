@@ -276,7 +276,7 @@
     }
   ],
   "editorial_note": "Investigación original de 15 apartados y 45 párrafos sobre el Ter (1694), realizada con contrastación bibliográfica y archivística secundaria. Se distingue entre el contenido consultado de un capítulo histórico y la mera ficha de la monografía de Espino y Sarobe; se marca expresamente la ambigüedad aritmética de efectivos, el carácter no equivalente de los recuentos de pérdidas y las diferentes fases de capitulación de Girona. Prosa original, sin reproducción de cartografía ni citas extensas protegidas. Revisión asistida por IA, sin arbitraje historiográfico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -291,8 +291,8 @@
     },
     "content_sha256": "b77591e2d7c181775f6f5d1e3f8a3eba4b8fee11a0a463889729348182b56e77"
   },
-  "publication_date": null,
-  "publication_time": null,
-  "publication_slot": null,
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T22:03:57.139Z",
+  "publication_slot": "2026-11-17/extra-A-0190",
   "last_reviewed": "2026-11-17"
 }
