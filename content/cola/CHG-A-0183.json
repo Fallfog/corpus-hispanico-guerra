@@ -1,0 +1,290 @@
+{
+  "id": "CHG-A-0183",
+  "slug": "valls-1809-reding-saint-cyr-pont-de-goi-francoli",
+  "topic_key": "batalla-valls-1809-reding-saint-cyr-francoli",
+  "title": "Valls, 1809: Reding, Saint-Cyr y la batalla del Pont de Goi",
+  "eyebrow": "Acciones militares · Guerra de la Independencia · Cataluña",
+  "category": "Acciones militares",
+  "period": "Edad Contemporánea",
+  "era": "Siglo XIX",
+  "chronology": 1809,
+  "date": "25 de febrero de 1809",
+  "location": "Río Francolí, Pont de Goi, Serradalt y Valls, Tarragona, Cataluña, España",
+  "summary": "Reconstrucción documentada de la batalla de Valls (25 de febrero de 1809), con análisis de la campaña de Igualada, las maniobras de Reding y Saint-Cyr, la intervención de las divisiones Souham y Pino, el resultado militar, el impacto civil y las discrepancias sobre pérdidas y fallecimiento del general español.",
+  "featured": false,
+  "keywords": [
+    "Valls 1809",
+    "batalla del Pont de Goi",
+    "Teodoro Reding",
+    "Gouvion Saint-Cyr",
+    "río Francolí",
+    "Guerra de la Independencia",
+    "campaña de Cataluña",
+    "división Souham",
+    "división Pino",
+    "Serradalt"
+  ],
+  "facts": [
+    [
+      "Fecha",
+      "25 de febrero de 1809"
+    ],
+    [
+      "Ubicación",
+      "Entorno de Valls y Alcover, valle del Francolí, provincia de Tarragona"
+    ],
+    [
+      "Conflicto",
+      "Guerra de la Independencia española / Guerra del Francès"
+    ],
+    [
+      "Fuerza española",
+      "Ejército de campaña español en Cataluña (Ejército de la Derecha), bajo Teodoro Reding"
+    ],
+    [
+      "Fuerza imperial",
+      "VII Cuerpo de Gouvion Saint-Cyr; divisiones Souham y Pino, con franceses e italianos"
+    ],
+    [
+      "Fase inicial",
+      "Avance español y repliegue de Souham durante la mañana"
+    ],
+    [
+      "Fase decisiva",
+      "Reunión de Pino y ataque imperial en cuatro columnas durante la tarde"
+    ],
+    [
+      "Resultado",
+      "Victoria napoleónica y retirada española hacia Tarragona"
+    ],
+    [
+      "Efectivos",
+      "Estimaciones divergentes; aproximadamente 10.000-15.000 españoles y 14.000-15.000 imperiales reunidos según autores, no datos censales"
+    ],
+    [
+      "Pérdidas",
+      "Miles de bajas españolas según fuentes divergentes; pérdidas imperiales próximas al millar en algunas síntesis"
+    ],
+    [
+      "Muerte de Reding",
+      "Herido el 25 de febrero; falleció en Tarragona el 23 de abril de 1809, con controversia sobre heridas y tifus"
+    ],
+    [
+      "Consecuencia posterior",
+      "Bloqueo parcial de Tarragona, abandonado en marzo de 1809; no confundir con el sitio y asalto de 1811"
+    ]
+  ],
+  "related": [
+    "CHG-A-0005",
+    "CHG-A-0027",
+    "CHG-A-0105",
+    "CHG-A-0123",
+    "CHG-A-0125"
+  ],
+  "topics": [
+    "Guerra de la Independencia",
+    "Cataluña",
+    "Campañas napoleónicas",
+    "Historia militar",
+    "Península Ibérica"
+  ],
+  "sections": [
+    {
+      "heading": "1. El combate de Valls y su verdadera escala",
+      "paragraphs": [
+        "La batalla del 25 de febrero de 1809, librada en las proximidades de Valls, reunió al principal ejército de campaña español disponible en Cataluña bajo el mando de Teodoro Reding y a las divisiones imperiales dirigidas por Laurent Gouvion Saint-Cyr. Su escenario fue el corredor del río Francolí, en torno al Pont de Goi, Picamoixons y las elevaciones del Serradalt. La denominación popular de batalla del Pont de Goi conserva una referencia topográfica esencial, pero puede sugerir equivocadamente una escaramuza reducida al puente. El enfrentamiento ocupó un frente amplio y alternó operaciones de movimiento, combate frontal y ruptura de posiciones. [1][2][3]",
+        "El resultado fue una victoria napoleónica con importantes pérdidas españolas, tras una mañana en la que las tropas de Reding lograron hacer retroceder a la división de Joseph Souham. La intervención escalonada de la división italiana de Domenico Pino permitió a Saint-Cyr reunir fuerzas superiores sobre el campo y lanzar un ataque general por la tarde. Es imposible comprender el desenlace leyendo únicamente la última carga: el cambio de equilibrio entre la primera y la segunda fase, y la decisión española de replegarse desde el terreno conquistado, constituyen el centro del problema histórico. [1][2][4][5]",
+        "Esta investigación separa el hecho militar de la memoria posterior. La batalla no consistió en un combate exclusivo entre vecinos movilizados y soldados franceses, aunque los sometents participaron en apoyo del ejército regular; tampoco fue una victoria española, interpretación conservada en ciertas tradiciones locales. Para reconstruirla conviene cotejar el estudio de Alberto Raúl Esteban Ribas, las investigaciones territoriales de Francesc Murillo Galimany, los relatos decimonónicos de Toreno, Cabanes y Gouvion Saint-Cyr, y las síntesis de Oman y Napier. Cada testimonio aporta información y presenta sesgos propios. [1][2][3][4][5][6][7][8]"
+      ]
+    },
+    {
+      "heading": "2. Cataluña después de Cardedeu y Molins de Rei",
+      "paragraphs": [
+        "En 1808, la ocupación de Barcelona por tropas francesas y la insurrección de numerosas localidades catalanas abrieron una guerra de control territorial mucho más compleja que la sucesión de grandes batallas. Las fuerzas imperiales necesitaban abastecer una capital ocupada, sostener sus comunicaciones y proteger un ejército desplegado en territorio hostil. Al otro lado combatían unidades españolas de línea, regimientos suizos al servicio de España, miqueletes, sometents y guarniciones urbanas. La coexistencia de estos componentes dificultaba el mando unificado, pero también permitía resistencias locales que el adversario no podía anular mediante una sola victoria campal. [1][2][6][8]",
+        "El general Gouvion Saint-Cyr había conducido al cuerpo expedicionario francés hacia Barcelona, obteniendo triunfos en Cardedeu y Molins de Rei durante diciembre de 1808. Aquellas derrotas desorganizaron los dispositivos españoles en el Vallès y en el Llobregat, abriendo paso a las formaciones imperiales hacia el Penedès. Sin embargo, la ocupación de pueblos y carreteras no equivalía a una pacificación duradera: partidas armadas, incursiones desde las montañas y problemas de subsistencias minaban el control francés. Los estudios de campaña ponen de manifiesto el coste de mantener destacamentos dispersos entre poblaciones opuestas a la presencia militar. [1][4][6][7]",
+        "El repliegue español hacia Tarragona dio a Reding tiempo para reunir unidades y restaurar parcialmente su capacidad de combate. También concentró en esa plaza refugiados, personal administrativo y exigencias logísticas. Desde las zonas meridionales del Principado, el valle del Ebro y las rutas marítimas podían recibirse recursos con mayor flexibilidad que en algunos acantonamientos franceses. Pero la recuperación española presentaba una paradoja estratégica: cuantos más hombres se movían para amenazar las posiciones imperiales, mayor riesgo corrían las comunicaciones entre columnas separadas por montañas, pasos estrechos y jornadas de marcha. [1][2][4][7]"
+      ]
+    },
+    {
+      "heading": "3. Reding, Saint-Cyr y las limitaciones del mando",
+      "paragraphs": [
+        "Teodoro Reding era un militar de origen suizo integrado desde hacía décadas en el servicio de la monarquía española. Su reputación estaba ligada a las operaciones de Mengíbar y Bailén, acontecimientos de 1808 convertidos en símbolos de la vulnerabilidad del ejército napoleónico. El cargo desempeñado por Reding y su experiencia anterior explican que la derrota de Valls tuviese resonancia política, pero no autorizan a reducir sus decisiones a la búsqueda psicológica de una nueva gloria. La documentación permite estudiar problemas concretos de información, abastecimiento, coordinación y oportunidad; los motivos íntimos son mucho más difíciles de demostrar. [1][4][7][9]",
+        "Laurent Gouvion Saint-Cyr dirigía el VII Cuerpo en Cataluña. Había aprendido a combinar marchas por caminos secundarios, concentraciones rápidas de divisiones y empleo de fuerzas situadas en líneas interiores. En febrero disponía de unidades francesas e italianas, cuya dependencia del abastecimiento local condicionaba cada avance. La presencia de Pino recuerda que el llamado ejército francés no era homogéneamente francés: el Reino de Italia napoleónico aportaba contingentes con sus propios oficiales y tradición militar. Saint-Cyr era entonces general; su nombramiento como mariscal del Imperio llegó años después, distinción cronológica importante para una descripción precisa de 1809. [1][2][4][6]",
+        "Los testimonios narrativos invitan a dibujar un contraste cómodo entre un vencedor lúcido y un derrotado indeciso. Ese juicio necesita matices. Saint-Cyr también padeció demoras por órdenes confusas, terreno difícil y falta de coordinación entre brigadas; Souham estuvo comprometido en serio durante la primera fase de la batalla. Reding, por su parte, hubo de rescatar destacamentos aislados y preservar el ejército sin abandonar Tarragona. El análisis militar exige valorar lo que cada jefe podía saber al adoptar una decisión, no el resultado final que conocemos retrospectivamente. [1][2][4][5][8]"
+      ]
+    },
+    {
+      "heading": "4. La maniobra sobre Igualada y las líneas interiores",
+      "paragraphs": [
+        "El plan español para recuperar la iniciativa distribuía fuerzas entre la zona de Tarragona y el eje de Igualada. La intención general era presionar las posiciones imperiales desde varias direcciones, recuperar territorio y reducir la libertad de maniobra del enemigo. Ese despliegue en arco tenía una debilidad: las columnas podían hallarse separadas por distancias y pasos montañosos que impedían reunirse con rapidez. La disposición francesa, más compacta, ofrecía la posibilidad de atacar una parte antes de que la otra acudiese. Los historiadores militares identifican en esa asimetría una causa operativa anterior a cualquier error cometido el día de Valls. [1][4][5][7]",
+        "Saint-Cyr se adelantó con las divisiones de Pino, Chabot y Chabran hacia Capellades e Igualada. Entre el 16 y el 18 de febrero se produjeron combates y desplazamientos que obligaron a las tropas españolas de aquel sector a abandonar posiciones y reagruparse. Las fuentes difieren en detalles de hora y de itinerario, pero coinciden en la pérdida de la iniciativa española sobre el eje de Igualada. El episodio tiene importancia porque alteró el objetivo de Reding: antes de pensar en una ofensiva general debía impedir que sus fuerzas septentrionales fuesen destruidas o quedasen aisladas. [1][2][4][5]",
+        "Al quedar Chabot y Chabran en el área de Igualada, Saint-Cyr pudo orientar el esfuerzo hacia el sur con la división de Pino y buscar contacto con Souham. La maniobra no fue un avance rectilíneo y sin resistencia: hubo choques en pasos, movimientos por el valle del Gaià y oposición en el entorno de Santes Creus. Sin embargo, el mando imperial acabó situado en condiciones de interponerse entre Tarragona y el grueso de las fuerzas que Reding trataba de reunir. La importancia del movimiento reside en que convirtió la ruta de regreso española en una elección militar difícil. [1][2][4][6]"
+      ]
+    },
+    {
+      "heading": "5. Santes Creus, Santa Coloma y la reunión española",
+      "paragraphs": [
+        "Entre el 19 y el 21 de febrero, el monasterio de Santes Creus se convirtió en un punto militar significativo. Un contingente español al mando del brigadier Miguel Iranzo, presionado por formaciones imperiales, buscó amparo en el recinto y sostuvo la posición frente a tropas que no disponían allí de medios adecuados para un asalto de sitio. El episodio ilustra cómo edificios sólidos y gargantas del terreno podían frenar movimientos rápidos. Aunque las cronologías concretas varían entre estudios, el resultado operativo es claro: una parte de los hombres sitiados consiguió abandonar la posición y reunirse con Reding. [2][4][5][8]",
+        "Reding había salido de Tarragona alrededor del día 20 con una fuerza reducida para recoger destacamentos expuestos. Desde distintas direcciones fueron concentrándose unidades en Santa Coloma de Queralt, entre ellas restos de las fuerzas que habían cedido el terreno de Igualada. El reagrupamiento permitió salvar una parte importante del dispositivo español, pero no solucionó el problema de las rutas. En su retaguardia quedaba la fortaleza de Tarragona; frente a ella, los franceses avanzaban para ocupar los accesos del Camp. La cuestión ya no era solamente cuántos soldados conservaba Reding, sino cómo devolverlos a una base segura. [1][2][4][7]",
+        "Una alternativa consistía en atacar a los destacamentos dejados en Igualada, mientras otra contemplaba una retirada hacia Lleida o un desvío por las montañas. El mando español necesitaba decidir también qué hacer con la artillería, los carros, los bagajes y los heridos, elementos que condicionaban la velocidad. Una columna de infantería ligera puede usar pasos que resultan impracticables para piezas y trenes de transporte. En consecuencia, el consejo celebrado antes del regreso a Tarragona no fue un debate abstracto entre valentía y prudencia, sino una elección de riesgo entre varios corredores, ninguno exento de amenaza. [2][4][5][7]"
+      ]
+    },
+    {
+      "heading": "6. Valls, el Pla y los pasos de la Conca de Barberà",
+      "paragraphs": [
+        "Saint-Cyr ocupó Valls con la división Souham y dispuso a Pino en el Pla de Santa Maria y Cabra del Camp. La selección de esos emplazamientos respondía a la geografía. Desde Valls podían vigilarse los accesos relacionados con el estrecho de la Riba y el itinerario de Picamoixons; desde el Pla se controlaban otros pasos hacia la Conca de Barberà. Entre ambos sectores había distancia suficiente para exigir mensajeros y marchas, pero no tanta como para impedir que una división auxiliara a la otra durante una jornada de combate. El dispositivo francés convirtió caminos alternativos en posibles trampas para una fuerza española en retirada. [1][2][4][5]",
+        "La entrada de fuerzas imperiales en Valls, según la investigación local de Murillo, produjo huida de población, muertes entre quienes permanecieron y un periodo de requisas y saqueo. Es necesario insertar esos hechos en el relato militar porque el control del territorio no era un asunto puramente cartográfico: los soldados ocupaban casas, consumían provisiones y alteraban la vida civil. La guerra de subsistencias alimentaba a los ejércitos y a la vez ampliaba las hostilidades de los vecinos. El hecho de que una división poseyera una población no garantizaba información fiable sobre cada camino ni obediencia de las aldeas circundantes. [2][3][6]",
+        "Las tropas de Reding se hallaban en condiciones de combatir, pero a costa de concentrar una fuerza grande con trenes y artillería en una región de circulación difícil. Murillo estima cerca de trece mil hombres en la columna que se aproximó a Valls; Napier recoge alrededor de diez mil conforme a testimonios españoles y hasta quince mil en la versión atribuida a Saint-Cyr. Estas diferencias no deben ocultarse bajo una cifra exacta artificial. La composición incluía tropa española regular, regimientos suizos, componentes valones y un número relativamente reducido de unidades catalanas de miqueletes, además de apoyos locales. [1][2][4][5]"
+      ]
+    },
+    {
+      "heading": "7. La decisión del 24 de febrero: regresar a Tarragona",
+      "paragraphs": [
+        "El 24 de febrero, reunido el estado mayor español en el entorno de Montblanc, se discutieron caminos y prioridades. Una opción consistía en desprenderse de la artillería y bagajes, enviándolos hacia Lleida, para que las tropas de combate atravesaran las montañas de Prades en dirección a Reus y Tarragona. Otra pasaba por la ruta principal de Picamoixons y Pont de Goi. El itinerario escogido conservaba la unidad entre fuerza y material, pero aproximaba la columna a las posiciones vigiladas por Souham. La decisión no fue improvisada durante el combate: nació de una deliberación previa sobre los peligros de perder cohesión. [2][5][7]",
+        "El camino histórico atravesaba la Riba, discurría por Picamoixons, cruzaba el Francolí por el Pont de Goi y continuaba hacia el sur por el Rourell, el Morell y Constantí. Sobre el mapa, su ventaja era evidente: permitía que los carros y las piezas siguieran una vía más apta para vehículos. Sobre el terreno, el mismo camino concentraba hombres, animales y municiones en un eje previsible, cerca de un adversario que vigilaba los accesos. Cuanto más larga y pesada fuese la columna, más expuestas estarían su cabeza, centro y retaguardia a quedar comprometidos en momentos diferentes. [1][2][4]",
+        "La marcha comenzó en la tarde-noche del 24 y prosiguió durante horas de oscuridad. El plan español, resumido en fuentes cercanas a los hechos, aspiraba a alcanzar Tarragona sin buscar una batalla general, aunque no excluía combatir si la oportunidad resultaba favorable. Esa fórmula expresa la tensión de toda la operación: una retirada segura podía requerir romper una fuerza de bloqueo, pero transformar una apertura momentánea en una batalla prolongada favorecía la llegada de refuerzos franceses. La elección del itinerario explica por qué un ejército que deseaba volver a su base terminó frente a su enemigo en una acción de gran entidad. [2][4][5][7]"
+      ]
+    },
+    {
+      "heading": "8. Amanecer del 25: el contacto en Pont de Goi",
+      "paragraphs": [
+        "Al alba del 25 de febrero, la vanguardia española llegó al entorno del Pont de Goi y tropezó con puestos de vigilancia franceses. Hubo descargas de fusilería, sorpresa en una parte de la columna y retirada de las avanzadas imperiales hacia su división. Algunas fuentes sitúan el contacto hacia las primeras luces; ofrecer un minuto exacto sería impropio, pues los testimonios reconstruyen una marcha nocturna cuyo ritmo no fue uniforme. Tampoco toda la fuerza española estaba aún desplegada: hombres, cañones y bagajes ocupaban tramos distintos del camino y debían superar el río antes de disponer de libertad táctica. [1][2][4][5]",
+        "Souham respondió formando sus brigadas al norte de Valls. El terreno incluía el cauce del Francolí, pendientes, caminos locales, sembrados y elevaciones que dividían la observación. La situación era delicada para ambos. Si el francés ofrecía resistencia demasiado cerca del puente, podía ser desbordado por la superioridad inicial española; si cedía demasiado pronto, el adversario alcanzaría la carretera de Tarragona. Para Reding, el problema consistía en proteger la cabeza de columna sin cerrar con una maniobra brusca el paso a la artillería y los carruajes que continuaban desplazándose. [2][4][5]",
+        "Reding desplegó fuerzas sobre las elevaciones del Serradalt, en la ribera desde la que había avanzado su columna, y situó artillería capaz de actuar hacia los pasos. Murillo describe ocho piezas españolas, cifra concreta de su reconstrucción que no obliga a extenderla como unanimidad documental. Los primeros choques de infantería ligera favorecieron a los españoles y animaron a desarrollar ataques más amplios. La presencia del puente fue determinante como punto de paso y referencia de mando, pero los combates se extendieron río arriba y río abajo; no se redujeron a una disputa sobre un único tablero de piedra. [1][2][3][4]"
+      ]
+    },
+    {
+      "heading": "9. La ofensiva española de la mañana",
+      "paragraphs": [
+        "Durante la mañana, formaciones españolas cruzaron el Francolí y presionaron distintos sectores de la línea de Souham. Reding condujo personalmente un ataque sobre un extremo francés, mientras el general Josep Joaquim Martí coordinaba la acción del conjunto cuando su superior se hallaba absorbido por el combate inmediato. La interpretación de Murillo subraya esa transferencia temporal de dirección y las órdenes de reforzar el centro, hecho que matiza la imagen de un mando español completamente inmóvil. La ofensiva combinó intentos de envolver los flancos y un esfuerzo por desplazar a la infantería imperial desde sus posiciones hacia Valls. [2][4][7]",
+        "Las brigadas de Souham cedieron terreno. El empuje español llegó a amenazar seriamente la posición francesa, que necesitaba resistir hasta que Saint-Cyr concentrase unidades desde el Pla. Los relatos de Oman y Toreno coinciden en que el combate inicial no fue una derrota táctica española, sino una secuencia en la que la presión de Reding logró resultados reales. Varias horas de fuego, desplazamientos por el cauce y contraataques consumieron munición y fatigaron a unidades que ya habían pasado la noche marchando. El rendimiento de la infantería española en esa fase contradice una explicación basada en una supuesta incapacidad natural para combatir. [1][2][4][7]",
+        "Algunos sometents de poblaciones próximas se sumaron a la batalla, y Murillo les atribuye un papel de apoyo relativamente limitado frente al protagonismo de los regimientos regulares. Su presencia, aun así, enlaza el choque con la movilización catalana de 1808. La distinción es fundamental: el valor simbólico de la participación popular no convierte al ejército de Reding en una fuerza exclusivamente miliciana. La mañana mostró una capacidad de ofensiva española susceptible de abrir el camino meridional; la pregunta historiográfica es por qué aquel éxito local no se tradujo en retirada ordenada o destrucción definitiva de la división enemiga. [1][2][3][8]"
+      ]
+    },
+    {
+      "heading": "10. La demora italiana y el cambio de equilibrio",
+      "paragraphs": [
+        "Saint-Cyr recibió avisos de Souham y ordenó que la división de Pino acudiese desde el Pla. Una confusión en la transmisión y ejecución de órdenes demoró el movimiento de la brigada Mazzuchelli, situada hacia Cabra y Sarral. Las fuentes no reconstruyen cada mensajero de idéntica forma, pero señalan que la incorporación de los italianos no fue instantánea ni simultánea. La brigada de Fontane llegó primero, acompañada por el mando francés, mientras Mazzuchelli lo hizo más tarde. La lentitud ofreció al ejército español un intervalo de oportunidad que no puede ignorarse al juzgar el resultado final. [1][2][4][5]",
+        "La llegada de contingentes frescos alteró la apreciación del riesgo. Reding veía enfrente a Souham, que había cedido terreno, pero no podía suponer que el balance de fuerzas permaneciera igual durante toda la tarde. En ese contexto comenzó a retirar sus batallones hacia las posiciones más altas que ocupaban antes de la ofensiva. Oman presenta la decisión como una ocasión perdida y atribuye excesiva vacilación al comandante español; Murillo insiste en la razonabilidad de detener ataques contra un adversario reforzado. Ambas lecturas describen los mismos movimientos, pero ponderan de modo distinto el coste de proseguir el combate. [1][2][4]",
+        "El regreso al Serradalt preservaba, al menos inicialmente, una posición defensiva favorable y la posibilidad de partir hacia Tarragona después de dar descanso a las tropas. También devolvía a los franceses la iniciativa: Saint-Cyr podía observar el repliegue, alimentar a sus hombres y ordenar una nueva concentración mientras los españoles permanecían a la vista. La relación entre descanso y tiempo de maniobra fue decisiva. Un intervalo útil para recomponer compañías agotadas se convirtió, a la vez, en el plazo necesario para que Pino reuniese sus dos brigadas y participase en un ataque general de mayor intensidad. [2][4][5][7]"
+      ]
+    },
+    {
+      "heading": "11. El ataque general de Saint-Cyr",
+      "paragraphs": [
+        "Reunidas las brigadas francesas e italianas, Saint-Cyr preparó una acción decisiva contra la línea española del Serradalt. Las reconstrucciones describen cuatro grandes columnas de infantería, apoyadas por fuerzas ligeras por delante y caballería en los intervalos o sectores apropiados para el movimiento montado. Dos columnas correspondían a la división de Pino y otras dos a la de Souham en la versión detallada de Murillo. El comandante francés prefirió concentrar masas capaces de penetrar por varios puntos a limitarse a una persecución fragmentaria de los puestos españoles adelantados. La operación exigía cruzar el Francolí bajo fuego y subir las pendientes de la ribera. [1][2][4][5]",
+        "La posición española presentaba ventajas: dominaba pasos, podía cubrirlos con artillería y obligaba a los atacantes a subir hacia una línea que disparaba desde terreno superior. Pero defender una extensión larga exigía disciplina, reservas accesibles y comunicaciones eficaces entre mandos. Las columnas atacantes explotaron la simultaneidad y el impacto psicológico de una aproximación continua pese a las descargas. Napier reproduce la afirmación, procedente de Saint-Cyr, de que éste restringió el fuego de sus cañones para evitar que el adversario se retirase prematuramente. Se trata de una explicación del propio vencedor, no de una intención psicológica que pueda verificarse independientemente. [2][4][5][6]",
+        "La cronología de la acometida varía ligeramente: el estudio regional sitúa la formación de las columnas a media tarde, mientras Oman describe su llegada completa avanzada la tarde. Lo esencial es la sucesión, no una precisión horaria engañosa. Tras el avance de tiradores, las columnas atravesaron el cauce y presionaron la línea; el fuego español causó dificultades, pero varios sectores cedieron ante la proximidad de la infantería imperial y la presión de los jinetes. Las versiones consultadas coinciden en la ruptura general, aunque difieren sobre el momento de cada penetración y la resistencia posterior de cada unidad. [1][2][4][5][7]"
+      ]
+    },
+    {
+      "heading": "12. La ruptura, la caballería y las heridas de Reding",
+      "paragraphs": [
+        "La línea defensiva española terminó fragmentada. Algunos batallones pudieron retirarse con cierto orden; otros se deshicieron en grupos pequeños y buscaron salida hacia Tarragona o por caminos del interior. La irregularidad del terreno impidió que la caballería imperial convirtiese la derrota en una captura total, pero no evitó pérdidas muy elevadas de personal, artillería y trenes. Los barrancos que entorpecían una línea de retirada cohesionada podían al mismo tiempo ofrecer refugio frente a una persecución a caballo. Esa doble función del relieve explica por qué una derrota espectacular no condujo a la desaparición física de todo el ejército español. [1][2][4][7]",
+        "Reding intervino personalmente ante jinetes enemigos y sufrió varias heridas en el combate. Las fuentes antiguas difieren en el número exacto de lesiones; Toreno refiere cinco, cantidad recogida también por Murillo, mientras otros relatos hablan de tres sablazos. La imagen de un jefe que se expone al peligro está documentada, pero no basta para dictaminar su aptitud estratégica. El comandante logró escapar y llegar a Tarragona con parte de su estado mayor. Debe evitarse convertir el episodio en una escena literaria de muerte en batalla: Reding sobrevivió al 25 de febrero y continuó con responsabilidades después del desastre. [2][4][7][9]",
+        "El episodio permite distinguir tres niveles de decisión. El nivel táctico comprende el repliegue de las brigadas españolas y la respuesta al ataque de columnas; el operativo incluye la ruta elegida hacia Tarragona y la demora de la retirada definitiva; el estratégico afecta a la imposibilidad de recuperar la iniciativa en Cataluña inmediatamente. Atribuir toda la derrota a una sola orden sería una simplificación. El mando imperial supo reunir y comprometer sus reservas, mientras que el español combinó un éxito inicial con dificultades para convertirlo en una salida ordenada antes de que cambiase el equilibrio del campo. [1][2][4][5]"
+      ]
+    },
+    {
+      "heading": "13. Efectivos, bajas y cautela estadística",
+      "paragraphs": [
+        "Los efectivos de Valls no pueden representarse mediante una pareja de cifras definitivas. Murillo calcula cerca de trece mil hombres bajo Reding y entre catorce y quince mil imperiales al reunirse Souham y Pino; Napier señala que los testimonios españoles y franceses daban cantidades diferentes para la columna española. Además, no todas las unidades presentes al principio continuaron disponibles en la misma zona durante la jornada, y los apoyos locales no equivalían a batallones con idéntico armamento y disciplina. La comparación rigurosa debe precisar siempre la fuente, el momento y el conjunto de tropas al que se refiere. [1][2][4][5]",
+        "También las pérdidas están sujetas a márgenes. Esteban Ribas habla de más de tres mil bajas españolas entre muertos, heridos y prisioneros. Murillo propone un cálculo que distingue unos dos mil muertos y heridos de un número semejante de cautivos, mientras Toreno registra una pérdida superior a dos mil sin reconstruir del mismo modo cada categoría. Oman ofrece una cifra general superior a tres mil y menciona material capturado. En la parte imperial, distintas síntesis sitúan las pérdidas en torno al millar. Ninguno de estos valores debe transformarse en un censo exacto e incontrovertible de víctimas. [1][2][4][7]",
+        "La confusión estadística no es un defecto secundario; afecta a nuestra interpretación de la capacidad posterior de cada ejército. Algunos combatientes dispersos llegaron a sus unidades días después; otros quedaron en hospitales saturados, fueron hechos prisioneros o murieron por complicaciones. La captura de banderas y cañones aportaba una señal inmediata de derrota, pero el número de piezas varía según la forma de contar el material disponible antes y después de la marcha. La monografía distingue el hecho seguro —derrota con pérdida sensible de recursos y cohesión— de las estimaciones cuantitativas que sólo pueden aceptarse atribuidas a sus autores. [1][2][4][5][8]"
+      ]
+    },
+    {
+      "heading": "14. Tarragona, la epidemia y el fin de Reding",
+      "paragraphs": [
+        "Los supervivientes convergieron en Tarragona, una plaza ya sometida a presión demográfica y sanitaria por refugiados, enfermos y heridos. Saint-Cyr extendió destacamentos por el Camp y la Conca de Barberà y trató de aislar las comunicaciones terrestres de la ciudad, pero carecía de un tren de sitio capaz de someter por asalto sistemático sus fortificaciones. Las comunicaciones marítimas limitaron la eficacia del bloqueo. La victoria abrió una fase de ocupación y requisas, aunque la resistencia de miqueletes y sometents persistió en caminos secundarios y dificultó las conexiones entre fuerzas imperiales. [2][4][7][8]",
+        "La crisis sanitaria fue una consecuencia humana de la campaña. Murillo documenta una epidemia de tifus en Tarragona y su expansión hacia otras comarcas; para Valls menciona una mortalidad anual notablemente mayor en 1809 que en 1808. Las cifras de entierros no pueden atribuirse en bloque a los combates del 25 de febrero, pues reflejan enfermedad, desplazamientos y otras circunstancias de todo el año. La distinción es relevante para evitar tanto la minimización del sufrimiento civil como la atribución engañosa de cada fallecimiento a una bala. Los hospitales militares se transformaron en nodos de contagio y de deterioro logístico. [2][3][7][9]",
+        "Reding murió en Tarragona el 23 de abril de 1809, pero la causa requiere crítica de fuentes. Toreno y Oman vincularon su fallecimiento con las heridas de Valls, cuya gravedad fue presentada de maneras distintas. Murillo, a partir de la investigación sanitaria local, sostiene que el general enfermó de tifus tras visitar un hospital militar en Altafulla; estudios biográficos militares posteriores también consideran determinante la infección. Por ello no afirmamos que muriera directamente por los sablazos recibidos en febrero. La formulación defendible es que resultó herido en la batalla y falleció semanas después, en un contexto epidémico, con atribuciones causales discrepantes en la historiografía. [2][4][7][9]"
+      ]
+    },
+    {
+      "heading": "15. Resultado estratégico, memoria y valoración crítica",
+      "paragraphs": [
+        "La victoria de Saint-Cyr desarticuló temporalmente la principal fuerza de maniobra española en Cataluña y facilitó la ocupación de sectores del Camp de Tarragona. No consiguió, sin embargo, la rendición de Tarragona ni el control completo del Principado. La falta de alimentos, la oposición armada y la dificultad de sostener las líneas obligaron al mando imperial a retirarse de su dispositivo de bloqueo durante marzo. Esta secuencia limita la lectura de Valls como una victoria absoluta y permanente. Fue una decisión táctica clara con consecuencias operativas importantes, dentro de una guerra que continuó condicionada por territorio, población y abastecimiento. [1][2][4][7]",
+        "El recuerdo del Pont de Goi sobrevivió en el ámbito local, a veces mezclando actuaciones de los sometents con el enfrentamiento de dos ejércitos regulares. El Institut d’Estudis Vallencs y las investigaciones de Murillo han contribuido a situar la batalla en un campo amplio, documentar enclaves concretos y recuperar la dimensión civil de la ocupación. La cartografía militar francesa posterior, conservada y reproducida en estudios regionales, ayuda a representar las columnas de la tarde, pero también ha de examinarse como una interpretación elaborada después de la victoria. Una lámina militar histórica no constituye por sí sola una fotografía neutral de los movimientos. [2][3][6][8]",
+        "El balance historiográfico obliga a resistir dos simplificaciones simétricas: imaginar un ejército español incapaz de obtener ventajas, o presentar la retirada de Reding como incomprensible cobardía. Sus tropas combatieron durante horas y forzaron a Souham a retroceder; Saint-Cyr, entretanto, consiguió reunir refuerzos y emplearlos con eficacia decisiva. El resultado nació de las comunicaciones y marchas de febrero, de una elección de ruta condicionada por el bagaje, de oportunidades cambiantes el día 25 y de un ataque final bien concentrado. Valls ilustra la interacción entre táctica, mando, terreno, logística y memoria en la Guerra de la Independencia. [1][2][4][5][7]"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "n": 1,
+      "name": "Alberto Raúl Esteban Ribas, «La derrota de la fuerza de maniobra de Cataluña. La batalla de Valls», Revista de Historia Militar, 106 (2009), pp. 63-99",
+      "url": "https://publicaciones.defensa.gob.es/media/downloadable/files/links/r/h/rhm_106.pdf",
+      "kind": "Estudio de historia militar, publicación oficial del Ministerio de Defensa",
+      "verified_at": "2026-11-17",
+      "verification_note": "Verificados autor, título, número, páginas y resumen en Biblioteca Virtual de Defensa y Dialnet; texto y resumen contrastados mediante indexación del PDF oficial. El enlace directo al PDF ha producido errores intermitentes."
+    },
+    {
+      "n": 2,
+      "name": "Francesc Murillo Galimany, «La Batalla de Valls (Pont de Goi, 25 de febrer de 1809)», en La Guerra del Francès a la Conca de Barberà (1808-1814), coord. Josep M. T. Grau Pujol, 2010, pp. 73-92",
+      "url": "https://www.dipta.cat/llibreria/sites/llibreria/files/media/La%20Guerra%20del%20Franc%C3%A8s%20a%20la%20Conca%20de%20Barber%C3%A0.pdf",
+      "kind": "Investigación regional con fuentes y cartografía histórica, Diputació de Tarragona",
+      "verified_at": "2026-11-17",
+      "verification_note": "Leído texto del capítulo y notas, incluidas secciones sobre maniobras, composición, bajas, epílogo y tifus, pp. 73-92; contiene una reproducción de plano militar francés."
+    },
+    {
+      "n": 3,
+      "name": "Francesc Murillo Galimany, La Batalla del Pont de Goi (Valls, 25 de febrer de 1809), Biblioteca d'Estudis Vallencs, XLVI, 2009",
+      "url": "https://iev.cat/es/publicacions/biblioteca-de-estudis-vallencs/",
+      "kind": "Monografía de investigación local, Institut d'Estudis Vallencs",
+      "verified_at": "2026-11-17",
+      "verification_note": "Verificada existencia bibliográfica, título, autor, entidad editora y sinopsis histórica mediante catálogo de la institución; obra monográfica no leída completa en línea."
+    },
+    {
+      "n": 4,
+      "name": "Charles Oman, A History of the Peninsular War, vol. II, sección X, capítulo III, «The Campaign of February, 1809: Battle of Valls», 1903, pp. 76-89",
+      "url": "https://readingroo.ms/5/4/2/7/54279/54279-h/54279-h.htm",
+      "kind": "Historia militar clásica británica, texto íntegro digitalizado",
+      "verified_at": "2026-11-17",
+      "verification_note": "Leído capítulo específico de Valls y antecedentes, incluido mapa y notas, pp. 76-89; contiene juicios retrospectivos y cifras que se contrastan críticamente."
+    },
+    {
+      "n": 5,
+      "name": "William F. P. Napier, History of the War in the Peninsula and in the South of France, vol. II, capítulo V, apartado «Battle of Valls», siglo XIX",
+      "url": "https://www.cyberlibrary.org/en/books/history-of-the-war-in-the-peninsula-and-in-the-south-of-france-ab465e14/chapters/26/",
+      "kind": "Historiografía militar decimonónica británica",
+      "verified_at": "2026-11-17",
+      "verification_note": "Leído apartado sobre operaciones de Saint-Cyr, consejo español, despliegue y ataque de las tres de la tarde; distingue cantidades españolas de las atribuidas a Saint-Cyr."
+    },
+    {
+      "n": 6,
+      "name": "Laurent Gouvion Saint-Cyr, Journal des opérations de l'armée de Catalogne en 1808 et 1809, edición J. Dumaine, 1865 (obra original publicada en 1821)",
+      "url": "https://books.google.fr/books?id=k4uRJovz5VMC",
+      "kind": "Memorias de comandante francés, fuente primaria retrospectiva",
+      "verified_at": "2026-11-17",
+      "verification_note": "Verificada obra, autor, edición y presencia de capítulos de Valls en registro digitalizado de Google Books y Biblioteca Virtual de Defensa; las afirmaciones de su autojustificación se leen mediante citas cotejadas en Napier/Oman, no como hechos externos independientes."
+    },
+    {
+      "n": 7,
+      "name": "José María Queipo de Llano, conde de Toreno, Historia del levantamiento, guerra y revolución de España, tomo II, libro VIII, «Batalla de Valls», primera mitad del siglo XIX",
+      "url": "https://readingroo.ms/6/9/1/5/69159/69159-h/69159-h.htm",
+      "kind": "Historia española decimonónica de la Guerra de la Independencia",
+      "verified_at": "2026-11-17",
+      "verification_note": "Texto íntegro localizado y leídos pasajes sobre preparación, fase matinal, ataque en cuatro columnas, pérdidas, bloqueo y muerte de Reding."
+    },
+    {
+      "n": 8,
+      "name": "Francisco Javier de Cabanes, Historia de las operaciones del Exército de Cataluña en la Guerra de la Usurpación, campaña primera, Barcelona, Imprenta de Brusi, 1815",
+      "url": "https://books.google.com/books?id=Uu3AJo4zeKIC",
+      "kind": "Relato histórico de oficial español cercano a la campaña",
+      "verified_at": "2026-11-17",
+      "verification_note": "Verificados título, autor, fecha y contenido temático mediante catalogación y texto indexado; no se atribuyen citas literales ni datos exclusivos no cotejados."
+    },
+    {
+      "n": 9,
+      "name": "«La memoria de la Guerra de la Independencia: el ejemplo del teniente general Teodoro Reding», Revista de Historia Militar, 110 (2011), Ministerio de Defensa",
+      "url": "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/consulta/registro.do?control=BMDB20236683273",
+      "kind": "Investigación biográfica militar contemporánea",
+      "verified_at": "2026-11-17",
+      "verification_note": "Verificados título, número, tema y biografía en catálogo institucional; contrastados contexto de la muerte y epidemia con el estudio de Murillo; texto íntegro no leído por completo."
+    }
+  ],
+  "editorial_note": "Monografía original de investigación y síntesis con 15 apartados y cotejo de una fuente histórica local de acceso completo, historiografía militar oficial, narrativas españolas, francesas y británicas. Se explicitan discrepancias de cronología, efectivos, bajas y causa del fallecimiento de Reding; se distinguen bloqueo de 1809 y sitio de 1811. Sin imágenes de terceros reproducidas. No constituye artículo sometido a revisión científica externa.",
+  "status": "borrador",
+  "not_before": "2026-11-17"
+}
