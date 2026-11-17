@@ -313,6 +313,19 @@
     }
   ],
   "editorial_note": "Investigación y redacción originales asistidas por IA, sin arbitraje científico externo. Nueve fuentes institucionales y académicas localizadas y contrastadas a distintos niveles de acceso: los textos de Moisand y del Instituto de Historia y Cultura Naval y la cronología municipal se consultaron en línea; los artículos de Rolandi, Roda, Carrión y Gómez Vizcaíno se utilizaron con el alcance declarado en sus resúmenes y metadatos, sin presumir lectura integral de PDF no inspeccionado. Se distingue capitulación del 12 de enero y entrada gubernamental del día 13; se separa la estimación archivística superior a 400 muertos por la explosión del registro nominal de 79 fallecidos identificados en la contienda; el incendio de la Tetuán se refiere sin causa indiscutible; y se rechaza la confusión entre protección con bandera estadounidense y anexión. Sin imágenes ajenas ni reproducción extensa de textos protegidos.",
-  "status": "borrador",
-  "not_before": "2026-11-17"
+  "status": "revisado",
+  "not_before": "2026-11-17",
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-17",
+    "notes": "Monografía original de 4098 palabras, 15 apartados, 45 párrafos referenciados y nueve fuentes documentales contrastadas; no se encontró tema ni ficha duplicada entre 168 monografías previas. Se contrastó la secuencia del 12 de julio de 1873 al 13 de enero de 1874 mediante cronología del Archivo Municipal, estudios del Instituto de Historia y Cultura Naval, universidad y Revista de Historia Militar. Se distinguen la estimación de más de 400 muertos en la voladura frente a 79 fallecidos nominalmente identificados por un estudio demográfico, no equivalentes, y la capitulación del 12 enero frente a entrada militar del día 13. Se marca como no concluyente la causa del incendio de la Tetuán y se contextualiza la bandera de Estados Unidos sin afirmar anexión. El acceso a fuentes solo por resumen figura en notas bibliográficas y no se infiere consulta integral.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "1162be457a32dd374e1c1716ad6dcfabdb833d6075b414a33f16eaf4e38ec73b"
+  }
 }
