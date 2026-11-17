@@ -286,6 +286,19 @@
     }
   ],
   "editorial_note": "Investigación documental asistida por IA y revisión crítica, sin arbitraje científico externo. Se diferencia explícitamente la longitud de dieciocho millas de Floro de las quince de Orosio y se impide convertir el río Minius o el topónimo palentino en identificación arqueológica. La narrativa de muerte colectiva se atribuye a autores antiguos, no a corroboración independiente. Fecha 26–22 a. C. interpretativa; no se atribuyen fuerzas, cifras, mandos específicos, duración o trazados inventados. La síntesis del Journal of Roman Archaeology se utiliza solo en la parte accesible. Sin reproducción de imágenes ni pasajes extensos protegidos.",
-  "status": "borrador",
-  "not_before": "2026-11-17"
+  "status": "revisado",
+  "not_before": "2026-11-17",
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-17",
+    "notes": "Monografía original de 4.043 palabras, 15 apartados y 45 párrafos con citas a 8 fuentes verificadas. Comprobado inventario de 161 monografías sin Monte Medulio. Diferencias entre Floro (terraplén de dieciocho millas) y Orosio (foso de quince millas, Minius) mantenidas sin falsa síntesis; texto de Casio Dion usado únicamente para contexto. Análisis historiográfico de Sendino, Gutiérrez Cuenca y Hierro Gárate, Cortijo Cerezo y Campbell; JRA de 2019 solo introducción pública. Ninguna localización o fecha exacta declarada como demostrada; no hay cifras de bajas, fuerzas, itinerarios ni monumentos inventados. No se reproducen imágenes protegidas. Fecha de 26–22 a. C. es rango de propuestas, no datación material.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "29799c3c7bc57f3699ad41051b9004b066e2ad79d87f7f0160bf4e5e1c509659"
+  }
 }
