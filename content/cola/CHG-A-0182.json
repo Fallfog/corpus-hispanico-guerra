@@ -306,6 +306,19 @@
     }
   ],
   "editorial_note": "Monografía original basada en la Historia Roderici (secciones 12–17), lectura crítica de Montaner y estudios universitarios sobre taifas, guerra, filología y memoria historiográfica. Diferencia la campaña de Almenar de la batalla de Tévar de 1090 y la localidad leridana de la valenciana Almenara. Las cifras de muertos, los efectivos precisos, la formación de batalla y un posible rescate del conde se mantienen como desconocidos o hipotéticos. Revisión documental y editorial asistida por IA sin arbitraje científico externo; no incorpora imágenes restringidas.",
-  "status": "borrador",
-  "not_before": "2026-11-17"
+  "status": "revisado",
+  "not_before": "2026-11-17",
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-17",
+    "notes": "15 apartados, 4235 palabras, 45 párrafos con referencias y 8 fuentes académicas identificadas. Se contrastan los capítulos 12–17 de la Historia Roderici con Montaner, Porrinas, Negro Cortés, Georges Martin, Escobar y Blašković. Se distinguen los tres ámbitos de la narración (asedio, batalla y memoria), las operaciones de Monzón y Tamarite, el combate de Tévar de 1090 y la Almenara valenciana. Sin cifras de bajas, efectivos o rescate afirmadas sin soporte; imágenes no incorporadas.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "f480a3db8ba409b56d4787671c156c050340f2e175bdad91d2e99924d80a03e3"
+  }
 }
