@@ -307,7 +307,7 @@
     }
   ],
   "editorial_note": "Investigación y redacción originales asistidas por IA, sin arbitraje científico externo. Contraste de estudios de Monteano, Fernández Martín y Téllez Alarcia, exposiciones de Archivo Real y General de Navarra y Universidad de Navarra, y síntesis del Gobierno foral. Diferenciadas afirmaciones documentadas (fecha/lugar/resultado, cédulas de indemnización, reclamaciones por estandarte y cautivo) de cálculos discutidos de soldados y víctimas. Las fuentes accesibles solo por extracto o resumen se citan con ese alcance; se evita afirmar consulta íntegra de 52 documentos archivísticos o del capítulo completo de Monteano. Se representan las distintas lealtades navarras sin anacronismos nacionales ni proyección ideológica contemporánea. No se usan imágenes ni citas protegidas extensas.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -321,5 +321,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "1b085afb278c7bbf37d21dfac5edac934e0d0c7bdfd46a4f762eb7933d2f3463"
-  }
+  },
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T10:26:54.412Z",
+  "publication_slot": "2026-11-17/extra-A-0173",
+  "last_reviewed": "2026-11-17"
 }
