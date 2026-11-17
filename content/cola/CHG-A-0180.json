@@ -305,6 +305,19 @@
     }
   ],
   "editorial_note": "Monografía de síntesis histórico-documental elaborada mediante contraste de partes publicados en 1809, estudio de la Revista de Historia Militar, cartografía del Centro Geográfico del Ejército y narraciones de Toreno, Oman y Napier. Las cifras de bajas se atribuyen explícitamente a cada fuente; no se presupone revisión por pares de esta publicación ni arbitraje científico externo. No incorpora imágenes de uso restringido.",
-  "status": "borrador",
-  "not_before": "2026-11-17"
+  "status": "revisado",
+  "not_before": "2026-11-17",
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-17",
+    "notes": "15 apartados y 4168 palabras. Contraste documental de partes de 1809, cartografía militar, estudio de Sañudo Bayón y relatos de Toreno, Oman y Napier. Se identifican divergencias de efectivos y bajas, fecha del 18 certificada por partes primarios y diferencia entre resultado táctico y campaña posterior. Citas presentes en los 45 párrafos; referencias verificadas con notas de alcance.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "ad046021a241f557b061648b0422f9cc25c6981da98cb98ab6e7765e97d15c3b"
+  }
 }
