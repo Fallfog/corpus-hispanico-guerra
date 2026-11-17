@@ -294,7 +294,7 @@
     }
   ],
   "editorial_note": "Investigación histórica y revisión editorial asistidas por IA, sin arbitraje científico externo. Nueve fuentes contrastadas: estudios académicos, monografía municipal, síntesis patrimonial, geología, historia militar británica y repertorios bibliográficos. Divergencia no resuelta sobre el día de explosión (3/4 marzo de 1709) y número de bajas (tradición local frente británica); la monografía lo explicita. Se distingue la ocupación de la ciudad en diciembre de 1708 del final del sitio del castillo en abril de 1709. Las fuentes que solo ofrecieron resumen/metadatos se citan con alcance limitado. No se inventan posiciones de mina, cláusulas exactas de capitulación ni cifras de fuerzas no verificadas. Redacción original sin imágenes o reproducciones extensas protegidas.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -308,5 +308,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "3774504aad6ea3e7938d99299ca8d0d7c02ac75c109688d20493ff213e0ee2a6"
-  }
+  },
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T10:21:17.479Z",
+  "publication_slot": "2026-11-17/extra-A-0172",
+  "last_reviewed": "2026-11-17"
 }
