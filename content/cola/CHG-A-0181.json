@@ -302,6 +302,19 @@
     }
   ],
   "editorial_note": "Monografía original de síntesis crítica de la celada de Moclín (1280) basada en crónica castellana tal como la transmiten los estudios indicados, historiografía institucional y estudios arqueológicos universitarios. Identifica expresamente la discrepancia entre el 22 y el 23 de junio, atribuye las cifras militares a la fuente cronística sin tratarlas como datos censales y evita confundir el episodio con la conquista del castillo de 1486. Revisión histórica y editorial asistida por IA; no existe arbitraje científico externo ni se incorporan imágenes con derechos restringidos.",
-  "status": "borrador",
-  "not_before": "2026-11-17"
+  "status": "revisado",
+  "not_before": "2026-11-17",
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-17",
+    "notes": "15 apartados, 4352 palabras y 45 párrafos con citas bibliográficas. Contraste de la Crónica de Alfonso X en análisis de Novoa Portela, Martínez Martín y Ayala; ocho referencias académicas verificadas. Se distingue la datación discutida del 22–23 de junio, las cifras cronísticas no censales, el mando de Sancho de la acción del maestre y la incorporación de Santa María de España sin atribuir certeza documental a extremos abiertos. Originalidad y licencias revisadas.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "6a9a5d44491a2238adb40e6463a883ef8437fa17d899d6ee45bce22c5bd49197"
+  }
 }
