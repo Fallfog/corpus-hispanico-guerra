@@ -302,7 +302,7 @@
     }
   ],
   "editorial_note": "Monografía original de síntesis crítica de la celada de Moclín (1280) basada en crónica castellana tal como la transmiten los estudios indicados, historiografía institucional y estudios arqueológicos universitarios. Identifica expresamente la discrepancia entre el 22 y el 23 de junio, atribuye las cifras militares a la fuente cronística sin tratarlas como datos censales y evita confundir el episodio con la conquista del castillo de 1486. Revisión histórica y editorial asistida por IA; no existe arbitraje científico externo ni se incorporan imágenes con derechos restringidos.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -316,5 +316,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "6a9a5d44491a2238adb40e6463a883ef8437fa17d899d6ee45bce22c5bd49197"
-  }
+  },
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T11:43:45.554Z",
+  "publication_slot": "2026-11-17/extra-A-0181",
+  "last_reviewed": "2026-11-17"
 }
