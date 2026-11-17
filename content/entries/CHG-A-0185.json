@@ -297,7 +297,7 @@
     }
   ],
   "editorial_note": "Monografía original de síntesis histórico-militar, con 15 apartados, 45 párrafos y citas documentales. Compara perspectivas republicanas y sublevadas, investigaciones de posguerra y documentación reciente, diferenciando balance operativo de propaganda y cifras heterogéneas. Se evita cualquier apología o lenguaje celebratorio de la violencia y se incluyen víctimas civiles y patrimonio. Sin reproducción de imágenes con derechos de terceros. Revisión asistida por IA sin arbitraje académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -312,8 +312,8 @@
     },
     "content_sha256": "4026cc7b7e3343dd6e064e017d99ef084d3a2f2038bb324474f3cf528de0064b"
   },
-  "publication_date": null,
-  "publication_time": null,
-  "publication_slot": null,
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T12:41:45.247Z",
+  "publication_slot": "2026-11-17/extra-A-0185",
   "last_reviewed": "2026-11-17"
 }
