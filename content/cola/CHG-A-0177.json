@@ -312,6 +312,19 @@
     }
   ],
   "editorial_note": "Redacción e investigación originales asistidas por IA; no constituye arbitraje académico externo. Nueve fuentes universitarias, arqueológicas, catalográficas e institucionales de acceso y nivel distintos. Texto completo consultado en Ratcliffe, Javier Albarrán, PDF universitario de Valladolid, documento municipal de García Cano y estudio arqueológico publicado en congreso (extractos disponibles en repositorio académico); fichas bibliográficas de Martín Díez y Jiménez Soto verificadas sin simular lectura integral. Se diferencia victoria campal almorávide, cerco del castillo por ocho días y toma posterior de Consuegra en 1099. Se atribuye mando operativo a Muhammad ibn al-Hayy sin equipararlo automáticamente con presencia física de Yusuf; se evita afirmación no probada de 300 jinetes cidianos, cifras exactas de bajas, posiciones tácticas y diálogos imaginarios. Se advierte de mención secundaria 1098 discordante con cronología medieval mayoritariamente aceptada de 1097. Sin imágenes ajenas ni fragmentos extensos sujetos a derechos.",
-  "status": "borrador",
-  "not_before": "2026-11-17"
+  "status": "revisado",
+  "not_before": "2026-11-17",
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-17",
+    "notes": "Monografía original de 4.115 palabras, 15 apartados, 45 párrafos referenciados y nueve fuentes; se comprobó la inexistencia de tema duplicado en el inventario de 169 monografías. Fuentes contrastadas: investigación filológica de Ratcliffe sobre Diego, arqueología del castillo de Consuegra, manual académico de Albarrán, Anales Toledanos reproducidos en trabajo universitario, catálogo de capítulos específicos de Gonzalo Martín Díez y Urbano Jiménez Soto y estudios institucionales. Se separan 15 agosto 1097, ocho días de cerco y ocupación en junio 1099. No se fijan cifras inciertas de efectivos ni bajas; se señala incertidumbre sobre envío exacto del hijo del Cid, mando personal de Yusuf, detalles de choque y una datación 1098 minoritaria de materiales modernos.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "b1126429b13141af66fb1fe4668c56a568fe3e4291520dc61c469d4e69b307aa"
+  }
 }
