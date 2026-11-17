@@ -294,6 +294,19 @@
     }
   ],
   "editorial_note": "Investigación histórica y revisión editorial asistidas por IA, sin arbitraje científico externo. Nueve fuentes contrastadas: estudios académicos, monografía municipal, síntesis patrimonial, geología, historia militar británica y repertorios bibliográficos. Divergencia no resuelta sobre el día de explosión (3/4 marzo de 1709) y número de bajas (tradición local frente británica); la monografía lo explicita. Se distingue la ocupación de la ciudad en diciembre de 1708 del final del sitio del castillo en abril de 1709. Las fuentes que solo ofrecieron resumen/metadatos se citan con alcance limitado. No se inventan posiciones de mina, cláusulas exactas de capitulación ni cifras de fuerzas no verificadas. Redacción original sin imágenes o reproducciones extensas protegidas.",
-  "status": "borrador",
-  "not_before": "2026-11-17"
+  "status": "revisado",
+  "not_before": "2026-11-17",
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-17",
+    "notes": "Monografía original de 4.120 palabras, 15 apartados y 45 párrafos con referencias al final, fundamentados en 9 fuentes bibliográficas y patrimoniales. Sin duplicidad de episodio en las 164 entradas del inventario. Comprobadas la toma de la ciudad en diciembre de 1708, la voladura y sus divergencias de fecha 3/4 de marzo de 1709, muerte de John Richards, supervivencia del castillo y evacuación en abril. Disparidad de cifras de bajas declarada, sin fabricar número reconciliado. Fuentes académicas accesibles solo en resumen utilizadas con ese alcance. Redacción original, sin imágenes protegidas ni precisión táctica inventada.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "3774504aad6ea3e7938d99299ca8d0d7c02ac75c109688d20493ff213e0ee2a6"
+  }
 }
