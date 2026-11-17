@@ -286,7 +286,7 @@
     }
   ],
   "editorial_note": "Investigación documental asistida por IA y revisión crítica, sin arbitraje científico externo. Se diferencia explícitamente la longitud de dieciocho millas de Floro de las quince de Orosio y se impide convertir el río Minius o el topónimo palentino en identificación arqueológica. La narrativa de muerte colectiva se atribuye a autores antiguos, no a corroboración independiente. Fecha 26–22 a. C. interpretativa; no se atribuyen fuerzas, cifras, mandos específicos, duración o trazados inventados. La síntesis del Journal of Roman Archaeology se utiliza solo en la parte accesible. Sin reproducción de imágenes ni pasajes extensos protegidos.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -300,5 +300,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "29799c3c7bc57f3699ad41051b9004b066e2ad79d87f7f0160bf4e5e1c509659"
-  }
+  },
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T10:04:11.011Z",
+  "publication_slot": "2026-11-17/extra-A-0169",
+  "last_reviewed": "2026-11-17"
 }
