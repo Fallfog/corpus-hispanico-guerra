@@ -296,7 +296,7 @@
     }
   ],
   "editorial_note": "Monografía original histórico-militar con 15 apartados y 45 párrafos. Contrasta las narraciones de Jaime I, Desclot, la Crónica latina y la Crónica árabe de Ibn ʽAmīra a través de estudios y ediciones críticas, diferenciando fuentes medievales y análisis actual. Se distinguen enfrentamiento del 10 de septiembre en Santa Ponça, batalla de Portopí del 12 y asalto a Madīnat Mayūrqa del 31 de diciembre. Se advierte sobre cifras cronísticas y pérdidas musulmanas; relato no celebratorio de la violencia, sin reproducción de material visual de terceros. Revisión asistida por IA, no arbitraje científico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -311,8 +311,8 @@
     },
     "content_sha256": "7c70192778584823009bb8f76ba75b52ae94372dd141a84a5afd9208bd9c291d"
   },
-  "publication_date": null,
-  "publication_time": null,
-  "publication_slot": null,
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T12:57:02.957Z",
+  "publication_slot": "2026-11-17/extra-A-0187",
   "last_reviewed": "2026-11-17"
 }
