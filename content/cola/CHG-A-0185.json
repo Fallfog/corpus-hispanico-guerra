@@ -297,11 +297,23 @@
     }
   ],
   "editorial_note": "Monografía original de síntesis histórico-militar, con 15 apartados, 45 párrafos y citas documentales. Compara perspectivas republicanas y sublevadas, investigaciones de posguerra y documentación reciente, diferenciando balance operativo de propaganda y cifras heterogéneas. Se evita cualquier apología o lenguaje celebratorio de la violencia y se incluyen víctimas civiles y patrimonio. Sin reproducción de imágenes con derechos de terceros. Revisión asistida por IA sin arbitraje académico externo.",
-  "status": "borrador",
+  "status": "revisado",
   "not_before": "2026-11-17",
-  "approval": null,
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-17",
+    "notes": "15 apartados, 45 párrafos, 4520 palabras y 9 referencias bibliográficamente verificadas. Estudio patrimonial de Castellano y Schnell leído en su capítulo de batalla; estudio académico de José Luis Martínez Sanz y apartado aeronáutico de Jesús María Salas Larrazábal consultados. Martínez Bande 1959 y 1972 confrontados mediante registros, pasajes y estudios que los usan; Montero Barrado consta por catálogo, sin lectura íntegra. Fuentes de prensa republicana y sublevada de julio de 1937 tratadas como propaganda. Revisados fecha, mandos, fases, pérdidas ambiguas y distinción entre victoria territorial y efecto estratégico. Sin imágenes externas.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "4026cc7b7e3343dd6e064e017d99ef084d3a2f2038bb324474f3cf528de0064b"
+  },
   "publication_date": null,
   "publication_time": null,
   "publication_slot": null,
-  "last_reviewed": null
+  "last_reviewed": "2026-11-17"
 }
