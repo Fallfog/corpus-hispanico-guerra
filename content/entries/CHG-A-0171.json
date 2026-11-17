@@ -296,7 +296,7 @@
     }
   ],
   "editorial_note": "Investigación histórica asistida por IA, sin arbitraje científico externo. Contraste de Utrilla, ʿAfif Turk, Iranzo Muñío, fuente medieval pinatense e instituciones aragonesas. Se separa hecho bélico de leyendas del siglo XIV; se explicita el anacronismo de Antioquía (1098) respecto de Alcoraz (1096). Se reconoce la divergencia 18–19 de noviembre y se evita una cifra definitiva de muertos, composición exacta o mapa táctico no documentado. La capitulación se analiza sin inventar cláusulas. No se reproducen imágenes ni citas extensas protegidas.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -310,5 +310,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "5182a110d525825a694b5151a2e97c5d6626f21e037e9ab27a4850b7b85299c6"
-  }
+  },
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T10:15:21.407Z",
+  "publication_slot": "2026-11-17/extra-A-0171",
+  "last_reviewed": "2026-11-17"
 }
