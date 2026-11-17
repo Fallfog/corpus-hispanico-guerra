@@ -292,7 +292,7 @@
     }
   ],
   "editorial_note": "Investigación documental asistida por IA, sin revisión científica externa por pares. Se contrastan expresamente Floro, Orosio y Casio Dion, sin fusionar resistencia, rendición y abandono en certeza inventada. Se reconocen yacimientos de Villasabariego y Las Labradas como distintas propuestas, Villacete como hipótesis con falta de datación definitiva. La síntesis de Journal of Roman Archaeology se cita solo en su parte accesible. Sin mapas de precisión espuria ni cifras no documentadas de bajas. Sin imágenes externas.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -306,5 +306,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "c820bf61abaed95f475cabadf5c70ee3f2f2ddbddd30d7e246294f2e5494e973"
-  }
+  },
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T09:57:54.241Z",
+  "publication_slot": "2026-11-17/extra-A-0168",
+  "last_reviewed": "2026-11-17"
 }
