@@ -1,0 +1,317 @@
+{
+  "id": "CHG-A-0188",
+  "slug": "chiclana-barrosa-1811-graham-lapena-victor-cadiz",
+  "topic_key": "batalla-chiclana-barrosa-5-marzo-1811-guerra-independencia",
+  "title": "Chiclana, 1811: Graham, Lapeña y la victoria de Barrosa que no levantó el sitio de Cádiz",
+  "eyebrow": "Acciones militares · Guerra de la Independencia · Cádiz",
+  "category": "Acciones militares",
+  "period": "Edad Contemporánea",
+  "era": "Siglo XIX",
+  "chronology": 1811,
+  "date": "5 de marzo de 1811",
+  "location": "Barrosa, Torre Bermeja y Sancti Petri, Chiclana de la Frontera, Cádiz, Andalucía, España",
+  "summary": "Estudio histórico-crítico de la expedición aliada desde Cádiz, la cabeza de puente de Sancti Petri, la ofensiva del mariscal Victor y la victoria táctica angloportuguesa de Barrosa, confrontando las versiones españolas y británicas sobre la imposibilidad de levantar el sitio.",
+  "featured": false,
+  "keywords": [
+    "Chiclana",
+    "La Barrosa",
+    "Barrosa",
+    "Guerra de la Independencia",
+    "Cádiz",
+    "1811",
+    "Thomas Graham",
+    "Manuel de Lapeña",
+    "Claude Victor",
+    "Ruffin",
+    "Leval",
+    "Sancti Petri",
+    "Torre Bermeja",
+    "Isla de León",
+    "Cortes de Cádiz",
+    "Zayas",
+    "Lacy"
+  ],
+  "facts": [
+    [
+      "Fecha",
+      "5 de marzo de 1811; combate previo en Sancti Petri el 3 de marzo"
+    ],
+    [
+      "Lugar",
+      "Alturas de Barrosa y Cabeza del Puerco; pinares de Torre Bermeja; Chiclana de la Frontera (Cádiz)"
+    ],
+    [
+      "Conflicto",
+      "Guerra de la Independencia española (1808–1814), durante el sitio francés de Cádiz"
+    ],
+    [
+      "Contendientes",
+      "Fuerzas españolas, británicas y portuguesas contra tropas imperiales francesas"
+    ],
+    [
+      "Mando aliado",
+      "Teniente general Manuel de Lapeña (superior); Thomas Graham (división británica); Luis Lacy (Estado Mayor español)"
+    ],
+    [
+      "Mando francés",
+      "Mariscal Claude-Victor Perrin, duque de Belluno; generales Ruffin y Leval"
+    ],
+    [
+      "Objetivo",
+      "Romper las líneas francesas de sitio mediante expedición por la retaguardia y salida desde Isla de León"
+    ],
+    [
+      "Operación previa",
+      "Desembarcos aliados en el Estrecho a finales de febrero y marcha por el litoral gaditano"
+    ],
+    [
+      "Acción previa",
+      "Ataque francés del 3 de marzo a la cabeza de puente española de Sancti Petri"
+    ],
+    [
+      "Combate",
+      "Contraataques de Graham contra las divisiones francesas tras contramarcha desde Torre Bermeja"
+    ],
+    [
+      "Resultado táctico",
+      "Retirada francesa del campo de Barrosa tras combates muy costosos"
+    ],
+    [
+      "Resultado operacional",
+      "No se consiguió levantar el sitio de Cádiz"
+    ],
+    [
+      "Consecuencia estratégica",
+      "La inversión terrestre francesa continuó hasta agosto de 1812"
+    ],
+    [
+      "Trofeos documentados",
+      "Material capturado y águila del 8.º regimiento de línea francés (según tradición museística británica)"
+    ],
+    [
+      "Controversia historiográfica",
+      "Relatos de Lapeña, Graham, Parlamento británico y Cortes españolas enfrentados sobre mando y explotación de la victoria"
+    ],
+    [
+      "Fuentes críticas",
+      "Documentación parlamentaria de 1811, estudio historiográfico UCA, cartografía histórica y testimonios locales"
+    ]
+  ],
+  "related": [
+    "CHG-A-0118",
+    "CHG-A-0048"
+  ],
+  "topics": [],
+  "sections": [
+    {
+      "heading": "1. Chiclana, 5 de marzo de 1811: una victoria de significado disputado",
+      "paragraphs": [
+        "El 5 de marzo de 1811, en los arenales, pinares y alturas de Chiclana de la Frontera, una expedición formada por fuerzas españolas, británicas y portuguesas chocó con tropas imperiales francesas que mantenían el cerco de Cádiz. La acción es conocida en la historiografía española como batalla de Chiclana y en gran parte de la británica como batalla de Barrosa. No se trata de dos encuentros, sino de denominaciones que subrayan espacios y memorias distintos de una misma jornada. Sobre el terreno las fuerzas de Victor se retiraron tras combates muy duros; en el plano de la campaña, el bloqueo francés no quedó desmantelado. [1][2][4]",
+        "Esta aparente paradoja obliga a distinguir resultado táctico, finalidad operacional y consecuencia estratégica. Una fuerza puede rechazar a su adversario, tomar prisioneros y conservar el campo inmediato sin conquistar por ello la libertad de maniobra necesaria para transformar la situación de una plaza asediada. En Chiclana, el propósito general aliado consistía en atacar la retaguardia de las posiciones francesas que cerraban los accesos terrestres a Cádiz, combinar ese esfuerzo con una salida desde la Isla de León y forzar el abandono del sitio. Los hechos de la batalla no produjeron ese desenlace, cuya ausencia abrió inmediatamente una polémica política y militar. [1][2][3]",
+        "La interpretación de lo sucedido fue parte de la propia historia del combate. Las Cortes exigieron explicaciones a la Regencia, la Cámara de los Comunes exaltó a Thomas Graham, Manuel Lapeña y sus defensores respondieron a reproches, y la memoria francesa sostuvo una lectura propia. El investigador Fernando Durán López ha mostrado cómo la discusión se organizó en relatos nacionales y personales de difícil conciliación. Por eso esta monografía no busca designar un héroe único o un culpable automático: reconstruye el objetivo de la expedición, las decisiones comprobables y las limitaciones de las versiones disponibles, separando hechos, juicios e hipótesis. [3][6][7]"
+      ]
+    },
+    {
+      "heading": "2. Cádiz sitiada: una ciudad, una regencia y unas Cortes en guerra",
+      "paragraphs": [
+        "Cádiz ocupaba una posición singular en la Guerra de la Independencia. Defendida por su litoral, su bahía y los accesos de la Isla de León, se convirtió en refugio de autoridades que no aceptaban el dominio de José Bonaparte sobre España. La presencia de las Cortes desde 1810 dotó a la resistencia de un componente político inseparable de la operación militar: no se defendía solamente un puerto, sino una sede de legitimidad y deliberación nacional. El ejército francés no consiguió tomar la plaza por un asalto rápido y recurrió a un prolongado dispositivo de inversión terrestre con artillería, avanzadas y posiciones escalonadas. [1][2][9]",
+        "La línea defensiva de la Isla de León dependía de un ambiente anfibio complejo. Caños mareales, salinas, marismas, puentes de fortuna y baterías condicionaban el desplazamiento de tropas mucho más que las distancias aparentes en un plano. La protección británica por mar y la posibilidad de enlazar la bahía con el Estrecho conferían a los defensores una ventaja logística frente a un cerco que no podía cerrarse completamente desde el agua. Al mismo tiempo, mantener guarniciones numerosas y coordinar españoles, británicos y portugueses producía tensiones constantes en el reparto del mando y de los recursos. [1][2][8]",
+        "Para los dirigentes reunidos en Cádiz, permanecer a salvo no bastaba: era necesario convertir la resistencia en iniciativa. La expedición de finales de febrero de 1811 surgió de esa necesidad de actuar sobre las líneas enemigas desde una dirección inesperada. Pero su ejecución colocaba en tensión dos prioridades razonables: arriesgar una parte de la fuerza para alcanzar una decisión operativa o conservar suficiente tropa para sostener la defensa de la capital política. Esta tensión no explica por sí sola el resultado, aunque ayuda a comprender por qué los mandos interpretaron de manera distinta el peligro y el valor de continuar la ofensiva después de los combates. [3][6][7]"
+      ]
+    },
+    {
+      "heading": "3. El ejército imperial y la ocupación de Chiclana",
+      "paragraphs": [
+        "El mariscal Claude-Victor Perrin, duque de Belluno, mandaba el Primer Cuerpo imperial que sostenía el asedio frente a Cádiz. Su problema militar no consistía únicamente en impedir un avance frontal desde la Isla de León: debía vigilar caminos, sostener comunicaciones con otras fuerzas del sur, guarnecer pueblos próximos y responder a posibles desembarcos o marchas envolventes. La separación de unidades entre distintos puestos podía ofrecer oportunidades a una expedición aliada; pero también proporcionaba a Victor una red de observación y puntos de apoyo desde los que reunir tropas. La batalla resultó precisamente de ese enfrentamiento por la iniciativa alrededor del cerco. [1][2][8]",
+        "Chiclana conocía de primera mano la dimensión material de la ocupación. Su cronista municipal sitúa la entrada de tropas imperiales en la villa el 7 de febrero de 1810 y recuerda las cargas de alojamiento, suministros y contribuciones que la población soportó. La guerra no fue una sucesión abstracta de maniobras entre uniformes: exigía alimento, transporte, forraje, espacios de acantonamiento y trabajo de vecinos a menudo sometidos a coerción. A la hora de valorar la batalla conviene incluir esta retaguardia civil, que quedó expuesta tanto a las necesidades de los ocupantes como a la incertidumbre provocada por cualquier cambio brusco de control militar. [5]",
+        "Victor comprendió que la aproximación aliada amenazaba las comunicaciones de su dispositivo y buscó resolver la situación por medio de una acción sobre fuerzas que juzgó susceptibles de aislamiento. En las fuentes británicas, la ofensiva francesa aparece como una tentativa de aprovechar la salida de la división de Graham de las alturas de Barrosa; en las memorias españolas la secuencia incluye además las operaciones junto al puente de Sancti Petri. Ambos escenarios forman parte de una misma coyuntura, aunque no deben confundirse. Las decisiones francesas tenían una lógica ofensiva propia y no fueron una respuesta mecánica a los movimientos enemigos. [1][3][7]"
+      ]
+    },
+    {
+      "heading": "4. Una coalición real: españoles, británicos y portugueses",
+      "paragraphs": [
+        "La expedición reunía tropas de distintas procedencias y tradiciones militares. El teniente general español Manuel de Lapeña ejercía el mando superior del cuerpo combinado, con Luis Lacy como jefe de Estado Mayor. Thomas Graham dirigía la división británica, acompañada por elementos portugueses, mientras otras fuerzas españolas operaban desde las posiciones de Cádiz y la Isla de León. Esta organización respondía al propósito de concentrar unidades contra un enemigo común, pero colocaba varios centros de decisión dentro de un plan que requería movimientos simultáneos. La subordinación formal no garantizaba por sí sola unidad de criterios cuando aparecían comunicaciones incompletas o peligros imprevistos. [1][3][8]",
+        "Conviene abandonar dos simplificaciones habituales. No era un ejército exclusivamente británico que encontrara por casualidad a los franceses, como pueden sugerir algunos relatos conmemorativos centrados en Graham; tampoco puede reducirse la actuación española a un mando inerte y soldados ausentes. Tropas españolas participaron en la expedición, organizaron operaciones del lado del caño y sostuvieron posiciones sometidas a ataques muy costosos. Que existan críticas históricas a Lapeña o a la explotación posterior de la victoria no borra la presencia efectiva de esos contingentes. Tampoco basta la condición de general en jefe para suponer que todas sus decisiones fueran militarmente acertadas. [1][3][5]",
+        "La fuerza de coalición poseía ventajas de complementariedad: la navegación naval facilitaba el transporte; las tropas conocedoras del terreno podían guiar la aproximación; las unidades regulares aportaban capacidades de infantería, artillería y combate en línea. Pero cada ventaja exigía coordinación. Los pasos de agua tenían que estar preparados, los horarios debían acompasarse, los objetivos parciales debían converger y la reacción del adversario obligaría a redefinir el plan con rapidez. En la literatura de 1811, precisamente, la disputa sobre quién incumplió qué obligación llegó a eclipsar la pregunta operacional más amplia: si el diseño de la expedición dejaba margen suficiente para absorber contratiempos. [3][6][7]"
+      ]
+    },
+    {
+      "heading": "5. La maniobra envolvente desde el Estrecho",
+      "paragraphs": [
+        "A finales de febrero, un cuerpo expedicionario combinado abandonó la bahía de Cádiz por mar y se dirigió hacia los puntos de desembarco de Algeciras y Tarifa. Desde allí comenzó una aproximación terrestre al norte y al noroeste, destinada a aparecer sobre la retaguardia del ejército francés que sitiaba la capital. El Congreso de los Diputados conserva una reconstrucción de la marcha por Medina Sidonia y las cercanías de Vejer y Conil, articulada en vanguardia, cuerpo de batalla y reserva. La documentación permite fijar el sentido de la maniobra, aunque las narraciones no siempre coinciden en los itinerarios exactos de cada columna y unidad. [1][5]",
+        "La operación requería recorrer una distancia considerable después del desembarco y hacerlo en condiciones meteorológicas y de comunicaciones poco favorables. Las marchas prolongadas consumían fuerzas antes del contacto decisivo; cualquier desorientación de los guías, demora de carros o dificultad para mantener el enlace entre columnas podía desordenar la secuencia prevista. La discusión británica del 28 de marzo habló de tropas exhaustas y de errores de orientación antes de la batalla. Ese testimonio posee valor por su cercanía temporal, pero corresponde a un debate parlamentario dirigido a honrar a Graham, por lo que conviene distinguir los datos de marcha de la hipérbole patriótica. [3]",
+        "El concepto operativo era inteligible: si el cuerpo expedicionario golpeaba desde fuera y la guarnición de la Isla de León presionaba sobre los accesos del caño, las fuerzas francesas quedarían obligadas a elegir entre defender sus líneas de sitio o enfrentar un ataque en profundidad. La dificultad era convertir ese diseño de dos movimientos convergentes en una concentración efectiva sobre el terreno. Cada columna debía llegar a tiempo y con fuerzas todavía útiles para luchar. En una campaña donde el enemigo conservaba posiciones interiores y la información llegaba con demora, la posibilidad de una batalla parcial era tan real como la de un éxito decisivo. [1][3][7]"
+      ]
+    },
+    {
+      "heading": "6. Sancti Petri, 3 de marzo: el combate anterior a la batalla",
+      "paragraphs": [
+        "La fecha de 5 de marzo concentra la memoria de Chiclana, pero una parte esencial de la operación comenzó dos días antes. Las unidades españolas que defendían la Isla de León trataban de establecer y asegurar una cabeza de puente al otro lado del caño de Sancti Petri, empleando un puente de barcas. La intención era disponer de una salida ofensiva sobre la orilla continental y combinarla con el movimiento de la expedición procedente del Estrecho. El paso era vulnerable por su estrechez y por los fuegos que podían converger sobre él; perderlo habría comprometido seriamente la posibilidad de ayudar al cuerpo de Lapeña. [1][5]",
+        "En la madrugada del 3 de marzo, los franceses intentaron forzar la posición. La documentación parlamentaria española reclamó expresamente una explicación de ese incidente, prueba de su importancia política inmediata. El cronista de Chiclana recoge además una carta del ingeniero francés Legentil, localizada a través del portal PARES, que describe una operación de asalto a las defensas de la cabeza de puente. El relato francés menciona abundantes bajas y prisioneros españoles, pero sus cifras no deben convertirse automáticamente en estadística confirmada: provienen de un testigo enemigo y de un escrito que reivindica la eficacia de quienes ejecutaron la acción. [1][5]",
+        "La consecuencia decisiva fue que la cabeza de puente quedó gravemente comprometida, sin que los atacantes lograran abrirse paso hasta la Isla de León. La reconstrucción del enlace y su empleo posterior permitieron que contingentes españoles avanzasen hacia el sector de Torre Bermeja el propio día 5. Este episodio ilumina la vulnerabilidad de todo el plan: cuando el cruce acuático consume tiempo, material y hombres, una ofensiva pensada para converger sobre la retaguardia francesa empieza a depender de soluciones improvisadas. También impide atribuir el fracaso final del levantamiento del sitio a un único momento de desobediencia sin estudiar las fricciones previas. [1][5][6]"
+      ]
+    },
+    {
+      "heading": "7. Las alturas de Barrosa y la geografía de una encrucijada",
+      "paragraphs": [
+        "El campo de combate se extendía entre las elevaciones litorales asociadas a Barrosa, la zona de la Cabeza del Puerco, los pinares interiores, Torre Bermeja y los pasos que conducían al caño de Sancti Petri. Aunque la playa constituye la imagen más conocida, la acción no fue simplemente un choque lineal frente al mar. Los accidentes del terreno dividían líneas de visión, dificultaban la transmisión de órdenes y convertían una altura aparentemente secundaria en un punto clave para observar los movimientos adversarios. Un ejército que abandonase esas posiciones podía quedar expuesto a una reacción enemiga contra su retaguardia. [1][3][10]",
+        "Una cartografía histórica conservada por el Instituto de Estadística y Cartografía de Andalucía sitúa sobre un mapa de 1811 las posiciones de españoles, franceses e ingleses. Su utilidad principal no es ofrecer una fotografía perfecta de cada movimiento, sino comprobar las relaciones espaciales entre el relieve y los desplazamientos generales. Además, recuerda que las denominaciones de los accidentes, las vías y la línea costera pueden variar respecto de la toponimia actual. Este trabajo utiliza la ficha y los metadatos de aquella pieza, sin reproducir la imagen, cuya institución depositaria advierte que su reutilización pública requiere autorización. [10]",
+        "El sistema de pinares y caminos entre Barrosa y Torre Bermeja también explica la sorpresa operacional. Un movimiento a través de bosque que a primera vista parecía acercar a Graham al lugar previsto para apoyar a las fuerzas españolas podía dejar las alturas a espaldas de sus hombres. Si los franceses conseguían ocuparlas y bloquear las comunicaciones, la retirada británica hacia el puente se volvería más peligrosa. En consecuencia, el terreno ofrecía a Victor una oportunidad ofensiva concreta: separar una fracción del ejército aliado antes de que los componentes del plan pudieran sostenerse mutuamente. [2][3][8]"
+      ]
+    },
+    {
+      "heading": "8. Efectivos, armas y el problema de los números",
+      "paragraphs": [
+        "Las narraciones de Barrosa presentan cifras de tropas y bajas que dependen de qué unidades se incluyan: totalidad de la expedición, fuerzas disponibles en el sector, brigadas implicadas directamente o guarniciones de apoyo. Una relación regimental británica ofrece cantidades aproximadas para la fuerza de Graham y el acompañamiento español, pero no equivale al estado completo de fuerza de la coalición. Del lado francés sucede algo semejante: las divisiones situadas en el área del sitio no actuaron necesariamente como una masa homogénea. Por rigor, esta monografía evita ofrecer un único total incontestable allí donde las fuentes definen de modo distinto el universo contabilizado. [3][8]",
+        "En el choque principal, la infantería, las piezas de campaña y los tiradores desplegados en terreno quebrado tuvieron funciones complementarias. Los batallones de línea debían resistir o cerrar la distancia frente al fuego rival; la artillería necesitaba emplazamientos y ángulos suficientemente despejados para afectar a las formaciones; las tropas ligeras buscaban entorpecer despliegues y proteger avances. La capacidad de recuperar el orden de marcha y transformar rápidamente una columna en formación de combate se convirtió en un recurso tan importante como el número bruto de hombres. Una fuerza cansada podía, sin embargo, aprovechar mejor las pendientes y tiempos de fuego que otra superior mal coordinada. [2][3]",
+        "Los partes y homenajes posteriores suelen insistir en banderas, cañones, generales capturados y muertos destacados porque proporcionan signos visibles de victoria. Hansard enumeró piezas de artillería, prisioneros y águilas imperiales al celebrar la acción; el National Army Museum recuerda especialmente la captura de un águila francesa por el sargento Patrick Masterson. Son datos relevantes para entender el simbolismo del combate, pero no miden por sí solos la capacidad francesa restante para sostener el sitio. Tampoco las estimaciones de bajas, por sí mismas, esclarecen si los aliados podían proseguir la maniobra con seguridad al caer la tarde. [2][3]"
+      ]
+    },
+    {
+      "heading": "9. El 5 de marzo: la llegada aliada y las decisiones en Barrosa",
+      "paragraphs": [
+        "Después de marchas exigentes, las fuerzas aliadas alcanzaron la región de Barrosa el 5 de marzo. La secuencia general está bien acreditada: Lapeña disponía del mando expedicionario; Graham recibió instrucciones que lo desplazaban desde las alturas hacia el sector de Torre Bermeja; al mismo tiempo, fuerzas españolas trataban de actuar desde la cabeza de puente. La decisión de abandonar temporalmente una posición dominante tenía sentido en la lógica de aproximación al caño, pero introducía un riesgo: el destacamento británico podía quedar apartado del grueso de la expedición justo cuando Victor se preparaba para atacar. [1][3]",
+        "La narración parlamentaria británica afirma que Graham había avanzado ya por un bosque cuando tuvo noticia de tropas francesas sobre su retaguardia y flanco, próximas a las alturas que acababa de dejar. Entonces ordenó contramarchar y reunir las fuerzas disponibles. Este dato describe un cambio brusco de la tarea prevista: de apoyar el enlace en torno a Torre Bermeja se pasó a responder a una amenaza directa de destrucción o aislamiento. El carácter laudatorio de la intervención de Westminster aconseja no considerar todas sus apreciaciones sobre inferioridad numérica y rapidez como medidas contrastadas. Sin embargo, la maniobra de contramarcha constituye un elemento central y ampliamente aceptado de la batalla. [2][3]",
+        "También el mando español debía decidir cómo emplear su fuerza principal en circunstancias cambiantes. La Peña podía preocuparse por consolidar el paso de Sancti Petri y preservar un punto de reunión; pero cualquier retraso de las tropas disponibles perjudicaba la oportunidad de presionar a Victor mientras sus divisiones estaban comprometidas. El problema no consiste en juzgar retrospectivamente desde un mapa inmóvil: las noticias podían ser incompletas, y un jefe debía equilibrar seguridad de la línea de retirada y persecución del adversario. La discusión historiográfica se centra en si ese equilibrio fue razonable o se convirtió en una ocasión perdida, y por qué. [1][6][7]"
+      ]
+    },
+    {
+      "heading": "10. La oportunidad francesa: dividir y vencer antes de la unión aliada",
+      "paragraphs": [
+        "Victor advirtió el desplazamiento aliado y buscó castigar la separación de Graham. Sus tropas, entre ellas unidades bajo los generales Ruffin y Leval, se dirigieron contra los sectores vulnerables de la fuerza angloportuguesa. La maniobra podía obtener dos efectos simultáneos: dominar la altura que cubría la retaguardia británica y cortar o amenazar la salida hacia Torre Bermeja. Si lograba aplastar aquella división aislada, el mariscal recuperaría la iniciativa frente al resto de la expedición e incluso podría transformar una defensa amenazada en una victoria capaz de sostener el sitio de Cádiz. [2][3][8]",
+        "La posibilidad de una victoria francesa dependía también de la rapidez con que sus columnas alcanzasen las posiciones y de la coordinación entre sus ataques. El terreno boscoso impedía observar todas las formaciones con claridad; la artillería y la infantería no necesariamente disponían de los mismos caminos, y el tránsito de una marcha de aproximación al combate podía producir desajustes. Al elegir atacar, Victor asumía el riesgo de combatir contra soldados que, aun sorprendidos, fueran capaces de darse la vuelta, desplegarse y presentar una defensa ofensiva. La proximidad de otras unidades aliadas convertía además el tiempo en un factor crítico para todos. [2][3]",
+        "La ofensiva francesa no debe leerse únicamente como un error que facilitó el triunfo de Graham. Era una respuesta racional a una separación real del dispositivo adversario; su desenlace dependía de cómo reaccionaran los amenazados y de las condiciones del combate concreto. En esta batalla la iniciativa táctica cambió de manos con rapidez. Los franceses alcanzaron posiciones desde las que podían hostigar la contramarcha, pero los británicos consiguieron detener la desorganización inicial y preparar ataques contra los dos sectores enemigos. Ese paso de fuerza sorprendida a fuerza que contraataca constituye el núcleo militar del episodio de Barrosa. [2][3][6]"
+      ]
+    },
+    {
+      "heading": "11. El contragolpe de Graham: dos combates enlazados",
+      "paragraphs": [
+        "Graham reaccionó al peligro transformando con rapidez el dispositivo de marcha en uno de combate. La artillería británica, asociada en el testimonio parlamentario al mayor Duncan, entró en acción para proporcionar apoyo al despliegue de la infantería. En vez de limitarse a buscar una retirada apresurada por los caminos del pinar, el general optó por atacar a las formaciones francesas que avanzaban contra sus flancos y retaguardia. Esta decisión trasladó a Victor una parte de la incertidumbre: lo que parecía un adversario en movimiento y vulnerable pasó a ofrecer resistencia articulada y golpes locales que exigían respuesta inmediata. [2][3]",
+        "La acción se resolvió mediante choques relacionados, pero diferenciados, contra las fuerzas de Ruffin y Leval. En las alturas la lucha fue especialmente dura; en otro sector se disputó el acceso hacia los caminos que conducían al paso y al enlace con el resto de la coalición. Para la infantería, las distancias cortas y el mantenimiento de la cohesión bajo fuego importaron más que cualquier elegancia geométrica del despliegue. La memoria británica insistió en el valor de los ataques a la bayoneta, pero es necesario considerar también el efecto de las piezas, de los tiradores y de la resistencia previa de las unidades que absorbieron el primer choque. [2][3][8]",
+        "Las narraciones describen una batalla intensa y relativamente breve en su fase decisiva, con importantes pérdidas entre oficiales y soldados. La retirada francesa de las posiciones disputadas permitió a Graham mantener sus tropas reunidas y rescatar la situación en la que había quedado su retaguardia. En términos de combate inmediato fue una victoria clara de quienes se enfrentaron a las divisiones de Victor; no cabe confundir esa conclusión con la idea de que una sola división venció por sí misma a todo el ejército francés del sur. La escala de lo sucedido debe permanecer anclada en las tropas comprometidas sobre aquel terreno y aquel día. [1][2][3]"
+      ]
+    },
+    {
+      "heading": "12. Prisioneros, artillería y el águila imperial",
+      "paragraphs": [
+        "Tras el repliegue de las tropas francesas quedaron sobre el campo heridos, muertos, prisioneros y material militar. La prensa y el Parlamento británicos destacaron esos despojos como pruebas tangibles de la victoria. Entre ellos figuró un símbolo de enorme valor: un águila imperial perteneciente al 8.º regimiento de línea francés. El National Army Museum recuerda su captura por el sargento Patrick Masterson en la batalla de Barrosa. La escena ocupó después un lugar muy visible en la memoria regimental y en la iconografía británica del combate, junto con la representación de las cargas de infantería y el papel de los mandos. [2][3]",
+        "Precisamente porque eran símbolos con gran capacidad para fijarse en la memoria, estas capturas deben interpretarse con prudencia. Arrebatar un águila indicaba el fracaso de una unidad para proteger un emblema de honor; tomar piezas o generales mostraba la contundencia de una acción táctica. Ninguno de esos hechos garantizaba que el enemigo hubiera perdido sus fortificaciones, sus depósitos, sus rutas de abastecimiento o el conjunto de sus efectivos en torno a Cádiz. En la guerra napoleónica, el prestigio de una batalla no siempre coincidía con su capacidad de alterar las posiciones militares de una región entera. [2][6]",
+        "La cifra total de bajas aparece en obras de distintos países con variantes que merecen una comprobación pormenorizada de estados nominales y partes de campaña. Las conmemoraciones tienden a sumar víctimas de fases diferentes o a repetir números redondos procedentes de relatos posteriores. Para una reconstrucción rigurosa conviene diferenciar fallecidos, heridos, desaparecidos, prisioneros y tropas que pudieron reincorporarse después. Incluso si se aceptase la afirmación de pérdidas muy altas en ambos bandos, la valoración decisiva de la expedición seguiría dependiendo de otra pregunta: qué unidades estaban en condiciones de perseguir a Victor y sostener esa presión más allá de la jornada. [1][3][8]"
+      ]
+    },
+    {
+      "heading": "13. La polémica Lapeña-Graham: mando, responsabilidad y defensa del honor",
+      "paragraphs": [
+        "El conflicto entre las interpretaciones españolas y británicas estalló casi inmediatamente. La versión inglesa elogió la rapidez de Graham, resaltó su inferioridad local y presentó la acción como una demostración del valor profesional de sus tropas. Parte de la crítica británica responsabilizó al alto mando español de no haber cooperado de modo suficiente para convertir el rechazo de Victor en una victoria de mayor alcance. Por su parte, defensores de Lapeña sostuvieron que Graham había obrado sin atender adecuadamente las obligaciones de la cadena de mando y que su regreso a la Isla de León contribuyó al fracaso operacional. Ambas tradiciones seleccionaron hechos distintos para defender sus conclusiones. [3][4][6]",
+        "Un ejemplo llamativo se encuentra en la reconstrucción que actualmente publica el Congreso de los Diputados: después de reconocer la derrota francesa en el campo, reprocha a Graham su retirada y la interpreta como abandono de las tropas españolas. Frente a ello, la intervención del Parlamento de Westminster del 28 de marzo de 1811 no cuestiona el éxito de Graham, sino que celebra su decisión y atribuye a la fatiga la imposibilidad de una persecución completa. El contraste resulta instructivo: dos instituciones políticas pueden describir el mismo combate con categorías morales y operativas profundamente distintas. Ninguno de los textos debe erigirse por sí solo en juez definitivo. [1][3]",
+        "Fernando Durán López identifica tres grandes registros en las voces cercanas a 1811: el debate político de la prensa española, preocupado por el control de la autoridad militar; el discurso de honor y justificación del general Lapeña y sus subordinados; y el relato épico asociado a Graham y a la tradición británica. A ellos cabe añadir la defensa francesa de su actuación. Esta clasificación no obliga a suponer que todos los testigos mintieran, sino que evidencia diferencias en los objetivos de escritura y en la selección de responsabilidades. El valor histórico surge de confrontarlos y reconocer lo que ninguna perspectiva permite establecer con plena seguridad. [6][7]"
+      ]
+    },
+    {
+      "heading": "14. Por qué la victoria no levantó el sitio de Cádiz",
+      "paragraphs": [
+        "El hecho principal es difícil de discutir: después del enfrentamiento del 5 de marzo, los franceses conservaron la capacidad de mantener el sitio de Cádiz. La expedición no destruyó el dispositivo de bloqueo ni produjo el repliegue general esperado. Así lo reconoce tanto la síntesis del National Army Museum como la narración española que describe el curso de la campaña. La ciudad siguió resistiendo y las fuerzas imperiales mantuvieron sus líneas hasta 1812. En consecuencia, no sería correcto presentar Barrosa como una ruptura del cerco, aunque el rechazo de las divisiones de Victor proporcionase un éxito militar inmediato a las fuerzas que lucharon contra ellas. [1][2][9]",
+        "Las causas del fracaso operativo no se reducen a un juicio personal. Pesaron el cansancio acumulado por la expedición, la dificultad de sincronizar movimientos con la guarnición de la Isla de León, los daños sufridos por la cabeza de puente de Sancti Petri, la distribución desigual de fuerzas sobre un terreno complicado y la ausencia de una persecución capaz de desorganizar las posiciones imperiales. A estos factores se sumó la pérdida de confianza entre mandos que debían seguir cooperando. Decidir cuál fue el elemento predominante requiere cotejar órdenes originales, partes de cada columna y cronologías de llegada, no solamente las memorias escritas después de la disputa. [1][3][5][6]",
+        "La continuidad del sitio también demuestra que una batalla puede tener valor estratégico indirecto sin lograr su objetivo explícito. Las fuerzas de Cádiz mostraron capacidad para organizar una expedición marítimo-terrestre y causar una derrota a tropas imperiales; esa experiencia reforzó ciertas memorias de resistencia y confirmó el peligro de operar cerca de una plaza que conservaba acceso naval. Sin embargo, no basta deducir de esa afirmación que la acción decidió por sí sola el destino del gobierno gaditano o de la Constitución de 1812. La defensa de Cádiz fue un proceso largo, sostenido por decisiones acumulativas, y la ruptura final del cerco respondió a un escenario peninsular más amplio. [2][6][9]"
+      ]
+    },
+    {
+      "heading": "15. Balance histórico y memoria crítica de Chiclana",
+      "paragraphs": [
+        "Chiclana permite estudiar tres escalas de la guerra en una misma jornada. La escala táctica muestra a una fuerza que, sorprendida en un desplazamiento difícil, reaccionó mediante artillería y contraataques para desalojar al adversario. La operacional recuerda que el propósito de levantar el sitio de Cádiz fracasó pese a ese resultado. La escala política exhibe la importancia de una ciudad asediada donde funcionaban las Cortes y donde la opinión pública reclamó cuentas a sus mandos. Reducir todo ello al triunfo de una bandera nacional contra otra empobrecería tanto la acción militar como las razones por las que sus consecuencias suscitaron una disputa tan prolongada. [1][2][6]",
+        "La investigación local incorpora todavía otra perspectiva: los habitantes de Chiclana padecieron desde 1810 alojamiento forzoso, cargas económicas, requisas y violencia, y siguieron expuestos a represalias después de la batalla. Esa experiencia no aparece siempre en los cuadros de batallones o en los relatos de captura de águilas, pero forma parte de los costes reales de la campaña. Asimismo, el mapa histórico de la batalla conserva una lectura espacial que ayuda a explicar decisiones sin convertir el paisaje en mero escenario épico. La documentación disponible invita a integrar historia militar, historia política y experiencia social de la guerra. [5][10]",
+        "El balance más sólido es por tanto deliberadamente doble: victoria aliada en el combate de Barrosa, fracaso de la expedición para levantar el asedio. La responsabilidad de ese segundo resultado continúa siendo materia de estudio y exige leer con escepticismo las defensas de parte, incluidas las que se escribieron bajo autoridad política. El volumen documental reunido por la Universidad de Cádiz ofrece una vía fértil para ampliar el análisis mediante prensa coetánea, correspondencia, partes y memoriales enfrentados. La batalla merece figurar en un corpus hispánico no solo por haberse librado en territorio español, sino porque revela cómo se relacionaron alianzas, soberanía, guerra y memoria durante la resistencia gaditana. [6][7]"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "n": 1,
+      "name": "Congreso de los Diputados, «Marzo 1811» (cronología histórica de las Cortes de Cádiz y noticia de la batalla de Chiclana)",
+      "url": "https://www.congreso.es/es/cem/h1811-3",
+      "kind": "Institución parlamentaria española; síntesis retrospectiva y cita de deliberaciones coetáneas",
+      "verified_at": "2026-11-17",
+      "verification_note": "Leídos párrafos sobre viaje de expedición, Lapeña y Lacy, combate del 3 de marzo en Sancti Petri, batalla del 5 de marzo y polémica sobre Graham; se distingue la cita de 1811 del juicio retrospectivo de la página."
+    },
+    {
+      "n": 2,
+      "name": "National Army Museum, «Peninsular War», sección «Cádiz and Barrosa»",
+      "url": "https://www.nam.ac.uk/explore/peninsular-war",
+      "kind": "Síntesis museística británica sobre la guerra peninsular",
+      "verified_at": "2026-11-17",
+      "verification_note": "Comprobadas fecha, participación aliada, ofensiva de Victor, victoria táctica y fracaso en levantar el sitio; se identifica la representación museística de la captura del águila por Patrick Masterson."
+    },
+    {
+      "n": 3,
+      "name": "House of Commons, «Thanks to General Graham, &c. for the Victory at Barrosa», 28 de marzo de 1811, Hansard",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1811/mar/28/thanks-to-general-graham-c-for-the",
+      "kind": "Fuente primaria parlamentaria británica; discurso de homenaje de parte",
+      "verified_at": "2026-11-17",
+      "verification_note": "Leídos pasajes sobre marcha y agotamiento, orden de desplazamiento hacia Torre Bermeja, contramarcha, artillería del mayor Duncan y cifras proclamadas de trofeos; se advierte el sesgo patriótico."
+    },
+    {
+      "n": 4,
+      "name": "Centro de Información Documental de Archivos (Ministerio de Cultura), «Batalla de Chiclana. 5 de marzo de 1811»",
+      "url": "https://www.cultura.gob.es/cultura/areas/archivos/mc/centros/cida/4-difusion-cooperacion/4-1-guias-de-lectura/guerra-independencia/batalla-de-chiclana.html",
+      "kind": "Guía institucional española de documentación histórica",
+      "verified_at": "2026-11-17",
+      "verification_note": "Ficha localizada por índice de búsqueda oficial con referencia al 5 de marzo, triunfo táctico y controversia Graham-Lapeña; página completa temporalmente limitada por el servidor (429), por lo que se usa solo para ese contexto."
+    },
+    {
+      "n": 5,
+      "name": "Ayuntamiento de Chiclana de la Frontera, «Cronista oficial», historia de la ocupación y acción de Sancti Petri de 3 de marzo de 1811",
+      "url": "https://www.chiclana.es/conoce-chiclana/geografia-e-historia/historia-de-chiclana/cronista-oficial",
+      "kind": "Investigación y divulgación municipal con transcripción de carta de ingeniero francés",
+      "verified_at": "2026-11-17",
+      "verification_note": "Revisados testimonios sobre ocupación desde febrero 1810, carga civil, puente de Sancti Petri y carta del coronel de ingenieros Legentil a Léry. Las bajas declaradas por Legentil no se adoptan como cifra verificada."
+    },
+    {
+      "n": 6,
+      "name": "Fernando Durán López, «Páginas después de una batalla: interpretación, testimonio y memoria», en La batalla de Chiclana (2012), pp. 21-56",
+      "url": "https://fernandoduranlopez.com/capitulos-y-articulos/",
+      "kind": "Investigación historiográfica académica; resumen analítico publicado por su autor",
+      "verified_at": "2026-11-17",
+      "verification_note": "Leída ficha comentada del autor, que distingue interpretación política española, defensa de honor de Lapeña y narrativa épica británica; PDF íntegro no disponible en esta consulta, por lo que las referencias se ciñen a las conclusiones resumidas allí."
+    },
+    {
+      "n": 7,
+      "name": "Fernando Durán López (coord.), La batalla de Chiclana (5 de marzo de 1811): estudios y testimonios reunidos con motivo del bicentenario, Editorial UCA, 2012, ISBN 978-84-9828-391-4",
+      "url": "https://produccioncientifica.uca.es/documentos/5febd9405ef7446310f956e6?lang=de",
+      "kind": "Catálogo de edición académica y corpus documental de Universidad de Cádiz",
+      "verified_at": "2026-11-17",
+      "verification_note": "Verificada ficha bibliográfica UCA, coordinador, año e ISBN; elenco documental descrito por el autor en su página, sin suponer consulta íntegra del libro."
+    },
+    {
+      "n": 8,
+      "name": "Royal Hampshire Regiment Museum, «2/67th Cádiz, Barossa», cronología regimental",
+      "url": "https://www.royalhampshireregiment.org/about-the-museum/timeline/267th-cadiz-barossa/",
+      "kind": "Historia regimental británica con cifras y participación de unidades en la campaña",
+      "verified_at": "2026-11-17",
+      "verification_note": "Ficha localizada por búsqueda institucional; se emplea como apoyo contextual regimental, no como estado de fuerzas total verificado para los tres ejércitos."
+    },
+    {
+      "n": 9,
+      "name": "Congreso de los Diputados, «Noviembre 1811» (contexto y duración del sitio de Cádiz)",
+      "url": "https://www.congreso.es/es/cem/h1811-11",
+      "kind": "Cronología institucional sobre la resistencia de Cádiz y sus Cortes",
+      "verified_at": "2026-11-17",
+      "verification_note": "Comprobado en resultado institucional que el sitio francés se mantuvo desde febrero de 1810 hasta agosto de 1812; se evita atribuir su levantamiento a la acción de Chiclana."
+    },
+    {
+      "n": 10,
+      "name": "Instituto de Estadística y Cartografía de Andalucía, Cartoteca, «Batalla de Chiclana. 5 de marzo de 1811», lámina 39 del Atlas de la Guerra de la Independencia, IECA1989001142",
+      "url": "https://ws089.juntadeandalucia.es/institutodeestadisticaycartografia/cartoteca/mapa/ieca1989001142",
+      "kind": "Catalogación institucional de fuente cartográfica histórica",
+      "verified_at": "2026-11-17",
+      "verification_note": "Verificados título, escala 1:20.000, época, ubicación y función representativa de posiciones; no se reproduce la imagen por la advertencia expresa sobre autorización de uso."
+    }
+  ],
+  "editorial_note": "Monografía original histórico-militar con 15 apartados y 45 párrafos, sustentada en fuentes institucionales, testimonios parlamentarios coetáneos, investigación académica y documentación local. Diferencia batalla táctica y operación fallida, fuente contemporánea y reconstrucción retrospectiva, y las memorias opuestas sobre Lapeña y Graham. No se reproducen mapas protegidos ni imágenes de terceros. Revisión asistida por IA; sin arbitraje científico externo.",
+  "status": "borrador",
+  "not_before": "2026-11-17",
+  "approval": null,
+  "publication_date": null,
+  "publication_time": null,
+  "publication_slot": null,
+  "last_reviewed": null
+}
