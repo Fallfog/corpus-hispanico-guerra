@@ -288,11 +288,23 @@
     }
   ],
   "editorial_note": "Monografía original de síntesis crítica en 15 apartados y 45 párrafos. Coteja crónicas portuguesas y castellanas con estudios universitarios y arqueología del campo; separa hechos documentables, hipótesis tácticas, estimaciones de efectivos y memorias propagandísticas. La comparación con Aljubarrota es interpretativa, no identidad táctica. Sin imágenes ajenas. Revisión editorial asistida por IA, sin evaluación científica por pares.",
-  "status": "borrador",
+  "status": "revisado",
   "not_before": "2026-11-17",
-  "approval": null,
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-17",
+    "notes": "15 apartados, 45 párrafos, 4277 palabras y 8 referencias de existencia bibliográfica comprobada. Cotejadas críticamente la crónica de Fernão Lopes, la versión de Pero López de Ayala y la Crónica do Condestabre a través de la investigación de João Gouveia Monteiro y Diogo Cardoso Gomes. Rechazadas como seguras las cifras exactas de bajas y la tradición de cero pérdidas portuguesas. Las fuentes arqueológicas y la clasificación patrimonial de 2023 están distinguidas de la prueba táctica. Algunas obras consultadas solo en extractos, bibliografía o exposición académica, según notas. Sin imágenes de terceros y sin duplicación en el inventario.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "6168831b35cc708d8d30f927f6c012fb34b7a71018ef8cf373926b60da751e7d"
+  },
   "publication_date": null,
   "publication_time": null,
   "publication_slot": null,
-  "last_reviewed": null
+  "last_reviewed": "2026-11-17"
 }
