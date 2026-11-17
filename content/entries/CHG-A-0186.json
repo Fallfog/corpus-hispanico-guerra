@@ -303,7 +303,7 @@
     }
   ],
   "editorial_note": "Monografía original de síntesis histórico-militar con 15 apartados y 45 párrafos y 10 referencias. Contrasta cartas contemporáneas de militares y enviados de los dos bandos con estudios académicos; distingue conquista, saqueo, custodia de la reina, número de efectivos y discusión sobre Girón. No se adjudican literalmente las palabras de Juana como voluntad política confirmada. Sin imágenes externas. Revisión asistida por IA, sin arbitraje científico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -318,8 +318,8 @@
     },
     "content_sha256": "b1b4fd58aafb52348925797e42707ac639d5490c99b41520b2cff1c39e71e309"
   },
-  "publication_date": null,
-  "publication_time": null,
-  "publication_slot": null,
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T12:50:29.432Z",
+  "publication_slot": "2026-11-17/extra-A-0186",
   "last_reviewed": "2026-11-17"
 }
