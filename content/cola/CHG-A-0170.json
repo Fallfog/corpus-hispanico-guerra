@@ -293,6 +293,19 @@
     }
   ],
   "editorial_note": "Monografía histórica original asistida por IA, sin arbitraje científico externo. Se contrastan versiones árabes y cristianas a través de sus ediciones y estudios; se declara la diferencia entre 25 y 26 de julio y se distingue la batalla del cerco de Muez. No se postulan cifras ciertas de tropas, muertos ni el castillo exacto; las prospecciones negativas de 2020 no se presentan como ausencia de combate. Se conserva la condición de emir de ʿAbd al-Raḥmān III en 920, anterior al califato de 929. Sin mapas de movimientos ficticios, citas extensas ni reproducción de fotografías protegidas.",
-  "status": "borrador",
-  "not_before": "2026-11-17"
+  "status": "revisado",
+  "not_before": "2026-11-17",
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-17",
+    "notes": "Trabajo documental original de 4.141 palabras, 15 apartados y 45 párrafos referenciados a 8 estudios de fuentes andalusíes, latinas y arqueología. Inventario de 162 entradas verificado, sin Valdejunquera. Fechas 25 y 26 de julio señaladas como divergencia entre Cañada Juste y Sagredo; Abderramán III identificado como emir en 920, no califa. Separados Valdejunquera y asedio posterior de Muez, sin cifras de ejército o víctimas convertidas en datos exactos. Contrastados testimonios medievales por Cañada Juste, Lacarra, Pérez Marinas, Sénac y Lorenzo Jiménez; resultados negativos de prospección de Sagredo de 2020 descritos sin exageración. Sin reconstrucciones ficticias, citas largas ni imágenes protegidas.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "614b10d58f4dcad802b607e17fba386d88c8324d1b913ad5ee0ecddfe9140b7a"
+  }
 }
