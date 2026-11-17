@@ -307,6 +307,19 @@
     }
   ],
   "editorial_note": "Investigación y redacción originales asistidas por IA, sin arbitraje científico externo. Contraste de estudios de Monteano, Fernández Martín y Téllez Alarcia, exposiciones de Archivo Real y General de Navarra y Universidad de Navarra, y síntesis del Gobierno foral. Diferenciadas afirmaciones documentadas (fecha/lugar/resultado, cédulas de indemnización, reclamaciones por estandarte y cautivo) de cálculos discutidos de soldados y víctimas. Las fuentes accesibles solo por extracto o resumen se citan con ese alcance; se evita afirmar consulta íntegra de 52 documentos archivísticos o del capítulo completo de Monteano. Se representan las distintas lealtades navarras sin anacronismos nacionales ni proyección ideológica contemporánea. No se usan imágenes ni citas protegidas extensas.",
-  "status": "borrador",
-  "not_before": "2026-11-17"
+  "status": "revisado",
+  "not_before": "2026-11-17",
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-17",
+    "notes": "Monografía original con 4.205 palabras, 15 apartados, 45 párrafos documentados y 9 fuentes. Inexistencia de Noáin y Esquíroz en las 165 fichas inventariadas. Comprobadas en fuente de Archivo Real y General de Navarra, Universidad de Navarra, publicaciones académicas y documentos primarios editados: campaña de 1521, cronología de Pamplona, Logroño y 30 junio, batalla y captura de André de Foix. Separadas fuentes de vencedores y fuentes franco-navarras, así como discrepancias de cifras y litigios de captura de prisionero. Se reconoce que estudio de Monteano y algunos artículos se consultaron en extracto o resumen y no se leyeron en integridad. Cierre posterior de Maya 1522, Fuenterrabía y amnistías 1524 contrastados.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "1b085afb278c7bbf37d21dfac5edac934e0d0c7bdfd46a4f762eb7933d2f3463"
+  }
 }
