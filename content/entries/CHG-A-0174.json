@@ -305,7 +305,7 @@
     }
   ],
   "editorial_note": "Investigación histórica original asistida por IA, sin arbitraje científico externo. Se contrastaron gacetas originales de 1835, referencia del croquis de PARES, historia municipal, Museo Zumalakarregi, Auñamendi, artículo de Aquillué Domínguez y boletín de la Real Academia de la Historia. Se prioriza el 16 de julio de 1835 según documentos coetáneos, ante errata 1836 en una oración de la ficha museística. Se distinguen cifras divulgativas de 36.000/24.000 o 18–25 mil combatientes de las bajas oficiales documentadas de la fuerza isabelina (114 muertos, 542 heridos, 81 contusos) y de estimaciones sin registro directo de pérdidas carlistas. Las descripciones de ataques y saqueos locales permanecen atribuidas, y el croquis solo se cita en su referencia archivística. No se usan imágenes ni citas extensas protegidas.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -319,5 +319,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "f41077221460739d7853c2c0779d1901ec926da7c1f10bdfc951ba152e5fdd9e"
-  }
+  },
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T10:32:23.417Z",
+  "publication_slot": "2026-11-17/extra-A-0174",
+  "last_reviewed": "2026-11-17"
 }
