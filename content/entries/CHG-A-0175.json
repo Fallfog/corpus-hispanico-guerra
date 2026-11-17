@@ -307,7 +307,7 @@
     }
   ],
   "editorial_note": "Investigación histórica y redacción originales asistidas por IA, sin arbitraje científico externo. Nueve fuentes verificadas: textos de Al Qantir, análisis de memorias de Tomás de Iriarte (revista académica UCA), estudio del periódico El Conciso, relato militar británico de Napier, BOJA, cartoteca andaluza, índice parlamentario de Copons y catálogos militares. Se distinguen los hitos de diciembre de 1811 y la retirada de la noche del 4–5 de enero de 1812, corrigiendo simplificaciones institucionales; se evitan recuentos únicos de bajas y afirmaciones tajantes sobre qué oficial británico o español mandó cada tramo. Planos y manuscritos citados en registros de catálogo no se presentan como inspeccionados íntegramente. Sin imágenes ajenas ni citas largas protegidas.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -321,5 +321,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "436d2419ca5d12cbd4166e1ba5dded0d77e0b4abafa3d652ecc74624a54ed3e5"
-  }
+  },
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T10:38:08.767Z",
+  "publication_slot": "2026-11-17/extra-A-0175",
+  "last_reviewed": "2026-11-17"
 }
