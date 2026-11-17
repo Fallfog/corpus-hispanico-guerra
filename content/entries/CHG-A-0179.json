@@ -316,7 +316,7 @@
     }
   ],
   "editorial_note": "Investigación y redacción originales asistidas por IA, sin arbitraje científico externo. Nueve fuentes verificadas, destacando cuatro estudios de Manuel López Fernández en Revista de Estudios Extremeños, uno en e-Stratégica, el estudio de Horacio Mota Arévalo, síntesis municipales y Atlas de Arquitectura Almohade. Se documenta la discrepancia entre cronologías 1246 y 1247 y la dificultad añadida de que algunas escrituras medievales atribuyen la conquista a realengo y otras a la Orden; se adopta el verano de 1247 como reconstrucción historiográfica argumentada, sin afirmar que un acta coetánea lo fecha. El 8 de agosto es conjetura expresamente reconocida por su autor. Se diferencia conquista, donación de mayo 1248 y combates de Tudía durante 1248. El contingente de 280 caballeros de la Primera Crónica General corresponde a operaciones de Sevilla, no a una lista de atacantes de Montemolín. Sin cifras de bajas ni procedimientos de asalto inventados, y sin material gráfico ajeno.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -330,5 +330,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "0913646b638b7fe43fbd2529cb8679c9834d98eefb6a50d0373006eeac81b13b"
-  }
+  },
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T11:23:44.773Z",
+  "publication_slot": "2026-11-17/extra-A-0179",
+  "last_reviewed": "2026-11-17"
 }
