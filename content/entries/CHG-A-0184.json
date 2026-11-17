@@ -288,7 +288,7 @@
     }
   ],
   "editorial_note": "Monografía original de síntesis crítica en 15 apartados y 45 párrafos. Coteja crónicas portuguesas y castellanas con estudios universitarios y arqueología del campo; separa hechos documentables, hipótesis tácticas, estimaciones de efectivos y memorias propagandísticas. La comparación con Aljubarrota es interpretativa, no identidad táctica. Sin imágenes ajenas. Revisión editorial asistida por IA, sin evaluación científica por pares.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -303,8 +303,8 @@
     },
     "content_sha256": "6168831b35cc708d8d30f927f6c012fb34b7a71018ef8cf373926b60da751e7d"
   },
-  "publication_date": null,
-  "publication_time": null,
-  "publication_slot": null,
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T12:30:27.263Z",
+  "publication_slot": "2026-11-17/extra-A-0184",
   "last_reviewed": "2026-11-17"
 }
