@@ -270,6 +270,19 @@
     }
   ],
   "editorial_note": "Monografía de investigación documental asistida por IA, sin arbitraje científico externo. Autor anónimo de Bellum Hispaniense identificado como Pseudo-César y valorado como narrador del bando vencedor; Dion es fuente tardía. Los itinerarios de Melchor y propuestas de ubicaciones tácticas no se presentan como hallazgos inequívocos. Se distingue contexto de arqueología tardía del asedio republicano; no se inventan cifras, mapas exactos o excavaciones específicas. Sin ilustraciones ajenas.",
-  "status": "borrador",
-  "not_before": "2026-11-17"
+  "status": "revisado",
+  "not_before": "2026-11-17",
+  "approval": {
+    "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje académico externo",
+    "date": "2026-11-17",
+    "notes": "Comprobación del inventario de 159 entradas sin duplicación de Ategua; 4.131 palabras originales, 15 apartados y 45 párrafos con referencias individualizadas, siete fuentes verificadas en el alcance declarado. Bellum Hispaniense (caps. 6–19) analizado como fuente anónima favorable a César, contrastado con Casio Dion XLIII 33–35, el trabajo de Melchor Gil, tablas Ramsey-Raaflaub y documentación arqueológica de la Junta. Diferenciadas hipótesis topográficas y hallazgos fechados en época imperial, y matizadas fechas, bajas y violencia de ambos bandos. No se utilizan imágenes ajenas; originalidad de redacción revisada por contraste, sin pretender arbitraje histórico académico externo.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "6e5fa2057a7163ab081e4c56eb2cd4dbdf979a9e006853e2da97556b47da8c74"
+  }
 }
