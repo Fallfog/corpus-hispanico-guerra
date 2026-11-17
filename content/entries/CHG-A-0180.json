@@ -305,7 +305,7 @@
     }
   ],
   "editorial_note": "Monografía de síntesis histórico-documental elaborada mediante contraste de partes publicados en 1809, estudio de la Revista de Historia Militar, cartografía del Centro Geográfico del Ejército y narraciones de Toreno, Oman y Napier. Las cifras de bajas se atribuyen explícitamente a cada fuente; no se presupone revisión por pares de esta publicación ni arbitraje científico externo. No incorpora imágenes de uso restringido.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -319,5 +319,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "ad046021a241f557b061648b0422f9cc25c6981da98cb98ab6e7765e97d15c3b"
-  }
+  },
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T11:34:31.036Z",
+  "publication_slot": "2026-11-17/extra-A-0180",
+  "last_reviewed": "2026-11-17"
 }
