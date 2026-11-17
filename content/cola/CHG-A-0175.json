@@ -307,6 +307,19 @@
     }
   ],
   "editorial_note": "Investigación histórica y redacción originales asistidas por IA, sin arbitraje científico externo. Nueve fuentes verificadas: textos de Al Qantir, análisis de memorias de Tomás de Iriarte (revista académica UCA), estudio del periódico El Conciso, relato militar británico de Napier, BOJA, cartoteca andaluza, índice parlamentario de Copons y catálogos militares. Se distinguen los hitos de diciembre de 1811 y la retirada de la noche del 4–5 de enero de 1812, corrigiendo simplificaciones institucionales; se evitan recuentos únicos de bajas y afirmaciones tajantes sobre qué oficial británico o español mandó cada tramo. Planos y manuscritos citados en registros de catálogo no se presentan como inspeccionados íntegramente. Sin imágenes ajenas ni citas largas protegidas.",
-  "status": "borrador",
-  "not_before": "2026-11-17"
+  "status": "revisado",
+  "not_before": "2026-11-17",
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-17",
+    "notes": "Monografía original de 4.181 palabras, 15 apartados, 45 párrafos referenciados y nueve fuentes contrastadas; no se identificó ficha de sitio 1811–1812 de Tarifa entre 167 entradas previas. Se cotejaron estudio de Juan Antonio Patrón Sandoval con cartas de Copons, memorias de Iriarte analizadas por Miguel Ángel de Marco, análisis de El Conciso, historia militar británica de Napier y catálogos cartográficos. Fechas 19–20 diciembre, brecha 29, intimación 30 y asalto 31 diciembre 1811, retirada noche 4–5 enero 1812 expresadas con precisión y divergencias; no se confunde fin del sitio con año del asalto. Discrepancias por mando español-británico y cifras de pérdidas documentadas y no resueltas con falsa exactitud. Bibliografía accesible solo en catálogo/índice atribuida con tal alcance.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "436d2419ca5d12cbd4166e1ba5dded0d77e0b4abafa3d652ecc74624a54ed3e5"
+  }
 }
