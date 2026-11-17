@@ -313,7 +313,7 @@
     }
   ],
   "editorial_note": "Investigación y redacción originales asistidas por IA, sin arbitraje científico externo. Nueve fuentes institucionales y académicas localizadas y contrastadas a distintos niveles de acceso: los textos de Moisand y del Instituto de Historia y Cultura Naval y la cronología municipal se consultaron en línea; los artículos de Rolandi, Roda, Carrión y Gómez Vizcaíno se utilizaron con el alcance declarado en sus resúmenes y metadatos, sin presumir lectura integral de PDF no inspeccionado. Se distingue capitulación del 12 de enero y entrada gubernamental del día 13; se separa la estimación archivística superior a 400 muertos por la explosión del registro nominal de 79 fallecidos identificados en la contienda; el incendio de la Tetuán se refiere sin causa indiscutible; y se rechaza la confusión entre protección con bandera estadounidense y anexión. Sin imágenes ajenas ni reproducción extensa de textos protegidos.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -327,5 +327,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "1162be457a32dd374e1c1716ad6dcfabdb833d6075b414a33f16eaf4e38ec73b"
-  }
+  },
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T11:07:52.059Z",
+  "publication_slot": "2026-11-17/extra-A-0176",
+  "last_reviewed": "2026-11-17"
 }
