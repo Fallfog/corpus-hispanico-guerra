@@ -314,7 +314,7 @@
     }
   ],
   "editorial_note": "Estudio y redacción originales asistidos por IA, sin arbitraje histórico externo. Nueve fuentes de naturaleza distinta consultadas y con alcance de lectura declarado: dos artículos militares del Ministerio de Defensa (Julio Albi de la Cuesta y Benito Tauler Cid), parte coetáneo del general Evans reproducido por prensa de 1837, fichas de planos del Centro Geográfico del Ejército, Museo Zumalakarregi, Ejército de Tierra y enciclopedia histórica. Se distingue toma de alturas (15 marzo) de contraataque decisivo (16 marzo) según parte fechado el 16; se anotan discrepancias de fecha de estudios militares modernos (14–15 y mención al 18) en vez de reproducirlas como consenso. Pérdidas de fuente coetánea 800–900 muertos y heridos no se identifican con cifras no homogéneas de estudios posteriores o rumores de prensa; la Marcha de Oriamendi se estudia como tradición posterior. Sin imágenes ajenas ni transcripción extensa de documentos sujetos a derechos.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -328,5 +328,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "96821c8375f1af41ca7dd280cf727cbd7d6d6073575fc5a3327fd0372d8c305f"
-  }
+  },
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T11:18:23.975Z",
+  "publication_slot": "2026-11-17/extra-A-0178",
+  "last_reviewed": "2026-11-17"
 }
