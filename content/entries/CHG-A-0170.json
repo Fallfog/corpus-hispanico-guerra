@@ -293,7 +293,7 @@
     }
   ],
   "editorial_note": "Monografía histórica original asistida por IA, sin arbitraje científico externo. Se contrastan versiones árabes y cristianas a través de sus ediciones y estudios; se declara la diferencia entre 25 y 26 de julio y se distingue la batalla del cerco de Muez. No se postulan cifras ciertas de tropas, muertos ni el castillo exacto; las prospecciones negativas de 2020 no se presentan como ausencia de combate. Se conserva la condición de emir de ʿAbd al-Raḥmān III en 920, anterior al califato de 929. Sin mapas de movimientos ficticios, citas extensas ni reproducción de fotografías protegidas.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -307,5 +307,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "614b10d58f4dcad802b607e17fba386d88c8324d1b913ad5ee0ecddfe9140b7a"
-  }
+  },
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T10:09:55.531Z",
+  "publication_slot": "2026-11-17/extra-A-0170",
+  "last_reviewed": "2026-11-17"
 }
