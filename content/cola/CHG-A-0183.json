@@ -285,6 +285,19 @@
     }
   ],
   "editorial_note": "Monografía original de investigación y síntesis con 15 apartados y cotejo de una fuente histórica local de acceso completo, historiografía militar oficial, narrativas españolas, francesas y británicas. Se explicitan discrepancias de cronología, efectivos, bajas y causa del fallecimiento de Reding; se distinguen bloqueo de 1809 y sitio de 1811. Sin imágenes de terceros reproducidas. No constituye artículo sometido a revisión científica externa.",
-  "status": "borrador",
-  "not_before": "2026-11-17"
+  "status": "revisado",
+  "not_before": "2026-11-17",
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-17",
+    "notes": "15 apartados, 45 párrafos, 4396 palabras y 9 referencias verificadas bibliográficamente. Contrastados Murillo (estudio territorial), Esteban Ribas (Revista de Historia Militar), Oman, Napier, Saint-Cyr, Toreno y Cabanes. Todas las secciones tienen referencias; se explicitan las discordancias de efectivos, bajas, cronologías y muerte de Reding, no confundida con asalto de Tarragona de 1811. El estudio local y varias narrativas históricas leídos; otras obras catalogadas con limitación de acceso descrita. Sin reutilización de imágenes.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "25d5699fd24fb2a2c79d0b5e996c46c1f5d547d1d4b31f2fe9ee6365d8cd1016"
+  }
 }
