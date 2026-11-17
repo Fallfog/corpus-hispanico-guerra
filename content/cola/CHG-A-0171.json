@@ -296,6 +296,19 @@
     }
   ],
   "editorial_note": "Investigación histórica asistida por IA, sin arbitraje científico externo. Contraste de Utrilla, ʿAfif Turk, Iranzo Muñío, fuente medieval pinatense e instituciones aragonesas. Se separa hecho bélico de leyendas del siglo XIV; se explicita el anacronismo de Antioquía (1098) respecto de Alcoraz (1096). Se reconoce la divergencia 18–19 de noviembre y se evita una cifra definitiva de muertos, composición exacta o mapa táctico no documentado. La capitulación se analiza sin inventar cláusulas. No se reproducen imágenes ni citas extensas protegidas.",
-  "status": "borrador",
-  "not_before": "2026-11-17"
+  "status": "revisado",
+  "not_before": "2026-11-17",
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-17",
+    "notes": "Monografía original de 4.083 palabras, 15 apartados y 45 párrafos referenciados con 9 fuentes documentales contrastadas; inventario comprobado de 163 entradas, sin Alcoraz. Comparación de Utrilla Utrilla, ʿAfif Turk, Iranzo Muñío, crónica pinatense y estudios aragoneses: fecha 18–19 noviembre debatida frente a ficha institucional con 15; se distingue fecha de batalla y entrada en Huesca. No se aceptan números de bajas propagandísticos ni la intervención milagrosa de san Jorge como hecho bélico; anacronismo respecto Antioquía 1098 identificado. Crítica del legendario Fortún Maza. Sin nombres, dispositivos tácticos ni cláusulas de rendición inventados, y sin fotografías ajenas o pasajes protegidos extensos.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "5182a110d525825a694b5151a2e97c5d6626f21e037e9ab27a4850b7b85299c6"
+  }
 }
