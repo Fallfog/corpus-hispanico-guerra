@@ -303,11 +303,23 @@
     }
   ],
   "editorial_note": "Monografía original de síntesis histórico-militar con 15 apartados y 45 párrafos y 10 referencias. Contrasta cartas contemporáneas de militares y enviados de los dos bandos con estudios académicos; distingue conquista, saqueo, custodia de la reina, número de efectivos y discusión sobre Girón. No se adjudican literalmente las palabras de Juana como voluntad política confirmada. Sin imágenes externas. Revisión asistida por IA, sin arbitraje científico externo.",
-  "status": "borrador",
+  "status": "revisado",
   "not_before": "2026-11-17",
-  "approval": null,
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-17",
+    "notes": "15 apartados, 45 párrafos, 4.587 palabras y 10 fuentes. Cotejados testimonios coetáneos de Hernando de Vega, conde de Haro, Gómez Coello y Sebastián de Torres, así como edición crítica del dossier municipal y análisis académico de Infestas Gil (2021). Verificadas discrepancias 20:00/21:00, presencia y seguridad de Juana, procedencia aproximada de efectivos, saqueo y capturas parciales. Se revisan intencionalidad de Girón y tradición polémica sin atribuir traición probada. Fuentes archivísticas PARES y Simancas citadas según su registro y resumen, sin reclamar lectura paleográfica. Sin imágenes externas.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "b1b4fd58aafb52348925797e42707ac639d5490c99b41520b2cff1c39e71e309"
+  },
   "publication_date": null,
   "publication_time": null,
   "publication_slot": null,
-  "last_reviewed": null
+  "last_reviewed": "2026-11-17"
 }
