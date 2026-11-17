@@ -307,7 +307,7 @@
     }
   ],
   "editorial_note": "Monografía original histórico-militar con 15 apartados y 45 párrafos, sustentada en fuentes institucionales, testimonios parlamentarios coetáneos, investigación académica y documentación local. Diferencia batalla táctica y operación fallida, fuente contemporánea y reconstrucción retrospectiva, y las memorias opuestas sobre Lapeña y Graham. No se reproducen mapas protegidos ni imágenes de terceros. Revisión asistida por IA; sin arbitraje científico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -322,8 +322,8 @@
     },
     "content_sha256": "263288419017b4589f7773ee32585cb2e2e62968efa3de5d71d0f88fe584ff7c"
   },
-  "publication_date": null,
-  "publication_time": null,
-  "publication_slot": null,
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T13:04:22.478Z",
+  "publication_slot": "2026-11-17/extra-A-0188",
   "last_reviewed": "2026-11-17"
 }
