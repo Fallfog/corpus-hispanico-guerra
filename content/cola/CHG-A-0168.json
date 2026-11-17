@@ -1,0 +1,297 @@
+{
+  "id": "CHG-A-0168",
+  "slug": "lancia-25-ac-carisio-astures-conquista-esla-labradas",
+  "topic_key": "conquista-lancia-25-ac-carisio-astures",
+  "title": "Lancia, 25 a. C.: Carisio, los astures y la ciudad entre la resistencia y el abandono",
+  "eyebrow": "Acciones militares · Edad Antigua · Guerras astur-cántabras",
+  "category": "Acciones militares",
+  "period": "Edad Antigua",
+  "era": "Siglo I a. C.",
+  "chronology": -25,
+  "date": "Hacia 25 a. C. (campaña astur; duración exacta de la operación sin determinar)",
+  "location": "Región del río Astura/Esla, noreste de la actual provincia de León; localización de Lancia vinculada a Villasabariego, con hipótesis alternativa de Las Labradas (Zamora)",
+  "summary": "Monografía crítica de la conquista de Lancia durante las guerras astur-cántabras: estrategia de los astures ante tres campamentos romanos, aviso de los brigaecinos, derrota ante Carisio, refugio y toma de la ciudad; contraste de Floro, Orosio y Dion y discusión arqueológica entre El Castro de Villasabariego, Las Labradas y Villacete.",
+  "featured": false,
+  "keywords": [
+    "Lancia",
+    "25 a. C.",
+    "Guerras astur-cántabras",
+    "Bellum Asturicum",
+    "Astures",
+    "Carisio",
+    "Publio Carisio",
+    "Floro",
+    "Orosio",
+    "Casio Dion",
+    "río Astura",
+    "río Esla",
+    "brigaecinos",
+    "Villasabariego",
+    "El Castro",
+    "Las Labradas",
+    "Arrabalde",
+    "Villacete",
+    "León",
+    "Zamora",
+    "teledetección arqueológica"
+  ],
+  "facts": [
+    [
+      "Fecha",
+      "Hacia 25 a. C.; secuencia y duración exactas no documentadas"
+    ],
+    [
+      "Lugar",
+      "Región astur del río Astura; Lancia asociada tradicionalmente con El Castro (Villasabariego), localización debatida"
+    ],
+    [
+      "Conflicto",
+      "Guerras astur-cántabras de época augustea"
+    ],
+    [
+      "Fuerzas enfrentadas",
+      "Ejército romano dirigido por Carisio y fuerzas astures de diversas comunidades"
+    ],
+    [
+      "Mandos",
+      "Publio Carisio en la tradición historiográfica; Dion transmite una forma distinta del praenomen"
+    ],
+    [
+      "Operación previa",
+      "Intento astur de atacar tres campamentos romanos; fracaso tras aviso de los brigaecinos"
+    ],
+    [
+      "Resultado",
+      "Control romano de Lancia; discrepancias sobre su resistencia final y posible abandono"
+    ],
+    [
+      "Controversia",
+      "Floro y Orosio describen resistencia/rendición; Dion habla de plaza abandonada"
+    ],
+    [
+      "Topografía",
+      "Villasabariego tradicional, Las Labradas propuesta alternativa; Villacete posible campamento sin verificación definitiva"
+    ],
+    [
+      "Método",
+      "Contraste de fuentes clásicas, artículos académicos y datos arqueológicos institucionales"
+    ]
+  ],
+  "related": [
+    "CHG-A-0167",
+    "CHG-A-0166",
+    "CHG-A-0090"
+  ],
+  "topics": [
+    "Edad Antigua",
+    "Hispania",
+    "Conquista romana",
+    "Astures",
+    "Guerras astur-cántabras",
+    "Historia militar",
+    "Arqueología de la conquista",
+    "Lancia",
+    "León",
+    "Zamora",
+    "Historiografía"
+  ],
+  "sections": [
+    {
+      "heading": "1. Lancia: una conquista entre relato y arqueología",
+      "paragraphs": [
+        "La toma de Lancia, situada tradicionalmente hacia 25 a. C., ocupa un lugar singular en la conquista romana del noroeste peninsular. Floro la presenta como refugio de tropas astures derrotadas y como ciudad difícil de someter; Orosio cuenta que sus habitantes acabaron aceptando la rendición, y Casio Dion afirma, en cambio, que la plaza había sido abandonada cuando fue ocupada. Tres testimonios breves han alimentado durante siglos una narración célebre pero incompleta. El primer deber de esta monografía es conservar esas diferencias y explicar qué permiten afirmar, en lugar de combinarlas en una escena artificialmente uniforme. [1][2][3][4]",
+        "La operación formó parte de las guerras astur-cántabras promovidas durante el gobierno de Augusto, no de una campaña de ejércitos españoles modernos contra extranjeros. Los astures reunían comunidades de un espacio amplio y diverso, mientras Roma enviaba legiones y mandos provinciales para imponer su autoridad. El objetivo político romano iba más allá de conquistar un recinto: implicaba asegurar rutas, campamentos, poblaciones y una región cuyo dominio seguía siendo discutido. La caída de Lancia adquirió así un valor simbólico que quizá supera la información comprobable sobre su asedio concreto. [1][3][8]",
+        "El acontecimiento plantea además una cuestión espacial. El yacimiento de El Castro, en Villasabariego, León, es identificado mayoritariamente con la Lancia antigua; otros investigadores han propuesto Las Labradas, en Arrabalde, Zamora, para el episodio de las guerras. La teledetección contemporánea ha localizado recintos militares que renuevan el debate, pero todavía no convierten una hipótesis en demostración definitiva. En esta investigación se separarán la existencia de una ciudad romana llamada Lancia, la identificación del asentamiento arqueológico y la reconstrucción del lugar preciso donde ocurrieron los combates. [4][5][6][7]"
+      ]
+    },
+    {
+      "heading": "2. Augusto y el problema de la conquista del norte",
+      "paragraphs": [
+        "Entre las décadas finales del siglo I a. C. y los primeros años del régimen augusteo, Roma trató de consolidar un control más efectivo sobre las comunidades septentrionales de Hispania. La periodización convencional de las guerras cántabras y astures se extiende aproximadamente entre 29 y 19 a. C.; la campaña asociada a Lancia corresponde a una fase temprana de esa secuencia. La propaganda de victoria no equivale a una pacificación instantánea. Floro utiliza el resultado para presentar la obra de Augusto como cierre de una conquista larga, aunque las operaciones y resistencias posteriores impiden leer esa conclusión como un parte militar definitivo. [1][3][8]",
+        "La guerra tuvo un carácter distinto del que ofrecen algunas imágenes escolares de una única batalla de conquista. Los ejércitos romanos debieron combinar movimientos a través de valles, ocupación de alturas, establecimiento de campamentos y acuerdos o enfrentamientos con comunidades concretas. Casio Dion atribuye a los habitantes del norte capacidad para evitar combates abiertos, utilizar bosques y barrancos y explotar su conocimiento del terreno. Tales tácticas responden a una síntesis literaria de la campaña, no a una descripción etnográfica que deba aplicarse por igual a cada pueblo o escaramuza documentada. [3][4][8]",
+        "El propio Augusto aparece en Dion enfrentado a dificultades militares y problemas de salud, mientras sus subordinados asumían acciones destacadas. El caso de Lancia se atribuye a Carisio, responsable de un sector de operaciones. La actuación de distintos mandos y el desplazamiento de la iniciativa complican un relato centrado exclusivamente en el emperador. Incluso la cronología de las campañas depende de reconstruir pasajes tardíos y de distinguir la presencia de Augusto en Hispania de lo que hicieron sus legados. Para Lancia conservamos el episodio y su marco temporal general, pero no un calendario diario comparable al de una campaña moderna. [1][3][8]"
+      ]
+    },
+    {
+      "heading": "3. Los astures, sus asentamientos y sus decisiones",
+      "paragraphs": [
+        "El término astures designa una pluralidad de grupos humanos que compartían ciertos marcos territoriales y relaciones, sin formar necesariamente un Estado centralizado semejante a los contemporáneos. La arqueología revela asentamientos de características diversas, contactos comerciales y transformaciones materiales anteriores y posteriores a la conquista. Por ello no puede deducirse una voluntad idéntica de todas las comunidades ante Roma. Algunas resistieron, otras negociaron y otras pudieron suministrar información militar; las fuentes no permiten convertir esa diversidad en un cuadro político completo. Las etiquetas étnicas de los autores romanos necesitan una lectura histórica contextualizada. [4][5][7]",
+        "Lancia es descrita por los escritores como lugar de relevancia extraordinaria. Floro emplea el calificativo de ciudad fortísima, mientras Dion habla de su principal núcleo o fortaleza. Estos adjetivos expresan importancia en la narración y no sustituyen al análisis de dimensiones, defensas y cronología de las estructuras excavadas. Una ciudad considerada grande para su territorio podía ser menor que los grandes centros mediterráneos, y una plaza formidable podía apoyarse en pendientes, accesos o población movilizada, no únicamente en murallas monumentales. La diferencia entre valoración literaria y dato arqueológico será constante en este trabajo. [1][3][5][7]",
+        "También merece cuidado la imagen de un pueblo que desciende en masa de montañas nevadas. Floro convierte esa movilización en un motivo dramático antes de describir el plan contra campamentos romanos. La frase puede conservar memoria de un movimiento estacional u operativo, pero no identifica valles de origen ni la composición exacta de la fuerza. De un relato condensado no puede reconstruirse el número de combatientes ni su procedencia municipio por municipio. Lo seguro es que los romanos percibieron una capacidad astur de concentración y coordinación lo bastante importante como para incorporarla al relato de una campaña de conquista. [1][2][8]"
+      ]
+    },
+    {
+      "heading": "4. El río Astura y los tres campamentos romanos",
+      "paragraphs": [
+        "Floro y Orosio sitúan una iniciativa astur en relación con el río Astura y tres campamentos romanos que habrían sido atacados de forma simultánea. La identificación habitual del Astura con el Esla tiene argumentos históricos y toponímicos, pero no resuelve por sí sola el punto exacto de los campamentos. Para los autores antiguos bastaba presentar el riesgo estratégico: una fuerza romana distribuida en varias posiciones podía sufrir ataques coordinados antes de concentrarse. El relato atribuye a los astures un plan deliberado, y no un ataque improvisado, elemento que contradice estereotipos de enemistad sin organización. [1][2][4]",
+        "La disposición de tres campamentos plantea preguntas que las fuentes no contestan: distancia entre recintos, rutas de comunicación, relevos de guardia y tamaño de las legiones destacadas. Orosio presenta a tres legados con sus fuerzas repartidas, pero no aporta un plano ni un registro de unidades verificable. Los términos utilizados para ejército, campamento o columna tienen un significado narrativo que no obliga a imaginar tres bases permanentes idénticas. La geografía de los ríos y vegas del Esla favorece hipótesis operativas diversas; para distinguirlas sería necesario localizar restos fechables y vinculados a la misma fase de ocupación. [1][2][4]",
+        "La investigación de Menéndez Blanco, Vicente García y Fonte insiste justamente en el contraste entre la relevancia del episodio escrito y la escasez tradicional de evidencias materiales de ejército en la cuenca del Esla. Mediante fotografía aérea, modelos del terreno y análisis de marcas de cultivo se han identificado o reconsiderado recintos que podrían responder a actividad militar romana. Sin embargo, el estudio advierte que los tres campamentos de la escena antigua no están arqueológicamente constatados. Una forma de planta compatible con un campamento no proporciona por sí sola un sello cronológico ni la identidad de los soldados que ocuparon el lugar. [4]"
+      ]
+    },
+    {
+      "heading": "5. La advertencia de los brigaecinos",
+      "paragraphs": [
+        "Los brigaecinos aparecen en Floro y Orosio como informantes que comunicaron el plan astur a las fuerzas romanas. La tradición los describe en términos de traición, lenguaje que presupone una pertenencia colectiva y juzga desde una perspectiva moral simplificadora. La noticia permite afirmar que las fuentes atribuyen el fracaso de la sorpresa a información recibida por Carisio, pero no describe quién negoció con quién, qué promesas se hicieron o qué sectores de la comunidad participaron. La colaboración local con un poder exterior podía obedecer a rivalidades, amenazas, intereses o cálculos de supervivencia que han desaparecido del relato. [1][2][5]",
+        "La advertencia modificó el balance táctico porque el plan dependía de sorprender simultáneamente a fuerzas romanas separadas. Floro reconoce que la operación astur habría podido causar una lucha incierta y sangrienta, pero presenta la intervención de Carisio como factor que evitó el desastre previsto. No conocemos si todos los campamentos fueron avisados de la misma forma ni el tiempo real entre la información y la respuesta. La narración condensa un proceso que pudo exigir mensajeros, órdenes de reunión y movimientos rápidos; esas fases son hipótesis razonables de funcionamiento militar, no sucesos detallados por una fuente conservada. [1][2]",
+        "Convertir a los brigaecinos en una tribu permanentemente prorromana sería una extrapolación injustificada. Tampoco existe fundamento suficiente para afirmar que el resto de los astures actuó como una única confederación sin discrepancias. El episodio se comprende mejor dentro de la política de alianzas variables que acompaña a muchas conquistas antiguas. La memoria romana retuvo el dato útil para explicar la victoria de su comandante y el fracaso enemigo. Precisamente esa selección documental invita a estudiar la información como arma de guerra y las decisiones locales como parte de la historia, no como notas marginales a los movimientos legionarios. [1][2][4][5]"
+      ]
+    },
+    {
+      "heading": "6. Carisio, la batalla y los costes del combate",
+      "paragraphs": [
+        "Tras descubrirse el plan, Carisio condujo la respuesta romana y derrotó a las fuerzas astures en una acción de la que apenas sabemos la localización y el desarrollo táctico. Tanto Floro como Orosio reconocen que la victoria costó sangre a los vencedores; el segundo dice expresamente que los romanos sufrieron pérdidas importantes. No conocemos una cifra fiable de bajas, la secuencia de cargas ni el orden de las unidades. Reproducir un esquema de maniobra preciso sería inventar lo que los textos omitieron. Lo defendible es que hubo una derrota astur previa al episodio de Lancia. [1][2]",
+        "El comandante aparece habitualmente como Publio Carisio en la historiografía y la documentación institucional, aunque ciertas transmisiones o traducciones de Dion ofrecen Tito Carisio. La discrepancia onomástica reclama distinguir la identificación histórica del personaje de la forma empleada en un testimonio concreto. No es una base para inventar dos generales distintos que hubieran conquistado Lancia por separado. Además, el nombre romano del mando no explica por sí mismo la actuación de toda la cadena de oficiales. Un relato tan concentrado en el general presenta inevitablemente menos datos sobre subalternos, tropas auxiliares y contingentes indígenas. [3][7][9]",
+        "La importancia militar de la victoria previa fue desorganizar una fuerza ofensiva que había intentado alcanzar varios campamentos. Sin embargo, el hecho de que supervivientes llegaran a una plaza fortificada indica que el combate no terminó en aniquilación total. El terreno, las posibilidades de retirada y la existencia de núcleos defensivos condicionaron el curso posterior. Las fuentes no dicen que Carisio persiguiera a todos los combatientes durante una jornada fija ni que Lancia fuera el último asentamiento astur capaz de ofrecer resistencia. La campaña debe leerse como una sucesión de episodios locales dentro de una guerra regional más larga. [1][2][3]"
+      ]
+    },
+    {
+      "heading": "7. La retirada hacia Lancia",
+      "paragraphs": [
+        "Según Floro y Orosio, una parte de los astures derrotados alcanzó Lancia y encontró refugio tras sus defensas. En términos militares la ciudad servía para recuperar protección, reunir combatientes dispersos y colocar al vencedor ante un problema diferente: reducir un lugar defendido en vez de perseguir tropas en movimiento. La noticia no aclara el número de refugiados ni el grado de preparación de la plaza. Tampoco permite calcular si el recinto podía absorber sin dificultades a guerreros, familias, animales y provisiones adicionales. Las interpretaciones modernas de su capacidad se apoyan en hipótesis sobre el yacimiento elegido. [1][2][5]",
+        "Floro habla de una posición muy fuerte, una caracterización compatible con dificultades para asaltarla, aunque sin detalles sobre torres, fosos o máquinas de guerra. Orosio afirma que los soldados romanos rodeaban la ciudad cuando se preparaban para incendiarla. Entre el refugio inicial y la capitulación pudieron ocurrir operaciones prolongadas, pero su duración no aparece documentada. La expresión asedio de Lancia es una denominación historiográfica útil para ese enfrentamiento alrededor de una plaza; no debe confundirse con un registro completo de una circunvalación excavada o de combates sucesivos fechados día por día. [1][2][4]",
+        "La decisión de refugiarse tiene además una dimensión social. Una ciudad podía quedar obligada a recibir combatientes derrotados cuyos objetivos no coincidieran con los de todos los residentes. El relato no permite saber qué acuerdos hubo entre dirigentes locales y recién llegados, ni si existieron facciones partidarias de negociar con Carisio antes del cerco. La hipótesis de tensiones internas debe mantenerse en condicional, porque a diferencia de Ategua las fuentes de Lancia no proporcionan episodios detallados de conflicto urbano. La ausencia de esos testimonios no demuestra que la ciudad estuviera socialmente unida, solo limita lo que puede afirmarse. [1][2][5]"
+      ]
+    },
+    {
+      "heading": "8. Floro, Orosio y Dion: tres desenlaces diferentes",
+      "paragraphs": [
+        "La contradicción central se concentra en el estado de la plaza al producirse la ocupación romana. Floro describe resistencia asociada a las ventajas del terreno y presenta a los soldados dispuestos a quemar la ciudad una vez ganada. Orosio habla de una ciudad rodeada y de una rendición conseguida por Carisio. Dion, por el contrario, dice que el comandante tomó la principal fortaleza de los astures después de haber sido abandonada. Si se respeta literalmente cada testimonio, no ofrecen una misma secuencia. La monografía no escoge de antemano una versión solo por ser más dramática o más favorable a un bando. [1][2][3]",
+        "Una conciliación posible sería que la ciudad sufriera presión y que parte de sus defensores se marchara antes de la entrada romana, pero no existe en los pasajes citados una prueba suficiente para presentarla como reconstrucción definitiva. Otra posibilidad es que Dion resumiera en exceso hechos que otros autores desarrollaron, o que Floro y Orosio heredaran una tradición edificante sobre la clemencia. La investigación de las fuentes antiguas recuerda que Floro y Orosio pueden compartir una dependencia de Livio, mientras Dion representa una tradición distinta. La diversidad no equivale automáticamente a tres confirmaciones independientes del mismo detalle. [1][2][3][8]",
+        "El contraste permite distinguir grados de certeza. Hubo una operación romana contra un centro llamado Lancia en el contexto de la campaña astur y su control acabó pasando a manos de Carisio: ese núcleo resulta común. El modo exacto en que cesó la resistencia, el tamaño de la guarnición y la existencia de un incendio evitado dependen de tradiciones divergentes. El escenario más responsable no es fabricar una síntesis sin fricciones, sino explicar qué aporta cada autor y qué materiales arqueológicos podrían, en el futuro, modificar nuestra confianza. [1][2][3][4]"
+      ]
+    },
+    {
+      "heading": "9. El incendio evitado y la política de la victoria",
+      "paragraphs": [
+        "El relato de Floro incorpora un episodio memorable: tras la toma de Lancia, los soldados querían incendiarla y Carisio habría logrado impedirlo, argumentando que una ciudad en pie testimoniaría mejor la victoria de Roma. Orosio expresa una idea semejante y añade que el general obtuvo de los habitantes la voluntad de rendirse. En ambos casos la ciudad intacta se convierte en monumento político, un elemento narrativo que contrapone el deseo de destrucción de la tropa y la contención del mando. No contamos con un acta de deliberación ni con palabras exactas certificadas del comandante. [1][2]",
+        "La escena admite una lectura histórica sin convertirla en una prueba automática de política humanitaria. Evitar un incendio podía preservar edificios, graneros y población que después produjeran tributos o sirvieran a la administración imperial. También podía transmitir el mensaje de que la sumisión tenía consecuencias menos destructivas que la resistencia prolongada. Estas motivaciones son interpretaciones plausibles de la lógica romana y de la retórica de las fuentes, no declaraciones documentadas de Carisio. La clemencia de un general en una ciudad tampoco elimina la violencia de la guerra, sus deportaciones o formas de explotación regional. [1][2][8]",
+        "A veces se ha repetido la imagen de Lancia totalmente indemne después del sitio. La tradición de las antorchas detenidas apoya que los autores quisieron destacar su conservación, pero no autoriza a afirmar que no hubiera daños de combate en una sola vivienda o fortificación. El yacimiento de Villasabariego muestra niveles de ocupación sucesivos y una ciudad que se desarrolló en época imperial; esa continuidad es significativa, aunque no identifica cada reparación con la campaña de 25 a. C. La relación entre victoria, memoria y paisaje urbano merece distinguir el argumento moral de la evidencia material fechada. [1][2][7][9]"
+      ]
+    },
+    {
+      "heading": "10. Una ciudad poderosa: ¿fortificación o categoría literaria?",
+      "paragraphs": [
+        "Floro denomina a Lancia una ciudad muy fuerte y Dion la considera principal fortaleza o núcleo astur. La comparación ha impulsado a investigadores a buscar un asentamiento de grandes dimensiones con defensas reconocibles. Sin embargo, el adjetivo de Floro puede reunir importancia estratégica, pendiente del terreno y eficacia de la protección, sin precisar un tipo único de muralla. Las traducciones de Dion varían en el matiz de poblado, ciudad o fortaleza. Una palabra antigua debe interpretarse con su contexto y no emplearse como plantilla rígida para descartar o validar un yacimiento solo por su tamaño visible. [1][3][5]",
+        "En El Castro de Villasabariego la investigación arqueológica documenta fases prerromanas y posteriores, pero los argumentos sobre sus fortificaciones no son unánimes. Santos Yanguas subrayó la dificultad de identificar allí la ciudad fortísima de las fuentes; otros autores recordaron que el conjunto de indicios de ocupación, toponimia y rutas sigue favoreciendo la identificación tradicional. Las Labradas ofrece un sistema defensivo visible y de gran entidad, aunque eso tampoco demuestra que su nombre antiguo fuera Lancia. Encontrar una muralla poderosa no basta para atribuirle automáticamente un episodio concreto descrito por una fuente tardía. [4][5][6][7]",
+        "La investigación moderna propone una cautela adicional: dos yacimientos pueden registrar actividades de la misma guerra sin que uno de ellos deba absorber todas las menciones históricas. Las Labradas-El Marrón pudo experimentar operaciones militares romanas aunque la Lancia de la tradición siguiera situándose en Villasabariego. Esta distinción evita una falsa alternativa entre aceptar una localización y negar el valor arqueológico de la otra. Un área de excavación puede aportar datos nuevos sobre rutas de conquista, movimientos de tropas y resistencia regional incluso cuando no se identifica un topónimo clásico de manera definitiva. [4][6]"
+      ]
+    },
+    {
+      "heading": "11. La identificación tradicional: El Castro de Villasabariego",
+      "paragraphs": [
+        "La localización habitualmente aceptada de Lancia está en El Castro, en el municipio leonés de Villasabariego, junto al sistema fluvial del Esla y el Porma. La documentación patrimonial del Instituto Leonés de Cultura señala un asentamiento que alcanzó unas treinta hectáreas y una secuencia de ocupación con elementos prerromanos y una urbanización relevante durante el Imperio. El entorno facilita comprender su valor como centro de población y de comunicaciones. La identificación se apoya también en la evolución de nombres de lugar y las referencias antiguas a una ciudad o mansio llamada Lance, pero cada argumento pertenece a un contexto cronológico específico. [4][7][9]",
+        "El yacimiento ofrece restos de espacios públicos y privados, cerámica, estructuras domésticas y edificaciones romanas. Una parte destacada de las termas y del mercado corresponde a siglos posteriores a la conquista. Se debe impedir el error de presentar esas construcciones como escenario directo de un asalto augusteo. El sitio arqueológico permite estudiar la transformación de la comunidad bajo dominio romano y ofrece anclaje material a la historia de Lancia; no equivale a un campo de batalla excavado con cada línea del despliegue de Carisio reconocida. Su importancia científica no depende de exagerar el alcance militar de sus hallazgos. [7][9]",
+        "Las investigaciones recientes consideran la identificación tradicional coherente, aunque no absolutamente concluyente. Ese matiz no es una fórmula vacía: resulta del equilibrio entre fases arqueológicas, toponimia, geografía y los escasos datos escritos. Se conoce una ciudad romana de gran entidad en El Castro, pero el episodio de 25 a. C. exige comprobar además su correspondencia con la fortaleza mencionada por los autores. El prudente investigador puede describir el yacimiento como Lancia en su denominación patrimonial actual y, al abordar el sitio militar antiguo, hacer explícita la discusión que continúa abierta. [4][5][6][7]"
+      ]
+    },
+    {
+      "heading": "12. La propuesta alternativa: Las Labradas-El Marrón",
+      "paragraphs": [
+        "Narciso Santos Yanguas defendió en 2004 que la Lancia de las guerras astures pudo corresponder al castro de Las Labradas, en Arrabalde, Zamora, y no al asentamiento de Villasabariego. Su argumentación atendía al carácter fuertemente defendido del recinto, a la posibilidad de acoger población retirada y a una lectura alternativa de la geografía del río Astura. El trabajo cuestionaba que las inscripciones o los restos conocidos en el yacimiento leonés bastaran para identificarlo con el episodio de la conquista. Debe citarse como propuesta historiográfica documentada, no como conclusión ya aceptada por toda la disciplina. [5]",
+        "Los estudios arqueológicos sobre Las Labradas-El Marrón aportaron nuevas observaciones de estructuras y material relacionado con la actividad militar romana. El trabajo de Hierro Gárate y colaboradores examina el contexto del castro y las hipótesis de asedio durante el Bellum Asturicum, pero también advierte que el traslado del nombre Lancia a ese lugar no queda demostrado. Una cosa es reunir evidencias de presencia militar en la zona y otra acreditar que el combate final citado por Floro ocurrió precisamente allí. Además, el registro puede relacionarse con distintas operaciones de un conflicto prolongado y no necesariamente con una sola jornada del año 25. [6]",
+        "La dificultad esencial es que las fuentes clásicas no proporcionan coordenadas que puedan contrastarse sin mediación con las de un mapa actual. Los argumentos por dimensiones y defensas son valiosos, pero deben acompañarse de cronologías estratigráficas, materiales fechados y análisis de relaciones territoriales. La sustitución del Esla por el Órbigo en la interpretación del nombre Astura también exige prueba propia. Por tanto, ni la costumbre de ubicar Lancia en León ni una propuesta alternativa en Zamora deberían blindarse frente a nuevos datos; ambas tienen que someter sus afirmaciones a criterios verificables. [4][5][6]"
+      ]
+    },
+    {
+      "heading": "13. Villacete y la revolución de la teledetección",
+      "paragraphs": [
+        "Los trabajos publicados en 2023 por Menéndez Blanco, Vicente García y Fonte han transformado el marco material del problema mediante la identificación y análisis de recintos relacionados posiblemente con el ejército romano en la cuenca del Esla. El caso de Villacete resulta especialmente interesante por sus dimensiones y cercanía al poblado de El Castro, a unos 2,6 kilómetros según el artículo. La posición permite un análisis de visibilidad entre lugares y del papel del Porma como barrera natural. Estas observaciones apoyan una hipótesis militar regional, no prueban por sí solas que Carisio instalase allí su campamento. [4]",
+        "La fotografía aérea histórica y reciente, las marcas de cultivo y los modelos digitales de elevación ayudan a detectar trazados que una visita superficial podría pasar por alto. Se trata de métodos especialmente útiles en vegas agrícolas donde los movimientos del suelo han reducido la visibilidad de obras antiguas. Sin embargo, la forma de un recinto no suministra necesariamente una fecha ni identifica a una legión. Los autores proponen que Villacete pudo emplearse para reagrupamiento anterior o posterior a la toma de Lancia, pero reconocen la necesidad de investigaciones adicionales que confirmen su carácter, cronología y función. [4]",
+        "El avance técnico no debe alimentar una ilusión de certeza inmediata. Aunque un recinto posea dimensiones comparables a campamentos romanos conocidos, puede requerir sondeos, estudio de materiales y dataciones para distinguir campaña militar de ocupaciones posteriores. El artículo insiste en que los tres campamentos de los textos no han sido individualizados arqueológicamente en el Esla. Ese reconocimiento fortalece la investigación porque establece objetivos comprobables para el futuro: verificar Villacete, documentar otros recintos, estudiar accesos fluviales y relacionar estratos con secuencias militares sin imponer el relato antiguo a los hallazgos. [4][8]"
+      ]
+    },
+    {
+      "heading": "14. Después de la conquista: continuidad y romanización",
+      "paragraphs": [
+        "La evolución posterior del asentamiento tradicionalmente identificado como Lancia es importante para interpretar la célebre decisión de no destruirlo. Los materiales arqueológicos muestran una población integrada de manera creciente en estructuras urbanas y administrativas romanas. Las termas, las redes de drenaje y el mercado ilustran transformaciones que pertenecen sobre todo a la etapa imperial, no necesariamente a la década de 20 a. C. La continuidad del lugar permite estudiar nuevas formas de vida urbana, pero no demuestra por sí sola que todos los habitantes del periodo prerromano conservaran su posición social o sus propiedades tras la conquista. [7][9]",
+        "Floro enlaza la victoria con políticas de ocupación de llanuras y explotación de recursos, especialmente minerales. Su relato integra la conquista del norte en una historia moral de pacificación bajo Augusto. Esa visión ha de contrastarse con una arqueología que muestra cambios de asentamiento, organización económica y presencia militar, y no con una imagen idílica de obediencia inmediata. La captación de tributos, el desarrollo de vías y la transformación de lugares de población fueron procesos de duración variable. La guerra de conquista abrió condiciones nuevas; no todas sus consecuencias se produjeron el día en que cayó una plaza. [1][7][8]",
+        "La historia de Lancia no se reduce al instante de su conquista. La ciudad de Villasabariego conoció fases urbanas, espacios comerciales y reutilizaciones de edificios hasta época tardorromana. Esos siglos merecen investigación por sí mismos, aunque el presente estudio se concentre en una operación militar de época augustea. Mantener la separación evita interpretar cerámicas, termas o inscripciones posteriores como testimonio directo del asalto de Carisio. La pregunta histórica legítima consiste en cómo una comunidad y su territorio fueron transformándose después del conflicto, distinguiendo los hechos materiales fechados de las hipótesis sobre los mecanismos concretos del cambio. [7][9]"
+      ]
+    },
+    {
+      "heading": "15. Balance crítico: lo sabido, lo probable y lo pendiente",
+      "paragraphs": [
+        "La evidencia permite sostener que una campaña romana dirigida por Carisio derrotó a fuerzas astures y acabó controlando Lancia hacia el año 25 a. C. Los textos coinciden en la importancia del centro, pero difieren sobre la forma de su ocupación. Floro y Orosio presentan un refugio, presión militar y una ciudad salvada del incendio; Dion resume la toma de una posición abandonada. Ninguno conserva un inventario de tropas, un mapa operativo verificable ni una cifra de víctimas que pueda adoptarse sin reservas. El valor del episodio depende menos de llenar esos silencios que de identificar su función histórica. [1][2][3]",
+        "La arqueología moderna ofrece preguntas nuevas y algunos indicios prometedores. El Castro de Villasabariego continúa siendo la identificación patrimonial y académica más extendida, pero ha sido discutida en favor de Las Labradas. Los recintos reconocidos mediante teledetección en la cuenca del Esla, incluido Villacete, sugieren actividad militar que todavía necesita confirmación cronológica y funcional. La investigación evita convertir una planta aérea en prueba de un asedio concreto, de la misma forma que evita transformar un adjetivo latino en descripción topográfica exhaustiva. Esta cautela hace compatible una narrativa histórica rigurosa con nuevas excavaciones y revisiones futuras. [4][5][6][7]",
+        "Lancia recuerda que una conquista puede estudiarse a la vez como operación militar, negociación de comunidades y construcción de memoria vencedora. La información transmitida a Carisio por los brigaecinos, la derrota antes del refugio y la decisión atribuida al general de preservar la ciudad son elementos que relacionan inteligencia, fuerza y política. Las discrepancias documentales impiden una reconstrucción cerrada, pero no anulan la relevancia del acontecimiento en la formación de la Hispania romana. La monografía conserva explícitas sus fuentes y límites, y ofrece un punto de partida verificable para futuras investigaciones en León, Zamora y la región del Esla. [1][2][3][4][8]"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "n": 1,
+      "name": "Lucio Anneo Floro, Epitome de Tito Livio, libro II, cap. 33 (numeración corriente), §§54–59; trad. E. S. Forster, reproducción en LacusCurtius/University of Chicago",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Florus/Epitome/2I%2A.html",
+      "kind": "Fuente historiográfica antigua, trad. inglesa consultada",
+      "verified_at": "2026-11-17",
+      "verification_note": "Consultado texto de Floro II.33 §§54–59: descenso de astures, plan contra tres campamentos, aviso de brigaecinos, acción de Carisio, acogida de supervivientes en Lancia y motivo de preservación frente al fuego. No se convierten retórica ni juicios morales en recuentos tácticos."
+    },
+    {
+      "n": 2,
+      "name": "Paulo Orosio, Historiarum adversum paganos VI, 21, §§9–11; traducción inglesa reproducida en Attalus y texto latino en Monumenta",
+      "url": "https://www.attalus.org/translate/orosius6B.html",
+      "kind": "Fuente historiográfica tardoantigua, traducción consultada",
+      "verified_at": "2026-11-17",
+      "verification_note": "Leídos capítulos VI.21 §§9–11: tres campamentos y delación, victoria costosa de Carisio, refugio en Lancia y rendición con preservación de la ciudad; comparado texto latino en indexación de Monumenta. Se señala dependencia probable de tradición liviana/floriana."
+    },
+    {
+      "n": 3,
+      "name": "Casio Dion, Historia romana, libro LIII, 25, §§5–8, traducción E. Cary, Lexundria",
+      "url": "https://lexundria.com/dio/53.25/cy",
+      "kind": "Fuente historiográfica romana posterior, trad. inglesa consultada",
+      "verified_at": "2026-11-17",
+      "verification_note": "Consultado capítulo 53.25 completo, incluida acción de Antistio y ocupación de Lancia por Carisio tras ser abandonada; contraste crítico con Floro y Orosio. Diferencia de praenomen en la traducción consignada sin crear un segundo general."
+    },
+    {
+      "n": 4,
+      "name": "Andrés Menéndez Blanco, Víctor Vicente García y João Fonte, «De las fuentes escritas a las técnicas de teledetección: aportaciones sobre la presencia del ejército romano en la cuenca del Esla», Studia Historica. Historia Antigua 41 (2023), e31235",
+      "url": "https://revistas.usal.es/uno/index.php/0213-2052/en/article/download/31235/29311/118373?inline=1",
+      "kind": "Investigación académica reciente de acceso abierto; texto HTML íntegro consultado",
+      "verified_at": "2026-11-17",
+      "verification_note": "Leídas introducción, metodología, análisis de campamentos, discusión de Lancia y Villacete y conclusiones; se afirma que la relación causal con el episodio de 25 a.C. está por demostrar y los tres campamentos no están localizados arqueológicamente."
+    },
+    {
+      "n": 5,
+      "name": "Narciso Santos Yanguas, «Lancia de los astures: ubicación y significado histórico», Hispania Antiqua 28 (2004), pp. 71–86",
+      "url": "https://uvadoc.uva.es/bitstream/handle/10324/9721/HispaniaAntiqua-2004-28-Lanciadelosastures.pdf?sequence=1",
+      "kind": "Estudio académico que propone Las Labradas; PDF consultado",
+      "verified_at": "2026-11-17",
+      "verification_note": "Consultados resumen y pasajes centrales sobre El Castro y alternativa Las Labradas (fortificaciones, capacidad, toponimia, epigrafía y numismática); sus conclusiones se atribuyen expresamente como hipótesis controvertida."
+    },
+    {
+      "n": 6,
+      "name": "José Ángel Hierro Gárate, Julio Manuel Vidal Encinas, Eduardo Peralta Labrador, Enrique Gutiérrez Cuenca y Rafael Bolado del Castillo, «Primeras evidencias arqueológicas del asedio romano al castro de Las Labradas-El Marrón», Estudios Humanísticos. Historia 17 (2019–2020), pp. 149–179",
+      "url": "https://revpubli.unileon.es/index.php/EEHHHistoria/article/view/7657",
+      "kind": "Artículo académico arqueológico; publicación y pasajes del texto consultados",
+      "verified_at": "2026-11-17",
+      "verification_note": "Contrastada ficha editorial de la Universidad de León y consultados pasajes amplios del texto íntegro indexado, especialmente sección 3 sobre debate Las Labradas-Lancia, sus argumentos y límites; no se identifica automáticamente un recinto de asedio con el episodio de Carisio."
+    },
+    {
+      "n": 7,
+      "name": "Instituto Leonés de Cultura, Diputación de León, «Antigua Ciudad Astur-Romana de Lancia»",
+      "url": "https://www.institutoleonesdecultura.es/antigua-ciudad-astur-romana-de-lancia/",
+      "kind": "Fuente patrimonial institucional consultada",
+      "verified_at": "2026-11-17",
+      "verification_note": "Consultada página institucional sobre investigación arqueológica, superficie de 30 ha y edificios públicos romanos, yacimiento patrimonial identificado como Lancia. No se atribuye a la guerra de 25 a.C. la cronología de construcciones posteriores."
+    },
+    {
+      "n": 8,
+      "name": "Eduardo J. Peralta Labrador, Jorge Camino Mayor y Jesús F. Torres-Martínez, «Recent research on the Cantabrian Wars: the archaeological reconstruction of a mountain war», Journal of Roman Archaeology 32 (2019), pp. 421–438",
+      "url": "https://www.cambridge.org/core/journals/journal-of-roman-archaeology/article/abs/recent-research-on-the-cantabrian-wars-the-archaeological-reconstruction-of-a-mountain-war/4CAA0D7E080AE9597C6E6E0C224EF0C1",
+      "kind": "Artículo científico; metadatos e introducción visible consultados, no texto íntegro",
+      "verified_at": "2026-11-17",
+      "verification_note": "Verificados autores, revista, fecha, páginas, DOI y párrafos iniciales accesibles sobre dependencia tradicional de fuentes clásicas y problemas de interpretación topográfica; no se reclama lectura completa del artículo."
+    },
+    {
+      "n": 9,
+      "name": "Ayuntamiento de Mansilla de las Mulas, «Ruinas romanas de Lancia», información institucional de divulgación patrimonial",
+      "url": "https://www.aytomansilladelasmulas.es/turismo-y-ocio/rutas/lancia.html",
+      "kind": "Fuente patrimonial municipal; texto completo consultado",
+      "verified_at": "2026-11-17",
+      "verification_note": "Consultados ubicación en Villasabariego, historia de excavaciones, fases de ocupación, termas, mercado e interpretación de la preservación; se distingue la narración municipal del debate científico y de la datación precisa de cada construcción."
+    }
+  ],
+  "editorial_note": "Investigación documental asistida por IA, sin revisión científica externa por pares. Se contrastan expresamente Floro, Orosio y Casio Dion, sin fusionar resistencia, rendición y abandono en certeza inventada. Se reconocen yacimientos de Villasabariego y Las Labradas como distintas propuestas, Villacete como hipótesis con falta de datación definitiva. La síntesis de Journal of Roman Archaeology se cita solo en su parte accesible. Sin mapas de precisión espuria ni cifras no documentadas de bajas. Sin imágenes externas.",
+  "status": "borrador",
+  "not_before": "2026-11-17"
+}
