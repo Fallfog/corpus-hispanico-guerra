@@ -310,7 +310,7 @@
     }
   ],
   "editorial_note": "Monografía inédita de 15 apartados y 45 párrafos sobre Valentia (75 a. C.), con fuentes primarias de Salustio, Plutarco y Livio, estudios arqueológicos de Ribera, Alapont, Calvo, Pascual y síntesis científica de guerra sertoriana. Se diferencian batalla campal, destrucción urbana, evidencia material, cifras literarias y debates sobre continuidad posterior. No se reproducen imágenes ni planos ajenos; revisión asistida por IA sin arbitraje externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -325,8 +325,8 @@
     },
     "content_sha256": "c88c319a06beaa91f0fcccef4b8255d57547df188a7e280d255ede7811f633c9"
   },
-  "publication_date": null,
-  "publication_time": null,
-  "publication_slot": null,
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T21:55:58.555Z",
+  "publication_slot": "2026-11-17/extra-A-0189",
   "last_reviewed": "2026-11-17"
 }
