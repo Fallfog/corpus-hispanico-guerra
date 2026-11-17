@@ -285,7 +285,7 @@
     }
   ],
   "editorial_note": "Monografía original de investigación y síntesis con 15 apartados y cotejo de una fuente histórica local de acceso completo, historiografía militar oficial, narrativas españolas, francesas y británicas. Se explicitan discrepancias de cronología, efectivos, bajas y causa del fallecimiento de Reding; se distinguen bloqueo de 1809 y sitio de 1811. Sin imágenes de terceros reproducidas. No constituye artículo sometido a revisión científica externa.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -299,5 +299,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "25d5699fd24fb2a2c79d0b5e996c46c1f5d547d1d4b31f2fe9ee6365d8cd1016"
-  }
+  },
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T12:19:20.239Z",
+  "publication_slot": "2026-11-17/extra-A-0183",
+  "last_reviewed": "2026-11-17"
 }

@@ -758,5 +758,10 @@
     "id": "CHG-A-0182",
     "at": "2026-11-17T12:00:57.738Z",
     "mode": "publicación manual extraordinaria autorizada; revisión documental y firma SHA-256"
+  },
+  "2026-11-17/extra-A-0183": {
+    "id": "CHG-A-0183",
+    "at": "2026-11-17T12:19:20.239Z",
+    "mode": "publicación manual extraordinaria autorizada; revisión documental y firma SHA-256"
   }
 }
