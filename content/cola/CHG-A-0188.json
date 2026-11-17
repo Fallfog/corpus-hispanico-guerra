@@ -307,11 +307,23 @@
     }
   ],
   "editorial_note": "Monografía original histórico-militar con 15 apartados y 45 párrafos, sustentada en fuentes institucionales, testimonios parlamentarios coetáneos, investigación académica y documentación local. Diferencia batalla táctica y operación fallida, fuente contemporánea y reconstrucción retrospectiva, y las memorias opuestas sobre Lapeña y Graham. No se reproducen mapas protegidos ni imágenes de terceros. Revisión asistida por IA; sin arbitraje científico externo.",
-  "status": "borrador",
+  "status": "revisado",
   "not_before": "2026-11-17",
-  "approval": null,
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-17",
+    "notes": "15 apartados, 45 párrafos, 4.619 palabras y 10 referencias. Confrontados Congreso de los Diputados, National Army Museum, debate parlamentario de Hansard de 28/03/1811, carta francesa Legentil contextualizada por cronista municipal, estudio historiográfico de Fernando Durán López (UCA), cartografía y museo regimental. Se documenta la acción previa de Sancti Petri y se distinguen victoria táctica de Graham, objetivo no alcanzado de levantar el sitio y narrativas divergentes sobre Lapeña. Cifras de efectivos y bajas evitadas cuando difieren; fuente CIDA limitada a referencia indexada por error HTTP 429; sin imágenes protegidas.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "263288419017b4589f7773ee32585cb2e2e62968efa3de5d71d0f88fe584ff7c"
+  },
   "publication_date": null,
   "publication_time": null,
   "publication_slot": null,
-  "last_reviewed": null
+  "last_reviewed": "2026-11-17"
 }
