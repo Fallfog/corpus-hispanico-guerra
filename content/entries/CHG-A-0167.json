@@ -270,7 +270,7 @@
     }
   ],
   "editorial_note": "Monografía de investigación documental asistida por IA, sin arbitraje científico externo. Autor anónimo de Bellum Hispaniense identificado como Pseudo-César y valorado como narrador del bando vencedor; Dion es fuente tardía. Los itinerarios de Melchor y propuestas de ubicaciones tácticas no se presentan como hallazgos inequívocos. Se distingue contexto de arqueología tardía del asedio republicano; no se inventan cifras, mapas exactos o excavaciones específicas. Sin ilustraciones ajenas.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-17",
   "approval": {
     "reviewer": "Revisión documental e historiográfica asistida por IA; sin arbitraje académico externo",
@@ -284,5 +284,9 @@
       "profundidad_suficiente": true
     },
     "content_sha256": "6e5fa2057a7163ab081e4c56eb2cd4dbdf979a9e006853e2da97556b47da8c74"
-  }
+  },
+  "publication_date": "2026-11-17",
+  "publication_time": "2026-11-17T09:51:34.994Z",
+  "publication_slot": "2026-11-17/extra-A-0167",
+  "last_reviewed": "2026-11-17"
 }

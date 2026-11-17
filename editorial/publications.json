@@ -678,5 +678,10 @@
     "id": "CHG-A-0166",
     "at": "2026-11-08T23:20:43.643Z",
     "mode": "Publicación manual por petición expresa; generación y calendario automáticos inactivos"
+  },
+  "2026-11-17/extra-A-0167": {
+    "id": "CHG-A-0167",
+    "at": "2026-11-17T09:51:34.994Z",
+    "mode": "publicación manual extraordinaria autorizada; revisión documental y firma verificadas"
   }
 }
