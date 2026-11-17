@@ -280,11 +280,23 @@
     }
   ],
   "editorial_note": "Monografía original de 15 apartados y 45 párrafos. Contrasta batalla campal de septiembre de 1275 con la cronología errónea de mayo transmitida por una crónica, distingue 7/8 de septiembre y descarta la literalidad de las cifras 18.000 frente a 24. Trata guerra meriní, contexto de sucesión alfonsí, señorío de Nuño, repartimiento de Écija y relatos diversos sobre su decapitación. Se citan estudios universitarios, publicaciones del CSIC y el Archivo Municipal de Écija. No se reproducen imágenes ni fragmentos extensos protegidos. Revisión histórica y editorial asistida por IA, sin arbitraje científico externo.",
-  "status": "borrador",
+  "status": "revisado",
   "not_before": "2026-11-17",
-  "approval": null,
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-17",
+    "notes": "15 apartados, 45 párrafos, 4.824 palabras y ocho fuentes de universidades, Archivo Municipal de Écija, CSIC y arabismo especializado. Contrastados campaña meriní de 1275, el papel de Nuño González de Lara y Alfonso X, fecha probable del 7/8 de septiembre frente al error de mayo, muerte del magnate, relatos divergentes sobre su cabeza y cifras exageradas de Rawḍ al-Qirṭās. Se evitan coordenadas tácticas, efectivos y bajas no respaldados. Prosa original sin reproducción gráfica de terceros.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "5409cc9cd0cefda10c11ecd10c821d20512bfa26bcdd42f083434310db4961fa"
+  },
   "publication_date": null,
   "publication_time": null,
   "publication_slot": null,
-  "last_reviewed": null
+  "last_reviewed": "2026-11-17"
 }
