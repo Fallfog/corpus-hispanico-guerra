@@ -294,7 +294,7 @@
     }
   ],
   "editorial_note": "Monografía original histórico-militar de 15 secciones, 45 párrafos, sustentada en estudio extenso de Sañudo Bayón, fuentes coetáneas de Cuesta y Gaceta 1809, cartografía histórica institucional IGN/Defensa y reconstrucción local del impacto de la ocupación. Distingue avance inicial, crisis de caballería, envolvimiento, persecución y daños civiles. Rechaza cifras absolutas de bajas y presenta con atribución la discusión sobre órdenes de no dar cuartel y memorias justificativas. Sin imágenes de terceros ni transcripciones extensas protegidas; revisión histórica y editorial asistida por IA, no arbitraje académico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-18",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -309,8 +309,8 @@
     },
     "content_sha256": "b710b6f235bca4df688c6d5955a124b2d25b01e0493311f486ce1081bf449c7b"
   },
-  "publication_date": null,
-  "publication_time": null,
-  "publication_slot": null,
+  "publication_date": "2026-11-18",
+  "publication_time": "2026-11-18T17:54:08.390Z",
+  "publication_slot": "2026-11-18/extra-A-0193",
   "last_reviewed": "2026-11-18"
 }
