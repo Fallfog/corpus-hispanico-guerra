@@ -266,11 +266,23 @@
     }
   ],
   "editorial_note": "Monografía original de 15 secciones y 45 párrafos, con base documental primaria en el suplemento de la Gaceta de 1838 y contraste arqueológico en el estudio de 2025 sobre campañas de 2023 y 2024. Distingue los dos asedios (castillo y villa) del combate exterior de Guergué; advierte divergencias de horas, efectivos y bajas entre fuentes victoriosas, británicas y síntesis posteriores, así como límites de atribución de piezas arqueológicas. Evita citas extensas, imágenes de terceros y cifras falsas de muertos. Revisión editorial asistida por IA, sin arbitraje científico externo.",
-  "status": "borrador",
+  "status": "revisado",
   "not_before": "2026-11-18",
-  "approval": null,
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-18",
+    "notes": "15 apartados, 45 párrafos, 4.848 palabras y 6 fuentes académicas, primarias y patrimoniales verificadas. Contrastada la secuencia 19–22 de junio de 1838, Urizarra y villa como objetivos separados, Guergué y Baroja, parte original de Espartero publicado en la Gaceta de 1838, campañas arqueológicas de 2023–2024 y tablas 240/123 hallazgos. Se han atribuido estimaciones de fuerzas y bajas, se aclaran discrepancias de horario y se evita asignar certeza excesiva a objetos y proyectiles.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "dff7f577de1c3184fc877a80fe41de84854379145b78faabafd3059816be349e"
+  },
   "publication_date": null,
   "publication_time": null,
   "publication_slot": null,
-  "last_reviewed": null
+  "last_reviewed": "2026-11-18"
 }
