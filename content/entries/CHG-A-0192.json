@@ -266,7 +266,7 @@
     }
   ],
   "editorial_note": "Monografía original de 15 secciones y 45 párrafos, con base documental primaria en el suplemento de la Gaceta de 1838 y contraste arqueológico en el estudio de 2025 sobre campañas de 2023 y 2024. Distingue los dos asedios (castillo y villa) del combate exterior de Guergué; advierte divergencias de horas, efectivos y bajas entre fuentes victoriosas, británicas y síntesis posteriores, así como límites de atribución de piezas arqueológicas. Evita citas extensas, imágenes de terceros y cifras falsas de muertos. Revisión editorial asistida por IA, sin arbitraje científico externo.",
-  "status": "revisado",
+  "status": "publicado",
   "not_before": "2026-11-18",
   "approval": {
     "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
@@ -281,8 +281,8 @@
     },
     "content_sha256": "dff7f577de1c3184fc877a80fe41de84854379145b78faabafd3059816be349e"
   },
-  "publication_date": null,
-  "publication_time": null,
-  "publication_slot": null,
+  "publication_date": "2026-11-18",
+  "publication_time": "2026-11-18T17:47:22.849Z",
+  "publication_slot": "2026-11-18/extra-A-0192",
   "last_reviewed": "2026-11-18"
 }
