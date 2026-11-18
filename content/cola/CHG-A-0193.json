@@ -294,11 +294,23 @@
     }
   ],
   "editorial_note": "Monografía original histórico-militar de 15 secciones, 45 párrafos, sustentada en estudio extenso de Sañudo Bayón, fuentes coetáneas de Cuesta y Gaceta 1809, cartografía histórica institucional IGN/Defensa y reconstrucción local del impacto de la ocupación. Distingue avance inicial, crisis de caballería, envolvimiento, persecución y daños civiles. Rechaza cifras absolutas de bajas y presenta con atribución la discusión sobre órdenes de no dar cuartel y memorias justificativas. Sin imágenes de terceros ni transcripciones extensas protegidas; revisión histórica y editorial asistida por IA, no arbitraje académico externo.",
-  "status": "borrador",
+  "status": "revisado",
   "not_before": "2026-11-18",
-  "approval": null,
+  "approval": {
+    "reviewer": "Revisión histórica y editorial asistida por IA; sin arbitraje científico externo",
+    "date": "2026-11-18",
+    "notes": "15 secciones, 45 párrafos, 4.929 palabras y 8 fuentes: investigación militar de Sañudo Bayón, testimonio decimonónico de Toreno, mapas IGN/Defensa, estudio de intendencia extremeña de 2025, crónica oficial de la villa, Gaceta de 1 abril 1809 y Manifiesto del propio Cuesta. Comprobados fecha y terreno, situación de puente y Guadiana, inicial avance español, fracaso posterior por caballería y envolvimiento; incertidumbre sobre cantidades de muertos, prisioneros, órdenes de no dar cuartel y efectos civiles de ocupación. Prosa original y fuentes atribuidas sin imágenes ni citas extensas.",
+    "checks": {
+      "hechos_contrastados": true,
+      "bibliografia_verificada": true,
+      "contradicciones_resueltas": true,
+      "originalidad_y_derechos": true,
+      "profundidad_suficiente": true
+    },
+    "content_sha256": "b710b6f235bca4df688c6d5955a124b2d25b01e0493311f486ce1081bf449c7b"
+  },
   "publication_date": null,
   "publication_time": null,
   "publication_slot": null,
-  "last_reviewed": null
+  "last_reviewed": "2026-11-18"
 }
